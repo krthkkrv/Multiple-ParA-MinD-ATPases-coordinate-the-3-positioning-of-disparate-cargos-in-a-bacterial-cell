@@ -1,0 +1,424 @@
+1(1)	WP_035842713.1	WP_035842713.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_010107513.1	WP_010107513.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_011197443.1	WP_011197443.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_092859688.1	WP_092859688.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_076758496.1	WP_076758496.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_107661976.1	WP_107661976.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_093916288.1	WP_093916288.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_077074485.1	WP_077074485.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_016921245.1	WP_016921245.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_206882448.1	WP_206882448.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_104007841.1	WP_104007841.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_142600552.1	WP_142600552.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_046977417.1	WP_046977417.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_114046013.1	WP_114046013.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_005467115.1	WP_005467115.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_010442974.1	WP_010442974.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_118708825.1	WP_118708825.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_114283433.1	WP_114283433.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_043104175.1	WP_043104175.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_089847804.1	WP_089847804.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_149774098.1	WP_149774098.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_062510750.1	WP_062510750.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_036191477.1	WP_036191477.1 MULTISPECIES: ParB/RepB/Spo0J family partition protein 
+1(1)	WP_124054480.1	WP_124054480.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_120716860.1	WP_120716860.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_149141691.1	WP_149141691.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_076758492.1	WP_076758492.1 nucleoid occlusion protein 
+1(1)	WP_119841216.1	WP_119841216.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_133817166.1	WP_133817166.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_093524816.1	WP_093524816.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_090188615.1	WP_090188615.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_018972535.1	WP_018972535.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_152006980.1	WP_152006980.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_138259419.1	WP_138259419.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_016391034.1	WP_016391034.1 MULTISPECIES: ParB/RepB/Spo0J family partition protein 
+1(1)	WP_058835859.1	WP_058835859.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_066645438.1	WP_066645438.1 MULTISPECIES: ParB/RepB/Spo0J family partition protein 
+1(1)	WP_012824529.1	WP_012824529.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_027079593.1	WP_027079593.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_036635435.1	WP_036635435.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_102373300.1	WP_102373300.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_104069175.1	WP_104069175.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_156990298.1	WP_156990298.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_092365327.1	WP_092365327.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_109759201.1	WP_109759201.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_149754472.1	WP_149754472.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_133342112.1	WP_133342112.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_090535084.1	WP_090535084.1 ParB/RepB/Spo0J family partition protein 
+1(1)	WP_038247145.1	WP_038247145.1 ParB/RepB/Spo0J family partition protein 
+
+
+
+2(1)	WP_077074488.1	WP_077074488.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_149774100.1	WP_149774100.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_133817595.1	WP_133817595.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_089847510.1	WP_089847510.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_046977419.1	WP_046977419.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_149754470.1	WP_149754470.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_062510746.1	WP_062510746.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_038247150.1	WP_038247150.1 class I SAM-dependent methyltransferase 
+2(1)	WP_104007843.1	WP_104007843.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_052103216.1	WP_052103216.1 MULTISPECIES: 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_090188609.1	WP_090188609.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_149141689.1	WP_149141689.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_109759203.1	WP_109759203.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_018972533.1	WP_018972533.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_092365330.1	WP_092365330.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_104069177.1	WP_104069177.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_090535082.1	WP_090535082.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_027079594.1	WP_027079594.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_005467117.1	WP_005467117.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_124054481.1	WP_124054481.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_011197445.1	WP_011197445.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_133342110.1	WP_133342110.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_114046015.1	WP_114046015.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_093916286.1	WP_093916286.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_102373302.1	WP_102373302.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_092859690.1	WP_092859690.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_065969315.1	WP_065969315.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_118708833.1	WP_118708833.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_119841165.1	WP_119841165.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_035842707.1	WP_035842707.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_016391033.1	WP_016391033.1 MULTISPECIES: 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_058835857.1	WP_058835857.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_010442976.1	WP_010442976.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_156990299.1	WP_156990299.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_120716862.1	WP_120716862.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_076758490.1	WP_076758490.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_093524814.1	WP_093524814.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_107661978.1	WP_107661978.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_036635431.1	WP_036635431.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+2(1)	WP_043104170.1	WP_043104170.1 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG 
+
+
+
+3(1)	WP_066645444.1	WP_066645444.1 MULTISPECIES: tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_206508381.1	WP_206508381.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_149774101.1	WP_149774101.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_104069316.1	WP_104069316.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_104007898.1	WP_104007898.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_036635430.1	WP_036635430.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_077074489.1	WP_077074489.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_119841217.1	WP_119841217.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_038247440.1	WP_038247440.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_149141688.1	WP_149141688.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_175499250.1	WP_175499250.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_015007017.1	WP_015007017.1 MULTISPECIES: tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_010442977.1	WP_010442977.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_170139545.1	WP_170139545.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_090535081.1	WP_090535081.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_011197446.1	WP_011197446.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_035842704.1	WP_035842704.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_120716863.1	WP_120716863.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_118708835.1	WP_118708835.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_149754469.1	WP_149754469.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_208016234.1	WP_208016234.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_062510744.1	WP_062510744.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_076758488.1	WP_076758488.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_093916605.1	WP_093916605.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_092859691.1	WP_092859691.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_089847508.1	WP_089847508.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_114283434.1	WP_114283434.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+3(1)	WP_092365332.1	WP_092365332.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG 
+
+
+
+4(1)	WP_035842701.1	WP_035842701.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+4(1)	WP_093916285.1	WP_093916285.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+4(1)	WP_149774102.1	WP_149774102.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+4(1)	WP_092859692.1	WP_092859692.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+4(1)	WP_119841166.1	WP_119841166.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+4(1)	WP_149754468.1	WP_149754468.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+4(1)	WP_011197447.1	WP_011197447.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+4(1)	WP_104007844.1	WP_104007844.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+4(1)	WP_010442978.1	WP_010442978.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+4(1)	WP_120716864.1	WP_120716864.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+4(1)	WP_062510742.1	WP_062510742.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+4(1)	WP_109759204.1	WP_109759204.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+4(1)	WP_076758486.1	WP_076758486.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+4(1)	WP_104069178.1	WP_104069178.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+4(1)	WP_107661980.1	WP_107661980.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+4(1)	WP_133342108.1	WP_133342108.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+4(1)	WP_090188604.1	WP_090188604.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+4(1)	WP_149141687.1	WP_149141687.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+4(1)	WP_077074490.1	WP_077074490.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+4(1)	WP_036635429.1	WP_036635429.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+4(1)	WP_092365335.1	WP_092365335.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+4(1)	WP_089847506.1	WP_089847506.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+
+
+
+5(1)	WP_092365338.1	WP_092365338.1 transcription termination factor Rho 
+5(1)	WP_035842698.1	WP_035842698.1 transcription termination factor Rho 
+5(1)	WP_109759205.1	WP_109759205.1 transcription termination factor Rho 
+5(1)	WP_036635428.1	WP_036635428.1 transcription termination factor Rho 
+5(1)	WP_090188603.1	WP_090188603.1 transcription termination factor Rho 
+5(1)	WP_119841167.1	WP_119841167.1 transcription termination factor Rho 
+5(1)	WP_093916284.1	WP_093916284.1 transcription termination factor Rho 
+5(1)	WP_149754467.1	WP_149754467.1 transcription termination factor Rho 
+5(1)	WP_092859693.1	WP_092859693.1 transcription termination factor Rho 
+5(1)	WP_104069179.1	WP_104069179.1 transcription termination factor Rho 
+5(1)	WP_149141997.1	WP_149141997.1 transcription termination factor Rho 
+5(1)	WP_133342218.1	WP_133342218.1 transcription termination factor Rho 
+5(1)	WP_104007845.1	WP_104007845.1 transcription termination factor Rho 
+5(1)	WP_149774103.1	WP_149774103.1 transcription termination factor Rho 
+5(1)	WP_010442979.1	WP_010442979.1 transcription termination factor Rho 
+5(1)	WP_107661981.1	WP_107661981.1 transcription termination factor Rho 
+5(1)	WP_089847504.1	WP_089847504.1 transcription termination factor Rho 
+
+
+
+6(1)	WP_104069173.1	WP_104069173.1 coproporphyrinogen III oxidase 
+6(1)	WP_109759200.1	WP_109759200.1 coproporphyrinogen III oxidase 
+6(1)	WP_149754473.1	WP_149754473.1 coproporphyrinogen III oxidase 
+6(1)	WP_090188828.1	WP_090188828.1 coproporphyrinogen III oxidase 
+6(1)	WP_035842719.1	WP_035842719.1 coproporphyrinogen III oxidase 
+6(1)	WP_149141692.1	WP_149141692.1 coproporphyrinogen III oxidase 
+6(1)	WP_104007839.1	WP_104007839.1 coproporphyrinogen III oxidase 
+6(1)	WP_107661974.1	WP_107661974.1 coproporphyrinogen III oxidase 
+6(1)	WP_089847514.1	WP_089847514.1 coproporphyrinogen III oxidase 
+6(1)	WP_149774096.1	WP_149774096.1 coproporphyrinogen III oxidase 
+6(1)	WP_119841162.1	WP_119841162.1 coproporphyrinogen III oxidase 
+6(1)	WP_092365322.1	WP_092365322.1 coproporphyrinogen III oxidase 
+6(1)	WP_010442972.1	WP_010442972.1 coproporphyrinogen III oxidase 
+6(1)	WP_133342114.1	WP_133342114.1 coproporphyrinogen III oxidase 
+6(1)	WP_093916289.1	WP_093916289.1 coproporphyrinogen III oxidase 
+6(1)	WP_036635437.1	WP_036635437.1 coproporphyrinogen III oxidase 
+
+
+
+7(1)	WP_149774095.1	WP_149774095.1 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase 
+7(1)	WP_035842722.1	WP_035842722.1 RidA family protein 
+7(1)	WP_149754474.1	WP_149754474.1 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase 
+7(1)	WP_090188617.1	WP_090188617.1 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase 
+7(1)	WP_081880268.1	WP_081880268.1 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase 
+7(1)	WP_104069172.1	WP_104069172.1 RidA family protein 
+7(1)	WP_010442971.1	WP_010442971.1 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase 
+7(1)	WP_089847516.1	WP_089847516.1 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase 
+7(1)	WP_092365319.1	WP_092365319.1 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase 
+7(1)	WP_093916290.1	WP_093916290.1 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase 
+7(1)	WP_109759199.1	WP_109759199.1 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase 
+7(1)	WP_133342115.1	WP_133342115.1 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase 
+7(1)	WP_119841161.1	WP_119841161.1 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase 
+7(1)	WP_107661973.1	WP_107661973.1 RidA family protein 
+7(1)	WP_149141693.1	WP_149141693.1 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase 
+
+
+
+8(1)	WP_092365324.1	WP_092365324.1 YbaN family protein 
+8(1)	WP_010442973.1	WP_010442973.1 YbaN family protein 
+8(1)	WP_107661975.1	WP_107661975.1 YbaN family protein 
+8(1)	WP_104069174.1	WP_104069174.1 YbaN family protein 
+8(1)	WP_035842716.1	WP_035842716.1 YbaN family protein 
+8(1)	WP_149774097.1	WP_149774097.1 DUF454 family protein 
+8(1)	WP_104007840.1	WP_104007840.1 YbaN family protein 
+8(1)	WP_133342113.1	WP_133342113.1 YbaN family protein 
+8(1)	WP_119841163.1	WP_119841163.1 YbaN family protein 
+
+
+
+9(1)	WP_149754475.1	WP_149754475.1 ribonuclease PH 
+9(1)	WP_109759198.1	WP_109759198.1 ribonuclease PH 
+9(1)	WP_093916291.1	WP_093916291.1 ribonuclease PH 
+9(1)	WP_149141694.1	WP_149141694.1 ribonuclease PH 
+9(1)	WP_104007838.1	WP_104007838.1 ribonuclease PH 
+9(1)	WP_090188620.1	WP_090188620.1 ribonuclease PH 
+9(1)	WP_036635439.1	WP_036635439.1 ribonuclease PH 
+9(1)	WP_089847518.1	WP_089847518.1 ribonuclease PH 
+
+
+
+10(1)	WP_090535290.1	WP_090535290.1 ABC transporter ATP-binding protein 
+10(1)	WP_090535080.1	WP_090535080.1 branched-chain amino acid ABC transporter ATP-binding protein/permease 
+10(1)	WP_006710270.1	WP_006710270.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+10(1)	WP_075709011.1	WP_075709011.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+10(1)	WP_004413316.1	WP_004413316.1 MULTISPECIES: cytochrome c biogenesis heme-transporting ATPase CcmA 
+
+
+
+11(1)	WP_124054482.1	WP_124054482.1 single-stranded DNA-binding protein 
+11(1)	WP_102373303.1	WP_102373303.1 KH domain-containing protein 
+11(1)	WP_011197448.1	WP_011197448.1 protein jag 
+11(1)	WP_005467119.1	WP_005467119.1 single-stranded DNA-binding protein 
+11(1)	WP_114046017.1	WP_114046017.1 protein jag 
+
+
+
+12(1)	WP_027079595.1	WP_027079595.1 4'-phosphopantetheinyl transferase superfamily protein 
+12(1)	WP_046977434.1	WP_046977434.1 4'-phosphopantetheinyl transferase superfamily protein 
+12(1)	WP_036191483.1	WP_036191483.1 MULTISPECIES: 4'-phosphopantetheinyl transferase superfamily protein 
+12(1)	WP_152005558.1	WP_152005558.1 4'-phosphopantetheinyl transferase superfamily protein 
+12(1)	WP_058835856.1	WP_058835856.1 4'-phosphopantetheinyl transferase superfamily protein 
+
+
+
+13(1)	WP_003466992.1	WP_003466992.1 MULTISPECIES: GlsB/YeaQ/YmgE family stress response membrane protein 
+13(1)	WP_036191489.1	WP_036191489.1 MULTISPECIES: GlsB/YeaQ/YmgE family stress response membrane protein 
+13(1)	WP_058835854.1	WP_058835854.1 GlsB/YeaQ/YmgE family stress response membrane protein 
+13(1)	WP_027079597.1	WP_027079597.1 GlsB/YeaQ/YmgE family stress response membrane protein 
+
+
+
+14(1)	WP_075649797.1	WP_075649797.1 MULTISPECIES: chemotaxis response regulator CheY 
+14(1)	WP_005600258.1	WP_005600258.1 MULTISPECIES: chemotaxis response regulator CheY 
+14(1)	WP_016767062.1	WP_016767062.1 MULTISPECIES: chemotaxis response regulator CheY 
+14(1)	WP_006879571.1	WP_006879571.1 MULTISPECIES: chemotaxis response regulator CheY 
+
+
+
+15(1)	WP_006710262.1	WP_006710262.1 protein phosphatase CheZ 
+15(1)	WP_004736219.1	WP_004736219.1 MULTISPECIES: protein phosphatase CheZ 
+15(1)	WP_075708963.1	WP_075708963.1 protein phosphatase CheZ 
+15(1)	WP_004413307.1	WP_004413307.1 protein phosphatase CheZ 
+
+
+
+16(1)	WP_006710264.1	WP_006710264.1 chemotaxis response regulator protein-glutamate methylesterase 
+16(1)	WP_075716495.1	WP_075716495.1 chemotaxis response regulator protein-glutamate methylesterase 
+16(1)	WP_017076809.1	WP_017076809.1 MULTISPECIES: chemotaxis response regulator protein-glutamate methylesterase 
+16(1)	WP_004413309.1	WP_004413309.1 chemotaxis response regulator protein-glutamate methylesterase 
+
+
+
+17(1)	WP_006710263.1	WP_006710263.1 chemotaxis protein CheA 
+17(1)	WP_004413308.1	WP_004413308.1 chemotaxis protein CheA 
+17(1)	WP_102537302.1	WP_102537302.1 chemotaxis protein CheA 
+17(1)	WP_075716496.1	WP_075716496.1 chemotaxis protein CheA 
+
+
+
+18(1)	WP_102373304.1	WP_102373304.1 YidC/Oxa1 family membrane protein insertase 
+18(1)	WP_114046018.1	WP_114046018.1 membrane protein insertase YidC 
+18(1)	WP_005467120.1	WP_005467120.1 membrane protein insertase YidC 
+18(1)	WP_124054483.1	WP_124054483.1 membrane protein insertase YidC 
+
+
+
+19(1)	WP_046977415.1	WP_046977415.1 glycosyltransferase family 2 protein 
+19(1)	WP_133817163.1	WP_133817163.1 glycosyltransferase family 2 protein 
+19(1)	WP_033409436.1	WP_033409436.1 glycosyltransferase family 2 protein 
+19(1)	WP_027079592.1	WP_027079592.1 glycosyltransferase family 2 protein 
+
+
+
+20(1)	WP_058835855.1	WP_058835855.1 acyl-CoA synthetase 
+20(1)	WP_036191486.1	WP_036191486.1 MULTISPECIES: acyl-CoA synthetase 
+20(1)	WP_036135037.1	WP_036135037.1 acyl-CoA synthetase 
+
+
+
+21(1)	WP_006710268.1	WP_006710268.1 chemotaxis protein CheW 
+21(1)	WP_075649803.1	WP_075649803.1 MULTISPECIES: chemotaxis protein CheW 
+21(1)	WP_004413313.1	WP_004413313.1 MULTISPECIES: chemotaxis protein CheW 
+
+
+
+22(1)	WP_075709012.1	WP_075709012.1 DUF2802 domain-containing protein 
+22(1)	WP_038211084.1	WP_038211084.1 MULTISPECIES: DUF2802 domain-containing protein 
+22(1)	WP_006710269.1	WP_006710269.1 DUF2802 domain-containing protein 
+
+
+
+23(1)	WP_065969282.1	WP_065969282.1 F0F1 ATP synthase subunit A 
+23(1)	WP_015007012.1	WP_015007012.1 MULTISPECIES: F0F1 ATP synthase subunit A 
+23(1)	WP_090535291.1	WP_090535291.1 F0F1 ATP synthase subunit A 
+
+
+
+24(1)	WP_102373299.1	WP_102373299.1 D-alanine--D-alanine ligase 
+24(1)	WP_005467114.1	WP_005467114.1 D-alanine--D-alanine ligase 
+24(1)	WP_124054479.1	WP_124054479.1 ATP-grasp domain-containing protein 
+
+
+
+25(1)	WP_043104179.1	WP_043104179.1 DUF3379 family protein 
+25(1)	WP_133817164.1	WP_133817164.1 DUF3379 family protein 
+25(1)	WP_083918813.1	WP_083918813.1 DUF3379 family protein 
+
+
+
+26(1)	WP_033408933.1	WP_033408933.1 sigma-70 family RNA polymerase sigma factor 
+26(1)	WP_043104177.1	WP_043104177.1 sigma-70 family RNA polymerase sigma factor 
+26(1)	WP_133817165.1	WP_133817165.1 sigma-70 family RNA polymerase sigma factor 
+
+
+
+27(1)	WP_133817168.1	WP_133817168.1 hypothetical protein 
+27(1)	WP_026293151.1	WP_026293151.1 hypothetical protein 
+27(1)	WP_081945303.1	WP_081945303.1 hypothetical protein 
+
+
+
+28(1)	WP_133817170.1	WP_133817170.1 porphobilinogen synthase 
+28(1)	WP_043104165.1	WP_043104165.1 porphobilinogen synthase 
+28(1)	WP_026293150.1	WP_026293150.1 porphobilinogen synthase 
+
+
+
+29(1)	WP_151148865.1	WP_151148865.1 chemotaxis protein CheW 
+29(1)	WP_006710267.1	WP_006710267.1 chemotaxis protein CheW 
+29(1)	WP_004413311.1	WP_004413311.1 chemotaxis protein CheW 
+
+
+
+30(1)	WP_058835860.1	WP_058835860.1 DUF885 family protein 
+30(1)	WP_156899821.1	WP_156899821.1 DUF885 family protein 
+30(1)	WP_052103288.1	WP_052103288.1 MULTISPECIES: DUF885 family protein 
+
+
+
+31(1)	WP_046977414.1	WP_046977414.1 membrane protein 
+31(1)	WP_027079591.1	WP_027079591.1 membrane protein 
+
+
+
+32(1)	WP_058835862.1	WP_058835862.1 50S ribosomal protein L28 
+32(1)	WP_036191474.1	WP_036191474.1 MULTISPECIES: 50S ribosomal protein L28 
+
+
+
+33(1)	WP_093524817.1	WP_093524817.1 bactofilin BacM 
+33(1)	WP_014400844.1	WP_014400844.1 MULTISPECIES: bactofilin BacM 
+
+
+
+34(1)	WP_011197439.1	WP_011197439.1 DUF4446 family protein 
+34(1)	WP_117563405.1	WP_117563405.1 DUF4446 family protein 
+
+
+
+35(1)	WP_124054478.1	WP_124054478.1 PLP-dependent aminotransferase family protein 
+35(1)	WP_005467113.1	WP_005467113.1 PLP-dependent aminotransferase family protein 
+
+
+
+36(1)	WP_005467121.1	WP_005467121.1 membrane protein insertion efficiency factor YidD 
+36(1)	WP_124054484.1	WP_124054484.1 membrane protein insertion efficiency factor YidD 
+
+
+
+37(1)	WP_142600548.1	WP_142600548.1 4-hydroxy-tetrahydrodipicolinate reductase 
+37(1)	WP_138259418.1	WP_138259418.1 4-hydroxy-tetrahydrodipicolinate reductase 
+
+
+
+38(1)	WP_142600550.1	WP_142600550.1 hypothetical protein 
+38(1)	WP_138259471.1	WP_138259471.1 hypothetical protein 
+
+
+
+39(1)	WP_081881060.1	WP_081881060.1 peptidoglycan DD-metalloendopeptidase family protein 
+39(1)	WP_148205620.1	WP_148205620.1 M23 family metallopeptidase 
+
+
+
+40(1)	WP_121723959.1	WP_121723959.1 VOC family protein 
+40(1)	WP_206882446.1	WP_206882446.1 VOC family protein 
+
+
+
+41(1)	WP_093524818.1	WP_093524818.1 hypothetical protein 
+41(1)	WP_206882452.1	WP_206882452.1 hypothetical protein 
+
+
