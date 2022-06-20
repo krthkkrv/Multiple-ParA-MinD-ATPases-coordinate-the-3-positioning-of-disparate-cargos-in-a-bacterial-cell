@@ -1,0 +1,117 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Caminibacter mediatlanticus TB-2 chromosome, complete genome",Caminibacter mediatlanticus TB-2,273,338,90%,9.00E-83,52.21,1685887,NZ_CP040463.1
+"Cetia pacifica strain TB6 chromosome, complete genome",Cetia pacifica,268,327,90%,5.00E-81,51.41,1779337,NZ_CP027432.2
+"Helicobacter burdigaliensis strain CNRCH 2005/566H NODE_25_length_24617_cov_523.539, whole genome shotgun sequence",Helicobacter burdigaliensis,268,268,89%,1.00E-80,52.82,24617,NZ_QXJG01000025.1
+"Helicobacter valdiviensis strain WBE14 contig8, whole genome shotgun sequence",Helicobacter valdiviensis,266,266,89%,3.00E-80,52.42,61933,NZ_NBIU01000008.1
+"Nautilia profundicola AmH, complete sequence",Nautilia profundicola AmH,266,324,97%,4.00E-80,47.96,1676444,NC_012115.1
+"Helicobacter pullorum strain NAP14B36 contig019, whole genome shotgun sequence",Helicobacter pullorum,266,266,89%,4.00E-80,51.61,55702,NZ_MANK01000019.1
+"Helicobacter mustelae strain NCTC12198 chromosome 1, complete sequence",Helicobacter mustelae,265,328,96%,9.00E-80,49.63,1576607,NZ_LS483446.1
+"Hydrogenimonas thermophila strain EP1-55-1, whole genome shotgun sequence",Hydrogenimonas thermophila,262,262,89%,7.00E-79,53.6,26907,NZ_FOXB01000030.1
+"Helicobacter apodemus strain SCJK1 chromosome, complete genome",Helicobacter apodemus,261,323,89%,1.00E-78,52.82,2034706,NZ_CP021886.1
+Helicobacter canadensis isolate MGYG-HGUT-01348 chromosome 1,Helicobacter canadensis,261,261,89%,1.00E-78,51.21,1623845,NZ_LR698957.1
+"Helicobacter rodentium ATCC 700285 BS85DRAFT_scaffold00016.16_C, whole genome shotgun sequence",Helicobacter rodentium ATCC 700285,259,259,89%,5.00E-78,50.81,13874,NZ_JHWC01000016.1
+"Helicobacter mesocricetorum isolate 87012_3, whole genome shotgun sequence",Helicobacter mesocricetorum,259,259,89%,9.00E-78,52.42,151282,NZ_FZPJ01000010.1
+"Helicobacter ganmani strain MIT 99-5101 H_ganmani_99-5101_10_6485359.3957, whole genome shotgun sequence",Helicobacter ganmani,256,256,89%,7.00E-77,50,64853,NZ_NXLS01000010.1
+"Lebetimonas natsushimae strain HS1857, whole genome shotgun sequence",Lebetimonas natsushimae,256,256,97%,1.00E-76,46.47,820752,NZ_BDME01000001.1
+"Helicobacter canis strain CCUG 32756T contig_0000008, whole genome shotgun sequence",Helicobacter canis,255,255,96%,2.00E-76,48.53,63235,NZ_VXKE01000008.1
+"Helicobacter fennelliae strain NCTC13101, whole genome shotgun sequence",Helicobacter fennelliae,254,315,96%,3.00E-76,48.89,2045277,NZ_UGID01000001.1
+"Helicobacter anseris strain MIT 04-9362 H_anseris_04-9362_7_6946065.9954, whole genome shotgun sequence",Helicobacter anseris,254,315,96%,6.00E-76,47.97,69460,NZ_NXLX01000007.1
+"Helicobacter winghamensis strain 2015D-0170 chromosome, complete genome",Helicobacter winghamensis,253,310,89%,8.00E-76,49.6,1688978,NZ_CP063087.1
+"Helicobacter saguini strain 15-1458 (F3) accn209.380.con.0001, whole genome shotgun sequence",Helicobacter sanguini,249,300,89%,2.00E-74,48.41,1378238,NZ_QBIV01000001.1
+"Sulfurospirillum deleyianum DSM 6946, complete sequence",Sulfurospirillum deleyianum DSM 6946,248,309,89%,4.00E-74,49,2306351,NC_013512.1
+"Wolinella succinogenes DSM 1740, complete sequence",Wolinella succinogenes DSM 1740,248,248,89%,6.00E-74,50.6,2110355,NC_005090.1
+"Sulfurospirillum barnesii SES-3, complete sequence",Sulfurospirillum barnesii SES-3,248,306,89%,7.00E-74,48.19,2510109,NC_018002.1
+"Helicobacter didelphidarum strain MIT 17-337 H_sp._nov._1_17-337_19_3606323.2903, whole genome shotgun sequence",Helicobacter didelphidarum,248,248,89%,8.00E-74,47.81,36063,NZ_NXLQ01000019.1
+"Helicobacter trogontum isolate 50960_6, whole genome shotgun sequence",Helicobacter trogontum,247,247,89%,1.00E-73,48.21,48793,NZ_FZNG01000054.1
+"Helicobacter typhlonius strain MIT 97-6810 isolate 1 chromosome I, complete sequence",Helicobacter typhlonius,247,307,97%,1.00E-73,46.89,1920832,NZ_LN907858.1
+"Poseidonibacter lekithochrous strain DSM 100870 chromosome, complete genome",Poseidonibacter lekithochrous,244,244,89%,2.00E-72,48.19,3568672,NZ_CP054052.1
+"Sulfurospirillum arcachonense DSM 9755 K354DRAFT_scaffold00012.12_C, whole genome shotgun sequence",Sulfurospirillum arcachonense DSM 9755,244,244,89%,2.00E-72,50.2,94853,NZ_JFBL01000012.1
+"Helicobacter macacae MIT 99-5501 addTE-supercont1.3, whole genome shotgun sequence",Helicobacter macacae MIT 99-5501,243,243,89%,3.00E-72,50,128816,NZ_KI669456.1
+"Helicobacter hepaticus ATCC 51449, complete sequence",Helicobacter hepaticus ATCC 51449,243,295,96%,3.00E-72,46.15,1799146,NC_004917.1
+"Helicobacter magdeburgensis strain MIT 96-1001 NODE_3_length_212654_cov_48.6186, whole genome shotgun sequence",Helicobacter magdeburgensis,243,295,96%,5.00E-72,45.42,212654,NZ_JRPE02000003.1
+"Helicobacter labetoulli strain 48519 NODE_3_length_150698_cov_341.837, whole genome shotgun sequence",Helicobacter labetoulli,242,242,89%,9.00E-72,48.22,150698,NZ_QXJF01000003.1
+"Sulfurospirillum multivorans DSM 12446 chromosome, complete genome",Sulfurospirillum multivorans DSM 12446,241,304,89%,2.00E-71,46.59,3175729,NZ_CP007201.1
+"Helicobacter cinaedi strain P01D0000 chromosome, complete genome",Helicobacter cinaedi,241,293,89%,2.00E-71,47.83,2154041,NZ_AP018676.1
+"Sulfurospirillum halorespirans DSM 13726 strain PCE-M2 chromosome, complete genome",Sulfurospirillum halorespirans DSM 13726,241,305,89%,2.00E-71,46.59,3029840,NZ_CP017111.1
+"Sulfurospirillum cavolei strain UCH003 chromosome, complete genome",Sulfurospirillum cavolei,240,304,89%,4.00E-71,46.59,2698323,NZ_AP014724.1
+"Helicobacter japonicus strain MIT 01-6451 NODE_2_length_314151_cov_85.3464, whole genome shotgun sequence",Helicobacter japonicus,239,299,97%,7.00E-71,45.62,314151,NZ_JRMQ02000002.1
+"Helicobacter ailurogastricus isolate ASB7, whole genome shotgun sequence",Helicobacter ailurogastricus,239,288,89%,9.00E-71,48.59,502950,NZ_CDMG01000009.1
+"Helicobacter aurati strain MIT 97-5075 H_aurati_97-5075_6_11962617.0649, whole genome shotgun sequence",Helicobacter aurati,238,238,89%,1.00E-70,47.41,119626,NZ_NXLW01000006.1
+"Helicobacter bilis WiWa acLZQ-supercont1.6, whole genome shotgun sequence",Helicobacter bilis WiWa,238,238,89%,2.00E-70,48.02,201192,NZ_KB822518.1
+"Sulfurospirillum arsenophilum NBRC 109478, whole genome shotgun sequence",Sulfurospirillum arsenophilum NBRC 109478,238,238,89%,3.00E-70,46.59,288609,NZ_BBQF01000004.1
+"Helicobacter cetorum MIT 99-5656, complete sequence",Helicobacter cetorum MIT 99-5656,236,291,89%,7.00E-70,49.6,1833666,NC_017735.1
+"Helicobacter heilmannii isolate ASB1, whole genome shotgun sequence",Helicobacter heilmannii,236,284,89%,9.00E-70,47.79,486618,NZ_CDMK01000002.1
+"Helicobacter muridarum strain NCTC12714, whole genome shotgun sequence",Helicobacter muridarum,236,287,89%,1.00E-69,45.63,2254440,NZ_UGJE01000002.1
+"Helicobacter acinonychis str. Sheeba, complete sequence",Helicobacter acinonychis str. Sheeba,235,286,89%,2.00E-69,48,1553927,NC_008229.1
+"Helicobacter bizzozeronii CIII-1, complete sequence",Helicobacter bizzozeronii CIII-1,235,235,89%,2.00E-69,48.4,1755458,NC_015674.1
+"Helicobacter salomonis isolate 56878_6, whole genome shotgun sequence",Helicobacter salomonis,232,232,89%,2.00E-68,48.4,50476,NZ_FZMA01000035.1
+"Helicobacter pylori Puno135, complete sequence",Helicobacter pylori Puno135,232,281,89%,3.00E-68,48,1646139,NC_017379.1
+"Helicobacter marmotae strain MIT 98-6070 H_marmotae_98-6070_4_12264139.9468, whole genome shotgun sequence",Helicobacter marmotae,231,231,96%,3.00E-68,44.28,122641,NZ_NXLR01000004.1
+"Helicobacter suis HS1 isolate HS1 output strain 1, whole genome shotgun sequence",Helicobacter suis HS1,231,231,84%,6.00E-68,49.79,38883,NZ_FMSQ01000020.1
+"Helicobacter baculiformis isolate 427351_3, whole genome shotgun sequence",Helicobacter baculiformis,231,231,84%,7.00E-68,50.21,51097,NZ_FZMF01000012.1
+"Helicobacter cynogastricus isolate 329937_4, whole genome shotgun sequence",Helicobacter cynogastricus,225,225,89%,5.00E-66,47.6,556287,NZ_FZMQ01000005.1
+"Helicobacter felis ATCC 49179, complete sequence",Helicobacter felis ATCC 49179,222,222,84%,7.00E-65,48.93,1672681,NC_014810.2
+"Campylobacter pinnipediorum subsp. pinnipediorum strain RM17261, complete genome",Campylobacter pinnipediorum subsp. pinnipediorum,67.4,67.4,50%,2.00E-11,32.17,1744112,NZ_CP012547.1
+"Campylobacter hyointestinalis subsp. lawsonii strain CHY5 chromosome, complete genome",Campylobacter hyointestinalis subsp. lawsonii,65.9,65.9,48%,5.00E-11,34.07,1803736,NZ_CP053828.1
+"Campylobacter iguaniorum strain 2463D chromosome, complete genome",Campylobacter iguaniorum,65.5,65.5,48%,7.00E-11,37.14,1809624,NZ_CP010995.1
+"Campylobacter avium LMG 24591 chromosome, complete genome",Campylobacter avium LMG 24591,64.7,64.7,48%,1.00E-10,32.59,1738633,NZ_CP022347.1
+"Campylobacter taeniopygiae strain MIT10-5678 accn_194.2647.con.0001, whole genome shotgun sequence",Campylobacter taeniopygiae,63.9,63.9,48%,2.00E-10,33.33,190204,NZ_NXLY01000001.1
+"Sulfurospirillum arsenophilum NBRC 109478, whole genome shotgun sequence",Sulfurospirillum arsenophilum NBRC 109478,63.5,63.5,73%,3.00E-10,26.67,892792,NZ_BBQF01000001.1
+"Sulfurospirillum arcachonense DSM 9755 K354DRAFT_scaffold00007.7_C, whole genome shotgun sequence",Sulfurospirillum arcachonense DSM 9755,63.5,63.5,73%,3.00E-10,28.84,141468,NZ_JFBL01000007.1
+"Campylobacter coli strain NTICC13 tig00000001, whole genome shotgun sequence",Campylobacter coli,62.8,62.8,48%,6.00E-10,33.33,1734457,NZ_VOPG01000001.1
+"Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819 chromosome, complete genome",Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819,62.8,62.8,48%,6.00E-10,33.33,1641481,NC_002163.1
+"Campylobacter showae strain ATCC 51146, complete genome",Campylobacter showae,62.4,62.4,73%,8.00E-10,26.76,2097887,NZ_CP012544.1
+"Campylobacter canadensis strain LMG 24001 chromosome, complete genome",Campylobacter canadensis,62,62,52%,1.00E-09,30.41,1923009,NZ_CP035946.1
+"Campylobacter rectus strain ATCC 33238 chromosome, complete genome",Campylobacter rectus,61.6,61.6,78%,1.00E-09,26.36,2571679,NZ_CP012543.1
+"Campylobacter estrildidarum strain MIT17-664 accn_209.293.con.0003, whole genome shotgun sequence",Campylobacter estrildidarum,61.6,61.6,48%,1.00E-09,31.85,163105,NZ_NXLZ01000003.1
+"Campylobacter hepaticus strain HV10 chromosome, complete genome",Campylobacter hepaticus,61.6,61.6,81%,1.00E-09,26.89,1520669,NZ_CP031611.1
+"Helicobacter cholecystus isolate ERZ467480, whole genome shotgun sequence",Helicobacter cholecystus,61.6,61.6,87%,1.00E-09,26.88,96937,NZ_FZNE01000009.1
+"Helicobacter rodentium ATCC 700285 BS85DRAFT_scaffold00011.11_C, whole genome shotgun sequence",Helicobacter rodentium ATCC 700285,61.2,61.2,52%,2.00E-09,31.33,59039,NZ_JHWC01000011.1
+"Campylobacter fetus strain CFF00A031 chromosome, complete genome",Campylobacter fetus,61.2,61.2,48%,2.00E-09,32.59,1777789,NZ_CP059443.1
+"Campylobacter troglodytis strain MIT 05-9149A accn_213849_11_con_0040, whole genome shotgun sequence",Campylobacter troglodytis,61.2,61.2,48%,2.00E-09,33.57,25982,NZ_QHLI01000040.1
+"Campylobacter helveticus strain ATCC 51209 chromosome, complete genome",Campylobacter helveticus,61.2,61.2,48%,2.00E-09,32.59,1758726,NZ_CP020478.1
+"Campylobacter aviculae strain MIT17-670 accn_194.2646.con.0002, whole genome shotgun sequence",Campylobacter aviculae,61.2,61.2,48%,2.00E-09,31.85,165025,NZ_NXMA01000002.1
+"Campylobacter cuniculorum DSM 23162 = LMG 24588 chromosome, complete genome",Campylobacter cuniculorum DSM 23162 = LMG 24588,60.8,60.8,48%,2.00E-09,31.85,1931011,NZ_CP020867.1
+"Campylobacter curvus strain ATCC 35224 chromosome, complete genome",Campylobacter curvus,60.5,60.5,50%,3.00E-09,30.07,1974918,NZ_CP053826.1
+"Campylobacter concisus strain ATCC 33237, complete genome",Campylobacter concisus,60.5,60.5,50%,3.00E-09,29.37,1840041,NZ_CP012541.1
+"Campylobacter mucosalis strain ATCC 43264 chromosome, complete genome",Campylobacter mucosalis,59.3,59.3,50%,8.00E-09,30.07,1773478,NZ_CP053831.1
+"Helicobacter canis strain CCUG 32756T contig_0000016, whole genome shotgun sequence",Helicobacter canis,58.9,58.9,50%,1.00E-08,31.72,127555,NZ_VXKE01000016.1
+"Helicobacter pametensis isolate 95149_6, whole genome shotgun sequence",Helicobacter pametensis,58.5,58.5,72%,1.00E-08,27.05,134619,NZ_FZPI01000004.1
+"Campylobacter novaezeelandiae strain B423b Contig2, whole genome shotgun sequence",Campylobacter novaezeelandiae,58.5,58.5,48%,1.00E-08,32.14,162700,NZ_QPGR01000002.1
+"Nitratiruptor labii strain HRV44 chromosome 1, complete sequence",Nitratiruptor labii,58.2,58.2,48%,2.00E-08,28.89,1990315,NZ_AP022826.1
+"Campylobacter lanienae NCTC 13004, complete genome",Campylobacter lanienae NCTC 13004,58.2,58.2,52%,2.00E-08,31.29,1594554,NZ_CP015578.1
+"Helicobacter himalayensis strain YS1 chromosome, complete genome",Helicobacter himalayensis,58.2,58.2,48%,2.00E-08,31.11,1829936,NZ_CP014991.1
+"Helicobacter marmotae strain MIT 98-6070 H_marmotae_98-6070_10_7828135.4423, whole genome shotgun sequence",Helicobacter marmotae,56.6,56.6,89%,6.00E-08,25.19,78281,NZ_NXLR01000010.1
+"Helicobacter equorum strain MIT 12-6600 Hequorum_1_length_404694_cov_52.7247, whole genome shotgun sequence",Helicobacter equorum,56.6,56.6,48%,6.00E-08,32.35,404694,NZ_NXLT01000001.1
+"Campylobacter subantarcticus LMG 24377, complete genome",Campylobacter subantarcticus LMG 24377,56.2,56.2,48%,8.00E-08,34.29,1852995,NZ_CP007773.1
+"Helicobacter mesocricetorum isolate 87012_3, whole genome shotgun sequence",Helicobacter mesocricetorum,56.2,56.2,52%,9.00E-08,29.33,67680,NZ_FZPJ01000018.1
+"Lebetimonas natsushimae strain HS1857, whole genome shotgun sequence",Lebetimonas natsushimae,55.8,55.8,90%,1.00E-07,20.61,480334,NZ_BDME01000002.1
+"Campylobacter upsaliensis RM3940 chromosome, complete genome",Campylobacter upsaliensis RM3940,55.8,55.8,47%,1.00E-07,30,1628950,NZ_CP053849.1
+"Sulfurimonas paralvinellae strain GO25 chromosome, complete genome",Sulfurimonas paralvinellae,55.5,55.5,47%,1.00E-07,31.62,2029060,NZ_CP041406.1
+"Helicobacter brantae strain MIT 04-9366 _8_7040538.9463, whole genome shotgun sequence",Helicobacter brantae,55.5,55.5,87%,1.00E-07,25.98,70405,NZ_NXLV01000008.1
+"Helicobacter jaachi strain MIT 09-6949 NODE_12_length_26416_cov_68.3069, whole genome shotgun sequence",Helicobacter jaachi,55.1,55.1,72%,2.00E-07,27.72,26416,NZ_JRPR02000012.1
+"Campylobacter insulaenigrae NCTC 12927, complete genome",Campylobacter insulaenigrae NCTC 12927,54.7,54.7,48%,3.00E-07,33.57,1465081,NZ_CP007770.1
+"Campylobacter peloridis strain 2016D-0074 chromosome, complete genome",Campylobacter peloridis,54.3,54.3,48%,3.00E-07,33.57,1679360,NZ_CP063079.1
+"Campylobacter sputorum bv. paraureolyticus LMG 11764 strain LMG 17589, complete genome",Campylobacter sputorum bv. paraureolyticus LMG 11764,54.3,54.3,48%,3.00E-07,29.71,1725016,NZ_CP019684.1
+"Campylobacter ornithocola strain LMG 29815 chromosome, complete genome",Campylobacter ornithocola,54.3,54.3,48%,3.00E-07,33.57,1644930,NZ_CP053848.1
+"Campylobacter armoricus strain CCUG 73571 chromosome, complete genome",Campylobacter armoricus,54.3,54.3,48%,4.00E-07,33.57,1642612,NZ_CP053825.1
+"Campylobacter volucris LMG 24379, complete genome",Campylobacter volucris LMG 24379,53.9,53.9,89%,5.00E-07,26.22,1517949,NZ_CP007774.1
+"Campylobacter lari RM2100, complete sequence",Campylobacter lari RM2100,53.5,53.5,81%,6.00E-07,26.75,1525460,NC_012039.1
+"Nitratiruptor tergarcus DSM 16512, whole genome shotgun sequence",Nitratiruptor tergarcus DSM 16512,53.5,102,89%,7.00E-07,29.79,1894691,NZ_FWWZ01000001.1
+"Helicobacter trogontum isolate 50960_6, whole genome shotgun sequence",Helicobacter trogontum,52,52,78%,2.00E-06,23.95,83760,NZ_FZNG01000017.1
+"Helicobacter aurati strain MIT 97-5075 H_aurati_97-5075_3_16670218.1745, whole genome shotgun sequence",Helicobacter aurati,51.6,51.6,48%,2.00E-06,29.63,166702,NZ_NXLW01000003.1
+"Helicobacter macacae MIT 99-5501 addTE-supercont1.1, whole genome shotgun sequence",Helicobacter macacae MIT 99-5501,51.2,51.2,50%,4.00E-06,29.66,1682603,NZ_KI669454.1
+"Helicobacter baculiformis isolate 427351_3, whole genome shotgun sequence",Helicobacter baculiformis,50.1,50.1,48%,7.00E-06,28.57,54999,NZ_FZMF01000026.1
+"Helicobacter labetoulli strain 48519 NODE_2_length_152874_cov_362.058, whole genome shotgun sequence",Helicobacter labetoulli,49.7,49.7,48%,1.00E-05,29.63,152874,NZ_QXJF01000002.1
+"Campylobacter corcagiensis strain LMG 27932 chromosome, complete genome",Campylobacter corcagiensis,48.9,48.9,47%,2.00E-05,26.12,1655616,NZ_CP053842.1
+"Helicobacter suis HS1 isolate HS1 output strain 1, whole genome shotgun sequence",Helicobacter suis HS1,48.5,48.5,48%,3.00E-05,27.86,45820,NZ_FMSQ01000014.1
+"Helicobacter salomonis isolate 56878_6, whole genome shotgun sequence",Helicobacter salomonis,48.1,48.1,48%,3.00E-05,27.41,106380,NZ_FZMA01000019.1
+"Malaciobacter halophilus strain CCUG 53805 chromosome, complete genome",Malaciobacter halophilus,47.8,47.8,81%,4.00E-05,24.08,2812536,NZ_CP031218.1
+"Helicobacter bilis WiWa acLZQ-supercont1.7, whole genome shotgun sequence",Helicobacter bilis WiWa,47,47,82%,7.00E-05,23.32,129635,NZ_KB822519.1
+"Helicobacter trogontum isolate 50960_6, whole genome shotgun sequence",Helicobacter trogontum,47,47,48%,8.00E-05,28.78,57263,NZ_FZNG01000028.1
+"Malaciobacter mytili LMG 24559 chromosome, complete genome",Malaciobacter mytili LMG 24559,47,47,81%,9.00E-05,23.27,2867150,NZ_CP031219.1
+"Helicobacter bilis WiWa acLZQ-supercont1.2, whole genome shotgun sequence",Helicobacter bilis WiWa,46.6,46.6,48%,9.00E-05,28.78,493155,NZ_KB822514.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,

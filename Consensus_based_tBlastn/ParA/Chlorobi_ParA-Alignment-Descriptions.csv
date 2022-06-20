@@ -1,0 +1,26 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Prosthecochloris aestuarii DSM 271, complete sequence",Prosthecochloris aestuarii DSM 271,249,529,90%,5.00E-75,51.15,2512923,NC_011059.1
+"Prosthecochloris marina strain V1 NODE_2_length_431151_cov_75.7595, whole genome shotgun sequence",Prosthecochloris marina,248,248,90%,1.00E-74,50.77,431151,NZ_PDNZ01000002.1
+"Pelodictyon luteolum DSM 273, complete sequence",Pelodictyon luteolum DSM 273,246,246,90%,4.00E-74,50.38,2364842,NC_007512.1
+"Chlorobium limicola DSM 245, complete sequence",Chlorobium limicola DSM 245,246,305,90%,4.00E-74,50.77,2763181,NC_010803.1
+"Prosthecochloris vibrioformis strain DSM 260 NODE_1_length_598147_cov_18.9631, whole genome shotgun sequence",Prosthecochloris vibrioformis,246,246,90%,6.00E-74,50,598147,NZ_VDCI01000001.1
+"Chlorobium ferrooxidans DSM 13031 ctg62, whole genome shotgun sequence",Chlorobium ferrooxidans DSM 13031,246,246,90%,8.00E-74,50.38,331109,NZ_AASE01000001.1
+"Chlorobaculum thiosulfatiphilum strain DSM 249 NODE_12_length_62907_cov_13.5287, whole genome shotgun sequence",Chlorobaculum thiosulfatiphilum,245,245,90%,9.00E-74,50,62907,NZ_VDCH01000012.1
+"Chlorobaculum limnaeum strain DSM 1677, complete genome",Chlorobaculum limnaeum,245,397,91%,9.00E-74,50.38,2797276,NZ_CP017305.1
+"Chlorobaculum tepidum TLS, complete sequence",Chlorobaculum tepidum TLS,244,295,90%,2.00E-73,50,2154946,NC_002932.3
+"Chlorobium phaeobacteroides DSM 266, complete sequence",Chlorobium phaeobacteroides DSM 266,244,292,90%,3.00E-73,49.62,3133902,NC_008639.1
+"Chlorobaculum parvum NCIB 8327, complete sequence",Chlorobaculum parvum NCIB 8327,242,305,91%,2.00E-72,50,2289249,NC_011027.1
+"Chlorobium chlorochromatii CaD3, complete sequence",Chlorobium chlorochromatii CaD3,242,301,90%,2.00E-72,50.38,2572079,NC_007514.1
+"Pelodictyon phaeoclathratiforme BU-1, complete sequence",Pelodictyon phaeoclathratiforme BU-1,242,347,90%,2.00E-72,50,3018238,NC_011060.1
+"Chlorobium phaeovibrioides DSM 265, complete sequence",Chlorobium phaeovibrioides DSM 265,241,291,90%,4.00E-72,50.38,1966858,NC_009337.1
+"Chloroherpeton thalassium ATCC 35110, complete sequence",Chloroherpeton thalassium ATCC 35110,239,239,90%,2.00E-71,48.65,3293456,NC_011026.1
+"Prosthecochloris aestuarii DSM 271 plasmid pPAES01, complete sequence",Prosthecochloris aestuarii DSM 271,174,174,90%,4.00E-49,40.46,66772,NC_011061.1
+"Prosthecochloris marina strain V1 NODE_1_length_465156_cov_73.9077, whole genome shotgun sequence",Prosthecochloris marina,62.4,62.4,77%,1.00E-10,24.03,465156,NZ_PDNZ01000001.1
+"Prosthecochloris vibrioformis strain DSM 260 NODE_3_length_293850_cov_17.6131, whole genome shotgun sequence",Prosthecochloris vibrioformis,56.6,56.6,89%,8.00E-09,21.88,293850,NZ_VDCI01000003.1
+"Chlorobaculum thiosulfatiphilum strain DSM 249 NODE_41_length_14703_cov_30.1525, whole genome shotgun sequence",Chlorobaculum thiosulfatiphilum,50.8,50.8,14%,6.00E-07,53.66,14703,NZ_VDCH01000041.1
+"Chlorobaculum thiosulfatiphilum strain DSM 249 NODE_1_length_321802_cov_13.437, whole genome shotgun sequence",Chlorobaculum thiosulfatiphilum,45.4,45.4,54%,3.00E-05,25.16,321802,NZ_VDCH01000001.1
+"Chlorobium ferrooxidans DSM 13031 ctg51, whole genome shotgun sequence",Chlorobium ferrooxidans DSM 13031,45.4,45.4,54%,3.00E-05,25.81,68470,NZ_AASE01000010.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,

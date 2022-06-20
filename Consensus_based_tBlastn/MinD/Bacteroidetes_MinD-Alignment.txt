@@ -1,0 +1,16 @@
+# tblastn
+# Iteration: 0
+# Query: MinD
+# RID: 7KNGSYK8013
+# Database: ref_prok_rep_genomes
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, % positives, query/sbjct frames
+# 7 hits found
+MinD	NZ_VCHY01000012.1	27.108	166	108	5	84	241	31304	30822	6.90e-06	54.3	48.80	0/-3
+MinD	NC_015164.1	26.437	174	101	5	83	241	3884621	3885106	1.56e-05	53.1	44.83	0/2
+MinD	NZ_DS981495.1	25.434	173	100	5	83	239	8100	8579	7.30e-05	51.2	43.35	0/3
+MinD	NZ_LT635801.1	24.000	200	118	6	83	260	1296698	1297261	7.67e-05	51.2	43.00	0/2
+MinD	NZ_VTZS01000004.1	35.185	108	62	5	21	123	487348	487662	7.94e-05	51.2	57.41	0/1
+MinD	NZ_FXTB01000009.1	25.281	178	118	6	84	251	123117	123635	8.51e-05	50.8	47.19	0/3
+MinD	NZ_FXSZ01000001.1	29.752	121	79	4	23	140	311144	310791	9.33e-05	50.8	52.07	0/-1
+
+

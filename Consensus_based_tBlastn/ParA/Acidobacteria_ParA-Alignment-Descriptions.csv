@@ -1,0 +1,44 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Luteitalea pratensis strain DSM 100886, partial sequence",Luteitalea pratensis,243,414,90%,2.00E-72,49.81,7480314,NZ_CP015136.1
+"Paludibaculum fermentans strain P105 chromosome, complete genome",Paludibaculum fermentans,241,288,89%,1.00E-71,47.86,9476802,NZ_CP063849.1
+"Pyrinomonas methylaliphatogenes strain K22, whole genome shotgun sequence",Pyrinomonas methylaliphatogenes,238,238,89%,2.00E-70,47.47,1063214,NZ_CBXV010000008.1
+"Terracidiphilus gabretensis strain S55 contig_10, whole genome shotgun sequence",Terracidiphilus gabretensis,238,238,90%,2.00E-70,45.56,2394573,NZ_LAIJ01000009.1
+"Bryobacter aggregatus MPL3 M017DRAFT_scf7180000000020_quiver.3_C, whole genome shotgun sequence",Bryobacter aggregatus MPL3,237,237,89%,3.00E-70,46.69,4257809,NZ_JNIF01000003.1
+"Silvibacterium bohemicum strain S15 contig_12, whole genome shotgun sequence",Silvibacterium bohemicum,236,236,90%,6.00E-70,45.95,883337,NZ_LBHJ01000012.1
+"Occallatibacter savannae strain AB23 2556798640, whole genome shotgun sequence",Occallatibacter savannae,236,236,90%,7.00E-70,43.63,992511,NZ_QFFY01000002.1
+"Chloracidobacterium thermophilum B chromosome 1, complete sequence",Chloracidobacterium thermophilum B,234,521,90%,3.00E-69,46.69,2683362,NC_016024.1
+"Bryocella elongata strain DSM 22489, whole genome shotgun sequence",Bryocella elongata,233,233,90%,6.00E-69,46.72,661247,NZ_FNVA01000003.1
+"Granulicella mallensis MP5ACTX8, complete sequence",Granulicella mallensis MP5ACTX8,231,231,90%,3.00E-68,46.72,6237577,NC_016631.1
+"Granulicella rosea strain DSM 18704, whole genome shotgun sequence",Granulicella rosea,231,231,90%,4.00E-68,47.53,1463594,NZ_FZOU01000001.1
+"Acidobacterium ailaaui strain PMMR2 N655DRAFT_scf7180000000002_quiver.1_C, whole genome shotgun sequence",Acidobacterium ailaaui,229,229,90%,1.00E-67,47.1,3686523,NZ_JIAL01000001.1
+"Granulicella arctica strain X4EP2 Ga0401179_01, whole genome shotgun sequence",Granulicella arctica,229,229,90%,2.00E-67,46.01,2159447,NZ_JACCCW010000001.1
+"Granulicella aggregans strain M8UP14 Ga0401177_04, whole genome shotgun sequence",Granulicella aggregans,229,229,90%,2.00E-67,45.56,844690,NZ_JACHIP010000004.1
+"Terriglobus albidus strain ORNL chromosome, complete genome",Terriglobus albidus,228,228,90%,3.00E-67,45.17,6405582,NZ_CP042806.1
+"Acidipila dinghuensis strain DHOF10 scaffold1, whole genome shotgun sequence",Acidipila dinghuensis,228,298,90%,6.00E-67,45.74,2400806,NZ_SDMK01000001.1
+"Edaphobacter acidisoli strain CGMCC 1.15447 sequence1, whole genome shotgun sequence",Edaphobacter acidisoli,228,228,90%,7.00E-67,46.39,3211950,NZ_BMJB01000001.1
+"Terriglobus saanensis SP1PR4, complete sequence",Terriglobus saanensis SP1PR4,227,227,90%,8.00E-67,44.79,5095226,NC_014963.1
+"Acidipila rosea strain DSM 103428 Ga0215723_103, whole genome shotgun sequence",Acidipila rosea,226,226,90%,2.00E-66,44.02,530321,NZ_SMGK01000003.1
+"Acidisarcina polymorpha strain SBC82 chromosome, complete genome",Acidisarcina polymorpha,225,225,90%,5.00E-66,44.4,7112011,NZ_CP030840.1
+"Edaphobacter modestus strain DSM 18101 Ga0242575_11, whole genome shotgun sequence",Edaphobacter modestus,225,283,90%,5.00E-66,46.42,6121180,NZ_SHKW01000001.1
+"Thermoanaerobaculum aquaticum strain MP-01 contig_2, whole genome shotgun sequence",Thermoanaerobaculum aquaticum,224,224,90%,1.00E-65,48.28,234968,NZ_JMFG01000002.1
+"Granulicella pectinivorans strain DSM 21001, whole genome shotgun sequence",Granulicella pectinivorans,223,223,90%,2.00E-65,46.01,4439413,NZ_FOZL01000001.1
+"Edaphobacter aggregans DSM 19364 Q363DRAFT_scaffold00001.1_C, whole genome shotgun sequence",Edaphobacter aggregans DSM 19364,223,223,90%,4.00E-65,46.01,612934,NZ_JQKI01000001.1
+"Granulicella tundricola MP5ACTX9, complete sequence",Granulicella tundricola MP5ACTX9,223,223,90%,4.00E-65,46.39,4309153,NC_015064.1
+"Edaphobacter dinghuensis strain CGMCC 1.12997 sequence1, whole genome shotgun sequence",Edaphobacter dinghuensis,218,218,90%,1.00E-63,44.79,1444627,NZ_BMGT01000001.1
+"Acidobacterium capsulatum ATCC 51196, complete sequence",Acidobacterium capsulatum ATCC 51196,217,217,90%,2.00E-63,43.24,4127356,NC_012483.1
+"Edaphobacter lichenicola strain M8UP15 Ga0401174_01, whole genome shotgun sequence",Edaphobacter lichenicola,213,213,90%,6.00E-62,45.25,4696945,NZ_JACHEA010000001.1
+"Holophaga foetida DSM 6591 HolfoDRAFT_HFA.1, whole genome shotgun sequence",Holophaga foetida DSM 6591,213,213,90%,7.00E-62,43.08,3443192,NZ_KI912268.1
+"Terriglobus roseus DSM 18391, complete sequence",Terriglobus roseus DSM 18391,212,212,90%,2.00E-61,45.17,5227858,NC_018014.1
+"Granulicella sibirica strain AF10 NODE_1_length_2613794_cov_21.664496, whole genome shotgun sequence",Granulicella sibirica,208,208,90%,3.00E-60,44.87,2613794,NZ_RDSM01000001.1
+"Geothrix fermentans DSM 14018 G398DRAFT_scaffold00004.4_C, whole genome shotgun sequence",Geothrix fermentans DSM 14018,207,207,90%,1.00E-59,41.92,194317,NZ_AUAU01000007.1
+"Pyrinomonas methylaliphatogenes strain K22, whole genome shotgun sequence",Pyrinomonas methylaliphatogenes,181,181,91%,1.00E-50,40.61,258097,NZ_CBXV010000003.1
+"Thermoanaerobaculum aquaticum strain MP-01 contig_15, whole genome shotgun sequence",Thermoanaerobaculum aquaticum,178,178,90%,1.00E-49,38.76,129099,NZ_JMFG01000015.1
+"Chloracidobacterium thermophilum B chromosome 2, complete sequence",Chloracidobacterium thermophilum B,67.8,67.8,75%,7.00E-12,28.82,1012010,NC_016025.1
+"Granulicella rosea strain DSM 18704, whole genome shotgun sequence",Granulicella rosea,63.5,63.5,90%,2.00E-10,24.72,335556,NZ_FZOU01000006.1
+"Granulicella rosea strain DSM 18704, whole genome shotgun sequence",Granulicella rosea,62,62,72%,6.00E-10,26.21,55215,NZ_FZOU01000015.1
+"Edaphobacter aggregans DSM 19364 Q363DRAFT_scaffold00206.206_C, whole genome shotgun sequence",Edaphobacter aggregans DSM 19364,49.7,49.7,15%,6.00E-06,51.16,6492,NZ_JQKI01000217.1
+"Edaphobacter modestus strain DSM 18101 Ga0242575_17, whole genome shotgun sequence",Edaphobacter modestus,49.7,49.7,15%,7.00E-06,51.16,313502,NZ_SHKW01000007.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,

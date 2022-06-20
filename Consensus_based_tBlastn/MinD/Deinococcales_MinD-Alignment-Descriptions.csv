@@ -1,0 +1,61 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Deinobacterium chartae strain DSM 21458 Ga0415239_13, whole genome shotgun sequence",Deinobacterium chartae,226,226,90%,1.00E-66,49.61,97607,NZ_JACHHG010000013.1
+"Deinococcus misasensis DSM 22328 Q371DRAFT_scaffold00005.5_C, whole genome shotgun sequence",Deinococcus misasensis DSM 22328,225,225,90%,5.00E-66,48.63,203335,NZ_JQKG01000005.1
+"Deinococcus irradiatisoli strain 17bor-2 chromosome, complete genome",Deinococcus irradiatisoli,224,224,89%,1.00E-65,49.8,3052043,NZ_CP029494.1
+"Deinococcus cellulosilyticus NBRC 106333 = KACC 11606 strain NBRC 106333 sequence24, whole genome shotgun sequence",Deinococcus cellulosilyticus NBRC 106333 = KACC 11606,223,223,90%,2.00E-65,48.82,88521,NZ_BJXB01000024.1
+"Deinococcus radiophilus strain ATCC 27603 NODE_9_length_90790_cov_175.651556, whole genome shotgun sequence",Deinococcus radiophilus,223,223,97%,2.00E-65,46.35,90790,NZ_RXPE01000009.1
+"Deinococcus pimensis DSM 21231 DeipiDRAFT_Scaffold12.4, whole genome shotgun sequence",Deinococcus pimensis DSM 21231,223,223,90%,2.00E-65,48.43,173366,NZ_KI912617.1
+"Deinococcus proteolyticus MRP, complete sequence",Deinococcus proteolyticus MRP,221,221,96%,8.00E-65,46.64,2147060,NC_015161.1
+"Deinococcus piscis strain CGMCC 1.18439 sequence003, whole genome shotgun sequence",Deinococcus piscis,221,221,97%,9.00E-65,46.35,144234,NZ_BNAL01000003.1
+"Deinococcus maricopensis DSM 21211, complete sequence",Deinococcus maricopensis DSM 21211,221,221,97%,1.00E-64,45.99,3498530,NC_014958.1
+"Deinococcus peraridilitoris DSM 19664, complete sequence",Deinococcus peraridilitoris DSM 19664,221,221,90%,1.00E-64,48.43,3881839,NC_019793.1
+"Deinococcus yavapaiensis KR-236 strain DSM 18048 Ga0244513_111, whole genome shotgun sequence",Deinococcus yavapaiensis KR-236,220,220,90%,2.00E-64,47.43,193516,NZ_QJSX01000011.1
+"Deinococcus ruber strain JCM 31311 sequence002, whole genome shotgun sequence",Deinococcus ruber,220,220,96%,3.00E-64,45.59,252070,NZ_BMQL01000002.1
+"Deinococcus planocerae strain XY-FW106 contig23, whole genome shotgun sequence",Deinococcus planocerae,220,220,90%,3.00E-64,48.82,72436,NZ_PNOR01000023.1
+"Deinococcus aquatilis DSM 23025 F561DRAFT_scaffold00007.7, whole genome shotgun sequence",Deinococcus aquatilis DSM 23025,219,219,90%,4.00E-64,47.45,141015,NZ_KB899701.1
+"Deinococcus puniceus strain DY1 chromosome, complete genome",Deinococcus puniceus,219,219,90%,7.00E-64,47.45,2971983,NZ_CP011387.1
+"Deinococcus murrayi DSM 11303 H565DRAFT_scaffold00018.18_C, whole genome shotgun sequence",Deinococcus murrayi DSM 11303,219,219,97%,7.00E-64,45.42,47736,NZ_AXWT01000026.1
+"Deinococcus roseus strain JCM 14370 sequence04, whole genome shotgun sequence",Deinococcus roseus,219,219,90%,8.00E-64,47.64,323992,NZ_BMOD01000004.1
+"Deinococcus metalli strain CGMCC 1.18437 sequence08, whole genome shotgun sequence",Deinococcus metalli,218,218,97%,1.00E-63,45.62,210804,NZ_BNAJ01000008.1
+"Deinococcus aerius strain TR0125, whole genome shotgun sequence",Deinococcus aerius,218,218,90%,1.00E-63,48.64,165843,NZ_BFAG01000012.1
+"Deinococcus detaillensis strain H1 H1_Contig4, whole genome shotgun sequence",Deinococcus detaillensis,218,218,96%,1.00E-63,46.52,242232,NZ_VKDB01000004.1
+"Deinococcus phoenicis strain 1P10ME CR5801000035, whole genome shotgun sequence",Deinococcus phoenicis,218,218,90%,2.00E-63,48.03,38754,NZ_JHAC01000034.1
+"Deinococcus apachensis DSM 19763 F784DRAFT_scaffold00009.9, whole genome shotgun sequence",Deinococcus apachensis DSM 19763,218,218,97%,2.00E-63,45.79,131736,NZ_KB906406.1
+"Deinococcus indicus strain DR1 Spades_3_len:240435, whole genome shotgun sequence",Deinococcus indicus,218,218,90%,2.00E-63,47.84,240435,NZ_NHMK01000014.1
+Deinococcus metallilatus strain MA1002 chromosome,Deinococcus metallilatus,218,218,90%,2.00E-63,48.03,3062136,NZ_CP038512.1
+"Deinococcus gobiensis I-0, complete sequence",Deinococcus gobiensis I-0,217,217,97%,2.00E-63,45.62,3137147,NC_017790.1
+"Deinococcus reticulitermitis strain CGMCC 1.10218, whole genome shotgun sequence",Deinococcus reticulitermitis,217,217,97%,2.00E-63,44.53,235415,NZ_FNZA01000004.1
+"Deinococcus aquiradiocola strain JCM 14371 sequence05, whole genome shotgun sequence",Deinococcus aquiradiocola,217,217,97%,3.00E-63,44.69,262354,NZ_BMOE01000005.1
+"Deinococcus hopiensis KR-140, whole genome shotgun sequence",Deinococcus hopiensis KR-140,217,217,97%,4.00E-63,46.15,3128235,NZ_FWWU01000009.1
+"Deinococcus geothermalis DSM 11300, complete sequence",Deinococcus geothermalis DSM 11300,216,216,96%,7.00E-63,45.59,2467205,NC_008025.1
+"Deinococcus knuensis strain JCM 31406 sequence06, whole genome shotgun sequence",Deinococcus knuensis,216,216,97%,7.00E-63,44.89,155622,NZ_BMQO01000006.1
+"Deinococcus seoulensis strain JCM 31404 sequence18, whole genome shotgun sequence",Deinococcus seoulensis,216,216,90%,7.00E-63,47.45,88207,NZ_BMQM01000018.1
+"Deinococcus actinosclerus strain BM2 chromosome, complete genome",Deinococcus actinosclerus,216,216,97%,1.00E-62,44.89,3264334,NZ_CP013910.1
+"Deinococcus arenae strain JCM 31047 sequence05, whole genome shotgun sequence",Deinococcus arenae,215,215,97%,1.00E-62,44.89,251208,NZ_BMQG01000005.1
+"Deinococcus wulumuqiensis R12 1, whole genome shotgun sequence",Deinococcus wulumuqiensis R12,215,215,96%,1.00E-62,43.75,2857585,NZ_JADAKQ010000001.1
+"Deinococcus grandis strain ATCC 43672, whole genome shotgun sequence",Deinococcus grandis,215,215,97%,2.00E-62,44.89,3250361,NZ_BCMS01000001.1
+"Deinococcus xianganensis strain Y35 Scaffold25, whole genome shotgun sequence",Deinococcus xianganensis,214,214,97%,3.00E-62,44.89,44412,NZ_WVHK01000025.1
+"Deinococcus alpinitundrae strain LMG 24283 NODE_7_length_199639_cov_123.645710, whole genome shotgun sequence",Deinococcus alpinitundrae,214,214,89%,3.00E-62,49,199639,NZ_WXZL01000007.1
+"Deinococcus daejeonensis strain JCM 16918 sequence11, whole genome shotgun sequence",Deinococcus daejeonensis,214,214,97%,3.00E-62,44.89,106370,NZ_BMOR01000011.1
+"Deinococcus radiodurans strain R1 dM1 chromosome I, complete sequence",Deinococcus radiodurans,214,214,89%,3.00E-62,46.25,2647538,NZ_CP031500.1
+"Deinococcus budaensis strain DSM 101791 Ga0416733_19, whole genome shotgun sequence",Deinococcus budaensis,214,214,97%,3.00E-62,45.42,63171,NZ_JACHFN010000019.1
+"Deinococcus saudiensis strain CGMCC 1.15089 sequence015, whole genome shotgun sequence",Deinococcus saudiensis,214,214,90%,3.00E-62,47.45,111778,NZ_BMHJ01000015.1
+"Deinococcus soli Cha et al. 2016 strain N5 chromosome, complete genome",Deinococcus soli Cha et al. 2016,214,214,90%,3.00E-62,47.45,3236984,NZ_CP011389.1
+"Deinococcus sedimenti strain JCM 31405 sequence05, whole genome shotgun sequence",Deinococcus sedimenti,214,214,97%,4.00E-62,44.53,213192,NZ_BMQN01000005.1
+"Deinococcus radiotolerans strain JCM 19173 sequence02, whole genome shotgun sequence",Deinococcus radiotolerans,213,213,90%,5.00E-62,47.06,451480,NZ_BMPE01000002.1
+"Deinococcus aerophilus strain JCM 15443 sequence14, whole genome shotgun sequence",Deinococcus aerophilus,213,213,90%,6.00E-62,47.84,82794,NZ_BMOM01000014.1
+"Deinococcus malanensis strain JCM 30331 sequence17, whole genome shotgun sequence",Deinococcus malanensis,213,213,97%,7.00E-62,44.53,102248,NZ_BMPP01000017.1
+"Deinococcus koreensis strain SJW1-2 SJW1-2_contig1, whole genome shotgun sequence",Deinococcus koreensis,213,213,97%,1.00E-61,43.8,3524480,NZ_PPPD01000001.1
+"Deinococcus ficus strain CC-FR2-10 chromosome, complete genome",Deinococcus ficus,212,212,90%,2.00E-61,46.67,2801970,NZ_CP021081.1
+"Deinococcus fonticola strain FeSDHB5-19 NODE_14_length_100412_cov_38.933938, whole genome shotgun sequence",Deinococcus fonticola,211,211,97%,3.00E-61,44.77,100412,NZ_SMMH01000014.1
+"Deinococcus deserti VCD115, complete sequence",Deinococcus deserti VCD115,211,211,97%,4.00E-61,44.16,2819842,NC_012526.1
+"Deinococcus frigens DSM 12807 Q322DRAFT_scaffold00051.51_C, whole genome shotgun sequence",Deinococcus frigens DSM 12807,210,210,97%,8.00E-61,44.16,26163,NZ_JNIW01000052.1
+"Deinococcus marmoris DSM 12784 Q319DRAFT_scaffold00004.4_C, whole genome shotgun sequence",Deinococcus marmoris DSM 12784,209,209,90%,1.00E-60,46.67,97442,NZ_JNIV01000005.1
+"Deinococcus aerolatus strain JCM 15442 sequence01, whole genome shotgun sequence",Deinococcus aerolatus,208,208,90%,4.00E-60,47.06,604095,NZ_BMOL01000001.1
+"Deinococcus humi strain DSM 27939 Ga0416732_09, whole genome shotgun sequence",Deinococcus humi,208,208,97%,4.00E-60,43.8,186285,NZ_JACHFL010000009.1
+"Deinococcus swuensis strain DY59 chromosome, complete genome",Deinococcus swuensis,206,206,90%,2.00E-59,46.27,3531443,NZ_CP010028.1
+"Deinococcus radiopugnans ATCC 19172 strain DSM 12027 Ga0416726_28, whole genome shotgun sequence",Deinococcus radiopugnans ATCC 19172,206,206,90%,2.00E-59,46.27,50838,NZ_JACHEW010000028.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,

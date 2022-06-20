@@ -1,0 +1,156 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Leptolyngbya ohadii IS1 Scaffold_1, whole genome shotgun sequence",Leptolyngbya ohadii IS1,204,204,96%,4.00E-58,46.1,4260588,NZ_NKFP01000006.1
+"Phormidium ambiguum IAM M-71 NIES-2119_Scaffold_21, whole genome shotgun sequence",Phormidium ambiguum IAM M-71,200,200,96%,7.00E-57,43.28,103797,NZ_MRCE01000021.1
+"Limnoraphis robusta CS-951 contig237, whole genome shotgun sequence",Limnoraphis robusta CS-951,195,195,96%,4.00E-55,42.54,21669,NZ_LATL02000237.1
+"Phormidesmis priestleyi ULC007 NODE_29_length_53244_cov_98.499_ID_17773, whole genome shotgun sequence",Phormidesmis priestleyi ULC007,194,194,96%,8.00E-55,42.54,53244,NZ_PVWG01000029.1
+"Lyngbya aestuarii BL J laest3.contig.16, whole genome shotgun sequence",Lyngbya aestuarii BL J,193,193,96%,2.00E-54,42.16,102024,NZ_AUZM01000017.1
+"Thermosynechococcus vulcanus NIES-2134 chromosome, complete genome",Thermosynechococcus vulcanus NIES-2134,192,192,97%,4.00E-54,42.34,2571271,NZ_AP018202.1
+Limnospira indica PCC 8005 chromosome,Limnospira indica PCC 8005,192,192,96%,6.00E-54,43.66,6228153,NZ_FO818640.1
+"Limnospira fusiformis SAG 85.79 chromosome, complete genome",Limnospira fusiformis SAG 85.79,192,192,96%,6.00E-54,43.66,6423694,NZ_CP051185.1
+"Thermosynechococcus elongatus BP-1, complete sequence",Thermosynechococcus elongatus BP-1,192,192,97%,6.00E-54,41.97,2593857,NC_004113.1
+"Arthrospira platensis NIES-39, complete sequence, *** SEQUENCING IN PROGRESS ***",Arthrospira platensis NIES-39,192,192,96%,7.00E-54,43.66,6788435,NC_016640.1
+"Phormidium willei BDU 130791 contig00025, whole genome shotgun sequence",Phormidium willei BDU 130791,191,191,96%,1.00E-53,43.28,44835,NZ_LSZA01000025.1
+"Myxacorys almedinensis A NODE_14_length_137682_cov_12.987086, whole genome shotgun sequence",Myxacorys almedinensis A,191,191,96%,2.00E-53,42.91,137682,NZ_WVIE01000014.1
+"Scytonema millei VB511283 NODE_1_length_1697822_cov_11.193, whole genome shotgun sequence",Scytonema millei VB511283,190,190,96%,2.00E-53,42.54,1697822,NZ_JTJC03000001.1
+"Planktothrix mougeotii NIVA-CYA 405 scaffold00003, whole genome shotgun sequence",Planktothrix mougeotii NIVA-CYA 405,190,190,96%,3.00E-53,42.91,537235,NZ_KE734706.1
+"Planktothrix rubescens NIVA-CYA 407 scaffold00001, whole genome shotgun sequence",Planktothrix rubescens NIVA-CYA 407,190,190,96%,3.00E-53,42.91,3157393,NZ_KE734717.1
+"Planktothrix prolifica NIVA-CYA 540 scaffold00001, whole genome shotgun sequence",Planktothrix prolifica NIVA-CYA 540,190,190,96%,3.00E-53,42.91,5502793,NZ_KE734720.1
+"Chroogloeocystis siderophila 5.2 s.c.1 NIES-1031_Scaffold_9, whole genome shotgun sequence",Chroogloeocystis siderophila 5.2 s.c.1,190,190,96%,3.00E-53,41.64,226564,NZ_MRCC01000009.1
+"Kamptonema formosum PCC 6407 Oscil6407scaffold_6, whole genome shotgun sequence",Kamptonema formosum PCC 6407,190,190,96%,4.00E-53,42.54,2754513,NZ_KB235903.1
+"Planktothrix agardhii NIVA-CYA 126/8 chromosome, whole genome shotgun sequence",Planktothrix agardhii NIVA-CYA 126/8,189,189,96%,6.00E-53,42.91,4785602,NZ_CM002803.1
+"Planktothrix paucivesiculata PCC 9631 isolate BBR_PRJEB10994, whole genome shotgun sequence",Planktothrix paucivesiculata PCC 9631,189,189,96%,7.00E-53,42.54,658797,NZ_LR735018.1
+"Leptolyngbya valderiana BDU 20041 contig00349, whole genome shotgun sequence",Leptolyngbya valderiana BDU 20041,188,188,96%,9.00E-53,44.03,11058,NZ_LSYZ01000349.1
+"Synechococcus lividus PCC 6715 chromosome, complete genome",Synechococcus lividus PCC 6715,187,187,96%,2.00E-52,42.16,2659739,NZ_CP018092.1
+"Chroococcidiopsis cubana SAG 39.79 sequence048, whole genome shotgun sequence",Chroococcidiopsis cubana SAG 39.79,187,187,96%,3.00E-52,41.79,50805,NZ_RSCK01000048.1
+"Chroococcidiopsis thermalis PCC 7203, complete sequence",Chroococcidiopsis thermalis PCC 7203,187,187,96%,3.00E-52,41.79,6315792,NC_019695.1
+"Planktothrix serta PCC 8927 isolate BBR_PRJEB10992, whole genome shotgun sequence",Planktothrix serta PCC 8927,185,185,96%,2.00E-51,42.28,190788,NZ_LR734855.1
+"Nostoc linckia z6 scaffold78.1, whole genome shotgun sequence",Nostoc linckia z6,184,184,96%,4.00E-51,41.79,36050,NZ_LAHB01000078.1
+"Nostoc paludosum FACHB-159 contig42, whole genome shotgun sequence",Nostoc paludosum FACHB-159,184,184,96%,4.00E-51,41.79,66571,NZ_JACJTU010000042.1
+"Microcoleus vaginatus FGP-2 ctg194, whole genome shotgun sequence",Microcoleus vaginatus FGP-2,184,184,96%,5.00E-51,42.16,148177,NZ_AFJC01000016.1
+"Merismopedia glauca CCAP 1448/3 NODE_29_length_77612_cov_6.95941_ID_34159, whole genome shotgun sequence",Merismopedia glauca CCAP 1448/3,184,184,96%,5.00E-51,42.16,77612,NZ_PVWJ01000004.1
+"Rippkaea orientalis PCC 8802, complete sequence",Rippkaea orientalis PCC 8802,184,184,96%,5.00E-51,40.3,4669813,NC_013161.1
+"Gloeobacter kilaueensis JS1, complete sequence",Gloeobacter kilaueensis JS1,184,184,89%,5.00E-51,43.78,4724791,NC_022600.1
+"Nostoc calcicola FACHB-3891 contig18, whole genome shotgun sequence",Nostoc calcicola FACHB-3891,184,184,96%,5.00E-51,41.79,166101,NZ_JACJRQ010000018.1
+"Euhalothece natronophila Z-M001 chromosome, complete genome",Euhalothece natronophila Z-M001,183,183,96%,6.00E-51,41.04,3326959,NZ_CP042326.1
+"Cylindrospermopsis raciborskii GIHE 2018 C1_3_1, whole genome shotgun sequence",Cylindrospermopsis raciborskii GIHE 2018,183,183,89%,1.00E-50,44.18,1046095,NZ_VHLJ01000003.1
+"Microcystis wesenbergii FACHB-1317 contig156, whole genome shotgun sequence",Microcystis wesenbergii FACHB-1317,182,182,97%,1.00E-50,39.42,86416,NZ_JACJQV010000156.1
+"Tychonema bourrellyi FEM_GT703 scaffold141_size10961, whole genome shotgun sequence",Tychonema bourrellyi FEM_GT703,182,182,96%,1.00E-50,42.54,10961,NZ_NXIB02000141.1
+"Cylindrospermopsis curvispora GIHE-G1 chromosome, complete genome",Cylindrospermopsis curvispora GIHE-G1,182,182,89%,1.00E-50,44.18,3910736,NZ_CP060822.1
+"Gloeobacter violaceus PCC 7421, complete sequence",Gloeobacter violaceus PCC 7421,182,182,89%,2.00E-50,45.38,4659019,NC_005125.1
+"Raphidiopsis brookii D9 D9_1144, whole genome shotgun sequence",Raphidiopsis brookii D9,182,182,89%,2.00E-50,43.78,143800,NZ_ACYB01000004.1
+"Lyngbya confervoides BDU141951 Scaffold_03, whole genome shotgun sequence",Lyngbya confervoides BDU141951,182,182,91%,2.00E-50,41.73,5207129,NZ_JTHE02000003.1
+"Cyanobacterium aponinum PCC 10605, complete sequence",Cyanobacterium aponinum PCC 10605,181,181,97%,3.00E-50,39.19,4114099,NC_019776.1
+"Limnothrix rosea IAM M-220 NIES-208_Scaffold_49, whole genome shotgun sequence",Limnothrix rosea IAM M-220,181,181,97%,3.00E-50,40.36,29000,NZ_MRBY01000049.1
+"Pseudanabaena biceps strain O153 scaffold1_size3970958, whole genome shotgun sequence",Pseudanabaena biceps,181,181,96%,3.00E-50,42.54,3970957,NZ_JAATWA010000001.1
+Leptolyngbya boryana IAM M-101 chromosome,Leptolyngbya boryana IAM M-101,181,181,97%,4.00E-50,43.54,6176364,NZ_AP014638.1
+"Oscillatoria nigro-viridis PCC 7112, complete sequence",Oscillatoria nigro-viridis PCC 7112,180,180,96%,7.00E-50,41.79,7479014,NC_019729.1
+"Pleurocapsa sp. PCC 7327, complete sequence",Pleurocapsa sp. PCC 7327,180,180,90%,9.00E-50,41.73,4986817,NC_019689.1
+"Crocosphaera subtropica ATCC 51472 Cy51472_Contig181.1_C, whole genome shotgun sequence",Crocosphaera subtropica ATCC 51472,180,180,91%,1.00E-49,40.16,4932779,NZ_AGJC02000001.1
+"Pseudanabaena yagii GIHE-NHR1 1013Pa_1_1, whole genome shotgun sequence",Pseudanabaena yagii GIHE-NHR1,179,179,96%,1.00E-49,41.79,3694966,NZ_JAAVJL010000001.1
+"Hydrococcus rivularis NIES-593 NIES-593_Scaffold_1, whole genome shotgun sequence",Hydrococcus rivularis NIES-593,179,179,90%,1.00E-49,41.73,517319,NZ_MRCB01000001.1
+"Nostoc foliaceum FACHB-393 contig64, whole genome shotgun sequence",Nostoc foliaceum FACHB-393,179,179,96%,2.00E-49,41.04,36221,NZ_JACJTD010000064.1
+"Nostoc muscorum FACHB-395 contig5, whole genome shotgun sequence",Nostoc muscorum FACHB-395,179,179,96%,2.00E-49,41.04,208305,NZ_JACJSF010000005.1
+"Nostoc edaphicum CCNP1411 chromosome, complete genome",Nostoc edaphicum CCNP1411,179,179,96%,2.00E-49,41.04,7733505,NZ_CP054698.1
+"Nostoc punctiforme PCC 73102, complete sequence",Nostoc punctiforme PCC 73102,179,179,96%,2.00E-49,41.04,8234322,NC_010628.1
+Halomicronema hongdechloris C2206 chromosome,Halomicronema hongdechloris C2206,179,179,91%,3.00E-49,42.35,5577845,NZ_CP021983.2
+"Nostoc sphaeroides strain Kutzing En chromosome, complete genome",Nostoc sphaeroides,178,178,96%,4.00E-49,40.67,6531820,NZ_CP031941.1
+"Nostoc flagelliforme CCNUN1 chromosome, complete genome",Nostoc flagelliforme CCNUN1,178,178,96%,4.00E-49,40.67,8363872,NZ_CP024785.1
+"Synechococcus elongatus PCC 7942 = FACHB-805, complete sequence",Synechococcus elongatus PCC 7942 = FACHB-805,178,178,96%,4.00E-49,41.64,2695903,NC_007604.1
+"Tolypothrix bouteillei VB521301 NODE_1_length_9494340_cov_10.278967, whole genome shotgun sequence",Tolypothrix bouteillei VB521301,178,178,96%,4.00E-49,39.55,9494340,NZ_JHEG04000001.1
+"Neosynechococcus sphagnicola sy1 strain CAUP A 1101 synech5_c46, whole genome shotgun sequence",Neosynechococcus sphagnicola sy1,178,178,96%,4.00E-49,39.93,55939,NZ_JJML01000046.1
+"Nostoc commune NIES-4072, whole genome shotgun sequence",Nostoc commune NIES-4072,178,178,96%,5.00E-49,40.3,7147507,NZ_BDUD01000001.1
+"Spirulina subsalsa PCC 9445 Contig210, whole genome shotgun sequence",Spirulina subsalsa PCC 9445,178,178,91%,5.00E-49,42.52,5218291,NZ_JH980292.1
+"Calothrix sp. PCC 6303, complete sequence",Calothrix sp. PCC 6303,177,177,96%,1.00E-48,40.3,6767834,NC_019751.1
+"Calothrix desertica PCC 7102 Cal7102DRAFT_CDB.6, whole genome shotgun sequence",Calothrix desertica PCC 7102,177,177,96%,1.00E-48,39.55,2989987,NZ_VLKB01000007.1
+"Aliterella atlantica CENA595 contig_25, whole genome shotgun sequence",Aliterella atlantica CENA595,177,177,91%,1.00E-48,42.13,224266,NZ_JYON01000004.1
+"Scytonema hofmannii PCC 7110 Scaffold1, whole genome shotgun sequence",Scytonema hofmannii PCC 7110,177,177,96%,1.00E-48,39.18,11632038,NZ_KQ976354.1
+"Calothrix rhizosoleniae SC01 isolate 1, whole genome shotgun sequence",Calothrix rhizosoleniae SC01,176,176,96%,2.00E-48,40.37,15408,NZ_FYBH01000052.1
+"Crocosphaera chwakensis CCY0110 1101676644568, whole genome shotgun sequence",Crocosphaera chwakensis CCY0110,176,176,91%,2.00E-48,40.16,174185,NZ_AAXW01000006.1
+"Geminocystis herdmanii PCC 6308 chromosome, whole genome shotgun sequence",Geminocystis herdmanii PCC 6308,176,176,97%,2.00E-48,38.46,4263418,NZ_CM001775.1
+"Anabaena catenula FACHB-362 contig5, whole genome shotgun sequence",Anabaena catenula FACHB-362,176,176,96%,3.00E-48,39.93,205083,NZ_JACJTQ010000005.1
+"Anabaena lutea FACHB-196 contig8, whole genome shotgun sequence",Anabaena lutea FACHB-196,176,176,96%,3.00E-48,39.93,209236,NZ_JACJST010000008.1
+"Chlorogloeopsis fritschii PCC 6912 contig00145, whole genome shotgun sequence",Chlorogloeopsis fritschii PCC 6912,176,176,96%,3.00E-48,39.55,121431,NZ_AJLN01000141.1
+"Sphaerospermopsis kisseleviana NIES-73 DNA, nearly complete genome",Sphaerospermopsis kisseleviana NIES-73,176,176,96%,3.00E-48,39.55,5354839,NZ_AP018314.1
+Nodularia spumigena CCY9414 chromosome,Nodularia spumigena CCY9414,175,175,96%,4.00E-48,40.3,5462271,NZ_CP007203.1
+"Richelia intracellularis HH01, whole genome shotgun sequence",Richelia intracellularis HH01,175,175,96%,4.00E-48,40.37,127276,NZ_CAIY01000085.1
+"Calothrix elsteri CCALA 953 scaffold39, whole genome shotgun sequence",Calothrix elsteri CCALA 953,175,175,96%,4.00E-48,39.18,25571,NZ_NTFS01000039.1
+"Trichodesmium erythraeum IMS101, complete sequence",Trichodesmium erythraeum IMS101,175,175,96%,5.00E-48,39.93,7750108,NC_008312.1
+"Sphaerospermopsis reniformis strain NIES-1949 sequence005, whole genome shotgun sequence",Sphaerospermopsis reniformis,175,175,96%,5.00E-48,39.55,62084,NZ_BJCE01000005.1
+"Scytonema tolypothrichoides VB-61278 scaffold_005, whole genome shotgun sequence",Scytonema tolypothrichoides VB-61278,175,175,96%,6.00E-48,39.55,636301,NZ_JXCA02000023.1
+"Nostoc spongiaeforme FACHB-130 contig1, whole genome shotgun sequence",Nostoc spongiaeforme FACHB-130,174,174,96%,8.00E-48,40.3,568458,NZ_JACJTB010000001.1
+"Anabaena azotica FACHB-119 contig18, whole genome shotgun sequence",Anabaena azotica FACHB-119,174,174,96%,8.00E-48,39.93,142275,NZ_JACJSG010000018.1
+Brasilonema sennae CENA114 chromosome,Brasilonema sennae CENA114,174,174,96%,8.00E-48,39.55,7782641,NZ_CP030118.1
+Brasilonema octagenarum UFV-E1 chromosome,Brasilonema octagenarum UFV-E1,174,174,96%,8.00E-48,39.55,7816330,NZ_CP030121.1
+"Nostoc piscinale CENA21, partial genome",Nostoc piscinale CENA21,174,174,96%,1.00E-47,40.3,7094556,NZ_CP012036.1
+"Okeania hirsuta strain PAP21Jun06-1 PAP_NODE_325, whole genome shotgun sequence",Okeania hirsuta,174,174,96%,1.00E-47,39.18,35083,NZ_RCBZ01000325.1
+"Moorea producens 3L scf46892, whole genome shotgun sequence",Moorea producens 3L,174,174,96%,1.00E-47,40.3,75348,NZ_GL890873.1
+"Anabaena cylindrica PCC 7122, complete sequence",Anabaena cylindrica PCC 7122,174,174,96%,1.00E-47,39.55,6395836,NC_019771.1
+"Dolichospermum planctonicum strain NIES-80 sequence043, whole genome shotgun sequence",Dolichospermum planctonicum,174,174,96%,1.00E-47,39.93,40847,NZ_BJCF01000043.1
+"'Nostoc azollae' 0708, complete sequence",'Nostoc azollae' 0708,174,174,96%,1.00E-47,39.93,5354700,NC_014248.1
+"Gloeothece citriformis PCC 7424, complete sequence",Gloeothece citriformis PCC 7424,174,174,96%,1.00E-47,37.55,5942652,NC_011729.1
+"Calothrix anomala FACHB-343 contig14, whole genome shotgun sequence",Calothrix anomala FACHB-343,174,174,96%,1.00E-47,39.18,157223,NZ_JACJQG010000014.1
+"Nostoc cycadae WK-1, whole genome shotgun sequence",Nostoc cycadae WK-1,174,174,96%,1.00E-47,40.3,539295,NZ_DF978421.1
+"Anabaenopsis circularis NIES-21 DNA, nearly complete genome",Anabaenopsis circularis NIES-21,174,174,96%,1.00E-47,40.3,6565356,NZ_AP018174.1
+"Anabaena sphaerica FACHB-251 contig24, whole genome shotgun sequence",Anabaena sphaerica FACHB-251,174,174,96%,2.00E-47,39.55,70348,NZ_JACJQU010000024.1
+"Dolichospermum circinale AWQC131C 131C_Scaffold16, whole genome shotgun sequence",Dolichospermum circinale AWQC131C,173,173,96%,2.00E-47,39.93,80825,NZ_KE384597.1
+"Anabaena minutissima FACHB-250 contig12, whole genome shotgun sequence",Anabaena minutissima FACHB-250,173,173,96%,2.00E-47,39.18,187806,NZ_JACJRG010000012.1
+"Fischerella muscicola PCC 7414 contig00161, whole genome shotgun sequence",Fischerella muscicola PCC 7414,173,173,96%,2.00E-47,39.93,70754,NZ_AJLK01000161.1
+"Calothrix brevissima NIES-22 DNA, nearly complete genome",Calothrix brevissima NIES-22,173,173,96%,2.00E-47,39.18,8527291,NZ_AP018207.1
+"Calothrix parasitica NIES-267 DNA, nearly complete genome",Calothrix parasitica NIES-267,173,173,96%,3.00E-47,39.18,8952435,NZ_AP018227.1
+"Hassallia byssoidea VB512170 NODE_25_length_89352_cov_30.9427, whole genome shotgun sequence",Hassallia byssoidea VB512170,173,173,96%,3.00E-47,39.55,89352,NZ_JTCM02000017.1
+"Anabaena subtropica FACHB-260 contig1, whole genome shotgun sequence",Anabaena subtropica FACHB-260,173,173,96%,3.00E-47,39.55,342035,NZ_JACJRF010000001.1
+"Chamaesiphon polymorphus CCALA 037 NODE_3089_length_2512_cov_3.70801_ID_160161, whole genome shotgun sequence",Chamaesiphon polymorphus CCALA 037,172,172,96%,3.00E-47,38.29,2512,NZ_PVWO01000670.1
+"Phormidium tenue FACHB-1052 contig9, whole genome shotgun sequence",Phormidium tenue FACHB-1052,172,172,96%,3.00E-47,40.3,243216,NZ_JACJQN010000009.1
+"Fischerella thermalis strain JSC-11 ctg102, whole genome shotgun sequence",Fischerella thermalis,172,172,96%,3.00E-47,39.93,118300,NZ_AGIZ01000017.1
+"Gloeothece verrucosa PCC 7822, complete sequence",Gloeothece verrucosa PCC 7822,172,172,96%,4.00E-47,37.92,6091620,NC_014501.1
+"Richelia sinica FACHB-800 contig11, whole genome shotgun sequence",Richelia sinica FACHB-800,172,172,96%,4.00E-47,39.18,124684,NZ_JACJTT010000011.1
+"Tolypothrix campylonemoides VB511288 scaffold_008, whole genome shotgun sequence",Tolypothrix campylonemoides VB511288,172,172,96%,4.00E-47,39.55,237118,NZ_JXCB02000053.1
+"Fortiea contorta PCC 7126 Mic7126DRAFT_MPQ.3, whole genome shotgun sequence",Fortiea contorta PCC 7126,172,172,96%,4.00E-47,38.81,5208103,NZ_KB235930.1
+"Brasilonema bromeliae SPC951 NODE_2011_length_16612_cov_4.736124, whole genome shotgun sequence",Brasilonema bromeliae SPC951,172,172,96%,5.00E-47,39.18,16612,NZ_QMEB01000142.1
+"Cylindrospermum stagnale PCC 7417, complete sequence",Cylindrospermum stagnale PCC 7417,172,172,96%,7.00E-47,39.18,7003560,NC_019757.1
+"Nostoc parmelioides FACHB-3921 contig14, whole genome shotgun sequence",Nostoc parmelioides FACHB-3921,172,172,96%,7.00E-47,39.55,136749,NZ_JACJQL010000014.1
+"Trichormus variabilis 0441 chromosome, complete genome",Trichormus variabilis 0441,172,172,96%,7.00E-47,39.55,6377767,NZ_CP047242.1
+"Mastigocladopsis repens PCC 10914 Mas10914DRAFT_scaffold1.1, whole genome shotgun sequence",Mastigocladopsis repens PCC 10914,171,171,96%,8.00E-47,39.93,6070411,NZ_JH992901.1
+"Nodosilinea nodulosa PCC 7104 Lepto7104DRAFT_LPD.2, whole genome shotgun sequence",Nodosilinea nodulosa PCC 7104,171,171,96%,8.00E-47,39.93,6098684,NZ_JH976537.1
+"Crinalium epipsammum PCC 9333, complete sequence",Crinalium epipsammum PCC 9333,171,171,96%,9.00E-47,38.81,5315554,NC_019753.1
+"Calothrix membranacea FACHB-236 contig12, whole genome shotgun sequence",Calothrix membranacea FACHB-236,171,171,96%,1.00E-46,38.81,141338,NZ_JACJPX010000012.1
+"Nostoc carneum NIES-2107 DNA, nearly complete genome",Nostoc carneum NIES-2107,171,171,96%,1.00E-46,38.81,8352649,NZ_AP018180.1
+"Tolypothrix tenuis PCC 7101 DNA, nearly complete genome",Tolypothrix tenuis PCC 7101,171,171,96%,1.00E-46,38.81,8700819,NZ_AP018248.1
+"Fremyella diplosiphon NIES-3275 DNA, nearly complete genome",Fremyella diplosiphon NIES-3275,171,171,96%,1.00E-46,38.81,8894230,NZ_AP018233.1
+"Oscillatoria acuminata PCC 6304, complete sequence",Oscillatoria acuminata PCC 6304,171,171,97%,2.00E-46,41.61,7689443,NC_019693.1
+"Moorea bouillonii PNG strain PNG5-198 Ga0081470_101, whole genome shotgun sequence",Moorea bouillonii PNG,171,171,96%,2.00E-46,39.55,8262658,NZ_MKZS01000001.1
+"Coleofasciculus chthonoplastes PCC 7420 scf_1103659003828, whole genome shotgun sequence",Coleofasciculus chthonoplastes PCC 7420,171,171,96%,2.00E-46,38.81,203233,NZ_DS989856.1
+"Microcystis aeruginosa NIES-843, complete sequence",Microcystis aeruginosa NIES-843,170,170,97%,2.00E-46,39.05,5842795,NC_010296.1
+"Chamaesiphon minutus PCC 6605, complete sequence",Chamaesiphon minutus PCC 6605,170,170,96%,3.00E-46,37.92,6284095,NC_019697.1
+"Microcystis flos-aquae FACHB-1344 contig199, whole genome shotgun sequence",Microcystis flos-aquae FACHB-1344,170,170,97%,3.00E-46,39.05,98697,NZ_JACJSW010000199.1
+"Stenomitos frigidus ULC18 84, whole genome shotgun sequence",Stenomitos frigidus ULC18,170,170,96%,3.00E-46,40.3,113038,NZ_PVWK01000062.1
+"Acaryochloris marina MBIC11017, complete sequence",Acaryochloris marina MBIC11017,170,170,96%,3.00E-46,39.13,6503724,NC_009925.1
+"Microcystis viridis FACHB-1342 contig7, whole genome shotgun sequence",Microcystis viridis FACHB-1342,170,170,97%,3.00E-46,39.05,96192,NZ_JACJSV010000007.1
+"Dactylococcopsis salina PCC 8305, complete sequence",Dactylococcopsis salina PCC 8305,169,169,96%,8.00E-46,39.18,3781008,NC_019780.1
+"Mastigocoleus testarum BC008 Contig-129, whole genome shotgun sequence",Mastigocoleus testarum BC008,168,168,96%,1.00E-45,39.03,28827,NZ_LMTZ01000034.1
+"Mastigocoleus testarum BC008 Contig-128, whole genome shotgun sequence",Mastigocoleus testarum BC008,168,168,96%,1.00E-45,39.03,28871,NZ_LMTZ01000033.1
+"Aphanizomenon flos-aquae FACHB-1287 contig9, whole genome shotgun sequence",Aphanizomenon flos-aquae FACHB-1287,168,168,96%,1.00E-45,39.18,123527,NZ_JACJTO010000009.1
+"Aphanothece hegewaldii CCALA 016 NODE_12_length_303020_cov_68.5486_ID_74839, whole genome shotgun sequence",Aphanothece hegewaldii CCALA 016,165,165,96%,1.00E-44,39.55,303020,NZ_PXOH01000002.1
+"Prochlorothrix hollandica PCC 9006 = CALU 1027 strain PCC 9006 Pro9006DRAFT_Contig12.3, whole genome shotgun sequence",Prochlorothrix hollandica PCC 9006 = CALU 1027,165,165,96%,2.00E-44,41.04,371376,NZ_KB235939.1
+"Aphanocapsa montana BDHKU210001 NODE_48_length_160319_cov_240.134029, whole genome shotgun sequence",Aphanocapsa montana BDHKU210001,164,164,90%,3.00E-44,39.44,160319,NZ_JTJD02000004.1
+"Aphanothece sacrum FPU1, whole genome shotgun sequence",Aphanothece sacrum FPU1,162,162,91%,1.00E-43,38.98,35473,NZ_BDQK01000018.1
+"Stanieria cyanosphaera PCC 7437, complete sequence",Stanieria cyanosphaera PCC 7437,162,162,97%,1.00E-43,39.42,5041209,NC_019748.1
+Gloeomargarita lithophora Alchichica-D10 chromosome,Gloeomargarita lithophora Alchichica-D10,162,162,96%,1.00E-43,37.69,3049282,NZ_CP017675.1
+"Rubidibacter lacunae KORDI 51-2 KR51_contig00054, whole genome shotgun sequence",Rubidibacter lacunae KORDI 51-2,155,155,96%,2.00E-41,37.55,123481,NZ_ASSJ01000047.1
+"Hyella patelloides LEGE 07179 isolate 1, whole genome shotgun sequence",Hyella patelloides LEGE 07179,155,155,97%,4.00E-41,39.05,15700,NZ_LR213929.1
+"Vulcanococcus limneticus LL NODE_34+_length_68759_cov_7.22002, whole genome shotgun sequence",Vulcanococcus limneticus LL,152,152,89%,6.00E-40,41.13,68759,NZ_NQLA01000011.1
+"Fischerella thermalis strain JSC-11 ctg116, whole genome shotgun sequence",Fischerella thermalis,150,150,90%,2.00E-39,37.85,467836,NZ_AGIZ01000002.1
+"Fischerella muscicola PCC 7414 contig00113, whole genome shotgun sequence",Fischerella muscicola PCC 7414,150,150,90%,2.00E-39,38.25,62439,NZ_AJLK01000113.1
+Dolichospermum compactum NIES-806 chromosome,Dolichospermum compactum NIES-806,149,149,96%,7.00E-39,38.43,5165988,NZ_AP018316.1
+"Synechococcus lacustris strain Tous CaSynechococcuslacustrisTous-C69, whole genome shotgun sequence",Synechococcus lacustris,147,147,87%,3.00E-38,40.57,9755,NZ_PXVC01000069.1
+"Microcystis elabens FACHB-917 contig73, whole genome shotgun sequence",Microcystis elabens FACHB-917,146,146,89%,6.00E-38,39.76,9744,NZ_JACJSZ010000073.1
+"Crocosphaera watsonii WH 8501 ctg155, whole genome shotgun sequence",Crocosphaera watsonii WH 8501,145,145,91%,7.00E-38,38.58,8115,NZ_AADV02000182.1
+"Aphanothece cf. minutissima CCALA 015 NODE_31_length_235452_cov_102.146_ID_31866, whole genome shotgun sequence",Aphanothece cf. minutissima CCALA 015,145,145,96%,2.00E-37,38.06,235452,NZ_PVWP01000007.1
+"Prochlorococcus marinus subsp. marinus str. CCMP1375, complete sequence",Prochlorococcus marinus subsp. marinus str. CCMP1375,144,144,89%,2.00E-37,41.13,1751080,NC_005042.1
+"Cyanobium gracile PCC 6307, complete sequence",Cyanobium gracile PCC 6307,144,144,89%,3.00E-37,39.36,3342364,NC_019675.1
+"Chlorogloeopsis fritschii PCC 6912 contig00048, whole genome shotgun sequence",Chlorogloeopsis fritschii PCC 6912,140,140,82%,7.00E-36,38.43,194853,NZ_AJLN01000047.1
+"Cyanobium usitatum str. Tous CaCyanobiumglobalisTous-C14, whole genome shotgun sequence",Cyanobium usitatum str. Tous,137,137,87%,5.00E-35,41.8,59305,NZ_PXXO01000014.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,

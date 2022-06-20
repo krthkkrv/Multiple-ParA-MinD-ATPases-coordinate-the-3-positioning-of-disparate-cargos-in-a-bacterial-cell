@@ -1,0 +1,26 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Streptomyces cinereus strain JCM 3040 sequence032, whole genome shotgun sequence",Streptomyces cinereus,342,342,97%,6.00E-105,61.25,19004,NZ_BMPS01000032.1
+"Varibaculum timonense isolate MGYG-HGUT-02421, whole genome shotgun sequence",Varibaculum timonense,218,218,89%,7.00E-62,45.06,208080,NZ_CABMKH010000002.1
+"Micromonospora deserti strain 13K206 NODE_565_length_455_cov_0.756098, whole genome shotgun sequence",Micromonospora deserti,130,130,35%,6.00E-35,62.63,455,NZ_POUB01000565.1
+"Planctomonas deserti strain 13S1-3 Scaffold_1_length_1406306_cov_196.391758, whole genome shotgun sequence",Planctomonas deserti,61.2,61.2,76%,8.00E-08,25.91,1406306,NZ_QANL01000001.1
+"Ornithinimicrobium flavum strain CPCC 203535 chromosome, complete genome",Ornithinimicrobium flavum,59.7,59.7,76%,3.00E-07,24.88,3712913,NZ_CP038213.1
+"Pseudarthrobacter chlorophenolicus strain A6, whole genome shotgun sequence",Pseudarthrobacter chlorophenolicus,58.5,58.5,88%,7.00E-07,25.4,443357,NZ_FNLE01000002.1
+"Arthrobacter agilis strain NCTC2676_1 chromosome 1, complete sequence",Arthrobacter agilis,58.2,58.2,80%,1.00E-06,26.72,3261460,NZ_LR131272.1
+"Paenarthrobacter aurescens strain NBRC 12136 sequence03, whole genome shotgun sequence",Paenarthrobacter aurescens,57,57,74%,2.00E-06,25.24,267119,NZ_BJMD01000003.1
+"Paenarthrobacter nicotinovorans strain 25_8 Ga0255726_101, whole genome shotgun sequence",Paenarthrobacter nicotinovorans,57,57,77%,2.00E-06,24.77,1048271,NZ_QKMG01000001.1
+"Paenarthrobacter histidinolovorans strain JCM 2520 sequence01, whole genome shotgun sequence",Paenarthrobacter histidinolovorans,56.6,56.6,77%,3.00E-06,24.77,1004908,NZ_BMPM01000001.1
+"Arthrobacter ruber strain MDB1-42 scaffold6, whole genome shotgun sequence",Arthrobacter ruber,56.2,56.2,80%,4.00E-06,26.72,633115,NZ_PPTH01000018.1
+"Paenarthrobacter nitroguajacolicus strain HG, whole genome shotgun sequence",Paenarthrobacter nitroguajacolicus,55.8,55.8,74%,5.00E-06,24.76,1099177,NZ_CVLG01000002.1
+"Nocardioides jensenii JCM 1364 = NBRC 14755, whole genome shotgun sequence",Nocardioides jensenii JCM 1364 = NBRC 14755,54.3,54.3,88%,2.00E-05,23.46,34642,NZ_BCRJ01000082.1
+"Ornithinimicrobium pekingense DSM 21552 K330DRAFT_scaffold00003.3_C, whole genome shotgun sequence",Ornithinimicrobium pekingense DSM 21552,53.5,53.5,76%,3.00E-05,22.58,443267,NZ_ATWJ01000009.1
+"Arthrobacter oryzae strain DSM 25586 Ga0215705_102, whole genome shotgun sequence",Arthrobacter oryzae,53.1,53.1,76%,4.00E-05,27.85,722190,NZ_RBIR01000002.1
+"Arthrobacter globiformis NBRC 12137, whole genome shotgun sequence",Arthrobacter globiformis NBRC 12137,52.8,52.8,76%,5.00E-05,23.96,378214,NZ_BAEG01000085.1
+"Pseudarthrobacter polychromogenes strain CGMCC 1.1927 sequence03, whole genome shotgun sequence",Pseudarthrobacter polychromogenes,52.8,52.8,83%,6.00E-05,24.69,416006,NZ_BMKU01000003.1
+"Pseudarthrobacter enclensis strain NIO-1008 Scaffold1, whole genome shotgun sequence",Pseudarthrobacter enclensis,52.8,52.8,76%,6.00E-05,24.88,1028839,NZ_KQ758599.1
+"Arthrobacter liuii strain CGMCC 1.12778 sequence04, whole genome shotgun sequence",Arthrobacter liuii,52.4,52.4,77%,7.00E-05,23.74,315275,NZ_BMFW01000004.1
+"Arthrobacter sedimenti strain MIC A30 scaffold23, whole genome shotgun sequence",Arthrobacter sedimenti,52.4,52.4,76%,7.00E-05,25,42709,NZ_WVUN01000023.1
+Pseudarthrobacter equi strain IMMIB L-1606 chromosome I,Pseudarthrobacter equi,52.4,52.4,76%,7.00E-05,24.88,4459178,NZ_LT629779.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,

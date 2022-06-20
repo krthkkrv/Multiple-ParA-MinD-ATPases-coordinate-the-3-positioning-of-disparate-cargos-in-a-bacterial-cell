@@ -1,0 +1,12 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Labilibacter sediminis strain CG51 CG51_Scaffold12, whole genome shotgun sequence",Labilibacter sediminis,54.3,54.3,57%,7.00E-06,27.11,150790,NZ_VCHY01000012.1
+"Phocaeicola salanitronis DSM 18170, complete sequence",Phocaeicola salanitronis DSM 18170,53.1,53.1,57%,2.00E-05,26.44,4242803,NC_015164.1
+"Bacteroides coprocola DSM 17136 Scfld_02_68, whole genome shotgun sequence",Bacteroides coprocola DSM 17136,51.2,51.2,56%,7.00E-05,25.43,121611,NZ_DS981495.1
+"Bacteroides ilei strain Marseille-P3208, whole genome shotgun sequence",Bacteroides ilei,51.2,51.2,64%,8.00E-05,24,3810995,NZ_LT635801.1
+"Pareuzebyella sediminis strain S2-4-21 NODE_4_length_498192_cov_71.6257, whole genome shotgun sequence",Pareuzebyella sediminis,51.2,51.2,37%,8.00E-05,35.19,498192,NZ_VTZS01000004.1
+"Saccharicrinis carchari strain DSM 27040, whole genome shotgun sequence",Saccharicrinis carchari,50.8,50.8,60%,9.00E-05,25.28,160822,NZ_FXTB01000009.1
+"Solitalea koreensis strain DSM 21342, whole genome shotgun sequence",Solitalea koreensis,50.8,50.8,42%,9.00E-05,29.75,701159,NZ_FXSZ01000001.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,

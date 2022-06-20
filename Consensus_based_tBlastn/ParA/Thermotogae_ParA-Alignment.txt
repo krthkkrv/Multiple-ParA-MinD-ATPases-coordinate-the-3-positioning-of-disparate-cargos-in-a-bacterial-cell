@@ -1,0 +1,16 @@
+# tblastn
+# Iteration: 0
+# Query: ParA
+# RID: 7VRMYE1A013
+# Database: ref_prok_rep_genomes
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, % positives, query/sbjct frames
+# 7 hits found
+ParA	NC_022795.1	31.274	259	171	2	4	262	740200	740955	2.52e-33	130	54.05	0/1
+ParA	NC_022795.1	31.098	164	94	6	4	165	1718030	1717590	3.72e-05	46.6	43.29	0/-1
+ParA	NZ_AP019552.1	28.516	256	161	3	6	259	42456	43163	2.69e-20	92.0	48.05	0/3
+ParA	NZ_CP011232.1	33.175	211	128	5	5	208	896996	897610	2.42e-15	77.4	46.92	0/2
+ParA	NZ_JFHK01000004.1	28.511	235	159	4	1	232	222477	221791	4.55e-15	76.6	45.11	0/-3
+ParA	NZ_LS974202.1	32.301	226	139	6	5	222	1907494	1908153	1.69e-14	75.1	45.13	0/1
+ParA	NZ_CP007389.1	29.936	157	102	3	4	158	414210	413758	5.21e-05	45.8	49.04	0/-1
+
+

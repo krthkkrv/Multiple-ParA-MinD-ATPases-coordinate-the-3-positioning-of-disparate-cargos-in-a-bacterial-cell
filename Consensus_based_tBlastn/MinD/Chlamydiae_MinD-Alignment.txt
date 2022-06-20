@@ -1,0 +1,10 @@
+# tblastn
+# Iteration: 0
+# Query: MinD
+# RID: 7KPAJSVS01R
+# Database: ref_prok_rep_genomes
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, % positives, query/sbjct frames
+# 1 hits found
+MinD	NC_022439.1	24.675	154	103	5	23	166	1047723	1048175	1.03e-05	46.6	48.05	0/3
+
+

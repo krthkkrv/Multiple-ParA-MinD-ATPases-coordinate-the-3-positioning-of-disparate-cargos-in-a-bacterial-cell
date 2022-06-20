@@ -1,0 +1,11 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Pseudothermotoga hypogea DSM 11164 = NBRC 106472, complete sequence",Pseudothermotoga hypogea DSM 11164 = NBRC 106472,130,176,90%,3.00E-33,28.96,2165165,NC_022795.1
+"Athalassotoga saccharophila strain NAS-01 plasmid pATS1, complete sequence",Athalassotoga saccharophila,92,92,88%,3.00E-20,26.17,43703,NZ_AP019552.1
+"Kosmotoga pacifica strain SLHLJ1 chromosome, complete genome",Kosmotoga pacifica,77.4,77.4,71%,2.00E-15,30.33,2169170,NZ_CP011232.1
+"Kosmotoga arenicorallina S304 contig_4, whole genome shotgun sequence",Kosmotoga arenicorallina S304,76.6,76.6,81%,5.00E-15,26.38,350318,NZ_JFHK01000004.1
+"Mesotoga infera isolate MESINF1 chromosome MESINF, complete sequence",Mesotoga infera,75.1,75.1,76%,2.00E-14,29.65,2965660,NZ_LS974202.1
+"Thermosipho melanesiensis strain 431 chromosome, complete genome",Thermosipho melanesiensis,45.8,45.8,54%,5.00E-05,26.11,1915344,NZ_CP007389.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,

@@ -1,0 +1,84 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Spirochaeta africana DSM 8902, complete sequence",Spirochaeta africana DSM 8902,68.2,68.2,89%,1.00E-11,29.07,3285855,NC_017098.1
+"Treponema azotonutricium ZAS-9, complete sequence",Treponema azotonutricium ZAS-9,64.7,64.7,89%,2.00E-10,27.34,3855671,NC_015577.1
+"Leptospira fainei serovar Hurstbridge str. BUT 6 ctg1134728687809, whole genome shotgun sequence",Leptospira fainei serovar Hurstbridge str. BUT 6,64.7,64.7,59%,2.00E-10,27.81,579278,NZ_AKWZ02000002.1
+"Leptospira broomii serovar Hurstbridge str. 5399 ctg1134731807507, whole genome shotgun sequence",Leptospira broomii serovar Hurstbridge str. 5399,64.3,64.3,59%,3.00E-10,27.81,691580,NZ_AHMO02000004.1
+"Leptospira fletcheri strain SSW15 contig_0004, whole genome shotgun sequence",Leptospira fletcheri,64.3,64.3,59%,3.00E-10,27.81,269582,NZ_RQET01000008.1
+"Leptospira fluminis strain SCS5 contig_0002, whole genome shotgun sequence",Leptospira fluminis,64.3,64.3,59%,3.00E-10,27.81,493428,NZ_RQEV01000012.1
+"Leptospira haakeii strain ATI7-C-A2 contig_21, whole genome shotgun sequence",Leptospira haakeii,63.9,63.9,59%,3.00E-10,27.81,25159,NZ_NPEI01000021.1
+"Leptospira neocaledonica strain ES4-C-A1 contig_8, whole genome shotgun sequence",Leptospira neocaledonica,63.9,63.9,59%,4.00E-10,27.81,253566,NZ_NPEA01000008.1
+"Leptospira johnsonii strain E8, whole genome shotgun sequence",Leptospira johnsonii,63.9,63.9,59%,4.00E-10,27.81,400688,NZ_BFAY01000006.1
+"Leptospira selangorensis strain 201702405 contig_0004, whole genome shotgun sequence",Leptospira selangorensis,63.9,63.9,59%,4.00E-10,27.81,413905,NZ_RQGV01000010.1
+"Leptospira saintgironsiae strain FH4-C-A2 contig_2, whole genome shotgun sequence",Leptospira saintgironsiae,63.9,63.9,59%,4.00E-10,27.81,559327,NZ_NPDR01000002.1
+"Leptospira venezuelensis strain IVIC-Bov1 contig_0003, whole genome shotgun sequence",Leptospira venezuelensis,63.9,63.9,59%,4.00E-10,27.81,659809,NZ_NFUQ01000003.1
+"Leptospira sarikeiensis strain 201702455 contig_0007, whole genome shotgun sequence",Leptospira sarikeiensis,63.9,63.9,59%,4.00E-10,27.81,226204,NZ_RQGF01000025.1
+"Leptospira wolffii strain 201800291 contig_0004, whole genome shotgun sequence",Leptospira wolffii,63.9,63.9,59%,4.00E-10,27.81,398646,NZ_RQFH01000007.1
+"Leptospira hartskeerlii strain MCA1-C-A1 contig_6, whole genome shotgun sequence",Leptospira hartskeerlii,63.9,63.9,59%,4.00E-10,27.81,377496,NZ_NPDN01000006.1
+"Leptospira koniambonensis strain 201800265 contig_0004, whole genome shotgun sequence",Leptospira koniambonensis,63.9,63.9,59%,4.00E-10,27.81,388476,NZ_RQFY01000006.1
+"Leptospira dzoumogneensis strain 201601113 contig_0004, whole genome shotgun sequence",Leptospira dzoumogneensis,63.9,63.9,59%,4.00E-10,27.81,408877,NZ_RQHS01000010.1
+"Leptospira licerasiae str. MMD4847 ctg7180000002430, whole genome shotgun sequence",Leptospira licerasiae str. MMD4847,63.9,63.9,59%,4.00E-10,27.81,553412,NZ_AHOM02000008.1
+"Leptospira andrefontaineae strain 201800301 contig_0001, whole genome shotgun sequence",Leptospira andrefontaineae,63.9,63.9,59%,4.00E-10,27.81,611223,NZ_RQEY01000005.1
+"Leptospira langatensis strain SSW18 contig_0002, whole genome shotgun sequence",Leptospira langatensis,63.5,63.5,59%,5.00E-10,27.81,640893,NZ_RQER01000001.1
+"Leptospira semungkisensis strain SSS9 contig_0003, whole genome shotgun sequence",Leptospira semungkisensis,63.5,63.5,59%,6.00E-10,27.81,653976,NZ_RQEP01000018.1
+"Leptospira perolatii strain FH1-B-B1 contig_5, whole genome shotgun sequence",Leptospira perolatii,63.2,63.2,51%,7.00E-10,29.25,263630,NZ_NPDZ01000005.1
+"Leptospira inadai serovar Lyme strain M34/99 Contig_6_consensus_sequence, whole genome shotgun sequence",Leptospira inadai serovar Lyme,62.4,62.4,59%,1.00E-09,27.22,257533,NZ_MCRM02000005.1
+"Spirochaeta lutea strain JC230 contig809, whole genome shotgun sequence",Spirochaeta lutea,61.6,61.6,89%,2.00E-09,25.87,230068,NZ_JNUP01000023.1
+"Brachyspira suanatina strain AN4859/03, whole genome shotgun sequence",Brachyspira suanatina,61.2,61.2,52%,3.00E-09,27.89,2243936,NZ_CVLB01000001.1
+"Brachyspira alvinipulli ATCC 51933 T324DRAFT_scaffold00002.2, whole genome shotgun sequence",Brachyspira alvinipulli ATCC 51933,61.2,61.2,52%,3.00E-09,27.89,563111,NZ_KI912403.1
+"Sediminispirochaeta smaragdinae DSM 11293, complete sequence",Sediminispirochaeta smaragdinae DSM 11293,61.2,61.2,50%,3.00E-09,31.69,4653970,NC_014364.1
+"Treponema vincentii F0403 aczIO-supercont1.2, whole genome shotgun sequence",Treponema vincentii F0403,60.8,60.8,87%,4.00E-09,24.9,180029,NZ_KE332513.1
+"Brachyspira hyodysenteriae strain NM31 Bhyo-ST108-NM31_contig_11_coverage_435.66, whole genome shotgun sequence",Brachyspira hyodysenteriae,60.8,60.8,52%,4.00E-09,27.89,327633,NZ_LZON01000003.1
+"Sediminispirochaeta bajacaliforniensis DSM 16054 F459DRAFT_scaffold00008.8, whole genome shotgun sequence",Sediminispirochaeta bajacaliforniensis DSM 16054,60.8,60.8,50%,4.00E-09,30.99,186186,NZ_KB899413.1
+"Brachyspira hampsonii strain NSH-16 chromosome, complete genome",Brachyspira hampsonii,60.5,107,52%,6.00E-09,27.89,3189639,NZ_CP019914.1
+"Leptospira ryugenii strain YH101, whole genome shotgun sequence",Leptospira ryugenii,60.1,60.1,88%,6.00E-09,24.71,260492,NZ_BFBB01000005.1
+"Brachyspira intermedia PWS/A, complete sequence",Brachyspira intermedia PWS/A,60.1,60.1,52%,7.00E-09,27.21,3304788,NC_017243.1
+"Marispirochaeta aestuarii strain JC444 Contig14, whole genome shotgun sequence",Marispirochaeta aestuarii,60.1,60.1,50%,8.00E-09,29.58,117692,NZ_MWQY01000014.1
+"Leptospira idonii strain 201300427 NODE_13_covk_40.3292_covr_82.00_cutoff_40, whole genome shotgun sequence",Leptospira idonii,59.7,59.7,88%,1.00E-08,24.71,133749,NZ_RQHW01000033.1
+"Brachyspira murdochii DSM 12563, complete sequence",Brachyspira murdochii DSM 12563,59.3,59.3,52%,1.00E-08,27.89,3241804,NC_014150.1
+"Leptospira kobayashii strain E30, whole genome shotgun sequence",Leptospira kobayashii,58.5,58.5,88%,2.00E-08,24.71,378936,NZ_BFBA01000009.1
+"Brachyspira innocens ATCC 29796 strain B256 F811DRAFT_scaffold00001.1_C, whole genome shotgun sequence",Brachyspira innocens ATCC 29796,58.5,58.5,52%,2.00E-08,27.89,168341,NZ_ARQI01000130.1
+"Leptospira ilyithenensis strain 201400974 NODE_22_covk_43.9866_covr_85.83_cutoff_51, whole genome shotgun sequence",Leptospira ilyithenensis,58.5,58.5,88%,2.00E-08,24.71,39163,NZ_RQHV01000023.1
+"Treponema saccharophilum DSM 2985 Tsacc_Contig240, whole genome shotgun sequence",Treponema saccharophilum DSM 2985,58.5,58.5,50%,2.00E-08,27.46,314154,NZ_AGRW01000054.1
+"Leptospira ognonensis strain 201702476 NODE_8_covk_23.8476_covr_46.45_cutoff_5, whole genome shotgun sequence",Leptospira ognonensis,58.2,58.2,51%,3.00E-08,27.89,169895,NZ_RQGD01000020.1
+"Leptospira kanakyensis strain 201800292 contig_0001, whole genome shotgun sequence",Leptospira kanakyensis,58.2,58.2,51%,3.00E-08,27.08,1522793,NZ_RQFG01000005.1
+"Leptospira noumeaensis strain 201800287 contig_0006, whole genome shotgun sequence",Leptospira noumeaensis,58.2,58.2,51%,3.00E-08,27.89,313016,NZ_RQFK01000009.1
+"Leptospira perdikensis strain 201702692 contig_0001, whole genome shotgun sequence",Leptospira perdikensis,57.4,57.4,51%,5.00E-08,27.08,1226694,NZ_RQGA01000003.1
+"Treponema medium ATCC 700293 acAqN-supercont-complete, whole genome shotgun sequence",Treponema medium ATCC 700293,57.4,57.4,87%,5.00E-08,24.5,2727508,NZ_KE332517.1
+"Leptospira wolbachii serovar Codice str. CDC ctg1134731807536, whole genome shotgun sequence",Leptospira wolbachii serovar Codice str. CDC,57.4,57.4,51%,5.00E-08,27.89,2540234,NZ_AOGZ02000014.1
+"Leptospira montravelensis strain 201800278 contig_0007, whole genome shotgun sequence",Leptospira montravelensis,57.4,57.4,51%,5.00E-08,27.89,180778,NZ_RQFO01000001.1
+"Leptospira bandrabouensis strain 201601109 NODE_4_covk_41.5454_covr_82.34_44, whole genome shotgun sequence",Leptospira bandrabouensis,57.4,57.4,51%,5.00E-08,27.89,209022,NZ_RQHU01000025.1
+"Leptospira terpstrae serovar Hualin str. LT 11-33 = ATCC 700639 strain LT 11-33 ctg7180000024125, whole genome shotgun sequence",Leptospira terpstrae serovar Hualin str. LT 11-33 = ATCC 700639,57,57,51%,6.00E-08,27.08,270093,NZ_AOGW02000008.1
+"Leptospira bourretii strain 201800267 contig_0009, whole genome shotgun sequence",Leptospira bourretii,57,57,51%,7.00E-08,27.21,219367,NZ_RQFW01000024.1
+"Leptospira mtsangambouensis strain 201601298 NODE_2_covk_40.8613_covr_69.091_taxo_STREPTOCOCCUS, whole genome shotgun sequence",Leptospira mtsangambouensis,57,57,51%,7.00E-08,27.21,1411831,NZ_RQHK01000002.1
+"Leptospira meyeri strain ES1-C-A1 contig_1, whole genome shotgun sequence",Leptospira meyeri,57,57,51%,7.00E-08,27.21,1503392,NZ_NPEC01000001.1
+"Leptospira biflexa strain 201601962 contig_0001, whole genome shotgun sequence",Leptospira biflexa,57,57,51%,7.00E-08,27.21,1898183,NZ_RQHA01000004.1
+"Leptospira harrisiae strain FH2-B-A1 contig_1, whole genome shotgun sequence",Leptospira harrisiae,57,57,51%,7.00E-08,27.21,2088660,NZ_NPDX01000001.1
+"Leptospira vanthielii strain 201601955 contig_0002, whole genome shotgun sequence",Leptospira vanthielii,57,57,51%,8.00E-08,27.89,585451,NZ_RQHF01000012.1
+"Leptospira bouyouniensis strain 201800295 contig_0002, whole genome shotgun sequence",Leptospira bouyouniensis,57,57,51%,8.00E-08,27.21,1090602,NZ_RQFD01000016.1
+"Leptospira ellinghausenii strain E18, whole genome shotgun sequence",Leptospira ellinghausenii,57,57,51%,8.00E-08,27.21,1774662,NZ_BFAZ01000009.1
+"Leptospira yanagawae strain 201800272 contig_0011, whole genome shotgun sequence",Leptospira yanagawae,57,57,51%,8.00E-08,26.39,118674,NZ_RQFU01000003.1
+"Leptospira kemamanensis strain 201702454 contig_0009, whole genome shotgun sequence",Leptospira kemamanensis,57,57,51%,8.00E-08,26.39,169501,NZ_RQGG01000050.1
+"Leptospira jelokensis strain 201702419 contig_0001, whole genome shotgun sequence",Leptospira jelokensis,57,57,51%,8.00E-08,26.39,1556994,NZ_RQGR01000029.1
+"Leptospira levettii strain 201601119 NODE_1_covk_41.2664_covr_81.55_cutoff_47, whole genome shotgun sequence",Leptospira levettii,57,57,51%,8.00E-08,26.39,3388505,NZ_RQHO01000002.1
+"Leptospira brenneri strain 201800277 contig_0002, whole genome shotgun sequence",Leptospira brenneri,57,57,51%,8.00E-08,27.21,2416981,NZ_RQFP01000001.1
+"Treponema caldarium DSM 7334, complete sequence",Treponema caldarium DSM 7334,57,57,80%,8.00E-08,24.67,3239340,NC_015732.1
+"Leptospira congkakensis strain 201702421 contig_0003, whole genome shotgun sequence",Leptospira congkakensis,56.6,56.6,51%,9.00E-08,27.21,682760,NZ_RQGQ01000016.1
+"Treponema ruminis strain DSM 103462 Ga0415371_03, whole genome shotgun sequence",Treponema ruminis,55.1,55.1,50%,3.00E-07,28.17,408323,NZ_JACHFQ010000003.1
+"Salinispira pacifica, complete sequence",Salinispira pacifica,54.7,54.7,55%,4.00E-07,25.77,3782798,NC_023035.1
+"Treponema primitia ZAS-2, complete sequence",Treponema primitia ZAS-2,53.9,53.9,50%,7.00E-07,25.87,4059867,NC_015578.1
+"Treponema maltophilum ATCC 51939 aczIZ-supercont-complete, whole genome shotgun sequence",Treponema maltophilum ATCC 51939,52,52,50%,3.00E-06,28.17,2530388,NZ_KE332518.1
+"Treponema zioleckii strain kT3 contig00021, whole genome shotgun sequence",Treponema zioleckii,51.6,51.6,50%,4.00E-06,24.65,55539,NZ_JPUF01000021.1
+"Treponema saccharophilum DSM 2985 Tsacc_Contig221, whole genome shotgun sequence",Treponema saccharophilum DSM 2985,51.2,51.2,49%,5.00E-06,26.95,50602,NZ_AGRW01000035.1
+"Treponema lecithinolyticum ATCC 700332 Scaffold69, whole genome shotgun sequence",Treponema lecithinolyticum ATCC 700332,50.8,50.8,50%,8.00E-06,26.06,199108,NZ_KI260567.1
+"Thiospirochaeta perfilievii strain P chromosome, complete genome",Thiospirochaeta perfilievii,50.4,50.4,46%,9.00E-06,26.15,3667739,NZ_CP035807.1
+"Treponema brennaborense DSM 12168, complete sequence",Treponema brennaborense DSM 12168,49.7,98.2,51%,2.00E-05,25.35,3055580,NC_015500.1
+"Spirochaeta isovalerica strain DSM 2461 Ga0415347_04, whole genome shotgun sequence",Spirochaeta isovalerica,49.7,49.7,48%,2.00E-05,24.26,340827,NZ_JACHGJ010000004.1
+"Treponema zioleckii strain kT3 contig00001, whole genome shotgun sequence",Treponema zioleckii,49.3,49.3,48%,3.00E-05,27.21,189940,NZ_JPUF01000001.1
+"Brachyspira pilosicoli 95/1000, complete sequence",Brachyspira pilosicoli 95/1000,48.9,48.9,58%,3.00E-05,25.15,2586443,NC_014330.1
+"Leptospira licerasiae str. MMD4847 ctg7180000002428, whole genome shotgun sequence",Leptospira licerasiae str. MMD4847,48.1,48.1,84%,5.00E-05,24,103207,NZ_AHOM02000005.1
+"Spirochaeta cellobiosiphila DSM 17781 K345DRAFT_scaffold00001.1, whole genome shotgun sequence",Spirochaeta cellobiosiphila DSM 17781,47.8,47.8,45%,6.00E-05,28.24,746840,NZ_KE384554.1
+"Treponema denticola ATCC 35405, complete sequence",Treponema denticola ATCC 35405,47.4,47.4,89%,8.00E-05,23.74,2843201,NC_002967.9
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,
