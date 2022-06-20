@@ -1,0 +1,51 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Athalassotoga saccharophila strain NAS-01 chromosome, complete genome",Athalassotoga saccharophila,90.1,137,61%,4.00E-19,28.24,1957762,NZ_AP019551.1
+"Thermotoga neapolitana DSM 4359, complete sequence",Thermotoga neapolitana DSM 4359,84.7,136,64%,3.00E-17,27.95,1884562,NC_011978.1
+"Mesoaciditoga lauensis cd-1655R = DSM 25116 EK18DRAFT_scaffold00028.28_C, whole genome shotgun sequence",Mesoaciditoga lauensis cd-1655R = DSM 25116,84,84,58%,5.00E-17,27.27,30927,NZ_JQJI01000030.1
+"Thermotoga naphthophila RKU-10, complete sequence",Thermotoga naphthophila RKU-10,84,135,65%,6.00E-17,26.61,1809823,NC_013642.1
+"Thermotoga petrophila RKU-1, complete sequence",Thermotoga petrophila RKU-1,84,135,65%,6.00E-17,26.61,1823511,NC_009486.1
+"Thermotoga maritima MSB8, complete sequence",Thermotoga maritima MSB8,83.6,135,65%,8.00E-17,27.04,1869644,NC_023151.1
+"Fervidobacterium thailandense strain FC2004 contig00003, whole genome shotgun sequence",Fervidobacterium thailandense,81.3,81.3,68%,4.00E-16,25.31,192816,NZ_LWAF01000003.1
+"Pseudothermotoga hypogea DSM 11164 = NBRC 106472, complete sequence",Pseudothermotoga hypogea DSM 11164 = NBRC 106472,80.1,132,63%,1.00E-15,24.78,2165165,NC_022795.1
+"Fervidobacterium pennivorans DSM 9078, complete sequence",Fervidobacterium pennivorans DSM 9078,79.3,79.3,51%,2.00E-15,26.78,2166381,NC_017095.1
+"Thermotoga profunda AZM34c06 chromosome, complete genome",Thermotoga profunda AZM34c06,78.6,130,64%,3.00E-15,24.22,2187612,NZ_AP014510.1
+"Thermotoga caldifontis AZM44c09 chromosome, complete genome",Thermotoga caldifontis AZM44c09,78.2,129,68%,4.00E-15,23.58,2014912,NZ_AP014509.1
+"Pseudothermotoga thermarum DSM 5069, complete sequence",Pseudothermotoga thermarum DSM 5069,77.8,127,67%,5.00E-15,23.65,2039943,NC_015707.1
+"Petrotoga olearia DSM 13574 P._olearia__contig_13, whole genome shotgun sequence",Petrotoga olearia DSM 13574,77,77,56%,1.00E-14,25.37,40001,NZ_AZRL01000005.1
+"Petrotoga sibirica DSM 13575 contig_15, whole genome shotgun sequence",Petrotoga sibirica DSM 13575,77,77,56%,1.00E-14,25.37,54644,NZ_JAHC01000027.1
+"Pseudothermotoga lettingae TMO, complete sequence",Pseudothermotoga lettingae TMO,75.1,75.1,62%,4.00E-14,23.32,2135342,NC_009828.1
+"Pseudothermotoga elfii DSM 9442 = NBRC 107921, complete sequence",Pseudothermotoga elfii DSM 9442 = NBRC 107921,75.1,75.1,62%,4.00E-14,23.32,2169860,NC_022792.1
+"Fervidobacterium islandicum strain AW-1, complete genome",Fervidobacterium islandicum,75.1,75.1,51%,5.00E-14,27.32,2237377,NZ_CP014334.1
+Fervidobacterium changbaicum strain CBS-1 chromosome,Fervidobacterium changbaicum,75.1,75.1,51%,5.00E-14,27.32,2266449,NZ_CP026721.1
+"Tepiditoga spiralis strain sy52 chromosome, complete genome",Tepiditoga spiralis,73.9,131,64%,1.00E-13,23.88,2502404,NZ_AP018712.1
+"Fervidobacterium gondwanense DSM 13020, whole genome shotgun sequence",Fervidobacterium gondwanense DSM 13020,73.6,73.6,51%,1.00E-13,25.68,234296,NZ_FRDJ01000002.1
+"Petrotoga halophila DSM 16923 P-halophila_contig_34, whole genome shotgun sequence",Petrotoga halophila DSM 16923,73.6,73.6,56%,1.00E-13,24.38,55918,NZ_JALY01000177.1
+"Oceanotoga teriensis strain DSM 24906 Ga0215701_117, whole genome shotgun sequence",Oceanotoga teriensis,72.4,72.4,58%,3.00E-13,27.05,68074,NZ_QGGI01000017.1
+"Geotoga petraea strain WG14, whole genome shotgun sequence",Geotoga petraea,72,72,58%,4.00E-13,26.7,331951,NZ_FMYV01000002.1
+"Petrotoga miotherma DSM 10691 P._miotherma_contig_9, whole genome shotgun sequence",Petrotoga miotherma DSM 10691,71.6,71.6,56%,6.00E-13,24.38,66472,NZ_AZRM01000065.1
+"Petrotoga halophila DSM 16923 P-halophila_contig_295, whole genome shotgun sequence",Petrotoga halophila DSM 16923,70.9,70.9,68%,9.00E-13,22.54,4223,NZ_JALY01000274.1
+"Fervidobacterium nodosum Rt17-B1, complete sequence",Fervidobacterium nodosum Rt17-B1,69.3,69.3,51%,3.00E-12,25.68,1948941,NC_009718.1
+"Marinitoga lauensis strain LG1 unitig_2_quiver, whole genome shotgun sequence",Marinitoga lauensis,68.9,68.9,62%,4.00E-12,23.77,543795,NZ_QHLX01000001.1
+"Marinitoga piezophila KA3, complete sequence",Marinitoga piezophila KA3,68.6,118,63%,6.00E-12,25.11,2231407,NC_016751.1
+"Marinitoga hydrogenitolerans DSM 16785, whole genome shotgun sequence",Marinitoga hydrogenitolerans DSM 16785,68.2,68.2,62%,8.00E-12,23.32,37034,NZ_FQUI01000020.1
+"Defluviitoga tunisiensis isolate L3 chromosome I, complete sequence",Defluviitoga tunisiensis,65.5,113,57%,6.00E-11,24.39,2053097,NZ_LN824141.1
+"Mesotoga prima MesG1.Ag.4.2, complete sequence",Mesotoga prima MesG1.Ag.4.2,57,57,67%,3.00E-08,25.2,2974229,NC_017934.1
+"Mesotoga infera isolate MESINF1 chromosome MESINF, complete sequence",Mesotoga infera,55.8,55.8,67%,7.00E-08,24.8,2965660,NZ_LS974202.1
+"Kosmotoga olearia TBF 19.5.1, complete sequence",Kosmotoga olearia TBF 19.5.1,55.1,55.1,57%,1.00E-07,26.79,2302126,NC_012785.1
+"Marinitoga hydrogenitolerans DSM 16785, whole genome shotgun sequence",Marinitoga hydrogenitolerans DSM 16785,52,52,56%,1.00E-06,26.83,35560,NZ_FQUI01000023.1
+"Kosmotoga arenicorallina S304 contig_4, whole genome shotgun sequence",Kosmotoga arenicorallina S304,51.6,51.6,57%,2.00E-06,25.59,350318,NZ_JFHK01000004.1
+"Petrotoga olearia DSM 13574 P._olearia__contig_9, whole genome shotgun sequence",Petrotoga olearia DSM 13574,50.8,50.8,43%,3.00E-06,27.85,343252,NZ_AZRL01000022.1
+"Petrotoga mobilis SJ95, complete sequence",Petrotoga mobilis SJ95,50.8,50.8,43%,3.00E-06,27.85,2169548,NC_010003.1
+"Petrotoga halophila DSM 16923 P-halophila_contig_201, whole genome shotgun sequence",Petrotoga halophila DSM 16923,50.4,50.4,39%,4.00E-06,28.67,11469,NZ_JALY01000038.1
+"Petrotoga miotherma DSM 10691 P._miotherma_contig_13, whole genome shotgun sequence",Petrotoga miotherma DSM 10691,50.4,50.4,39%,4.00E-06,28.67,68803,NZ_AZRM01000005.1
+"Marinitoga lauensis strain LG1 unitig_3_quiver, whole genome shotgun sequence",Marinitoga lauensis,49.7,49.7,39%,6.00E-06,30.77,305609,NZ_QHLX01000005.1
+"Petrotoga mexicana DSM 14811 P.mexicana__contig_6, whole genome shotgun sequence",Petrotoga mexicana DSM 14811,49.3,49.3,39%,7.00E-06,28.67,115591,NZ_AZRN01000033.1
+"Petrotoga sibirica DSM 13575 contig_19, whole genome shotgun sequence",Petrotoga sibirica DSM 13575,48.1,48.1,39%,2.00E-05,27.97,70213,NZ_JAHC01000007.1
+"Mesoaciditoga lauensis cd-1655R = DSM 25116 EK18DRAFT_scaffold00001.1_C, whole genome shotgun sequence",Mesoaciditoga lauensis cd-1655R = DSM 25116,48.1,48.1,56%,2.00E-05,27.32,174379,NZ_JQJI01000001.1
+"Oceanotoga teriensis strain DSM 24906 Ga0215701_111, whole genome shotgun sequence",Oceanotoga teriensis,47.4,47.4,40%,3.00E-05,29.66,95346,NZ_QGGI01000011.1
+"Geotoga petraea strain WG14, whole genome shotgun sequence",Geotoga petraea,46.6,46.6,39%,6.00E-05,28.67,237672,NZ_FMYV01000004.1
+"Thermosipho japonicus strain DSM 13481 Ga0415353_03, whole genome shotgun sequence",Thermosipho japonicus,46.6,46.6,63%,6.00E-05,26.29,260704,NZ_JACHEX010000003.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,

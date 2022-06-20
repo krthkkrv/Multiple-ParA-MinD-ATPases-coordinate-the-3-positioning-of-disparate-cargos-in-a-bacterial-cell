@@ -1,0 +1,26 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Longilinea arvoryzae strain KOME-1, whole genome shotgun sequence",Longilinea arvoryzae,68.6,68.6,69%,1.00E-11,28.69,4145241,NZ_DF967972.1
+"Ornatilinea apprima strain P3M-1 contig_32, whole genome shotgun sequence",Ornatilinea apprima,63.9,63.9,66%,4.00E-10,25.93,28415,NZ_LGCL01000009.1
+"Leptolinea tardivitalis strain YMTK-2, whole genome shotgun sequence",Leptolinea tardivitalis,63.2,63.2,64%,8.00E-10,28.63,716318,NZ_BBYA01000008.1
+"Thermanaerothrix daxensis strain GNS-1 contig_2, whole genome shotgun sequence",Thermanaerothrix daxensis,62.8,62.8,69%,1.00E-09,28,887442,NZ_LGKO01000005.1
+"Thermoflexus hugenholtzii JAD2, whole genome shotgun sequence",Thermoflexus hugenholtzii JAD2,62.4,62.4,64%,1.00E-09,27.16,40377,NZ_FYEK01000015.1
+"Sphaerobacter thermophilus DSM 20745 chromosome 1, complete sequence",Sphaerobacter thermophilus DSM 20745,60.1,60.1,64%,8.00E-09,26.61,2741033,NC_013523.1
+"Thermorudis peleae strain KI4 N675DRAFT_scf7180000000026_quiver.4_C, whole genome shotgun sequence",Thermorudis peleae,59.7,59.7,64%,9.00E-09,27.35,745267,NZ_JQMP01000004.1
+"Thermomicrobium roseum DSM 5159, complete sequence",Thermomicrobium roseum DSM 5159,57.8,57.8,64%,4.00E-08,26.61,2003006,NC_011959.1
+"Pelolinea submarina strain MO-CFX1 chromosome, complete genome",Pelolinea submarina,57.8,57.8,68%,4.00E-08,24.7,3519887,NZ_AP018437.1
+"Nitrolancea hollandica Lb, whole genome shotgun sequence",Nitrolancea hollandica Lb,57,57,64%,6.00E-08,26.92,7467,NZ_CAGS01000279.1
+"Flexilinea flocculi strain TC1, whole genome shotgun sequence",Flexilinea flocculi,57.4,57.4,68%,6.00E-08,24.9,2313929,NZ_DF968181.1
+"Anaerolinea thermolimosa strain IMO-1, whole genome shotgun sequence",Anaerolinea thermolimosa,57,112,64%,8.00E-08,25.64,3442441,NZ_DF967965.1
+"Tepidiforma bonchosmolovskayae strain 3753O chromosome, complete genome",Tepidiforma bonchosmolovskayae,55.8,55.8,64%,1.00E-07,27.97,2746948,NZ_CP042829.1
+"Leptolinea tardivitalis strain YMTK-2, whole genome shotgun sequence",Leptolinea tardivitalis,53.5,53.5,63%,1.00E-06,28.14,184345,NZ_BBYA01000014.1
+"Bellilinea caldifistulae strain GOMI-1, whole genome shotgun sequence",Bellilinea caldifistulae,52.4,52.4,68%,2.00E-06,25.81,3698317,NZ_DF967971.1
+"Levilinea saccharolytica strain KIBI-1 contig_16, whole genome shotgun sequence",Levilinea saccharolytica,52.4,52.4,64%,2.00E-06,26.16,108290,NZ_LGCM01000031.1
+"Oscillochloris trichoides DG-6 OSCTscaffold_2, whole genome shotgun sequence",Oscillochloris trichoides DG-6,50.8,50.8,68%,7.00E-06,24.7,989072,NZ_GL501401.1
+"Thermoflexus hugenholtzii JAD2, whole genome shotgun sequence",Thermoflexus hugenholtzii JAD2,50.4,50.4,63%,8.00E-06,24.89,405611,NZ_FYEK01000003.1
+"Anaerolinea thermophila UNI-1, complete sequence",Anaerolinea thermophila UNI-1,49.7,49.7,69%,1.00E-05,24,3532378,NC_014960.1
+"Chloroflexus aurantiacus Y-400-fl, complete sequence",Chloroflexus aurantiacus Y-400-fl,48.1,48.1,69%,4.00E-05,23.79,5268950,NC_012032.1
+"Litorilinea aerophila strain ATCC BAA-2444 NODE_32_length_65863_cov_47.097800, whole genome shotgun sequence",Litorilinea aerophila,47.4,47.4,64%,7.00E-05,24.03,65863,NZ_VIGC01000032.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,

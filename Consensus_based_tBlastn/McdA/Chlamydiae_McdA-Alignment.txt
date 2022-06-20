@@ -1,0 +1,10 @@
+# tblastn
+# Iteration: 0
+# Query: McdA
+# RID: 7VSPDZU5013
+# Database: ref_prok_rep_genomes
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, % positives, query/sbjct frames
+# 1 hits found
+McdA	NC_014226.1	24.138	174	127	4	26	199	13545	13039	5.29e-11	62.0	45.40	0/-3
+
+

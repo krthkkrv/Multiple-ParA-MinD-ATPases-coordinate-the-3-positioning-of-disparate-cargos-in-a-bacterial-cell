@@ -1,0 +1,9 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Holophaga foetida DSM 6591 HolfoDRAFT_HFA.1, whole genome shotgun sequence",Holophaga foetida DSM 6591,151,151,74%,1.00E-39,36.26,3443192,NZ_KI912268.1
+"Geothrix fermentans DSM 14018 G398DRAFT_scaffold00003.3_C, whole genome shotgun sequence",Geothrix fermentans DSM 14018,148,148,61%,2.00E-38,40.37,201152,NZ_AUAU01000006.1
+"Pyrinomonas methylaliphatogenes strain K22, whole genome shotgun sequence",Pyrinomonas methylaliphatogenes,128,128,63%,1.00E-31,36.16,268955,NZ_CBXV010000005.1
+"Pyrinomonas methylaliphatogenes strain K22, whole genome shotgun sequence",Pyrinomonas methylaliphatogenes,54.7,54.7,63%,3.00E-07,28.33,443598,NZ_CBXV010000002.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,

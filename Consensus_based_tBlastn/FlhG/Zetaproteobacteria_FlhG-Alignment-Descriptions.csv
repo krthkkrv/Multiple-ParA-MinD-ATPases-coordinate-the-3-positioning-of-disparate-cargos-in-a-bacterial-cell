@@ -1,0 +1,12 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Mariprofundus micogutta strain ET2, whole genome shotgun sequence",Mariprofundus micogutta,142,142,68%,1.00E-37,34.98,209506,NZ_BDFD01000002.1
+"Mariprofundus erugo strain P3 NODE_8_length_158828_cov_37.713713, whole genome shotgun sequence",Mariprofundus erugo,138,138,68%,5.00E-36,35.8,158828,NZ_VBRY01000008.1
+"Mariprofundus aestuarium, complete genome",Mariprofundus aestuarium,137,137,57%,7.00E-36,38.61,2537610,NZ_CP018799.1
+"Mariprofundus ferrooxydans strain O-1 NODE_1_length_1082725_cov_77.560536, whole genome shotgun sequence",Mariprofundus ferrooxydans,137,137,68%,1.00E-35,34.16,1082725,NZ_JAAVJJ010000001.1
+"Mariprofundus ferrinatatus, complete genome",Mariprofundus ferrinatatus,136,136,67%,1.00E-35,34.73,2301665,NZ_CP018800.1
+"Ghiorsea bivora strain TAG-1 DM09DRAFT_scaffold00004.4_C, whole genome shotgun sequence",Ghiorsea bivora,113,113,57%,1.00E-27,40.1,262889,NZ_JQLW01000008.1
+"Ghiorsea bivora strain TAG-1 DM09DRAFT_scaffold00003.3_C, whole genome shotgun sequence",Ghiorsea bivora,48.5,48.5,63%,2.00E-06,25.53,270777,NZ_JQLW01000007.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,

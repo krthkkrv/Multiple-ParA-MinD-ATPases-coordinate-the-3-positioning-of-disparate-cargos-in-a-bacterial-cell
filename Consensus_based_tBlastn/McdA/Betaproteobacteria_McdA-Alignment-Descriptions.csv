@@ -1,0 +1,738 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Thiomonas bhubaneswarensis strain DSM 18181 DSM_18181_01, whole genome shotgun sequence",Thiomonas bhubaneswarensis,184,184,83%,5.00E-51,52.71,542382,NZ_LIPV01000001.1
+"Thiomonas arsenitoxydans, complete sequence",Thiomonas arsenitoxydans,184,184,83%,7.00E-51,52.71,3738778,NC_014145.1
+"Thiomonas intermedia strain ATCC 15466 chromosome, complete genome",Thiomonas intermedia,178,286,83%,5.00E-49,52.22,3301026,NZ_CP020046.1
+"Acidovorax facilis isolate 7, whole genome shotgun sequence",Acidovorax facilis,173,173,82%,2.00E-47,50.99,100843,NZ_CAIGKB010000019.1
+"Nitrosomonas halophila strain Nm1, whole genome shotgun sequence",Nitrosomonas halophila,170,170,82%,5.00E-46,47.52,116980,NZ_FNOY01000001.1
+"Sulfuriferula thiophila strain mst6 mst6_28, whole genome shotgun sequence",Sulfuriferula thiophila,168,168,83%,2.00E-45,50.74,152141,NZ_BHGL01000028.1
+"Sulfuriferula nivalis strain SGTM chromosome, complete genome",Sulfuriferula nivalis,167,167,83%,3.00E-45,49.75,3361892,NZ_AP021881.1
+"Nitrosomonas nitrosa strain Nm146, whole genome shotgun sequence",Nitrosomonas nitrosa,166,166,82%,1.00E-44,47.32,65086,NZ_FOUF01000020.1
+"Nitrosomonas eutropha strain Nm38, whole genome shotgun sequence",Nitrosomonas eutropha,164,164,82%,3.00E-44,47.03,162797,NZ_FNNM01000005.1
+"Sulfurirhabdus autotrophica strain DSM 100309 Ga0244719_102, whole genome shotgun sequence",Sulfurirhabdus autotrophica,164,164,83%,6.00E-44,50.25,242094,NZ_SMCO01000002.1
+"Thiobacillus thioparus DSM 505 B058DRAFT_scaffold_0.1, whole genome shotgun sequence",Thiobacillus thioparus DSM 505,158,209,83%,5.00E-42,45.54,1101984,NZ_KB891316.1
+"Sulfuriferula multivorans strain TTN NODE_50, whole genome shotgun sequence",Sulfuriferula multivorans,152,152,83%,6.00E-40,51.72,49568,NZ_BGOW01000050.1
+"Sulfuriferula plumbiphila strain Gro7 chromosome, complete genome",Sulfuriferula plumbiphila,152,238,83%,8.00E-40,51.72,3452774,NZ_AP021884.1
+"Tepidimonas thermarum strain AA-1 Tepi_ther_18, whole genome shotgun sequence",Tepidimonas thermarum,149,149,82%,6.00E-39,46.04,46041,NZ_VJOL01000018.1
+"Tepidimonas alkaliphilus strain YIM 72238 Tepi_alka_8, whole genome shotgun sequence",Tepidimonas alkaliphilus,145,145,81%,1.00E-37,46,128600,NZ_VJNB01000008.1
+"Sulfuritortus calidifontis strain J1A chromosome, complete genome",Sulfuritortus calidifontis,140,345,83%,1.00E-35,46.53,2720636,NZ_AP018721.1
+"Tepidimonas ignava strain DSM 12034 Ga0244665_101, whole genome shotgun sequence",Tepidimonas ignava,138,138,81%,4.00E-35,43.35,285766,NZ_SMAH01000001.1
+"Tepidimonas charontis strain SPSP-6 Tepi_SPSP6_8, whole genome shotgun sequence",Tepidimonas charontis,127,127,82%,2.00E-31,40.3,79297,NZ_VJON01000008.1
+"Tepidimonas taiwanensis strain VT154-175 contig238_0, whole genome shotgun sequence",Tepidimonas taiwanensis,124,124,82%,4.00E-30,39.9,13413,NZ_JTKY01000020.1
+"Tepidimonas aquatica strain CLN-1 Tepidimonas_aquatica_26, whole genome shotgun sequence",Tepidimonas aquatica,123,123,81%,6.00E-30,42.86,36122,NZ_VJNA01000026.1
+"Serpentinomonas raichei strain A1 chromosome, complete genome",Serpentinomonas raichei,109,109,82%,6.00E-25,41.29,2574013,NZ_AP014568.1
+"Serpentinomonas mccroryi strain B1 chromosome, complete genome",Serpentinomonas mccroryi,101,151,82%,3.00E-22,39.5,2606868,NZ_AP014569.1
+"Azoarcus olearius strain DQS-4 chromosome, complete genome",Azoarcus olearius,100,100,83%,6.00E-22,35.27,4451751,NZ_CP016210.1
+"Azoarcus communis SWub3 = DSM 12120 strain SWub3 NODE_7_length_217902_cov_140.618285, whole genome shotgun sequence",Azoarcus communis SWub3 = DSM 12120,98.6,98.6,84%,3.00E-21,36.54,217902,NZ_QKOE01000007.1
+"Noviherbaspirillum soli strain SUEMI10 Scaffold3_1, whole genome shotgun sequence",Noviherbaspirillum soli,97.4,97.4,83%,7.00E-21,29.27,321061,NZ_JACYOX010000003.1
+"Paraburkholderia acidophila strain ATCC 31433 plasmid pATCC31433, complete sequence",Paraburkholderia acidophila,96.7,96.7,82%,1.00E-20,30.39,153349,NZ_CP020740.1
+"Thauera aminoaromatica S2 Cont93, whole genome shotgun sequence",Thauera aminoaromatica S2,95.9,95.9,81%,2.00E-20,34.65,15680,NZ_AMXD01000093.1
+"Thauera phenylacetica B4P Cont170, whole genome shotgun sequence",Thauera phenylacetica B4P,94.7,94.7,81%,4.00E-20,34,9081,NZ_AMXF01000170.1
+"Acidovorax caeni strain R-24608, whole genome shotgun sequence",Acidovorax caeni,94.4,94.4,67%,6.00E-20,31.33,58422,NZ_FPBX01000025.1
+"Cupriavidus pauculus strain CCUG 12507 contig_0000060, whole genome shotgun sequence",Cupriavidus pauculus,94.4,94.4,82%,8.00E-20,31.68,12333,NZ_VZOW01000060.1
+"Macromonas bipunctata strain DSM 12705 DSM12705_1_(paired)_trimmed_(paired)_contig_50, whole genome shotgun sequence",Macromonas bipunctata,93.6,93.6,82%,1.00E-19,29.7,30178,NZ_NWBQ01000050.1
+"Thauera phenolivorans strain ZV1C Scaffold5, whole genome shotgun sequence",Thauera phenolivorans,93.2,93.2,81%,2.00E-19,35.5,620134,NZ_MBFM01000005.1
+"Paraburkholderia azotifigens strain NF 2-5-3 2, whole genome shotgun sequence",Paraburkholderia azotifigens,93.2,93.2,82%,2.00E-19,31.86,3220671,NZ_VOQS01000003.1
+"Bordetella petrii, complete sequence",Bordetella petrii,93.2,233,72%,2.00E-19,38.86,5287950,NC_010170.1
+"Thauera butanivorans NBRC 103042, whole genome shotgun sequence",Thauera butanivorans NBRC 103042,92.8,92.8,81%,3.00E-19,33.5,141879,NZ_BCUG01000011.1
+"Paraburkholderia franconis strain CNPSo 3157 scaffold1.1, whole genome shotgun sequence",Paraburkholderia franconis,92.4,92.4,82%,3.00E-19,31.37,367602,NZ_WHNP01000001.1
+"Paraburkholderia phymatum STM815 chromosome 2, complete sequence",Paraburkholderia phymatum STM815,92.4,92.4,82%,3.00E-19,31.86,2697374,NC_010623.1
+"Acidovorax facilis isolate 7, whole genome shotgun sequence",Acidovorax facilis,92.4,92.4,72%,3.00E-19,36.93,117660,NZ_CAIGKB010000016.1
+"Paraburkholderia rhynchosiae strain LMG 27174 isolate LMG 27174, whole genome shotgun sequence",Paraburkholderia rhynchosiae,92.4,92.4,82%,4.00E-19,31.37,227167,NZ_CADIJZ010000013.1
+"Paraburkholderia bonniea strain BbQS859, whole genome shotgun sequence",Paraburkholderia bonniea,92.4,92.4,82%,4.00E-19,30.88,922806,NZ_QPEQ01000002.1
+"Paraburkholderia piptadeniae strain STM7183, whole genome shotgun sequence",Paraburkholderia piptadeniae,92,92,82%,4.00E-19,31.37,210345,NZ_CYGY02000046.1
+"Thauera humireducens strain SgZ-1, complete genome",Thauera humireducens,92,92,81%,5.00E-19,34,4171754,NZ_CP014646.1
+"Paraburkholderia kururiensis M130 Bk_4, whole genome shotgun sequence",Paraburkholderia kururiensis M130,91.7,91.7,82%,5.00E-19,31.37,540795,NZ_ANSK01000004.1
+"Paraburkholderia lacunae strain S27 S27_8, whole genome shotgun sequence",Paraburkholderia lacunae,91.7,91.7,82%,6.00E-19,31.37,318227,NZ_QHKS01000008.1
+"Paraburkholderia phenazinium strain LMG 2247, whole genome shotgun sequence",Paraburkholderia phenazinium,91.7,91.7,82%,6.00E-19,30.88,868734,NZ_FNCJ01000001.1
+"Paraburkholderia monticola strain JC2948 10.BMJC2948.1.00009, whole genome shotgun sequence",Paraburkholderia monticola,91.7,91.7,82%,6.00E-19,30.88,205360,NZ_LRBG01000009.1
+"Paraburkholderia unamae strain SCZa-39 Ga0215850_113, whole genome shotgun sequence",Paraburkholderia unamae,91.7,91.7,82%,6.00E-19,31.37,311771,NZ_QEOB01000013.1
+"Paraburkholderia terrae strain DSM 17804 chromosome 2, complete sequence",Paraburkholderia terrae,91.7,91.7,82%,6.00E-19,31.37,3002289,NZ_CP026112.1
+"Paraburkholderia terricola strain mHS1 chromosome mHS1_B, complete sequence",Paraburkholderia terricola,91.7,91.7,82%,6.00E-19,31.37,3058868,NZ_CP024942.1
+"Paraburkholderia atlantica strain JPY171 Ga0400095_08, whole genome shotgun sequence",Paraburkholderia atlantica,91.7,91.7,82%,6.00E-19,30.88,423807,NZ_JACHDF010000008.1
+"Paraburkholderia tuberum strain DUS833, whole genome shotgun sequence",Paraburkholderia tuberum,91.7,91.7,82%,6.00E-19,30.88,2956712,NZ_FNKX01000002.1
+"Roseateles aquatilis strain CCUG 48205 Scaffold20_1, whole genome shotgun sequence",Roseateles aquatilis,91.7,91.7,72%,6.00E-19,36.93,61437,NZ_NIOF01000022.1
+"Thauera linaloolentis 47Lol = DSM 12138 Q393DRAFT_scaffold00020.20_C, whole genome shotgun sequence",Thauera linaloolentis 47Lol = DSM 12138,91.7,91.7,81%,6.00E-19,34,71727,NZ_JHYR01000021.1
+"Acidovorax wautersii strain DSM 27981, whole genome shotgun sequence",Acidovorax wautersii,91.7,91.7,72%,6.00E-19,36.93,420673,NZ_FONX01000004.1
+"Delftia lacustris strain FDAARGOS_890 chromosome, complete genome",Delftia lacustris,91.7,405,72%,6.00E-19,36.93,6904082,NZ_CP065748.1
+"Delftia tsuruhatensis strain CM13, complete genome",Delftia tsuruhatensis,91.7,410,72%,6.00E-19,36.93,7195716,NZ_CP017420.1
+"Paraburkholderia phenoliruptrix strain LMG 22037 isolate LMG 22037, whole genome shotgun sequence",Paraburkholderia phenoliruptrix,91.7,91.7,82%,6.00E-19,31.37,423478,NZ_CADIKB010000002.1
+"Paraburkholderia diazotrophica strain LMG 26031, whole genome shotgun sequence",Paraburkholderia diazotrophica,91.7,91.7,82%,6.00E-19,31.37,413401,NZ_FNYE01000003.1
+"Noviherbaspirillum malthae strain CC-AFH3 Scaffold93_1, whole genome shotgun sequence",Noviherbaspirillum malthae,91.7,91.7,81%,6.00E-19,28.86,17232,NZ_JACYXF010000098.1
+"Paraburkholderia sprentiae WSM5005 chromosome 2, complete sequence",Paraburkholderia sprentiae WSM5005,91.7,91.7,82%,6.00E-19,30.88,2657711,NZ_CP017562.1
+"Paraburkholderia caribensis strain 852011 chromosome 2, complete sequence",Paraburkholderia caribensis,91.7,91.7,82%,7.00E-19,31.37,2895821,NZ_CP015959.1
+"Paraburkholderia ultramafica strain LMG 28614 isolate LMG 28614, whole genome shotgun sequence",Paraburkholderia ultramafica,91.3,91.3,82%,9.00E-19,30.88,21991,NZ_CADIKK010000059.1
+"Paraburkholderia ribeironis strain STM 7296, whole genome shotgun sequence",Paraburkholderia ribeironis,91.3,91.3,82%,9.00E-19,30.88,67543,NZ_CYGX02000053.1
+"Paraburkholderia bryophila strain LMG 23644 Ga0139076_111, whole genome shotgun sequence",Paraburkholderia bryophila,91.3,91.3,82%,9.00E-19,30.88,184852,NZ_QLTK01000011.1
+"Paraburkholderia fynbosensis strain LMG 27177 isolate LMG 27177, whole genome shotgun sequence",Paraburkholderia fynbosensis,91.3,91.3,82%,9.00E-19,30.88,210487,NZ_CADIKI010000015.1
+"Paraburkholderia phytofirmans PsJN chromosome 2, complete sequence",Paraburkholderia phytofirmans PsJN,91.3,91.3,82%,9.00E-19,30.88,3625999,NC_010676.1
+"Trinickia soli strain LMG 24076 isolate LMG 24076, whole genome shotgun sequence",Trinickia soli,91.3,91.3,82%,9.00E-19,31.37,284610,NZ_CADIKD010000008.1
+"Paraburkholderia ginsengiterrae strain DCY85-1 NODE_5, whole genome shotgun sequence",Paraburkholderia ginsengiterrae,91.3,91.3,82%,9.00E-19,30.88,374534,NZ_LXJZ01000209.1
+"Paraburkholderia graminis strain PHS1 chromosome PHS1_B, complete sequence",Paraburkholderia graminis,91.3,91.3,82%,9.00E-19,30.88,2982346,NZ_CP024935.1
+"Paraburkholderia madseniana strain RP11 NODE_105_length_32569_cov_8.584551, whole genome shotgun sequence",Paraburkholderia madseniana,91.3,91.3,82%,9.00E-19,30.88,32569,NZ_VOSW01000105.1
+"Paraburkholderia hayleyella strain BhQS11 2, whole genome shotgun sequence",Paraburkholderia hayleyella,91.3,91.3,82%,9.00E-19,30.88,830561,NZ_QPES01000002.1
+"Paraburkholderia aromaticivorans strain BN5 chromosome 2, complete sequence",Paraburkholderia aromaticivorans,91.3,91.3,82%,9.00E-19,30.88,2992211,NZ_CP022990.1
+"Paraburkholderia xenovorans LB400 chromosome 2, complete sequence",Paraburkholderia xenovorans LB400,91.3,91.3,82%,9.00E-19,30.88,3363523,NC_007952.1
+"Paraburkholderia aspalathi strain LMG 27731, whole genome shotgun sequence",Paraburkholderia aspalathi,91.3,91.3,82%,9.00E-19,30.88,452180,NZ_FPBH01000005.1
+"Paraburkholderia sediminicola strain LMG 24238 isolate LMG 24238, whole genome shotgun sequence",Paraburkholderia sediminicola,91.3,91.3,82%,9.00E-19,30.88,1939019,NZ_CADIKC010000001.1
+"Paraburkholderia caffeinilytica strain CF1 chromosome 1, complete sequence",Paraburkholderia caffeinilytica,91.3,91.3,82%,9.00E-19,30.88,3619047,NZ_CP031466.1
+"Paraburkholderia hospita strain BT03, whole genome shotgun sequence",Paraburkholderia hospita,91.3,91.3,82%,1.00E-18,31.37,4460025,NZ_FUZW01000001.1
+"Paraburkholderia dilworthii strain WSM3556 BurW3556DRAFT_scaffold_17.18_C, whole genome shotgun sequence",Paraburkholderia dilworthii,90.9,90.9,82%,1.00E-18,31.37,120798,NZ_AWZT01000019.1
+"Paraburkholderia ginsengisoli NBRC 100965, whole genome shotgun sequence",Paraburkholderia ginsengisoli NBRC 100965,90.9,90.9,82%,1.00E-18,30.88,649517,NZ_BBJF01000006.1
+"Paraburkholderia insulsa strain LMG 28183 Ga0139079_163, whole genome shotgun sequence",Paraburkholderia insulsa,90.9,90.9,82%,1.00E-18,30.88,8626,NZ_PVZM01000063.1
+"Caballeronia sordidicola isolate LMG 22029, whole genome shotgun sequence",Caballeronia sordidicola,90.9,90.9,82%,1.00E-18,29.9,664604,NZ_FCOC02000003.1
+"Paraburkholderia dipogonis strain ICMP 19430 tig00000050, whole genome shotgun sequence",Paraburkholderia dipogonis,90.9,90.9,82%,1.00E-18,30.88,3862781,NZ_SNVI01000002.1
+"Paraburkholderia fungorum strain FDAARGOS_245 unitig_1_quiver_quiver_pilon, whole genome shotgun sequence",Paraburkholderia fungorum,90.9,90.9,82%,1.00E-18,30.88,3547197,NZ_NBSN01000004.1
+"Paraburkholderia agricolaris strain BaQS159, whole genome shotgun sequence",Paraburkholderia agricolaris,90.9,90.9,82%,1.00E-18,30.88,3904454,NZ_QPER01000002.1
+"Sulfuriferula nivalis strain SGTM plasmid SGTM_pl1, complete sequence",Sulfuriferula nivalis,90.9,90.9,67%,1.00E-18,35.37,45416,NZ_AP021882.1
+"Paraburkholderia sartisoli strain LMG 24000, whole genome shotgun sequence",Paraburkholderia sartisoli,90.9,90.9,82%,1.00E-18,30.88,443151,NZ_FNRQ01000006.1
+"Paraburkholderia phosphatilytica strain 7QSK02 scaffold42, whole genome shotgun sequence",Paraburkholderia phosphatilytica,90.9,90.9,82%,1.00E-18,30.39,62424,NZ_QQOA01000042.1
+"Caballeronia ptereochthonis isolate LMG 29326, whole genome shotgun sequence",Caballeronia ptereochthonis,90.5,90.5,72%,1.00E-18,36.36,161951,NZ_FCOB02000021.1
+"Paraburkholderia caledonica strain 376MFSha3.1 H281DRAFT_scaffold00006.6, whole genome shotgun sequence",Paraburkholderia caledonica,90.5,90.5,82%,1.00E-18,30.88,440891,NZ_KB911039.1
+"Paraburkholderia acidophila strain ATCC 31433 chromosome 2, complete sequence",Paraburkholderia acidophila,90.5,90.5,82%,2.00E-18,30.39,3308659,NZ_CP020738.1
+"Paraburkholderia lycopersici strain TNe-862, whole genome shotgun sequence",Paraburkholderia lycopersici,90.5,90.5,82%,2.00E-18,30.88,281588,NZ_FMYQ01000004.1
+"Paraburkholderia humisilvae strain LMG 29542 isolate LMG 29542, whole genome shotgun sequence",Paraburkholderia humisilvae,90.5,90.5,82%,2.00E-18,30.88,220334,NZ_CADIKH010000011.1
+"Burkholderia stagnalis strain MSMB735WGS chromosome 2, complete sequence",Burkholderia stagnalis,90.5,90.5,82%,2.00E-18,30.39,3001569,NZ_CP013461.1
+"Comamonas composti DSM 21721 G486DRAFT_scaffold00008.8_C, whole genome shotgun sequence",Comamonas composti DSM 21721,90.5,90.5,72%,2.00E-18,35.8,229148,NZ_AUCQ01000012.1
+"Burkholderia pseudomultivorans strain BCC1191, whole genome shotgun sequence",Burkholderia pseudomultivorans,90.5,90.5,82%,2.00E-18,30.39,226936,NZ_CADFDQ010000012.1
+"Paraburkholderia tropica strain IAC135 chromosome B, complete sequence",Paraburkholderia tropica,90.1,90.1,82%,2.00E-18,30.88,1937775,NZ_CP049135.1
+"Paraburkholderia acidipaludis NBRC 101816, whole genome shotgun sequence",Paraburkholderia acidipaludis NBRC 101816,90.1,90.1,82%,2.00E-18,30.88,130865,NZ_BAXZ01000022.1
+"Paraburkholderia mimosarum LMG 23256 = NBRC 106338 strain LMG 23256 A19UDRAFT_scaffold_0.1_C, whole genome shotgun sequence",Paraburkholderia mimosarum LMG 23256 = NBRC 106338,90.1,90.1,82%,2.00E-18,30.88,518971,NZ_AXAN01000001.1
+"Burkholderia ubonensis strain MSMB2035 chromosome 2, complete sequence",Burkholderia ubonensis,90.1,90.1,82%,2.00E-18,30.39,3000610,NZ_CP013416.1
+"Paraburkholderia bannensis NBRC 103871, whole genome shotgun sequence",Paraburkholderia bannensis NBRC 103871,90.1,90.1,82%,2.00E-18,30.88,54456,NZ_BAYA01000038.1
+"Paraburkholderia caballeronis strain TNe-841, whole genome shotgun sequence",Paraburkholderia caballeronis,90.1,90.1,82%,2.00E-18,30.88,2317448,NZ_FNSR01000002.1
+"Burkholderia latens strain BCC1625, whole genome shotgun sequence",Burkholderia latens,90.1,90.1,82%,2.00E-18,29.9,571053,NZ_CADFCV010000004.1
+"Paraburkholderia rhizosphaerae strain LMG 29544 Ga0139080_101, whole genome shotgun sequence",Paraburkholderia rhizosphaerae,90.1,90.1,82%,2.00E-18,30.88,502491,NZ_SORE01000001.1
+"Paraburkholderia heleia NBRC 101817, whole genome shotgun sequence",Paraburkholderia heleia NBRC 101817,90.1,90.1,82%,2.00E-18,30.88,53594,NZ_BBJH01000058.1
+"Paraburkholderia guartelaensis strain CNPSo 3008 scaffold22.1, whole genome shotgun sequence",Paraburkholderia guartelaensis,90.1,90.1,82%,2.00E-18,30.88,148993,NZ_SMOD01000022.1
+"Paraburkholderia silvatlantica strain SRCL-318 Ga0215860_102, whole genome shotgun sequence",Paraburkholderia silvatlantica,90.1,90.1,82%,2.00E-18,30.88,381821,NZ_QJSQ01000002.1
+"Caballeronia mineralivorans PML1(12) contig00093, whole genome shotgun sequence",Caballeronia mineralivorans PML1(12),90.1,90.1,82%,2.00E-18,29.41,100846,NZ_AEJF01000091.1
+"Thiobacillus denitrificans DSM 12475 B059DRAFT_scaffold_0.1_C, whole genome shotgun sequence",Thiobacillus denitrificans DSM 12475,90.1,90.1,67%,2.00E-18,38.41,458174,NZ_AQWL01000001.1
+"Paraburkholderia nodosa DSM 21604 A3CWDRAFT_scaffold_2.3_C, whole genome shotgun sequence",Paraburkholderia nodosa DSM 21604,90.1,90.1,82%,2.00E-18,30.88,423322,NZ_JAFA01000003.1
+"Burkholderia anthina isolate LMG 20980, whole genome shotgun sequence",Burkholderia anthina,89.7,89.7,82%,2.00E-18,29.9,508234,NZ_CABVLY010000002.1
+"Burkholderia paludis isolate LMG 30113, whole genome shotgun sequence",Burkholderia paludis,89.7,89.7,82%,2.00E-18,29.9,187831,NZ_CABVQD010000011.1
+"Caballeronia udeis isolate LMG 27134, whole genome shotgun sequence",Caballeronia udeis,89.7,89.7,82%,3.00E-18,29.41,144713,NZ_FCOK02000014.1
+"Paraburkholderia eburnea strain LMG 29537 Ga0139077_128, whole genome shotgun sequence",Paraburkholderia eburnea,89.7,89.7,82%,3.00E-18,30.88,65406,NZ_PVUA01000028.1
+"Burkholderia metallica strain FL-6-5-30-S1-D7 chromosome 2, complete sequence",Burkholderia metallica,89.7,89.7,82%,3.00E-18,29.9,2967116,NZ_CP013403.1
+Burkholderia contaminans strain CH-1,Burkholderia contaminans,89.7,89.7,82%,3.00E-18,29.9,3247482,NZ_AP018357.1
+"Paraburkholderia susongensis strain LMG 29540, whole genome shotgun sequence",Paraburkholderia susongensis,89.7,89.7,82%,3.00E-18,30.39,207842,NZ_FXAT01000011.1
+"Paraburkholderia solisilvae strain LMG 29739 isolate LMG 29739, whole genome shotgun sequence",Paraburkholderia solisilvae,89.7,89.7,82%,3.00E-18,30.88,301947,NZ_CADIKF010000002.1
+"Burkholderia arboris isolate LMG 24066, whole genome shotgun sequence",Burkholderia arboris,89.7,89.7,82%,3.00E-18,29.9,378843,NZ_CABVPX010000003.1
+"Burkholderia reimsis strain BE51 NODE_2_length_398693_cov_42.4031, whole genome shotgun sequence",Burkholderia reimsis,89.7,89.7,82%,3.00E-18,29.9,398693,NZ_QMFZ01000002.1
+"Burkholderia lata strain BCC0174, whole genome shotgun sequence",Burkholderia lata,89.7,89.7,82%,3.00E-18,29.9,1023694,NZ_CADFCT010000003.1
+"Burkholderia cepacia strain BC16 chromosome 2, complete sequence",Burkholderia cepacia,89.7,89.7,82%,3.00E-18,29.9,3430130,NZ_CP045236.1
+"Burkholderia singularis strain TSV85 TSV85_28, whole genome shotgun sequence",Burkholderia singularis,89.7,89.7,82%,3.00E-18,29.9,94724,NZ_LOWA01000020.1
+"Burkholderia vietnamiensis strain FL-2-2-30-S1-D0 FL-2-2-30-S1-D0_33, whole genome shotgun sequence",Burkholderia vietnamiensis,89.7,89.7,82%,3.00E-18,29.9,185366,NZ_LOWI01000026.1
+"Burkholderia dolosa AU0158 chromosome 2, complete sequence",Burkholderia dolosa AU0158,89.7,89.7,82%,3.00E-18,29.9,2168075,NZ_CP009793.1
+"Burkholderia pyrrocinia strain DSM 10685 chromosome 2, complete sequence",Burkholderia pyrrocinia,89.7,89.7,82%,3.00E-18,29.9,3214754,NZ_CP011504.1
+"Burkholderia stabilis isolate E chromosome II, complete sequence",Burkholderia stabilis,89.7,89.7,82%,3.00E-18,29.9,3499265,NZ_LR025743.1
+"Paraburkholderia oxyphila NBRC 105797, whole genome shotgun sequence",Paraburkholderia oxyphila NBRC 105797,89.7,89.7,82%,3.00E-18,30.39,133030,NZ_BAYD01000019.1
+"Burkholderia diffusa strain LMG 29043, whole genome shotgun sequence",Burkholderia diffusa,89.7,89.7,82%,3.00E-18,29.9,344934,NZ_CADEVI010000004.1
+"Burkholderia ambifaria strain BCC1065, whole genome shotgun sequence",Burkholderia ambifaria,89.7,89.7,82%,3.00E-18,29.9,1683231,NZ_CADERN010000001.1
+Burkholderia oklahomensis C6786 chromosome II,Burkholderia oklahomensis C6786,89.7,89.7,82%,3.00E-18,29.41,3002987,NZ_CP009556.1
+"Acidovorax temperans strain DSM 7270 Ga0242573_11, whole genome shotgun sequence",Acidovorax temperans,89.4,177,72%,3.00E-18,35.23,1718268,NZ_VFPV01000001.1
+"Paraburkholderia youngii strain JPY169 contig_1, whole genome shotgun sequence",Paraburkholderia youngii,89.4,139,82%,4.00E-18,30.39,6823646,NZ_JAALDK010000001.1
+"Burkholderia puraquae strain LMG 29660 isolate LMG 29660, whole genome shotgun sequence",Burkholderia puraquae,89.4,89.4,82%,4.00E-18,29.9,728758,NZ_CADIKG010000002.1
+"Burkholderia seminalis strain FL-5-4-10-S1-D7 chromosome 2, complete sequence",Burkholderia seminalis,89.4,89.4,82%,4.00E-18,29.9,3050136,NZ_CP013400.1
+"Burkholderia cenocepacia strain MSMB384WGS chromosome 2, complete sequence",Burkholderia cenocepacia,89.4,89.4,82%,4.00E-18,29.9,3069864,NZ_CP013452.1
+"Cupriavidus basilensis strain DSM 11853 chromosome 2, complete sequence",Cupriavidus basilensis,89.4,89.4,72%,4.00E-18,32.02,3303026,NZ_CP062804.1
+"Trinickia caryophylli strain DSM 50341 000001F_arrow, whole genome shotgun sequence",Trinickia caryophylli,89.4,89.4,82%,4.00E-18,29.9,2294431,NZ_VJZF01000003.1
+"Burkholderia multivorans ATCC BAA-247 chromosome 2, complete sequence",Burkholderia multivorans ATCC BAA-247,89.4,89.4,82%,4.00E-18,29.9,2344193,NZ_CP009831.1
+"Burkholderia humptydooensis strain MSMB122 contig00040, whole genome shotgun sequence",Burkholderia humptydooensis,89.4,89.4,82%,4.00E-18,29.41,176984,NZ_JAVA01000036.1
+"Burkholderia thailandensis E264 chromosome II, complete sequence",Burkholderia thailandensis E264,89.4,89.4,82%,4.00E-18,29.41,2914771,NC_007650.1
+"Burkholderia novacaledonica isolate LMG 28615T, whole genome shotgun sequence",Burkholderia novacaledonica,89.4,89.4,82%,4.00E-18,30.39,177408,NZ_OGTP01000011.1
+"Paraburkholderia ferrariae NBRC 106233, whole genome shotgun sequence",Paraburkholderia ferrariae NBRC 106233,89.4,89.4,82%,4.00E-18,30.39,252130,NZ_BAYB01000018.1
+"Burkholderia territorii strain MSMB1842 MSMB1842_41, whole genome shotgun sequence",Burkholderia territorii,89.4,89.4,82%,4.00E-18,29.9,332354,NZ_LOYT01000035.1
+"Oryzisolibacter propanilivorax strain EPL6, whole genome shotgun sequence",Oryzisolibacter propanilivorax,89,89,72%,4.00E-18,36.36,156937,NZ_FNHP01000007.1
+"Trinickia symbiotica strain JPY 581 NODE_13_length_201180_cov_57.4335, whole genome shotgun sequence",Trinickia symbiotica,89,89,82%,5.00E-18,29.9,201180,NZ_PNYC01000013.1
+"Pusillimonas noertemannii strain DSM 10065 scaffold_1, whole genome shotgun sequence",Pusillimonas noertemannii,89,89,71%,5.00E-18,37.14,881362,NZ_JACCEX010000002.1
+"Hydrogenophaga intermedia NBRC 102510, whole genome shotgun sequence",Hydrogenophaga intermedia NBRC 102510,89,89,72%,5.00E-18,35.8,100914,NZ_BCTI01000016.1
+"Thauera linaloolentis 47Lol = DSM 12138 Q393DRAFT_scaffold00005.5_C, whole genome shotgun sequence",Thauera linaloolentis 47Lol = DSM 12138,89,89,72%,5.00E-18,36.36,249660,NZ_JHYR01000006.1
+"Paraburkholderia megapolitana strain LMG 23650, whole genome shotgun sequence",Paraburkholderia megapolitana,89,89,82%,5.00E-18,29.9,713925,NZ_FOQU01000004.1
+"Paraburkholderia caffeinitolerans strain LMG 28688 isolate LMG 28688, whole genome shotgun sequence",Paraburkholderia caffeinitolerans,89,89,82%,6.00E-18,29.9,52299,NZ_CADIKL010000051.1
+"Paraburkholderia sacchari strain LMG 19450 ctg_2, whole genome shotgun sequence",Paraburkholderia sacchari,89,89,82%,6.00E-18,29.41,1524358,NZ_JTDB02000001.1
+"Burkholderia plantarii strain PG1 chromosome 2, complete sequence",Burkholderia plantarii,89,89,82%,6.00E-18,29.9,3732771,NZ_CP002581.1
+"Burkholderia glumae strain 257sh-1 chromosome 2, complete sequence",Burkholderia glumae,88.6,88.6,82%,6.00E-18,29.9,2763738,NZ_CP035901.1
+"Pseudorhodoferax aquiterrae strain KCTC 23314 sequence02, whole genome shotgun sequence",Pseudorhodoferax aquiterrae,88.6,88.6,72%,6.00E-18,36.93,564868,NZ_BMYK01000002.1
+"Diaphorobacter aerolatus strain KACC 16536 chromosome, complete genome",Diaphorobacter aerolatus,88.6,227,72%,6.00E-18,36.93,4948189,NZ_CP060783.1
+"Oryzisolibacter propanilivorax strain EPL6, whole genome shotgun sequence",Oryzisolibacter propanilivorax,88.6,88.6,72%,7.00E-18,35.8,147167,NZ_FNHP01000009.1
+"Zoogloea oleivorans strain Buc BUC_nxtrim.se_trimmed_contig_40, whole genome shotgun sequence",Zoogloea oleivorans,88.6,88.6,72%,7.00E-18,36.36,76326,NZ_SDKK01000025.1
+"Caballeronia arvi isolate LMG 29317, whole genome shotgun sequence",Caballeronia arvi,88.6,88.6,82%,7.00E-18,30.39,208751,NZ_FCOM02000011.1
+"Comamonas composti DSM 21721 G486DRAFT_scaffold00004.4, whole genome shotgun sequence",Comamonas composti DSM 21721,88.6,88.6,72%,7.00E-18,35.8,361788,NZ_KE386971.1
+"Pusillimonas caeni strain KCTC 42353 NODE_1_length_775749_cov_69.0751, whole genome shotgun sequence",Pusillimonas caeni,88.6,88.6,72%,7.00E-18,35.8,775749,NZ_PDUW01000001.1
+"Acidovorax soli strain DSM 25157, whole genome shotgun sequence",Acidovorax soli,88.6,88.6,72%,7.00E-18,36.93,84398,NZ_FNQJ01000015.1
+"Comamonas phosphati strain CGMCC 1.12294 sequence01, whole genome shotgun sequence",Comamonas phosphati,88.6,88.6,72%,7.00E-18,36.93,366948,NZ_BMEU01000001.1
+"Acidovorax carolinensis strain NA2, complete sequence",Acidovorax carolinensis,88.6,222,74%,8.00E-18,36.36,3986972,NZ_CP021359.1
+"Achromobacter anxifer strain LMG 26857 isolate LMG 26857, whole genome shotgun sequence",Achromobacter anxifer,88.6,139,72%,8.00E-18,36.93,445992,NZ_CAHLAR010000006.1
+"Extensimonas vulgaris strain DSM 100911 Ga0244581_101, whole genome shotgun sequence",Extensimonas vulgaris,88.2,88.2,72%,8.00E-18,35.8,630915,NZ_QPJU01000001.1
+"Caballeronia catudaia isolate LMG 29318, whole genome shotgun sequence",Caballeronia catudaia,88.2,88.2,82%,8.00E-18,30.39,99931,NZ_FCOF02000023.1
+"Burkholderia dabaoshanensis strain GIMN1.004 NODE_27_length_113513_cov_19.0458, whole genome shotgun sequence",Burkholderia dabaoshanensis,88.2,88.2,82%,9.00E-18,30.39,113513,NZ_PNYA01000027.1
+"Paraburkholderia silvatlantica strain SRCL-318 Ga0215860_118, whole genome shotgun sequence",Paraburkholderia silvatlantica,88.2,88.2,72%,9.00E-18,36.36,171416,NZ_QJSQ01000018.1
+"Caballeronia fortuita isolate LMG 29320, whole genome shotgun sequence",Caballeronia fortuita,88.2,88.2,82%,9.00E-18,29.9,378511,NZ_FCNX02000006.1
+"Pigmentiphaga humi isolate dnA1, whole genome shotgun sequence",Pigmentiphaga humi,88.2,88.2,71%,9.00E-18,37.71,197669,NZ_UWPJ01000027.1
+"Burkholderia mallei strain Turkey2 chromosome 2, complete sequence",Burkholderia mallei,88.2,88.2,82%,9.00E-18,29.41,2120565,NZ_CP009728.1
+"Burkholderia pseudomallei strain Mahidol-1106a chromosome 2, complete sequence",Burkholderia pseudomallei,88.2,88.2,82%,9.00E-18,29.41,3100174,NZ_CP008782.1
+"Paraburkholderia phenoliruptrix strain LMG 22037 isolate LMG 22037, whole genome shotgun sequence",Paraburkholderia phenoliruptrix,88.2,88.2,72%,1.00E-17,36.36,34554,NZ_CADIKB010000051.1
+"Achromobacter insuavis strain LMG 26846 isolate LMG 26846, whole genome shotgun sequence",Achromobacter insuavis,88.2,88.2,72%,1.00E-17,36.36,81735,NZ_CADIKT010000020.1
+"Xenophilus azovorans DSM 13620 Q392DRAFT_scaffold00014.14_C, whole genome shotgun sequence",Xenophilus azovorans DSM 13620,88.2,88.2,72%,1.00E-17,36.36,123864,NZ_JQKD01000017.1
+"Paraburkholderia aromaticivorans strain BN5 chromosome 1, complete sequence",Paraburkholderia aromaticivorans,88.2,137,72%,1.00E-17,36.36,4378888,NZ_CP022989.1
+"Pusillimonas caeni strain KCTC 42353 NODE_3_length_536808_cov_62.2059, whole genome shotgun sequence",Pusillimonas caeni,88.2,88.2,72%,1.00E-17,35.8,536808,NZ_PDUW01000003.1
+"Pusillimonas ginsengisoli strain KCTC 22046 NODE_1_length_994801_cov_47.503651, whole genome shotgun sequence",Pusillimonas ginsengisoli,88.2,88.2,72%,1.00E-17,35.8,994801,NZ_SDQE01000001.1
+"Caballeronia temeraria isolate LMG 29319, whole genome shotgun sequence",Caballeronia temeraria,88.2,88.2,82%,1.00E-17,29.9,122300,NZ_FCOI02000022.1
+"Achromobacter marplatensis strain LMG 26219 isolate LMG 26219, whole genome shotgun sequence",Achromobacter marplatensis,87.8,87.8,72%,1.00E-17,36.93,145693,NZ_CADIJU010000012.1
+"Pusillimonas ginsengisoli strain KCTC 22046 NODE_15_length_88791_cov_44.413048, whole genome shotgun sequence",Pusillimonas ginsengisoli,87.8,87.8,72%,1.00E-17,35.8,88791,NZ_SDQE01000015.1
+"Burkholderia anthina isolate LMG 20980, whole genome shotgun sequence",Burkholderia anthina,87.8,87.8,72%,1.00E-17,36.36,253617,NZ_CABVLY010000009.1
+"Eoetvoesia caeni strain PB3-7B NODE_6_length_318790_cov_40.373624, whole genome shotgun sequence",Eoetvoesia caeni,87.8,87.8,72%,1.00E-17,36.36,318790,NZ_JACCEU010000006.1
+"Eoetvoesia caeni strain PB3-7B NODE_3_length_643668_cov_40.936828, whole genome shotgun sequence",Eoetvoesia caeni,87.8,87.8,72%,1.00E-17,35.23,643668,NZ_JACCEU010000003.1
+"Thauera butanivorans NBRC 103042, whole genome shotgun sequence",Thauera butanivorans NBRC 103042,87.8,87.8,72%,1.00E-17,35.8,9038,NZ_BCUG01000092.1
+"Advenella faeciporci strain KCTC 23732 sequence09, whole genome shotgun sequence",Advenella faeciporci,87.8,87.8,72%,1.00E-17,35.8,101608,NZ_BMYS01000009.1
+"Caballeronia cordobensis isolate LMG 27620, whole genome shotgun sequence",Caballeronia cordobensis,87.8,87.8,82%,1.00E-17,29.7,193532,NZ_FCNY02000015.1
+"Eoetvoesia caeni strain PB3-7B NODE_14_length_70036_cov_42.059763, whole genome shotgun sequence",Eoetvoesia caeni,87.8,87.8,72%,1.00E-17,35.8,70036,NZ_JACCEU010000014.1
+"Zoogloea ramigera strain NBRC 15342 sequence021, whole genome shotgun sequence",Zoogloea ramigera,87.8,87.8,81%,1.00E-17,32.18,63695,NZ_BJNV01000021.1
+"Pandoraea captiosa strain LMG 31118, whole genome shotgun sequence",Pandoraea captiosa,87.8,87.8,72%,1.00E-17,35.8,49343,NZ_CABPSQ010000020.1
+"Burkholderia gladioli strain BCC1721, whole genome shotgun sequence",Burkholderia gladioli,87.8,87.8,82%,1.00E-17,29.9,645535,NZ_CADEYK010000005.1
+"Algicoccus marinus strain HZ20 chromosome, complete genome",Algicoccus marinus,87.8,87.8,72%,1.00E-17,36.36,4227194,NZ_CP028901.1
+"Caballeronia terrestris isolate LMG 22937, whole genome shotgun sequence",Caballeronia terrestris,87.8,87.8,82%,1.00E-17,29.9,79509,NZ_FCOL02000030.1
+"Parapusillimonas granuli strain DSM 18079 Ga0415245_12, whole genome shotgun sequence",Parapusillimonas granuli,87.4,87.4,72%,2.00E-17,35.8,83652,NZ_JACHHM010000012.1
+"Xenophilus azovorans DSM 13620 Q392DRAFT_scaffold00100.100_C, whole genome shotgun sequence",Xenophilus azovorans DSM 13620,87.4,87.4,72%,2.00E-17,35.8,5571,NZ_JQKD01000105.1
+"Cupriavidus metallidurans isolate NDB4MOL1, whole genome shotgun sequence",Cupriavidus metallidurans,87.4,171,72%,2.00E-17,36.59,290804,NZ_FYAX01000027.1
+"Achromobacter insuavis strain LMG 26846 isolate LMG 26846, whole genome shotgun sequence",Achromobacter insuavis,87.4,87.4,72%,2.00E-17,35.8,37738,NZ_CADIKT010000029.1
+"Cupriavidus basilensis strain DSM 11853 chromosome 1, complete sequence",Cupriavidus basilensis,87.4,174,72%,2.00E-17,35.8,4566734,NZ_CP062803.1
+"Alicycliphilus denitrificans strain DP3 chromosome, complete genome",Alicycliphilus denitrificans,87.4,388,72%,2.00E-17,35.8,4707229,NZ_CP051298.1
+"Pigmentiphaga humi isolate dnA1, whole genome shotgun sequence",Pigmentiphaga humi,87.4,87.4,72%,2.00E-17,35.8,151291,NZ_UWPJ01000022.1
+"Parapusillimonas granuli strain DSM 18079 Ga0415245_11, whole genome shotgun sequence",Parapusillimonas granuli,87.4,87.4,72%,2.00E-17,35.8,201402,NZ_JACHHM010000011.1
+"Burkholderia gladioli strain BCC1721, whole genome shotgun sequence",Burkholderia gladioli,87.4,87.4,72%,2.00E-17,36.36,2282013,NZ_CADEYK010000001.1
+"Melaminivora alkalimesophila strain DSM 26006 Ga0244563_112, whole genome shotgun sequence",Melaminivora alkalimesophila,87.4,87.4,72%,2.00E-17,35.8,19517,NZ_QGUB01000012.1
+"Alcaligenes faecalis strain ZD02, complete genome",Alcaligenes faecalis,87.4,87.4,72%,2.00E-17,35.8,4233756,NZ_CP013119.1
+"Caballeronia concitans isolate LMG 29315, whole genome shotgun sequence",Caballeronia concitans,87.4,87.4,85%,2.00E-17,29.52,252539,NZ_FCNV02000008.1
+"Thauera terpenica 58Eu Cont29, whole genome shotgun sequence",Thauera terpenica 58Eu,87,87,72%,2.00E-17,35.23,41319,NZ_ATJV01000058.1
+"Comamonas badia DSM 17552 K320DRAFT_scaffold00018.18_C, whole genome shotgun sequence",Comamonas badia DSM 17552,87,87,72%,2.00E-17,35.8,9808,NZ_AXVM01000018.1
+"Comamonas badia DSM 17552 K320DRAFT_scaffold00017.17_C, whole genome shotgun sequence",Comamonas badia DSM 17552,87,87,72%,2.00E-17,35.8,15172,NZ_AXVM01000017.1
+"Comamonas badia DSM 17552 K320DRAFT_scaffold00015.15_C, whole genome shotgun sequence",Comamonas badia DSM 17552,87,87,72%,2.00E-17,35.8,21343,NZ_AXVM01000015.1
+"Comamonas badia DSM 17552 K320DRAFT_scaffold00010.10_C, whole genome shotgun sequence",Comamonas badia DSM 17552,87,87,72%,2.00E-17,35.8,48156,NZ_AXVM01000010.1
+"Pigmentiphaga kullae strain K24 Ga0310531_11, whole genome shotgun sequence",Pigmentiphaga kullae,87,87,72%,2.00E-17,35.23,2955282,NZ_SGXC01000001.1
+"Pulveribacter suum strain SC2-7 chromosome, complete genome",Pulveribacter suum,87,137,72%,2.00E-17,35.23,3358427,NZ_CP027792.1
+"Noviherbaspirillum autotrophicum strain TSA66 contig01, whole genome shotgun sequence",Noviherbaspirillum autotrophicum,87,136,81%,2.00E-17,29,5132512,NZ_JWJG01000028.1
+"Caballeronia humi isolate LMG 22934, whole genome shotgun sequence",Caballeronia humi,87,87,82%,2.00E-17,29.9,81972,NZ_FCNW02000030.1
+"Cupriavidus gilardii strain FDAARGOS_639 chromosome 1, complete sequence",Cupriavidus gilardii,87,87,72%,2.00E-17,32.02,2240840,NZ_CP054624.1
+"Diaphorobacter polyhydroxybutyrativorans strain SL-205 chromosome, complete genome",Diaphorobacter polyhydroxybutyrativorans,87,308,72%,2.00E-17,35.8,4061276,NZ_CP016278.1
+Cupriavidus nantongensis strain X1 chromosome 1,Cupriavidus nantongensis,87,137,72%,2.00E-17,35.23,4619440,NZ_CP014844.1
+"Thauera linaloolentis 47Lol = DSM 12138 Q393DRAFT_scaffold00004.4_C, whole genome shotgun sequence",Thauera linaloolentis 47Lol = DSM 12138,87,87,72%,2.00E-17,35.8,328484,NZ_JHYR01000005.1
+"Caballeronia glebae isolate LMG 29325, whole genome shotgun sequence",Caballeronia glebae,87,87,82%,2.00E-17,29.9,151454,NZ_FCOJ02000012.1
+"Pusillimonas caeni strain KCTC 42353 NODE_2_length_715296_cov_70.5638, whole genome shotgun sequence",Pusillimonas caeni,87,87,72%,3.00E-17,34.09,715296,NZ_PDUW01000002.1
+"Caballeronia sordidicola isolate LMG 22029, whole genome shotgun sequence",Caballeronia sordidicola,87,87,72%,3.00E-17,35.8,731501,NZ_FCOC02000001.1
+"Azoarcus taiwanensis strain NSC3 NODE_50_length_27004_cov_3.59274, whole genome shotgun sequence",Azoarcus taiwanensis,86.7,86.7,72%,3.00E-17,36.36,27004,NZ_WTVM01000050.1
+"Caballeronia choica isolate LMG 22940, whole genome shotgun sequence",Caballeronia choica,86.7,86.7,82%,3.00E-17,28.92,100712,NZ_FCON02000018.1
+"Caballeronia zhejiangensis strain BCC1706, whole genome shotgun sequence",Caballeronia zhejiangensis,86.7,86.7,82%,3.00E-17,29.9,177378,NZ_CADFFU010000013.1
+"Polaromonas naphthalenivorans CJ2 plasmid pPNAP06, complete sequence",Polaromonas naphthalenivorans CJ2,86.7,86.7,82%,3.00E-17,29.21,21611,NC_008762.1
+"Ralstonia pseudosolanacearum strain RS 476 chromosome, complete genome",Ralstonia pseudosolanacearum,86.7,136,72%,3.00E-17,35.23,3716422,NZ_CP021762.1
+"Parapusillimonas granuli strain DSM 18079 Ga0415245_02, whole genome shotgun sequence",Parapusillimonas granuli,86.7,86.7,72%,3.00E-17,35.23,534586,NZ_JACHHM010000002.1
+"Hydrogenophaga crassostreae strain LPB0072 chromosome, complete genome",Hydrogenophaga crassostreae,86.7,86.7,72%,3.00E-17,35.8,4944132,NZ_CP017476.1
+"Eoetvoesia caeni strain PB3-7B NODE_1_length_780739_cov_39.675622, whole genome shotgun sequence",Eoetvoesia caeni,86.7,86.7,72%,3.00E-17,35.23,780739,NZ_JACCEU010000001.1
+Burkholderia stabilis isolate E chromosome I,Burkholderia stabilis,86.7,256,72%,3.00E-17,35.23,3705321,NZ_LR025742.1
+"Caballeronia grimmiae strain R27 contig7, whole genome shotgun sequence",Caballeronia grimmiae,86.7,86.7,82%,3.00E-17,29.9,202827,NZ_JFHE01000007.1
+"Acidovorax cattleyae strain DSM 17101, whole genome shotgun sequence",Acidovorax cattleyae,86.7,86.7,67%,4.00E-17,36.59,169736,NZ_FNJL01000011.1
+"Caballeronia hypogeia isolate LMG 29322, whole genome shotgun sequence",Caballeronia hypogeia,86.3,86.3,72%,4.00E-17,32.02,219983,NZ_FCOA02000011.1
+"Caballeronia ptereochthonis isolate LMG 29326, whole genome shotgun sequence",Caballeronia ptereochthonis,86.3,86.3,72%,4.00E-17,32.02,70734,NZ_FCOB02000037.1
+"Achromobacter insuavis strain LMG 26846 isolate LMG 26846, whole genome shotgun sequence",Achromobacter insuavis,86.3,86.3,72%,4.00E-17,35.23,260786,NZ_CADIKT010000010.1
+"Caballeronia pedi isolate LMG 29323, whole genome shotgun sequence",Caballeronia pedi,86.3,86.3,82%,4.00E-17,29.9,303867,NZ_FCOE02000007.1
+"Acidovorax soli strain DSM 25157, whole genome shotgun sequence",Acidovorax soli,86.3,86.3,72%,4.00E-17,34.66,51964,NZ_FNQJ01000025.1
+"Cupriavidus gilardii strain FDAARGOS_639 chromosome 2, complete sequence",Cupriavidus gilardii,86.3,136,72%,4.00E-17,35.23,3485840,NZ_CP054626.1
+"Tepidicella baoligensis strain B18-50 Scaffold6, whole genome shotgun sequence",Tepidicella baoligensis,86.3,86.3,72%,4.00E-17,35.23,146927,NZ_JACCDB010000006.1
+"Caballeronia insecticola chromosome 2, complete sequence",Caballeronia insecticola,86.3,86.3,72%,4.00E-17,32.02,1465356,NC_021294.1
+"Piscinibacter defluvii strain SH-1 contig036, whole genome shotgun sequence",Piscinibacter defluvii,86.3,86.3,72%,4.00E-17,33.52,33404,NZ_RCHJ01000036.1
+"Parapusillimonas granuli strain DSM 18079 Ga0415245_14, whole genome shotgun sequence",Parapusillimonas granuli,86.3,86.3,72%,5.00E-17,34.66,58432,NZ_JACHHM010000014.1
+"Vogesella fluminis strain KCTC 23713 sequence039, whole genome shotgun sequence",Vogesella fluminis,86.3,86.3,72%,5.00E-17,35.8,23233,NZ_BMYP01000039.1
+"Caballeronia glathei strain BCC0772, whole genome shotgun sequence",Caballeronia glathei,86.3,86.3,72%,5.00E-17,32.02,378807,NZ_CADFFX010000006.1
+"Acidovorax wautersii strain DSM 27981, whole genome shotgun sequence",Acidovorax wautersii,86.3,135,72%,5.00E-17,35.8,532756,NZ_FONX01000002.1
+"Cupriavidus lacunae strain S23 Cupriavidus_S23_6, whole genome shotgun sequence",Cupriavidus lacunae,85.9,85.9,72%,5.00E-17,32.02,219928,NZ_QKWJ01000006.1
+"Caballeronia calidae isolate LMG 29321, whole genome shotgun sequence",Caballeronia calidae,85.9,85.9,82%,6.00E-17,29.9,169598,NZ_FCOX02000012.1
+"Caballeronia arationis strain OK806, whole genome shotgun sequence",Caballeronia arationis,85.9,85.9,72%,6.00E-17,31.46,3535244,NZ_OCSU01000001.1
+"Thauera propionica strain KNDSS-Mac4 contig_3, whole genome shotgun sequence",Thauera propionica,85.9,85.9,81%,7.00E-17,32.5,847132,NZ_NOIH01000003.1
+"Orrella dioscoreae isolate Orrdi1 chromosome I, complete sequence",Orrella dioscoreae,85.5,220,72%,8.00E-17,34.66,4848101,NZ_LT907988.1
+"Mycetohabitans endofungorum strain HKI456 Ga0139053_106, whole genome shotgun sequence",Mycetohabitans endofungorum,85.5,85.5,82%,8.00E-17,27.94,213816,NZ_PRDW01000006.1
+"Acidovorax citrulli AAC00-1, complete sequence",Acidovorax citrulli AAC00-1,85.5,137,72%,9.00E-17,34.66,5352772,NC_008752.1
+"Cupriavidus campinensis strain S14E4C NODE_15_length_170449_cov_23.5831, whole genome shotgun sequence",Cupriavidus campinensis,85.5,85.5,72%,9.00E-17,30.9,170449,NZ_VCIZ01000015.1
+"Burkholderia multivorans ATCC BAA-247 chromosome 3, complete sequence",Burkholderia multivorans ATCC BAA-247,85.1,85.1,63%,1.00E-16,32.69,550289,NZ_CP009830.1
+Burkholderia contaminans strain CH-1,Burkholderia contaminans,85.1,85.1,63%,1.00E-16,32.69,1538363,NZ_AP018359.1
+"Comamonas badia DSM 17552 K320DRAFT_scaffold00002.2_C, whole genome shotgun sequence",Comamonas badia DSM 17552,85.1,85.1,72%,1.00E-16,34.66,573736,NZ_AXVM01000002.1
+"Paraburkholderia acidipaludis NBRC 101816, whole genome shotgun sequence",Paraburkholderia acidipaludis NBRC 101816,85.1,85.1,72%,1.00E-16,35.23,558996,NZ_BAXZ01000003.1
+"Cupriavidus plantarum strain MA2-19b Ga0215872_05, whole genome shotgun sequence",Cupriavidus plantarum,85.1,85.1,72%,1.00E-16,30.9,674405,NZ_JACBYU010000005.1
+"Cupriavidus malaysiensis strain USMAA1020 chromosome 2, complete sequence",Cupriavidus malaysiensis,85.1,85.1,72%,1.00E-16,30.9,3388586,NZ_CP017755.1
+"Cupriavidus pauculus strain CCUG 12507 contig_0000022, whole genome shotgun sequence",Cupriavidus pauculus,85.1,85.1,72%,1.00E-16,30.9,88349,NZ_VZOW01000022.1
+"Azoarcus pumilus strain SY39 chromosome, complete genome",Azoarcus pumilus,85.1,85.1,81%,1.00E-16,31.5,3225512,NZ_CP025682.1
+"Bordetella pseudohinzii strain HI4681, complete sequence",Bordetella pseudohinzii,85.1,219,72%,1.00E-16,34.66,4490371,NZ_CP016440.1
+"Cupriavidus alkaliphilus strain ASC-869 Ga0215869_05, whole genome shotgun sequence",Cupriavidus alkaliphilus,84.7,84.7,72%,1.00E-16,31.46,546230,NZ_JACHWG010000005.1
+"Cupriavidus necator H16 chromosome 2, complete sequence",Cupriavidus necator H16,84.7,84.7,72%,1.00E-16,31.46,2912457,NZ_CP039288.1
+"Cupriavidus oxalaticus strain T2 chromosome 1, complete sequence",Cupriavidus oxalaticus,84.7,84.7,65%,1.00E-16,32.3,2875465,NZ_CP032518.1
+"Cupriavidus nantongensis strain X1 chromosome 2, complete sequence",Cupriavidus nantongensis,84.7,84.7,72%,1.00E-16,31.46,2456269,NZ_CP014845.1
+"Cupriavidus pinatubonensis strain SM52 SM52_contig_52_1, whole genome shotgun sequence",Cupriavidus pinatubonensis,84.7,84.7,65%,1.00E-16,32.3,67715,NZ_PPPS01000051.1
+"Burkholderia dolosa AU0158 chromosome 3, complete sequence",Burkholderia dolosa AU0158,84.7,84.7,63%,2.00E-16,32.69,834424,NZ_CP009794.1
+"Burkholderia arboris isolate LMG 24066, whole genome shotgun sequence",Burkholderia arboris,84.7,84.7,63%,2.00E-16,32.69,33339,NZ_CABVPX010000055.1
+"Ottowia thiooxydans DSM 14619 G518DRAFT_scaffold00001.1_C, whole genome shotgun sequence",Ottowia thiooxydans DSM 14619,84.7,84.7,72%,2.00E-16,34.66,770067,NZ_AUGX01000001.1
+"Dechloromonas agitata is5 K420DRAFT_scaffold00001.1, whole genome shotgun sequence",Dechloromonas agitata is5,84.7,135,72%,2.00E-16,35.8,3627226,NZ_KI912532.1
+"Burkholderia paludis isolate LMG 30113, whole genome shotgun sequence",Burkholderia paludis,84.7,84.7,63%,2.00E-16,32.69,119706,NZ_CABVQD010000025.1
+"Burkholderia pseudomultivorans strain BCC1191, whole genome shotgun sequence",Burkholderia pseudomultivorans,84.7,84.7,63%,2.00E-16,32.69,202415,NZ_CADFDQ010000014.1
+"Burkholderia anthina isolate LMG 20980, whole genome shotgun sequence",Burkholderia anthina,84.7,84.7,63%,2.00E-16,32.69,205080,NZ_CABVLY010000011.1
+"Burkholderia seminalis strain FL-5-4-10-S1-D7 chromosome 3, complete sequence",Burkholderia seminalis,84.7,84.7,63%,2.00E-16,32.69,1093546,NZ_CP013399.1
+"Burkholderia stabilis isolate E chromosome III, complete sequence",Burkholderia stabilis,84.7,139,64%,2.00E-16,32.69,1230157,NZ_LR025744.1
+"Zoogloea oleivorans strain Buc BUC_nxtrim.se_trimmed_contig_57, whole genome shotgun sequence",Zoogloea oleivorans,84.7,84.7,75%,2.00E-16,33.15,30484,NZ_SDKK01000039.1
+"Cupriavidus taiwanensis LMG 19424 chromosome 2, complete sequence",Cupriavidus taiwanensis LMG 19424,84.7,84.7,72%,2.00E-16,31.46,2502411,NC_010530.1
+Cupriavidus neocaledonicus isolate Cupriavidus taiwanensis STM 6160 plasmid II,Cupriavidus neocaledonicus,84.7,84.7,72%,2.00E-16,31.46,2796980,NZ_LT984807.1
+"Polaromonas naphthalenivorans CJ2 plasmid pPNAP01, complete sequence",Polaromonas naphthalenivorans CJ2,84.7,84.7,75%,2.00E-16,33.15,353291,NC_008757.1
+"Burkholderia reimsis strain BE51 NODE_46_length_63097_cov_40.2407, whole genome shotgun sequence",Burkholderia reimsis,84.3,84.3,63%,2.00E-16,32.69,63097,NZ_QMFZ01000046.1
+"Burkholderia cepacia strain BC16 chromosome 3, complete sequence",Burkholderia cepacia,84.3,84.3,63%,2.00E-16,32.69,1248114,NZ_CP045237.1
+"Burkholderia lata strain BCC0174, whole genome shotgun sequence",Burkholderia lata,84.3,84.3,63%,2.00E-16,32.69,1278095,NZ_CADFCT010000002.1
+"Burkholderia diffusa strain LMG 29043, whole genome shotgun sequence",Burkholderia diffusa,84.3,84.3,63%,2.00E-16,32.69,73809,NZ_CADEVI010000032.1
+"Cupriavidus basilensis strain DSM 11853 plasmid pRK1-4, complete sequence",Cupriavidus basilensis,84.3,84.3,72%,2.00E-16,35.8,82842,NZ_CP062808.1
+"Burkholderia pyrrocinia strain DSM 10685 chromosome 3, complete sequence",Burkholderia pyrrocinia,84.3,84.3,63%,2.00E-16,32.69,1049005,NZ_CP011505.1
+"Burkholderia puraquae strain LMG 29660 isolate LMG 29660, whole genome shotgun sequence",Burkholderia puraquae,84.3,84.3,63%,2.00E-16,32.69,81601,NZ_CADIKG010000027.1
+"Malikia granosa strain P1 contig_23, whole genome shotgun sequence",Malikia granosa,84.3,84.3,72%,2.00E-16,35.23,142501,NZ_PVLQ01000023.1
+"Mycetohabitans rhizoxinica HKI 454 plasmid pBRH01, complete sequence",Mycetohabitans rhizoxinica HKI 454,84.3,84.3,82%,2.00E-16,27.94,822304,NC_014718.1
+"Ralstonia syzygii strain NCPPB 3727 NCPPB3727-PB17_3, whole genome shotgun sequence",Ralstonia syzygii,84.3,84.3,72%,2.00E-16,32.02,1610858,NZ_JACWNE010000003.1
+"Variovorax boronicumulans strain HAB30 Contig01, whole genome shotgun sequence",Variovorax boronicumulans,84.3,84.3,69%,2.00E-16,39.41,4303337,NZ_BKDH01000001.1
+"Burkholderia territorii strain MSMB1842 MSMB1842_34, whole genome shotgun sequence",Burkholderia territorii,84.3,84.3,63%,2.00E-16,32.69,125067,NZ_LOYT01000027.1
+"Burkholderia cenocepacia strain MSMB384WGS chromosome 3, complete sequence",Burkholderia cenocepacia,84.3,84.3,63%,2.00E-16,32.69,1121886,NZ_CP013451.1
+"Burkholderia latens strain BCC1625, whole genome shotgun sequence",Burkholderia latens,84.3,84.3,63%,2.00E-16,32.69,192856,NZ_CADFCV010000012.1
+"Diaphorobacter nitroreducens strain DSM 15985 Ga0244670_107, whole genome shotgun sequence",Diaphorobacter nitroreducens,84.3,84.3,72%,2.00E-16,35.8,269710,NZ_RJVL01000007.1
+"Bordetella ansorpii strain SMC-8986T, whole genome shotgun sequence",Bordetella ansorpii,84.3,84.3,72%,2.00E-16,35.23,1185525,NZ_FKBS01000029.1
+"Paraburkholderia acidophila strain ATCC 31433 chromosome 3, complete sequence",Paraburkholderia acidophila,84,84,63%,3.00E-16,32.69,641159,NZ_CP020739.1
+"Rhodoferax koreense strain DCY-110 chromosome, complete genome",Rhodoferax koreense,84,134,69%,3.00E-16,38.82,5800473,NZ_CP019236.1
+"Pandoraea horticolens strain LMG 31112, whole genome shotgun sequence",Pandoraea horticolens,84,84,61%,3.00E-16,38,28927,NZ_CABPSM010000029.1
+"Caballeronia telluris isolate LMG 22936, whole genome shotgun sequence",Caballeronia telluris,83.6,83.6,82%,3.00E-16,28.92,664091,NZ_FCNZ02000001.1
+"Ralstonia pseudosolanacearum strain RS 476 plasmid unnamed, complete sequence",Ralstonia pseudosolanacearum,83.6,83.6,72%,3.00E-16,32.02,2094505,NZ_CP021763.1
+"Aromatoleum toluvorans strain Td21 NODE_16_length_97816_cov_28.4937, whole genome shotgun sequence",Aromatoleum toluvorans,83.6,83.6,81%,3.00E-16,31.5,97816,NZ_WTVN01000016.1
+"Ralstonia insidiosa strain ATCC 49129 chromosome 2, complete sequence",Ralstonia insidiosa,83.6,83.6,72%,4.00E-16,32.58,1887060,NZ_CP016023.1
+"Burkholderia ambifaria strain BCC1065, whole genome shotgun sequence",Burkholderia ambifaria,83.6,83.6,63%,4.00E-16,32.69,109251,NZ_CADERN010000020.1
+"Burkholderia stagnalis strain MSMB735WGS chromosome 3, complete sequence",Burkholderia stagnalis,83.2,83.2,63%,4.00E-16,32.05,878643,NZ_CP013460.1
+"Ralstonia pickettii isolate MGYG-HGUT-01384, whole genome shotgun sequence",Ralstonia pickettii,83.2,83.2,72%,5.00E-16,33.15,1184555,NZ_CABKQE010000002.1
+"Kerstersia gyiorum strain SWMUKG01 chromosome, complete genome",Kerstersia gyiorum,83.2,134,72%,5.00E-16,34.09,3945801,NZ_CP033936.1
+"Burkholderia vietnamiensis strain FL-2-2-30-S1-D0 FL-2-2-30-S1-D0_19, whole genome shotgun sequence",Burkholderia vietnamiensis,83.2,83.2,63%,5.00E-16,32.69,106663,NZ_LOWI01000010.1
+"Burkholderia metallica strain FL-6-5-30-S1-D7 chromosome 3, complete sequence",Burkholderia metallica,83.2,83.2,63%,5.00E-16,32.69,900512,NZ_CP013402.1
+"Cupriavidus pinatubonensis strain SM52 SM52_contig_9_1, whole genome shotgun sequence",Cupriavidus pinatubonensis,82.4,82.4,81%,1.00E-15,31.31,25941,NZ_PPPS01000008.1
+"Ralstonia mannitolilytica strain SN83A39 chromosome 2, complete sequence",Ralstonia mannitolilytica,82,82,72%,1.00E-15,32.02,1463724,NZ_CP011258.1
+"Thauera phenylacetica B4P Cont5, whole genome shotgun sequence",Thauera phenylacetica B4P,82,82,72%,1.00E-15,34.66,54064,NZ_AMXF01000005.1
+"Aromatoleum evansii strain KB740 NODE_40_length_51533_cov_46.6, whole genome shotgun sequence",Aromatoleum evansii,81.3,81.3,81%,2.00E-15,29.44,51534,NZ_WTVK01000040.1
+"Acidovorax konjaci strain DSM 7481, whole genome shotgun sequence",Acidovorax konjaci,81.3,81.3,61%,2.00E-15,36,446024,NZ_FOMQ01000004.1
+"Ralstonia solanacearum strain IBSBF1503 plasmid unnamed, complete sequence",Ralstonia solanacearum,81.3,81.3,72%,2.00E-15,31.46,2069788,NZ_CP012944.1
+"Variovorax paradoxus S110 chromosome 1, complete sequence",Variovorax paradoxus S110,80.9,80.9,69%,3.00E-15,38.24,5626353,NC_012791.1
+"Paraburkholderia phenoliruptrix strain LMG 22037 isolate LMG 22037, whole genome shotgun sequence",Paraburkholderia phenoliruptrix,80.9,80.9,72%,3.00E-15,34.66,197426,NZ_CADIKB010000008.1
+Delftia lacustris strain FDAARGOS_890 plasmid unnamed,Delftia lacustris,80.9,80.9,72%,3.00E-15,34.66,370426,NZ_CP065749.1
+"Giesbergeria anulus strain ATCC 35958, whole genome shotgun sequence",Giesbergeria anulus,80.5,80.5,72%,3.00E-15,31.46,24406,NZ_FOGD01000020.1
+"Pandoraea pnomenusa, complete sequence",Pandoraea pnomenusa,80.5,131,72%,4.00E-15,34.09,5385946,NC_023018.2
+"Burkholderia ubonensis strain MSMB2035 plasmid pMSMB2035, complete sequence",Burkholderia ubonensis,79.7,79.7,65%,7.00E-15,34.78,299296,NZ_CP013415.1
+"Simplicispira suum strain SC1-8 chromosome, complete genome",Simplicispira suum,79.7,132,72%,7.00E-15,36.36,3917216,NZ_CP027669.1
+"Pararobbsia alpina strain LMG 28138 isolate LMG 28138, whole genome shotgun sequence",Pararobbsia alpina,79,79,65%,1.00E-14,33.54,129476,NZ_CADIKM010000014.1
+"Janthinobacterium svalbardensis strain PAMC 27463 chromosome, complete genome",Janthinobacterium svalbardensis,79,79,83%,1.00E-14,31.86,6274078,NZ_CP023422.1
+"Paraburkholderia sacchari strain LMG 19450 ctg_13, whole genome shotgun sequence",Paraburkholderia sacchari,78.6,78.6,71%,2.00E-14,33.14,420697,NZ_JTDB02000006.1
+"Denitromonas halophilus strain SFB-3 k141_64, whole genome shotgun sequence",Denitromonas halophilus,78.2,78.2,83%,2.00E-14,32.51,161559,NZ_VMNK01000009.1
+"Paraburkholderia caffeinitolerans strain LMG 28688 isolate LMG 28688, whole genome shotgun sequence",Paraburkholderia caffeinitolerans,78.2,78.2,71%,3.00E-14,33.14,106125,NZ_CADIKL010000026.1
+"Paraburkholderia unamae strain SCZa-39 Ga0215850_108, whole genome shotgun sequence",Paraburkholderia unamae,77.8,77.8,71%,3.00E-14,32.57,399425,NZ_QEOB01000008.1
+"Paraburkholderia eburnea strain LMG 29537 Ga0139077_111, whole genome shotgun sequence",Paraburkholderia eburnea,77.8,77.8,71%,4.00E-14,33.14,229940,NZ_PVUA01000011.1
+"Paraburkholderia oxyphila NBRC 105797, whole genome shotgun sequence",Paraburkholderia oxyphila NBRC 105797,77.8,77.8,71%,4.00E-14,33.14,66102,NZ_BAYD01000055.1
+"Paraburkholderia bannensis NBRC 103871, whole genome shotgun sequence",Paraburkholderia bannensis NBRC 103871,77.4,77.4,71%,5.00E-14,33.14,46343,NZ_BAYA01000046.1
+"Macromonas bipunctata strain DSM 12705 DSM12705_1_(paired)_trimmed_(paired)_contig_13, whole genome shotgun sequence",Macromonas bipunctata,77.4,77.4,72%,5.00E-14,28.98,22141,NZ_NWBQ01000013.1
+"Pararobbsia silviterrae strain DHC34 scaffold10, whole genome shotgun sequence",Pararobbsia silviterrae,77.4,77.4,65%,5.00E-14,31.25,274222,NZ_RBZU01000010.1
+"Paraburkholderia mimosarum LMG 23256 = NBRC 106338 strain LMG 23256 A19UDRAFT_scaffold_70.71_C, whole genome shotgun sequence",Paraburkholderia mimosarum LMG 23256 = NBRC 106338,77,77,65%,6.00E-14,33.54,21640,NZ_AXAN01000072.1
+"Paraburkholderia tropica strain IAC135 chromosome D, complete sequence",Paraburkholderia tropica,77,77,71%,6.00E-14,33.14,1567213,NZ_CP049137.1
+"Pandoraea oxalativorans strain DSM 23570 plasmid pPO70-1, complete sequence",Pandoraea oxalativorans,77,77,54%,7.00E-14,33.83,633357,NZ_CP011518.2
+"Paraburkholderia lycopersici strain TNe-862, whole genome shotgun sequence",Paraburkholderia lycopersici,76.6,76.6,65%,9.00E-14,33.54,110757,NZ_FMYQ01000028.1
+"Paraburkholderia nodosa DSM 21604 A3CWDRAFT_scaffold_47.48_C, whole genome shotgun sequence",Paraburkholderia nodosa DSM 21604,76.3,76.3,65%,1.00E-13,33.54,59249,NZ_JAFA01000048.1
+"Paraburkholderia silvatlantica strain SRCL-318 Ga0215860_151, whole genome shotgun sequence",Paraburkholderia silvatlantica,76.3,76.3,65%,1.00E-13,33.54,38108,NZ_QJSQ01000051.1
+"Paraburkholderia heleia NBRC 101817, whole genome shotgun sequence",Paraburkholderia heleia NBRC 101817,76.3,76.3,65%,1.00E-13,33.54,160509,NZ_BBJH01000025.1
+"Paraburkholderia acidipaludis NBRC 101816, whole genome shotgun sequence",Paraburkholderia acidipaludis NBRC 101816,76.3,76.3,71%,1.00E-13,33.14,105540,NZ_BAXZ01000008.1
+"Paraburkholderia guartelaensis strain CNPSo 3008 scaffold49.1, whole genome shotgun sequence",Paraburkholderia guartelaensis,76.3,76.3,65%,1.00E-13,33.54,54000,NZ_SMOD01000049.1
+"Paraburkholderia ferrariae NBRC 106233, whole genome shotgun sequence",Paraburkholderia ferrariae NBRC 106233,75.9,75.9,65%,1.00E-13,33.54,117100,NZ_BAYB01000031.1
+"Achromobacter arsenitoxydans SY8 Contig00075, whole genome shotgun sequence",Achromobacter arsenitoxydans SY8,75.1,75.1,72%,2.00E-13,32.95,3151,NZ_AGUF01000072.1
+"Paraburkholderia caballeronis strain TNe-841, whole genome shotgun sequence",Paraburkholderia caballeronis,74.3,74.3,65%,6.00E-13,33.54,1088778,NZ_FNSR01000003.1
+"Hydromonas duriensis strain DSM 102852 Ga0244583_138, whole genome shotgun sequence",Hydromonas duriensis,73.9,73.9,72%,6.00E-13,31.25,12602,NZ_SNZE01000038.1
+"Caballeronia hypogeia isolate LMG 29322, whole genome shotgun sequence",Caballeronia hypogeia,73.9,73.9,72%,7.00E-13,29.94,250455,NZ_FCOA02000007.1
+"Undibacterium jejuense strain KACC 12607 30, whole genome shotgun sequence",Undibacterium jejuense,73.6,73.6,72%,9.00E-13,30.68,11760,NZ_JACOFV010000030.1
+"Sulfuriferula nivalis strain SGTM plasmid SGTM_pl2, complete sequence",Sulfuriferula nivalis,73.2,73.2,72%,1.00E-12,31.82,28585,NZ_AP021883.1
+"Caballeronia glebae isolate LMG 29325, whole genome shotgun sequence",Caballeronia glebae,72.8,72.8,66%,2.00E-12,31.1,111628,NZ_FCOJ02000021.1
+"Caballeronia temeraria isolate LMG 29319, whole genome shotgun sequence",Caballeronia temeraria,72.8,72.8,66%,2.00E-12,31.1,28610,NZ_FCOI02000056.1
+"Caballeronia cordobensis isolate LMG 27620, whole genome shotgun sequence",Caballeronia cordobensis,72.8,72.8,66%,2.00E-12,31.1,372747,NZ_FCNY02000010.1
+"Caballeronia grimmiae strain R27 contig31, whole genome shotgun sequence",Caballeronia grimmiae,72.8,72.8,66%,2.00E-12,31.1,63299,NZ_JFHE01000031.1
+"Caballeronia fortuita isolate LMG 29320, whole genome shotgun sequence",Caballeronia fortuita,72.8,72.8,66%,2.00E-12,31.1,113314,NZ_FCNX02000022.1
+"Serpentinomonas mccroryi strain B1 plasmid pSMB1, complete sequence",Serpentinomonas mccroryi,72.8,72.8,71%,2.00E-12,32.57,16368,NZ_AP014570.1
+"Polaromonas naphthalenivorans CJ2 plasmid pPNAP07, complete sequence",Polaromonas naphthalenivorans CJ2,72.4,72.4,82%,2.00E-12,30.2,9898,NC_008763.1
+"Burkholderia arboris isolate LMG 24066, whole genome shotgun sequence",Burkholderia arboris,72.4,72.4,71%,2.00E-12,32,13778,NZ_CABVPX010000063.1
+"Bordetella pseudohinzii strain HI4681 plasmid unnamed1, complete sequence",Bordetella pseudohinzii,72,72,81%,3.00E-12,26.5,68520,NZ_CP016441.1
+"Vogesella perlucida strain DS-28 NODE_184_length_1106_cov_1.879728, whole genome shotgun sequence",Vogesella perlucida,71.2,71.2,70%,3.00E-12,32.76,1106,NZ_VOID02000525.1
+"Rhodoferax antarcticus strain DSMZ24876 chromosome, complete genome",Rhodoferax antarcticus,71.6,122,81%,4.00E-12,28.28,3916274,NZ_CP019240.1
+"Tepidicella xavieri strain DSM 19605 Ga0244535_124, whole genome shotgun sequence",Tepidicella xavieri,71.6,71.6,72%,5.00E-12,32.39,19023,NZ_SNYL01000024.1
+"Robbsia andropogonis strain LMG 2129, whole genome shotgun sequence",Robbsia andropogonis,71.2,71.2,49%,6.00E-12,35.25,231216,NZ_CADFGU010000012.1
+"Macromonas bipunctata strain DSM 12705 DSM12705_1_(paired)_trimmed_(paired)_contig_72, whole genome shotgun sequence",Macromonas bipunctata,70.9,70.9,81%,7.00E-12,27.27,38184,NZ_NWBQ01000072.1
+"Caballeronia hypogeia isolate LMG 29322, whole genome shotgun sequence",Caballeronia hypogeia,70.5,70.5,61%,1.00E-11,34.67,11635,NZ_FCOA02000062.1
+"Neisseria bergeri strain M40463 M40463_CHA5855A11_cleaned_ctg_4965, whole genome shotgun sequence",Neisseria bergeri,70.1,70.1,65%,1.00E-11,27.33,6958,NZ_QQHX01000010.1
+"Methylophilus rhizosphaerae strain CBMB127, whole genome shotgun sequence",Methylophilus rhizosphaerae,69.7,69.7,61%,2.00E-11,34,19702,NZ_FNFX01000007.1
+"Eoetvoesia caeni strain PB3-7B NODE_16_length_33023_cov_25.271006, whole genome shotgun sequence",Eoetvoesia caeni,69.7,69.7,61%,2.00E-11,34,33023,NZ_JACCEU010000016.1
+"Paraburkholderia bannensis NBRC 103871, whole genome shotgun sequence",Paraburkholderia bannensis NBRC 103871,68.6,68.6,70%,5.00E-11,31.03,47282,NZ_BAYA01000045.1
+"Zoogloea ramigera strain NBRC 15342 sequence027, whole genome shotgun sequence",Zoogloea ramigera,68.2,68.2,65%,6.00E-11,30.82,56894,NZ_BJNV01000027.1
+"Burkholderia glumae strain 257sh-1 plasmid plas2, complete sequence",Burkholderia glumae,67.8,67.8,49%,8.00E-11,38.02,175525,NZ_CP035903.1
+"Paraburkholderia humisilvae strain LMG 29542 isolate LMG 29542, whole genome shotgun sequence",Paraburkholderia humisilvae,67.8,67.8,67%,1.00E-10,30.91,81220,NZ_CADIKH010000033.1
+"Undibacterium oligocarboniphilum strain EM 1 Scaffold8, whole genome shotgun sequence",Undibacterium oligocarboniphilum,67,67,50%,1.00E-10,31.71,112002,NZ_JABXYJ010000008.1
+"Paraburkholderia aromaticivorans strain BN5 plasmid pBN2, complete sequence",Paraburkholderia aromaticivorans,66.2,66.2,66%,3.00E-10,30.49,489416,NZ_CP022992.1
+"Advenella kashmirensis WT001 plasmid pWTk445, complete sequence",Advenella kashmirensis WT001,65.9,65.9,54%,3.00E-10,28.57,57884,NC_017965.1
+"Pseudorhodoferax aquiterrae strain KCTC 23314 sequence13, whole genome shotgun sequence",Pseudorhodoferax aquiterrae,62.4,62.4,66%,5.00E-09,31.48,159381,NZ_BMYK01000013.1
+"Azoarcus taiwanensis strain NSC3 NODE_151_length_8621_cov_24.9601, whole genome shotgun sequence",Azoarcus taiwanensis,62.4,62.4,49%,5.00E-09,36.07,8621,NZ_WTVM01000151.1
+"Polaromonas naphthalenivorans CJ2 plasmid pPNAP02, complete sequence",Polaromonas naphthalenivorans CJ2,61.2,61.2,49%,1.00E-08,31.71,190172,NC_008758.1
+"Polaromonas glacialis strain R3-9 Scaffold4, whole genome shotgun sequence",Polaromonas glacialis,60.8,60.8,49%,2.00E-08,31.71,181631,NZ_KL448326.1
+"Comamonas jiangduensis isolate Q1714, whole genome shotgun sequence",Comamonas jiangduensis,60.5,60.5,66%,3.00E-08,26.54,20921,NZ_CADEPJ010000098.1
+"Pandoraea cepalis strain LMG 31107, whole genome shotgun sequence",Pandoraea cepalis,60.1,60.1,61%,3.00E-08,29.14,260151,NZ_CABPRY010000006.1
+"Pseudorivibacter rhizosphaerae strain C1-9 scaffold_8, whole genome shotgun sequence",Pseudorivibacter rhizosphaerae,60.1,60.1,50%,3.00E-08,33.06,163713,NZ_SWAR01000009.1
+"Pandoraea terrigena strain LMG 31013, whole genome shotgun sequence",Pandoraea terrigena,60.1,60.1,61%,3.00E-08,29.14,193443,NZ_CABPRU010000011.1
+"Caballeronia catudaia isolate LMG 29318, whole genome shotgun sequence",Caballeronia catudaia,60.1,60.1,82%,3.00E-08,26.83,6876,NZ_FCOF02000094.1
+"Burkholderia vietnamiensis strain FL-2-2-30-S1-D0 FL-2-2-30-S1-D0_51, whole genome shotgun sequence",Burkholderia vietnamiensis,59.3,59.3,66%,5.00E-08,31.9,122166,NZ_LOWI01000046.1
+"Crenobacter luteus strain CN10 contig_2, whole genome shotgun sequence",Crenobacter luteus,57.4,57.4,54%,2.00E-07,32.59,9890,NZ_LQQU01000012.1
+"Malikia granosa strain P1 contig_27, whole genome shotgun sequence",Malikia granosa,57.4,57.4,54%,2.00E-07,32.84,303154,NZ_PVLQ01000027.1
+"Paraburkholderia fungorum strain FDAARGOS_245 unitig_7_quiver_trim_quiver_pilon, whole genome shotgun sequence",Paraburkholderia fungorum,57.4,57.4,61%,3.00E-07,27.15,338825,NZ_NBSN01000001.1
+"Limnobacter alexandrii strain LZ-4 NODE_1, whole genome shotgun sequence",Limnobacter alexandrii,57.4,107,48%,3.00E-07,32.77,1497589,NZ_SWKN01000006.1
+"Thauera propionica strain KNDSS-Mac4 contig_4, whole genome shotgun sequence",Thauera propionica,57,57,61%,4.00E-07,29.14,29954,NZ_NOIH01000004.1
+"Malikia spinosa strain 83 contig_24, whole genome shotgun sequence",Malikia spinosa,56.6,56.6,54%,4.00E-07,32.09,185152,NZ_PVLR01000024.1
+"Quisquiliibacterium transsilvanicum strain DSM 29781 Ga0415297_02, whole genome shotgun sequence",Quisquiliibacterium transsilvanicum,55.8,55.8,54%,8.00E-07,32.84,664591,NZ_JACHGB010000002.1
+"Tepidicella baoligensis strain B18-50 Scaffold2, whole genome shotgun sequence",Tepidicella baoligensis,55.5,55.5,71%,1.00E-06,30.29,368141,NZ_JACCDB010000002.1
+Burkholderia contaminans strain CH-1 plasmid pBC453 map unlocalized,Burkholderia contaminans,54.3,54.3,61%,2.00E-06,27.15,453462,NZ_AP018360.1
+"Paraburkholderia diazotrophica strain LMG 26031, whole genome shotgun sequence",Paraburkholderia diazotrophica,54.3,54.3,67%,3.00E-06,28.66,27034,NZ_FNYE01000063.1
+"Xylophilus rhododendri strain KACC 21265 plasmid unnamed1, complete sequence",Xylophilus rhododendri,54.3,54.3,18%,3.00E-06,60.87,18820,NZ_CP047651.1
+"Neisseria animalis strain ATCC 49930 chromosome, complete genome",Neisseria animalis,53.9,53.9,17%,3.00E-06,65.12,2236930,NZ_CP031699.1
+"Conchiformibius steedae strain DSM 2580 chromosome, complete genome",Conchiformibius steedae,53.9,53.9,17%,3.00E-06,62.79,2099460,NZ_CP059563.1
+"Paraburkholderia lycopersici strain TNe-862, whole genome shotgun sequence",Paraburkholderia lycopersici,53.9,53.9,67%,4.00E-06,28.66,33955,NZ_FMYQ01000047.1
+"Saezia sanguinis strain CNM695-12 CUZ56_11, whole genome shotgun sequence",Saezia sanguinis,53.9,53.9,17%,4.00E-06,62.79,103294,NZ_PQSP01000011.1
+"Stenoxybacter acetivorans DSM 19021 Q384DRAFT_scaffold00064.64_C, whole genome shotgun sequence",Stenoxybacter acetivorans DSM 19021,53.5,53.5,17%,5.00E-06,67.44,14554,NZ_JQKE01000069.1
+"Methylophilus methylotrophus DSM 46235 = ATCC 53528 F463DRAFT_scaffold00005.5, whole genome shotgun sequence",Methylophilus methylotrophus DSM 46235 = ATCC 53528,53.5,53.5,17%,5.00E-06,60.47,177069,NZ_KB905145.1
+"Kingella kingae KK12, whole genome shotgun sequence",Kingella kingae KK12,53.1,53.1,17%,6.00E-06,62.79,1991016,NZ_HG426962.1
+"Burkholderia dabaoshanensis strain GIMN1.004 NODE_24_length_122994_cov_18.7976, whole genome shotgun sequence",Burkholderia dabaoshanensis,53.1,53.1,80%,6.00E-06,28.14,122994,NZ_PNYA01000024.1
+"Vogesella fluminis strain KCTC 23713 sequence028, whole genome shotgun sequence",Vogesella fluminis,53.1,53.1,17%,6.00E-06,62.79,40926,NZ_BMYP01000028.1
+"Neisseria weaveri strain NCTC12742 chromosome 1, complete sequence",Neisseria weaveri,53.1,53.1,17%,6.00E-06,67.44,2238481,NZ_LR134533.1
+Methylophilus medardicus strain MMS-M-51 chromosome,Methylophilus medardicus,53.1,53.1,17%,6.00E-06,60.47,2603080,NZ_CP040946.1
+Denitratisoma oestradiolicum strain DSM 16959 chromosome I,Denitratisoma oestradiolicum,53.1,53.1,17%,6.00E-06,60.47,4168563,NZ_LR778301.1
+"Methylophilus rhizosphaerae strain CBMB127, whole genome shotgun sequence",Methylophilus rhizosphaerae,52.8,52.8,17%,7.00E-06,60.47,486120,NZ_FNFX01000004.1
+"Parvibium lacunae strain KMB9 SC0004, whole genome shotgun sequence",Parvibium lacunae,52.8,52.8,17%,8.00E-06,62.79,217549,NZ_QPGB01000004.1
+"Noviherbaspirillum soli strain SUEMI10 Scaffold25_1, whole genome shotgun sequence",Noviherbaspirillum soli,52.8,52.8,17%,8.00E-06,62.79,86597,NZ_JACYOX010000027.1
+"Comamonas kerstersii strain 8943 chromosome, complete genome",Comamonas kerstersii,52.8,52.8,17%,8.00E-06,60.47,3547915,NZ_CP020121.1
+"Neisseria iguanae strain ATCC 51483 Scaffold68, whole genome shotgun sequence",Neisseria iguanae,52.8,52.8,17%,8.00E-06,60.47,13952,NZ_PXYY01000068.1
+"Laribacter hongkongensis DSM 14985 G542DRAFT_scaffold00001.1_C, whole genome shotgun sequence",Laribacter hongkongensis DSM 14985,52.8,52.8,17%,9.00E-06,65.12,302497,NZ_AUHR01000001.1
+"Comamonas aquatica DA1877 out_2, whole genome shotgun sequence",Comamonas aquatica DA1877,52.8,52.8,17%,9.00E-06,60.47,302035,NZ_JBOK01000002.1
+"Azovibrio restrictus DSM 23866 G474DRAFT_scaffold00010.10, whole genome shotgun sequence",Azovibrio restrictus DSM 23866,52.8,52.8,17%,9.00E-06,60.47,178608,NZ_KE386938.1
+"Polynucleobacter duraquae strain MWH-MoK4, complete genome",Polynucleobacter duraquae,52.8,52.8,18%,9.00E-06,53.33,2026292,NZ_CP007501.1
+"Bordetella ansorpii strain SMC-8986T, whole genome shotgun sequence",Bordetella ansorpii,52.8,52.8,17%,9.00E-06,60.47,296063,NZ_FKBS01000006.1
+"Simonsiella muelleri ATCC 29453 chromosome, complete genome",Simonsiella muelleri ATCC 29453,52.8,52.8,17%,9.00E-06,60.47,2469862,NZ_CP019448.1
+"Undibacterium aquatile strain CCTCC AB 2015119 3, whole genome shotgun sequence",Undibacterium aquatile,52.4,52.4,18%,1.00E-05,60.87,705528,NZ_JACOFT010000003.1
+"Alysiella crassa strain NCTC10283, whole genome shotgun sequence",Alysiella crassa,52.4,52.4,17%,1.00E-05,60.47,1374132,NZ_UFSO01000003.1
+"Achromobacter aloeverae strain AVA-1 Scaffold5_1, whole genome shotgun sequence",Achromobacter aloeverae,52.4,52.4,17%,1.00E-05,62.79,541329,NZ_PYAL01000005.1
+"Leeia oryzae DSM 17879 F552DRAFT_scaffold00001.1_C, whole genome shotgun sequence",Leeia oryzae DSM 17879,52.4,52.4,17%,1.00E-05,62.79,964035,NZ_AQXU01000025.1
+"Caldimonas manganoxidans ATCC BAA-369 F615DRAFT_scaffold00019.19, whole genome shotgun sequence",Caldimonas manganoxidans ATCC BAA-369,52.4,52.4,17%,1.00E-05,60.47,69258,NZ_KB905947.1
+"Tepidimonas alkaliphilus strain YIM 72238 Tepi_alka_6, whole genome shotgun sequence",Tepidimonas alkaliphilus,52.4,52.4,17%,1.00E-05,62.79,142928,NZ_VJNB01000006.1
+"Conchiformibius kuhniae DSM 17694 G392DRAFT_scaffold00001.1_C, whole genome shotgun sequence",Conchiformibius kuhniae DSM 17694,52.4,52.4,17%,1.00E-05,58.14,419397,NZ_AUAP01000001.1
+"Paraburkholderia guartelaensis strain CNPSo 3008 scaffold37.1, whole genome shotgun sequence",Paraburkholderia guartelaensis,52.4,52.4,65%,1.00E-05,27.04,74935,NZ_SMOD01000037.1
+"Azohydromonas lata NBRC 102462, whole genome shotgun sequence",Azohydromonas lata NBRC 102462,52.4,52.4,17%,1.00E-05,62.79,32237,NZ_BCTC01000074.1
+"Simplicispira hankyongi strain NY-02 contig_5, whole genome shotgun sequence",Simplicispira hankyongi,52.4,52.4,17%,1.00E-05,60.47,271394,NZ_QXJC01000005.1
+"Malikia granosa strain P1 contig_17, whole genome shotgun sequence",Malikia granosa,52.4,52.4,20%,1.00E-05,50.98,72364,NZ_PVLQ01000017.1
+"Bergeriella denitrificans strain NCTC10295, whole genome shotgun sequence",Bergeriella denitrificans,52.4,52.4,17%,1.00E-05,62.79,1588934,NZ_UGQS01000002.1
+"Pigmentiphaga litoralis strain KCTC 22165 sequence1, whole genome shotgun sequence",Pigmentiphaga litoralis,52.4,52.4,17%,1.00E-05,60.47,4050956,NZ_BMXQ01000001.1
+"Eikenella longinqua strain NML02-A-017 Eiksp_contig000030, whole genome shotgun sequence",Eikenella longinqua,52.4,52.4,17%,1.00E-05,62.79,108447,NZ_LXSL01000030.1
+"Brachymonas chironomi DSM 19884 C513DRAFT_scaffold00002.2, whole genome shotgun sequence",Brachymonas chironomi DSM 19884,52.4,52.4,17%,1.00E-05,58.14,496172,NZ_KB894766.1
+"Neisseria shayeganii strain DSM 22244 chromosome, complete genome",Neisseria shayeganii,52.4,52.4,17%,1.00E-05,65.12,2419744,NZ_CP059567.1
+"Aquabacterium commune strain DSM 11901 Ga0310490_105, whole genome shotgun sequence",Aquabacterium commune,52,52,17%,1.00E-05,58.14,288428,NZ_SNXW01000005.1
+"Chromobacterium subtsugae strain PRAA4-1 Contig.4, whole genome shotgun sequence",Chromobacterium subtsugae,52,52,17%,1.00E-05,65.12,382933,NZ_JYKA01000004.1
+"Sulfuritalea hydrogenivorans sk43H strain DSM 22779 chromosome, complete genome",Sulfuritalea hydrogenivorans sk43H,52,52,17%,1.00E-05,62.79,3802648,NZ_AP012547.1
+"Paraburkholderia acidipaludis NBRC 101816, whole genome shotgun sequence",Paraburkholderia acidipaludis NBRC 101816,52,52,69%,1.00E-05,27.65,360620,NZ_BAXZ01000006.1
+"Pseudogulbenkiania subflava DSM 22618, whole genome shotgun sequence",Pseudogulbenkiania subflava DSM 22618,52,52,17%,1.00E-05,65.12,315007,NZ_FXAG01000003.1
+"Formivibrio citricus strain DSM 6150, whole genome shotgun sequence",Formivibrio citricus,52,52,17%,1.00E-05,62.79,100927,NZ_FOVE01000013.1
+"Aquitalea pelogenes strain CCM 7557 contig_5, whole genome shotgun sequence",Aquitalea pelogenes,52,52,17%,1.00E-05,65.12,131867,NZ_LNQV01000005.1
+"Polaromonas vacuolata strain KCTC 22033 chromosome, complete genome",Polaromonas vacuolata,52,52,17%,1.00E-05,55.81,3837686,NZ_CP051461.1
+"Aquitalea magnusonii strain DSM 25134 Ga0244556_110, whole genome shotgun sequence",Aquitalea magnusonii,52,52,17%,1.00E-05,65.12,173795,NZ_QJKC01000010.1
+"Sphaerotilus montanus strain DSM 21226 Ga0315739_01, whole genome shotgun sequence",Sphaerotilus montanus,52,52,17%,2.00E-05,60.47,4833819,NZ_JACCFH010000001.1
+"Dechloromonas aromatica RCB, complete sequence",Dechloromonas aromatica RCB,52,52,17%,2.00E-05,60.47,4501104,NC_007298.1
+"Chromobacterium phragmitis strain IIBBL 112-1 chromosome, complete genome",Chromobacterium phragmitis,52,52,17%,2.00E-05,65.12,4789562,NZ_CP029495.1
+"Aquitalea denitrificans strain 5YN1-3 chromosome, complete genome",Aquitalea denitrificans,52,52,17%,2.00E-05,65.12,4502301,NZ_CP047241.1
+"Chitinimonas taiwanensis DSM 18899, whole genome shotgun sequence",Chitinimonas taiwanensis DSM 18899,52,52,17%,2.00E-05,62.79,191299,NZ_FPKR01000012.1
+"Comamonas composti DSM 21721 G486DRAFT_scaffold00003.3_C, whole genome shotgun sequence",Comamonas composti DSM 21721,52,52,17%,2.00E-05,60.47,369804,NZ_AUCQ01000003.1
+"Quisquiliibacterium transsilvanicum strain DSM 29781 Ga0415297_05, whole genome shotgun sequence",Quisquiliibacterium transsilvanicum,52,52,17%,2.00E-05,62.79,547752,NZ_JACHGB010000005.1
+"Lacisediminimonas profundi strain CHu64-6-4 Scaffold7_1, whole genome shotgun sequence",Lacisediminimonas profundi,52,52,17%,2.00E-05,60.47,269324,NZ_VTTH01000007.1
+"Melaminivora alkalimesophila strain DSM 26006 Ga0244563_103, whole genome shotgun sequence",Melaminivora alkalimesophila,52,52,17%,2.00E-05,60.47,398329,NZ_QGUB01000003.1
+"Malikia spinosa strain 83 contig_5, whole genome shotgun sequence",Malikia spinosa,52,52,17%,2.00E-05,58.14,108280,NZ_PVLR01000005.1
+"Eikenella corrodens strain NCTC10596 chromosome 1, complete sequence",Eikenella corrodens,52,52,17%,2.00E-05,62.79,2192577,NZ_LT906482.1
+"Eikenella exigua strain PXX chromosome, complete genome",Eikenella exigua,51.6,51.6,17%,2.00E-05,62.79,1953244,NZ_CP038018.1
+"Eikenella halliae strain NML130454 Eiksp_contig000028, whole genome shotgun sequence",Eikenella halliae,51.6,51.6,17%,2.00E-05,62.79,134538,NZ_LXSQ01000028.1
+"Ramlibacter henchirensis strain DSM 14656 NODE_1_length_2576095_cov_65.406624, whole genome shotgun sequence",Ramlibacter henchirensis,51.6,51.6,17%,2.00E-05,58.14,2576095,NZ_SMLM01000001.1
+"Herbaspirillum lusitanum P6-12 Scaffold7.Contig39, whole genome shotgun sequence",Herbaspirillum lusitanum P6-12,51.6,51.6,17%,2.00E-05,60.47,24196,NZ_AJHH01000087.1
+"Oxalicibacterium flavum strain CCM 7086 sequence4, whole genome shotgun sequence",Oxalicibacterium flavum,51.6,51.6,17%,2.00E-05,62.79,377211,NZ_BMCG01000004.1
+"Limnohabitans planktonicus II-D5 LimC-II-D5-C1, whole genome shotgun sequence",Limnohabitans planktonicus II-D5,51.6,51.6,17%,2.00E-05,58.14,417865,NZ_LFYT02000001.1
+"Tepidimonas charontis strain SPSP-6 Tepi_SPSP6_6, whole genome shotgun sequence",Tepidimonas charontis,51.6,51.6,17%,2.00E-05,62.79,91697,NZ_VJON01000006.1
+"Pandoraea commovens strain LMG 31010, whole genome shotgun sequence",Pandoraea commovens,51.6,51.6,17%,2.00E-05,60.47,920871,NZ_CABPSA010000002.1
+"Thauera aromatica K172 chromosome, complete genome",Thauera aromatica K172,51.6,102,18%,2.00E-05,58.14,3658031,NZ_CP028339.1
+"Pandoraea pneumonica strain LMG 31114, whole genome shotgun sequence",Pandoraea pneumonica,51.6,51.6,17%,2.00E-05,60.47,1392766,NZ_CABPSK010000002.1
+"Kingella negevensis strain SW7208426, whole genome shotgun sequence",Kingella negevensis,51.6,51.6,17%,2.00E-05,58.14,1047684,NZ_LT841148.1
+"Aquabacterium tepidiphilum strain YIM 730274 contig019, whole genome shotgun sequence",Aquabacterium tepidiphilum,51.6,51.6,17%,2.00E-05,62.79,91160,NZ_QXMG01000019.1
+"Pandoraea oxalativorans strain DSM 23570 chromosome, complete genome",Pandoraea oxalativorans,51.6,51.6,17%,2.00E-05,60.47,5630311,NZ_CP011253.3
+"Pandoraea aquatica strain LMG 31011, whole genome shotgun sequence",Pandoraea aquatica,51.6,51.6,17%,2.00E-05,60.47,244118,NZ_CABPSN010000009.1
+"Acidovorax avenae strain T10_61 contig100, whole genome shotgun sequence",Acidovorax avenae,51.6,51.6,20%,2.00E-05,53.06,473671,NZ_LJGO01000100.1
+"Pandoraea terrae strain LMG 30175, whole genome shotgun sequence",Pandoraea terrae,51.6,51.6,17%,2.00E-05,60.47,184789,NZ_CABPRZ010000011.1
+"Pandoraea fibrosis strain 6399 chromosome, complete genome",Pandoraea fibrosis,51.6,51.6,17%,2.00E-05,60.47,5592065,NZ_CP047385.1
+"Pandoraea iniqua strain LMG 31009, whole genome shotgun sequence",Pandoraea iniqua,51.6,51.6,17%,2.00E-05,60.47,1308188,NZ_CABPSF010000001.1
+"Pandoraea vervacti strain NS15 chromosome, complete genome",Pandoraea vervacti,51.6,51.6,17%,2.00E-05,60.47,5636000,NZ_CP010897.2
+"Pandoraea norimbergensis strain DSM 11628 chromosome, complete genome",Pandoraea norimbergensis,51.6,51.6,17%,2.00E-05,60.47,6167370,NZ_CP013480.3
+"Pandoraea horticolens strain LMG 31112, whole genome shotgun sequence",Pandoraea horticolens,51.6,51.6,17%,2.00E-05,60.47,331077,NZ_CABPSM010000006.1
+"Noviherbaspirillum aerium strain 122213-3 Scaffold1, whole genome shotgun sequence",Noviherbaspirillum aerium,51.6,51.6,17%,2.00E-05,58.14,730437,NZ_VFAH01000001.1
+"Pandoraea pulmonicola strain DSM 16583 chromosome, complete genome",Pandoraea pulmonicola,51.6,51.6,17%,2.00E-05,60.47,5867621,NZ_CP010310.2
+"Pandoraea captiosa strain LMG 31118, whole genome shotgun sequence",Pandoraea captiosa,51.6,51.6,17%,2.00E-05,60.47,259432,NZ_CABPSQ010000007.1
+"Chromobacterium vaccinii strain 21-1 chromosome, complete genome",Chromobacterium vaccinii,51.6,51.6,17%,2.00E-05,65.12,5041230,NZ_CP017707.1
+"Tepidimonas taiwanensis strain VT154-175 contig353_0, whole genome shotgun sequence",Tepidimonas taiwanensis,51.6,51.6,17%,2.00E-05,65.12,26155,NZ_JTKY01000086.1
+"Verminephrobacter aporrectodeae subsp. tuberculatae At4 Contig44, whole genome shotgun sequence",Verminephrobacter aporrectodeae subsp. tuberculatae At4,51.2,51.2,17%,2.00E-05,60.47,3626,NZ_AFAL01000043.1
+"Iodobacter fluviatilis strain NCTC11159, whole genome shotgun sequence",Iodobacter fluviatilis,51.6,51.6,17%,2.00E-05,60.47,753692,NZ_UGHR01000003.1
+"Acidovorax konjaci strain DSM 7481, whole genome shotgun sequence",Acidovorax konjaci,51.6,51.6,17%,2.00E-05,58.14,397158,NZ_FOMQ01000005.1
+"Pandoraea communis strain LMG 31110, whole genome shotgun sequence",Pandoraea communis,51.6,51.6,17%,2.00E-05,60.47,1422275,NZ_CABPSJ010000001.1
+"Pandoraea soli strain LMG 31014, whole genome shotgun sequence",Pandoraea soli,51.6,51.6,17%,2.00E-05,60.47,146569,NZ_CABPSG010000011.1
+"Acidovorax anthurii strain CFPB 3232 Ga0074828_1071, whole genome shotgun sequence",Acidovorax anthurii,51.6,51.6,20%,2.00E-05,53.06,21018,NZ_QLTA01000071.1
+"Pandoraea anapnoica strain LMG 31117, whole genome shotgun sequence",Pandoraea anapnoica,51.6,51.6,17%,2.00E-05,60.47,351264,NZ_CABPSP010000005.1
+"Pandoraea terrigena strain LMG 31013, whole genome shotgun sequence",Pandoraea terrigena,51.6,51.6,17%,2.00E-05,60.47,242487,NZ_CABPRU010000006.1
+"Pandoraea cepalis strain LMG 31107, whole genome shotgun sequence",Pandoraea cepalis,51.6,51.6,17%,2.00E-05,60.47,1062234,NZ_CABPRY010000001.1
+"Brachymonas denitrificans DSM 15123, whole genome shotgun sequence",Brachymonas denitrificans DSM 15123,51.6,51.6,17%,2.00E-05,60.47,143544,NZ_FOCW01000004.1
+"Pandoraea capi strain LMG 20602, whole genome shotgun sequence",Pandoraea capi,51.6,51.6,17%,2.00E-05,60.47,233517,NZ_CABPRV010000011.1
+"Kingella denitrificans strain NCTC10995, whole genome shotgun sequence",Kingella denitrificans,51.6,51.6,17%,2.00E-05,62.79,2235023,NZ_UGJL01000001.1
+"Pandoraea bronchicola strain LMG 20603, whole genome shotgun sequence",Pandoraea bronchicola,51.2,51.2,17%,2.00E-05,60.47,239955,NZ_CABPST010000007.1
+"Pandoraea apista strain DSM 16535, complete genome",Pandoraea apista,51.2,51.2,17%,2.00E-05,60.47,5493967,NZ_CP013481.2
+"Delftia acidovorans strain 2167 scaffold1, whole genome shotgun sequence",Delftia acidovorans,51.2,51.2,17%,2.00E-05,58.14,6777958,NZ_KN046795.1
+"Pandoraea anhela strain LMG 31108, whole genome shotgun sequence",Pandoraea anhela,51.2,51.2,17%,2.00E-05,60.47,302148,NZ_CABPSB010000006.1
+"Chromobacterium violaceum ATCC 12472, complete sequence",Chromobacterium violaceum ATCC 12472,51.2,100,18%,2.00E-05,65.12,4751080,NC_005085.1
+"Pandoraea thiooxydans strain DSM 25325 chromosome, complete genome",Pandoraea thiooxydans,51.2,51.2,17%,2.00E-05,60.47,4464186,NZ_CP011568.3
+"Pandoraea faecigallinarum strain DSM 23572 chromosome, complete genome",Pandoraea faecigallinarum,51.2,51.2,17%,3.00E-05,60.47,5241671,NZ_CP011807.3
+"Paludibacterium paludis strain KCTC 32182 sequence09, whole genome shotgun sequence",Paludibacterium paludis,51.2,51.2,17%,3.00E-05,60.47,144669,NZ_BMYX01000009.1
+"Chromobacterium amazonense strain DSM 26508 Camzn_DSM26508.33, whole genome shotgun sequence",Chromobacterium amazonense,51.2,51.2,17%,3.00E-05,65.12,451041,NZ_MKCR01000027.1
+"Paucimonas lemoignei strain DSM 7445 Ga0244659_110, whole genome shotgun sequence",Paucimonas lemoignei,51.2,51.2,17%,3.00E-05,62.79,147940,NZ_SLZQ01000010.1
+"Acidovorax oryzae ATCC 19882 T336DRAFT_scaffold00011.11_C, whole genome shotgun sequence",Acidovorax oryzae ATCC 19882,51.2,51.2,17%,3.00E-05,58.14,183682,NZ_JMKU01000012.1
+"Pandoraea eparura strain LMG 31012, whole genome shotgun sequence",Pandoraea eparura,51.2,51.2,17%,3.00E-05,60.47,209868,NZ_CABPSH010000007.1
+"Pandoraea sputorum strain NCTC13161 chromosome 1, complete sequence",Pandoraea sputorum,51.2,51.2,17%,3.00E-05,60.47,5743123,NZ_LT906435.1
+"Thiobacillus denitrificans DSM 12475 B059DRAFT_scaffold_5.6_C, whole genome shotgun sequence",Thiobacillus denitrificans DSM 12475,51.2,51.2,50%,3.00E-05,31.15,220890,NZ_AQWL01000006.1
+"Pandoraea nosoerga strain LMG 31109, whole genome shotgun sequence",Pandoraea nosoerga,51.2,51.2,17%,3.00E-05,60.47,232269,NZ_CABPSC010000006.1
+"Cupriavidus plantarum strain MA2-19b Ga0215872_01, whole genome shotgun sequence",Cupriavidus plantarum,51.2,51.2,17%,3.00E-05,60.47,1856729,NZ_JACBYU010000001.1
+"Achromobacter denitrificans strain FDAARGOS_788 chromosome, complete genome",Achromobacter denitrificans,51.2,51.2,17%,3.00E-05,60.47,6736877,NZ_CP053986.1
+"Azoarcus taiwanensis strain NSC3 NODE_158_length_7668_cov_3.68877, whole genome shotgun sequence",Azoarcus taiwanensis,51.2,51.2,48%,3.00E-05,34.45,7668,NZ_WTVM01000158.1
+"Chitinilyticum aquatile DSM 21506 H559DRAFT_scaffold00001.1_C, whole genome shotgun sequence",Chitinilyticum aquatile DSM 21506,51.2,51.2,17%,3.00E-05,59.52,587334,NZ_AUMS01000001.1
+"Diaphorobacter nitroreducens strain DSM 15985 Ga0244670_102, whole genome shotgun sequence",Diaphorobacter nitroreducens,51.2,51.2,17%,3.00E-05,58.14,564250,NZ_RJVL01000002.1
+"Achromobacter piechaudii strain LMG 1861 isolate LMG 1861, whole genome shotgun sequence",Achromobacter piechaudii,51.2,51.2,17%,3.00E-05,60.47,2373680,NZ_CADILD010000001.1
+"Pandoraea morbifera strain LMG 31116, whole genome shotgun sequence",Pandoraea morbifera,51.2,51.2,17%,3.00E-05,60.47,168634,NZ_CABPSD010000011.1
+"Achromobacter aegrifaciens strain LMG 26854 isolate LMG 26854, whole genome shotgun sequence",Achromobacter aegrifaciens,51.2,51.2,17%,3.00E-05,60.47,2408931,NZ_CADIKO010000001.1
+"Comamonas testosteroni strain NBRC 14951, whole genome shotgun sequence",Comamonas testosteroni,51.2,51.2,17%,3.00E-05,58.14,326312,NZ_BBJZ01000007.1
+"Comamonas thiooxydans strain DSM 17888, whole genome shotgun sequence",Comamonas thiooxydans,51.2,51.2,17%,3.00E-05,58.14,598638,NZ_BBVD01000007.1
+"Comamonas terrae strain NBRC 106524, whole genome shotgun sequence",Comamonas terrae,51.2,51.2,17%,3.00E-05,58.14,462944,NZ_BCNT01000004.1
+"Achromobacter veterisilvae strain LMG 30378 isolate LMG 30378, whole genome shotgun sequence",Achromobacter veterisilvae,51.2,51.2,17%,3.00E-05,60.47,150723,NZ_UFQC01000015.1
+"Limnohabitans parvus II-B4 LimC-II-B4-C2, whole genome shotgun sequence",Limnohabitans parvus II-B4,51.2,51.2,17%,3.00E-05,58.14,787537,NZ_NESN01000002.1
+"Methyloversatilis thermotolerans strain 3t A3Q7DRAFT_scaffold1.1, whole genome shotgun sequence",Methyloversatilis thermotolerans,51.2,51.2,17%,3.00E-05,60.47,4123015,NZ_KB889967.1
+"Paraburkholderia heleia NBRC 101817, whole genome shotgun sequence",Paraburkholderia heleia NBRC 101817,51.2,51.2,65%,3.00E-05,27.04,166764,NZ_BBJH01000023.1
+"Xylophilus rhododendri strain KACC 21265 chromosome, complete genome",Xylophilus rhododendri,51.2,51.2,17%,3.00E-05,60.47,5854580,NZ_CP047650.1
+"Uruburuella suis strain DSM 17474 Ga0310504_158, whole genome shotgun sequence",Uruburuella suis,50.8,50.8,17%,3.00E-05,60.47,5370,NZ_SLXE01000058.1
+"Chromobacterium paludis strain IIBBL 257-1 chromosome, complete genome",Chromobacterium paludis,51.2,101,18%,3.00E-05,58.14,4279774,NZ_CP043473.1
+"Ideonella azotifigens strain DSM 21438, whole genome shotgun sequence",Ideonella azotifigens,50.8,50.8,17%,3.00E-05,58.14,6576,NZ_VIDT01000293.1
+"Achromobacter agilis strain LMG 3411 isolate LMG 3411, whole genome shotgun sequence",Achromobacter agilis,50.8,50.8,17%,3.00E-05,60.47,205545,NZ_UFQB01000009.1
+"Methyloversatilis universalis Fam500 Metunv3DRAFT_Contig245.1_C, whole genome shotgun sequence",Methyloversatilis universalis Fam500,50.8,50.8,17%,3.00E-05,60.47,4220164,NZ_ARWH01000001.1
+"Acidovorax cavernicola strain 1011MAR4D40.2 NODE_722_length_1917_cov_2.1581, whole genome shotgun sequence",Acidovorax cavernicola,50.8,50.8,17%,3.00E-05,55.81,1917,NZ_QXMN01000175.1
+"Ramlibacter rhizophilus strain CCTCC AB2015357 contig6, whole genome shotgun sequence",Ramlibacter rhizophilus,50.8,50.8,17%,3.00E-05,58.14,413606,NZ_SMLL01000006.1
+"Vogesella mureinivorans strain 389 NODE_2862_length_268_cov_1.554404, whole genome shotgun sequence",Vogesella mureinivorans,47,47,18%,3.00E-05,54.35,268,NZ_VMTV02001090.1
+"Achromobacter pestifer strain LMG 3431 isolate LMG 3431, whole genome shotgun sequence",Achromobacter pestifer,50.8,50.8,17%,3.00E-05,60.47,738616,NZ_CADIJX010000004.1
+"Methyloversatilis discipulorum strain FAM1 MetFAM1DRAFT_chromosome1.1_C, whole genome shotgun sequence",Methyloversatilis discipulorum,50.8,50.8,17%,3.00E-05,60.47,4306529,NZ_AZUP01000001.1
+"Acidovorax cattleyae strain DSM 17101, whole genome shotgun sequence",Acidovorax cattleyae,50.8,50.8,17%,3.00E-05,58.14,141076,NZ_FNJL01000015.1
+"Giesbergeria anulus strain ATCC 35958, whole genome shotgun sequence",Giesbergeria anulus,50.8,50.8,17%,3.00E-05,60.47,41635,NZ_FOGD01000016.1
+"Comamonas serinivorans strain DSM 26136, complete genome",Comamonas serinivorans,50.8,50.8,17%,3.00E-05,58.14,4522913,NZ_CP021455.1
+"Acidovorax cavernicola strain 1011MAR4D40.2 NODE_63_length_24623_cov_23.0622, whole genome shotgun sequence",Acidovorax cavernicola,50.8,50.8,17%,3.00E-05,55.81,24623,NZ_QXMN01000063.1
+"Acidovorax kalamii strain KNDSW-TSA6 contig_8, whole genome shotgun sequence",Acidovorax kalamii,50.8,50.8,20%,3.00E-05,53.06,566884,NZ_NOIG01000008.1
+"Hydrogenophaga palleronii NBRC 102513, whole genome shotgun sequence",Hydrogenophaga palleronii NBRC 102513,50.8,50.8,17%,4.00E-05,58.14,36219,NZ_BCTJ01000036.1
+"Variovorax soli NBRC 106424, whole genome shotgun sequence",Variovorax soli NBRC 106424,50.8,50.8,17%,4.00E-05,55.81,31949,NZ_BCUU01000059.1
+"Rhodoferax ferrireducens T118, complete sequence",Rhodoferax ferrireducens T118,50.8,50.8,17%,4.00E-05,58.14,4712337,NC_007908.1
+"Simplicispira metamorpha strain NBRC 13960 Scaffold3, whole genome shotgun sequence",Simplicispira metamorpha,50.8,50.8,17%,4.00E-05,62.79,163277,NZ_QXNC01000003.1
+"Bordetella holmesii strain H401 chromosome, complete genome",Bordetella holmesii,50.8,50.8,17%,4.00E-05,60.47,3696575,NZ_CP043146.1
+"Vitreoscilla filiformis strain ATCC 15551 chromosome, complete genome",Vitreoscilla filiformis,50.8,50.8,17%,4.00E-05,58.14,3464895,NZ_CP022423.1
+"Achromobacter kerstersii strain LMG 3441 isolate LMG 3441, whole genome shotgun sequence",Achromobacter kerstersii,50.8,50.8,17%,4.00E-05,60.47,465896,NZ_CADIJQ010000005.1
+"Chromobacterium sphagni strain IIBBL 37-2 Cmus_37-2.1, whole genome shotgun sequence",Chromobacterium sphagni,50.8,50.8,17%,4.00E-05,65.12,3502605,NZ_MKCS01000001.1
+"Azonexus hydrophilus DSM 23864 G471DRAFT_scaffold00002.2_C, whole genome shotgun sequence",Azonexus hydrophilus DSM 23864,50.8,50.8,17%,4.00E-05,58.14,705735,NZ_AUCE01000011.1
+"Comamonas terrigena strain FDAARGOS_394 pRIID_98.contig.0, whole genome shotgun sequence",Comamonas terrigena,50.8,50.8,17%,4.00E-05,62.79,4710225,NZ_PDEA01000001.1
+"Acidovorax delafieldii strain DSM 64 Ga0064100_101, whole genome shotgun sequence",Acidovorax delafieldii,50.8,50.8,20%,4.00E-05,53.06,1447170,NZ_VJWE01000011.1
+"Oxalicibacterium faecigallinarum strain CCM 2767 sequence01, whole genome shotgun sequence",Oxalicibacterium faecigallinarum,50.8,50.8,17%,4.00E-05,60.47,2057881,NZ_BMDI01000001.1
+"Hydrogenophaga flava NBRC 102514, whole genome shotgun sequence",Hydrogenophaga flava NBRC 102514,50.8,50.8,17%,4.00E-05,58.14,54496,NZ_BCTF01000032.1
+"Corticimicrobacter populi strain 3d-2-2 Scaffold8, whole genome shotgun sequence",Corticimicrobacter populi,50.8,50.8,17%,4.00E-05,60.47,157642,NZ_QETA01000008.1
+"Achromobacter mucicolens strain LMG 3415 isolate LMG 3415, whole genome shotgun sequence",Achromobacter mucicolens,50.8,50.8,17%,4.00E-05,60.47,1718897,NZ_CADIKR010000001.1
+Cupriavidus neocaledonicus isolate Cupriavidus taiwanensis STM 6160 chromosome I,Cupriavidus neocaledonicus,50.8,50.8,17%,4.00E-05,60.47,3638823,NZ_LT984806.1
+"Bordetella flabilis strain AU10664 chromosome, complete genome",Bordetella flabilis,50.8,50.8,17%,4.00E-05,60.47,5835727,NZ_CP016172.1
+"Hydrogenophaga intermedia NBRC 102510, whole genome shotgun sequence",Hydrogenophaga intermedia NBRC 102510,50.8,50.8,17%,4.00E-05,58.14,30092,NZ_BCTI01000054.1
+"Polynucleobacter yangtzensis strain MWH-JaK3 Ga0068521_135, whole genome shotgun sequence",Polynucleobacter yangtzensis,50.8,50.8,18%,4.00E-05,55.56,405992,NZ_LOJI01000035.1
+"Hydrogenophaga pseudoflava strain DSM 1084 chromosome, complete genome",Hydrogenophaga pseudoflava,50.8,50.8,20%,4.00E-05,53.06,4860785,NZ_CP037867.1
+"Achromobacter pulmonis strain LMG 26788 isolate LMG 26788, whole genome shotgun sequence",Achromobacter pulmonis,50.8,50.8,17%,4.00E-05,60.47,316605,NZ_CADIKZ010000007.1
+"Piscinibacter defluvii strain SH-1 contig004, whole genome shotgun sequence",Piscinibacter defluvii,50.8,50.8,17%,4.00E-05,60.47,628904,NZ_RCHJ01000004.1
+"Kingella oralis strain DSM 18271 chromosome, complete genome",Kingella oralis,50.8,50.8,17%,4.00E-05,58.14,2404499,NZ_CP059569.1
+"Neisseria cinerea strain NCTC10294 chromosome 1, complete sequence",Neisseria cinerea,50.8,50.8,17%,4.00E-05,60.47,1832904,NZ_LS483369.1
+"Inhella inkyongensis strain IMCC1713 chromosome, complete genome",Inhella inkyongensis,50.8,50.8,17%,4.00E-05,58.14,4084412,NZ_CP040709.1
+"Achromobacter insolitus strain LCu2 chromosome, complete genome",Achromobacter insolitus,50.8,50.8,17%,4.00E-05,58.14,6428890,NZ_CP038034.1
+"Bordetella bronchialis strain AU17976 chromosome, complete genome",Bordetella bronchialis,50.8,50.8,17%,4.00E-05,60.47,5966919,NZ_CP016171.1
+"Acidovorax facilis isolate 7, whole genome shotgun sequence",Acidovorax facilis,50.8,50.8,20%,4.00E-05,53.06,221554,NZ_CAIGKB010000007.1
+"Comamonas granuli NBRC 101663, whole genome shotgun sequence",Comamonas granuli NBRC 101663,50.8,50.8,17%,4.00E-05,58.14,341909,NZ_BBJX01000002.1
+"Andreprevotia lacus DSM 23236, whole genome shotgun sequence",Andreprevotia lacus DSM 23236,50.8,50.8,17%,4.00E-05,62.79,211542,NZ_FWXD01000005.1
+"Cupriavidus taiwanensis LMG 19424 chromosome 1, complete sequence",Cupriavidus taiwanensis LMG 19424,50.8,50.8,17%,4.00E-05,60.47,3416911,NC_010528.1
+"Hydrogenophaga borbori strain LA-38 contig_6, whole genome shotgun sequence",Hydrogenophaga borbori,50.8,50.8,17%,4.00E-05,58.14,350775,NZ_QVLS01000006.1
+"Schlegelella thermodepolymerans strain DSM 15344 chromosome, complete genome",Schlegelella thermodepolymerans,50.8,50.8,17%,4.00E-05,58.14,3858501,NZ_CP064338.1
+"Achromobacter deleyi strain LMG 3458 isolate LMG 3458, whole genome shotgun sequence",Achromobacter deleyi,50.4,50.4,17%,4.00E-05,60.47,394241,NZ_CADIJO010000004.1
+"Hydrogenophaga taeniospiralis CCUG 15921 strain NBRC 102512, whole genome shotgun sequence",Hydrogenophaga taeniospiralis CCUG 15921,50.4,50.4,17%,4.00E-05,58.14,412101,NZ_BCWR01000006.1
+"Thauera chlorobenzoica strain 3CB1 chromosome, complete genome",Thauera chlorobenzoica,50.4,50.4,17%,4.00E-05,58.14,3735506,NZ_CP018839.1
+"Chitinilyticum litopenaei DSM 21440 C515DRAFT_scaffold00017.17_C, whole genome shotgun sequence",Chitinilyticum litopenaei DSM 21440,50.4,50.4,17%,4.00E-05,59.52,73739,NZ_ATZJ01000019.1
+"Simplicispira psychrophila DSM 11588 Q390DRAFT_scaffold00002.2_C, whole genome shotgun sequence",Simplicispira psychrophila DSM 11588,50.4,50.4,17%,4.00E-05,58.14,390328,NZ_JHYS01000002.1
+"Achromobacter marplatensis strain LMG 26219 isolate LMG 26219, whole genome shotgun sequence",Achromobacter marplatensis,50.4,50.4,17%,4.00E-05,60.47,444073,NZ_CADIJU010000003.1
+"Aquabacterium pictum strain W35 sequence11, whole genome shotgun sequence",Aquabacterium pictum,50.4,50.4,17%,4.00E-05,62.79,160831,NZ_BJCL01000011.1
+"Ottowia oryzae strain KADR8-3 chromosome, complete genome",Ottowia oryzae,50.4,50.4,17%,4.00E-05,58.14,3901011,NZ_CP027666.1
+"Pseudogulbenkiania ferrooxidans 2002 ctg1, whole genome shotgun sequence",Pseudogulbenkiania ferrooxidans 2002,50.4,50.4,17%,5.00E-05,65.12,558909,NZ_ACIS01000001.1
+"Bordetella avium 197N, complete sequence",Bordetella avium 197N,50.4,50.4,17%,5.00E-05,60.47,3732255,NC_010645.1
+"Casimicrobium huifangae strain SJ-1 chromosome, complete genome",Casimicrobium huifangae,50.4,50.4,50%,5.00E-05,29.51,4465898,NZ_CP041352.1
+"Tepidicella baoligensis strain B18-50 Scaffold8, whole genome shotgun sequence",Tepidicella baoligensis,50.4,50.4,17%,5.00E-05,58.14,133422,NZ_JACCDB010000008.1
+"Ralstonia pickettii isolate MGYG-HGUT-01384, whole genome shotgun sequence",Ralstonia pickettii,50.4,50.4,17%,5.00E-05,58.14,2173756,NZ_CABKQE010000001.1
+"Ralstonia mannitolilytica strain SN83A39 chromosome 1, complete sequence",Ralstonia mannitolilytica,50.4,50.4,17%,5.00E-05,58.14,3379270,NZ_CP011257.1
+"Cupriavidus alkaliphilus strain ASC-869 Ga0215869_11, whole genome shotgun sequence",Cupriavidus alkaliphilus,50.4,50.4,17%,5.00E-05,60.47,153828,NZ_JACHWG010000011.1
+"Achromobacter animicus strain LMG 26691 isolate LMG 26691, whole genome shotgun sequence",Achromobacter animicus,50.4,50.4,17%,5.00E-05,60.47,663013,NZ_CADIKU010000002.1
+"Acidovorax caeni strain R-24608, whole genome shotgun sequence",Acidovorax caeni,50.4,50.4,17%,5.00E-05,58.14,97381,NZ_FPBX01000015.1
+"Vogesella urethralis strain YM-1 NODE_31_length_35709_cov_129.929674, whole genome shotgun sequence",Vogesella urethralis,50.4,50.4,17%,5.00E-05,60.47,35709,NZ_VMDW02000026.1
+"Paraburkholderia franconis strain CNPSo 3157 scaffold14.1, whole genome shotgun sequence",Paraburkholderia franconis,50.4,50.4,17%,5.00E-05,58.14,200643,NZ_WHNP01000014.1
+"Tibeticola sediminis strain DSM 101684 Ga0244725_104, whole genome shotgun sequence",Tibeticola sediminis,50.4,50.4,17%,5.00E-05,58.14,310353,NZ_RKQL01000004.1
+"Neisseria meningitidis strain 11-7 chromosome, complete genome",Neisseria meningitidis,50.4,50.4,17%,5.00E-05,60.47,2157444,NZ_CP021520.1
+"Achromobacter ruhlandii strain LMG 3328 isolate LMG 3328, whole genome shotgun sequence",Achromobacter ruhlandii,50.4,50.4,17%,5.00E-05,60.47,298163,NZ_CADILE010000009.1
+"Paraburkholderia phymatum STM815 chromosome 1, complete sequence",Paraburkholderia phymatum STM815,50.4,50.4,17%,5.00E-05,58.14,3479187,NC_010622.1
+"Paraburkholderia azotifigens strain NF 2-5-3, whole genome shotgun sequence",Paraburkholderia azotifigens,50.4,50.4,17%,5.00E-05,58.14,3707493,NZ_VOQS01000001.1
+"Acidovorax soli strain DSM 25157, whole genome shotgun sequence",Acidovorax soli,50.4,50.4,17%,5.00E-05,58.14,246438,NZ_FNQJ01000004.1
+"Ralstonia insidiosa strain ATCC 49129 chromosome 1, complete sequence",Ralstonia insidiosa,50.4,50.4,17%,5.00E-05,58.14,3921238,NZ_CP016022.1
+"Paraburkholderia humisilvae strain LMG 29542 isolate LMG 29542, whole genome shotgun sequence",Paraburkholderia humisilvae,50.4,50.4,17%,5.00E-05,58.14,106770,NZ_CADIKH010000026.1
+"Paraburkholderia diazotrophica strain LMG 26031, whole genome shotgun sequence",Paraburkholderia diazotrophica,50.4,50.4,17%,5.00E-05,58.14,122310,NZ_FNYE01000025.1
+"Ramlibacter lithotrophicus strain RBP-1 Ga0265800_104, whole genome shotgun sequence",Ramlibacter lithotrophicus,50.4,50.4,17%,5.00E-05,58.14,428289,NZ_VTOX01000004.1
+"Neisseria lactamica strain M17106 chromosome, complete genome",Neisseria lactamica,50.4,50.4,17%,5.00E-05,60.47,2200224,NZ_CP031253.1
+"Paraburkholderia piptadeniae strain STM7183, whole genome shotgun sequence",Paraburkholderia piptadeniae,50.4,50.4,17%,5.00E-05,58.14,100156,NZ_CYGY02000070.1
+"Neisseria bergeri strain M40463 M40463_CHA5855A11_cleaned_ctg_4955, whole genome shotgun sequence",Neisseria bergeri,50.4,50.4,17%,5.00E-05,60.47,137400,NZ_QQHX01000005.1
+"Burkholderia dabaoshanensis strain GIMN1.004 NODE_3_length_350473_cov_19.7809, whole genome shotgun sequence",Burkholderia dabaoshanensis,50.4,50.4,17%,5.00E-05,58.14,350473,NZ_PNYA01000003.1
+"Oxalobacter formigenes strain HC-1 chromosome, complete genome",Oxalobacter formigenes,50.4,50.4,20%,5.00E-05,53.06,2468871,NZ_CP018787.1
+"Ralstonia syzygii strain NCPPB 3727 NCPPB3727-PB17_2, whole genome shotgun sequence",Ralstonia syzygii,50.4,50.4,17%,5.00E-05,58.14,3114875,NZ_JACWNE010000002.1
+"Paraburkholderia terrae strain DSM 17804 chromosome 1, complete sequence",Paraburkholderia terrae,50.4,50.4,17%,5.00E-05,58.14,3621233,NZ_CP026111.1
+"Bordetella pertussis 18323, complete sequence",Bordetella pertussis 18323,50.4,50.4,17%,5.00E-05,60.47,4043846,NC_018518.1
+"Bordetella parapertussis strain Bpp01 chromosome, complete genome",Bordetella parapertussis,50.4,50.4,17%,5.00E-05,60.47,4787082,NZ_AP019378.1
+"Bordetella bronchiseptica strain NCTC10543 chromosome 1, complete sequence",Bordetella bronchiseptica,50.4,50.4,17%,5.00E-05,60.47,5199761,NZ_LR134326.1
+"Paraburkholderia hospita strain BT03, whole genome shotgun sequence",Paraburkholderia hospita,50.4,50.4,17%,5.00E-05,58.14,3974063,NZ_FUZW01000002.1
+"Paraburkholderia rhizosphaerae strain LMG 29544 Ga0139080_106, whole genome shotgun sequence",Paraburkholderia rhizosphaerae,50.4,50.4,17%,5.00E-05,58.14,336875,NZ_SORE01000006.1
+"Neisseria polysaccharea strain M18661 chromosome, complete genome",Neisseria polysaccharea,50.4,50.4,17%,5.00E-05,60.47,2024930,NZ_CP031325.1
+"Paucibacter aquatile strain CR182 CR182_seq3, whole genome shotgun sequence",Paucibacter aquatile,50.4,50.4,17%,5.00E-05,60.47,3828175,NZ_POSP01000003.1
+"Comamonas jiangduensis isolate Q1714, whole genome shotgun sequence",Comamonas jiangduensis,50.4,50.4,16%,5.00E-05,65,8229,NZ_CADEPJ010000127.1
+"Simplicispira lacusdiani strain CPCC 100842 Scaffold1, whole genome shotgun sequence",Simplicispira lacusdiani,50.4,50.4,17%,5.00E-05,58.14,578659,NZ_QXGR01000001.1
+"Paraburkholderia caribensis strain 852011 chromosome 1, complete sequence",Paraburkholderia caribensis,50.4,50.4,17%,5.00E-05,58.14,3659608,NZ_CP015958.1
+"Vogesella alkaliphila strain KCTC 32041 sequence13, whole genome shotgun sequence",Vogesella alkaliphila,50.4,50.4,17%,5.00E-05,60.47,92272,NZ_BMYW01000013.1
+"Acidovorax valerianellae strain DSM 16619, whole genome shotgun sequence",Acidovorax valerianellae,50.4,50.4,17%,5.00E-05,55.81,487634,NZ_FMZC01000004.1
+"Trinickia caryophylli strain DSM 50341 000000F_arrow, whole genome shotgun sequence",Trinickia caryophylli,50.4,50.4,17%,5.00E-05,58.14,4294984,NZ_VJZF01000001.1
+"Neisseria gonorrhoeae strain 35/02 chromosome, complete genome",Neisseria gonorrhoeae,50.4,50.4,17%,5.00E-05,60.47,2173235,NZ_CP012028.1
+"Vogesella indigofera strain DSM 3303 Ga0215675_108, whole genome shotgun sequence",Vogesella indigofera,50.4,50.4,17%,6.00E-05,60.47,184927,NZ_RBID01000019.1
+"Achromobacter dolens strain LMG 26841 isolate LMG 26841, whole genome shotgun sequence",Achromobacter dolens,50.4,50.4,17%,6.00E-05,60.47,238518,NZ_CADIKW010000010.1
+"Oxalicibacterium solurbis strain CCM 7664 sequence3, whole genome shotgun sequence",Oxalicibacterium solurbis,50.4,50.4,17%,6.00E-05,60.47,625352,NZ_BMDP01000003.1
+"Achromobacter spanius strain NCTC13519 chromosome 1, complete sequence",Achromobacter spanius,50.4,50.4,17%,6.00E-05,60.47,6407029,NZ_LR134302.1
+"Tepidicella xavieri strain DSM 19605 Ga0244535_103, whole genome shotgun sequence",Tepidicella xavieri,50.4,50.4,17%,6.00E-05,58.14,284032,NZ_SNYL01000003.1
+Achromobacter xylosoxidans strain SOLR10 chromosome,Achromobacter xylosoxidans,50.4,50.4,17%,6.00E-05,60.47,6300041,NZ_CP025774.1
+"Chitinivorax tropicus strain DSM 27165 Ga0415264_06, whole genome shotgun sequence",Chitinivorax tropicus,50.4,50.4,17%,6.00E-05,60.47,186256,NZ_JACHHY010000006.1
+"Oryzisolibacter propanilivorax strain EPL6, whole genome shotgun sequence",Oryzisolibacter propanilivorax,50.4,50.4,17%,6.00E-05,60.47,615264,NZ_FNHP01000002.1
+"Rhodoferax saidenbachensis strain DSM 22694 chromosome, complete genome",Rhodoferax saidenbachensis,50.4,50.4,17%,6.00E-05,55.81,4264855,NZ_CP019239.1
+"Rhizobacter gummiphilus strain NBRC 109400 chromosome, complete genome",Rhizobacter gummiphilus,50.4,50.4,17%,6.00E-05,58.14,6398100,NZ_CP024645.1
+"Herbaspirillum hiltneri strain 3195 Ga0365437_108, whole genome shotgun sequence",Herbaspirillum hiltneri,50.1,50.1,17%,6.00E-05,58.14,223270,NZ_VIWD01000008.1
+"Herminiimonas contaminans strain Marseille-Q4544 contig00006, whole genome shotgun sequence",Herminiimonas contaminans,50.1,50.1,17%,6.00E-05,60.47,201954,NZ_JADOEL010000006.1
+"Paraburkholderia megapolitana strain LMG 23650, whole genome shotgun sequence",Paraburkholderia megapolitana,50.1,50.1,17%,6.00E-05,58.14,347259,NZ_FOQU01000008.1
+"Herbaspirillum rhizosphaerae strain UMS-37 contig15, whole genome shotgun sequence",Herbaspirillum rhizosphaerae,50.1,50.1,17%,6.00E-05,58.14,124922,NZ_LFLU01000015.1
+"Paraburkholderia madseniana strain RP11 NODE_7_length_148599_cov_9.378651, whole genome shotgun sequence",Paraburkholderia madseniana,50.1,50.1,17%,6.00E-05,58.14,148599,NZ_VOSW01000007.1
+"Rivicola pingtungensis strain DSM 29661 Ga0244579_106, whole genome shotgun sequence",Rivicola pingtungensis,50.1,50.1,17%,6.00E-05,60.47,176496,NZ_QJKI01000006.1
+"Roseateles terrae strain CECT 7247 Ga0372398_09, whole genome shotgun sequence",Roseateles terrae,50.1,50.1,17%,6.00E-05,60.47,256015,NZ_JACHXO010000009.1
+"Rhodoferax sediminis strain CHu59-6-5 chromosome, complete genome",Rhodoferax sediminis,50.1,50.1,17%,6.00E-05,58.14,4387497,NZ_CP035503.1
+"Bordetella trematum strain NCTC12995, whole genome shotgun sequence",Bordetella trematum,50.1,50.1,17%,6.00E-05,60.47,4476238,NZ_UFUJ01000001.1
+"Herbaspirillum robiniae strain AA6 chromosome, complete genome",Herbaspirillum robiniae,50.1,50.1,17%,6.00E-05,58.14,5445269,NZ_CP018845.1
+"Achromobacter insuavis strain LMG 26846 isolate LMG 26846, whole genome shotgun sequence",Achromobacter insuavis,50.1,50.1,17%,6.00E-05,60.47,79137,NZ_CADIKT010000022.1
+"Acidovorax temperans strain DSM 7270 Ga0242573_14, whole genome shotgun sequence",Acidovorax temperans,50.1,50.1,17%,6.00E-05,55.81,489425,NZ_VFPV01000004.1
+"Curvibacter lanceolatus ATCC 14669 F624DRAFT_scaffold00003.3, whole genome shotgun sequence",Curvibacter lanceolatus ATCC 14669,50.1,50.1,17%,6.00E-05,58.14,434027,NZ_KB906255.1
+"Chitinibacter fontanus strain STM-7 chromosome, complete genome",Chitinibacter fontanus,50.1,50.1,49%,6.00E-05,31.15,3634977,NZ_CP058952.1
+"Curvibacter gracilis ATCC BAA-807 L880DRAFT_scaffold00004.4_C, whole genome shotgun sequence",Curvibacter gracilis ATCC BAA-807,50.1,50.1,17%,6.00E-05,58.14,443766,NZ_JADZ01000006.1
+Comamonas piscis strain BIGb0172 chromosome,Comamonas piscis,50.1,50.1,17%,6.00E-05,58.14,5199175,NZ_CP058554.1
+"Noviherbaspirillum denitrificans strain TSA40 Contig16, whole genome shotgun sequence",Noviherbaspirillum denitrificans,50.1,50.1,17%,6.00E-05,60.47,17974,NZ_LSTO01000016.1
+"Polaromonas eurypsychrophila strain CGMCC 1.15322 sequence02, whole genome shotgun sequence",Polaromonas eurypsychrophila,50.1,50.1,17%,6.00E-05,53.49,513622,NZ_BMIG01000002.1
+"Curvibacter delicatus NBRC 14919, whole genome shotgun sequence",Curvibacter delicatus NBRC 14919,50.1,50.1,17%,6.00E-05,58.14,98399,NZ_BCWP01000011.1
+"Rhodoferax bucti strain GSA243-2 Scaffold1, whole genome shotgun sequence",Rhodoferax bucti,50.1,50.1,17%,6.00E-05,55.81,1344605,NZ_VAHD01000001.1
+"Cupriavidus pinatubonensis strain SM52 SM52_contig_48_1, whole genome shotgun sequence",Cupriavidus pinatubonensis,50.1,50.1,17%,7.00E-05,60.47,81719,NZ_PPPS01000047.1
+"Paraburkholderia sediminicola strain LMG 24238 isolate LMG 24238, whole genome shotgun sequence",Paraburkholderia sediminicola,50.1,50.1,17%,7.00E-05,58.14,236196,NZ_CADIKC010000012.1
+"Paraburkholderia sartisoli strain LMG 24000, whole genome shotgun sequence",Paraburkholderia sartisoli,50.1,50.1,17%,7.00E-05,58.14,450763,NZ_FNRQ01000005.1
+"Verminephrobacter eiseniae EF01-2, complete sequence",Verminephrobacter eiseniae EF01-2,50.1,50.1,17%,7.00E-05,58.14,5566749,NC_008786.1
+"Tepidimonas sediminis strain YIM 72259 Tepi_sedi_5, whole genome shotgun sequence",Tepidimonas sediminis,50.1,50.1,17%,7.00E-05,62.79,147764,NZ_VJND01000005.1
+"Roseateles aquatilis strain CCUG 48205 Scaffold13_1, whole genome shotgun sequence",Roseateles aquatilis,50.1,50.1,17%,7.00E-05,60.47,153501,NZ_NIOF01000014.1
+"Neisseria canis strain NCTC10296 chromosome 1, complete sequence",Neisseria canis,50.1,50.1,17%,7.00E-05,62.79,2569389,NZ_LR134313.1
+"Macromonas bipunctata strain DSM 12705 DSM12705_1_(paired)_trimmed_(paired)_contig_17, whole genome shotgun sequence",Macromonas bipunctata,50.1,50.1,17%,7.00E-05,55.81,30504,NZ_NWBQ01000017.1
+"Achromobacter arsenitoxydans SY8 Contig00001, whole genome shotgun sequence",Achromobacter arsenitoxydans SY8,50.1,50.1,17%,7.00E-05,60.47,152423,NZ_AGUF01000001.1
+"Comamonas badia DSM 17552 K320DRAFT_scaffold00003.3_C, whole genome shotgun sequence",Comamonas badia DSM 17552,50.1,50.1,17%,7.00E-05,55.81,474156,NZ_AXVM01000003.1
+"Paraburkholderia insulsa strain LMG 28183 Ga0139079_151, whole genome shotgun sequence",Paraburkholderia insulsa,50.1,50.1,17%,7.00E-05,58.14,26541,NZ_PVZM01000051.1
+"Azonexus fungiphilus strain DSM 23841 Ga0244549_104, whole genome shotgun sequence",Azonexus fungiphilus,50.1,50.1,16%,7.00E-05,58.54,331957,NZ_RBXP01000015.1
+"Oligella urethralis strain NCTC11008, whole genome shotgun sequence",Oligella urethralis,50.1,50.1,17%,7.00E-05,58.14,2412025,NZ_UGSE01000002.1
+"Paucibacter oligotrophus strain S00239 Ga0436337_13, whole genome shotgun sequence",Paucibacter oligotrophus,50.1,50.1,17%,7.00E-05,58.14,96692,NZ_JACHLP010000013.1
+"Bordetella hinzii strain SV2 chromosome, complete genome",Bordetella hinzii,50.1,50.1,17%,7.00E-05,60.47,4809490,NZ_CP021395.1
+"Comamonas koreensis strain T50-37 chromosome, complete genome",Comamonas koreensis,50.1,50.1,17%,7.00E-05,58.14,5217190,NZ_CP043575.1
+"Comamonas odontotermitis strain S00124 Ga0436309_29, whole genome shotgun sequence",Comamonas odontotermitis,50.1,50.1,17%,7.00E-05,58.14,45145,NZ_JACHKZ010000029.1
+"Paraburkholderia solisilvae strain LMG 29739 isolate LMG 29739, whole genome shotgun sequence",Paraburkholderia solisilvae,50.1,50.1,17%,7.00E-05,58.14,102314,NZ_CADIKF010000026.1
+"Alysiella filiformis strain DSM 16848 chromosome, complete genome",Alysiella filiformis,50.1,50.1,17%,7.00E-05,60.47,2432079,NZ_CP059564.1
+"Paraburkholderia fungorum strain FDAARGOS_245 unitig_0_quiver_trim_quiver_pilon, whole genome shotgun sequence",Paraburkholderia fungorum,50.1,50.1,17%,7.00E-05,58.14,4659582,NZ_NBSN01000003.1
+"Zoogloea oleivorans strain Buc BUC_nxtrim.se_trimmed_contig_22, whole genome shotgun sequence",Zoogloea oleivorans,50.1,50.1,17%,7.00E-05,55.81,279581,NZ_SDKK01000004.1
+"Tepidimonas thermarum strain AA-1 Tepi_ther_58, whole genome shotgun sequence",Tepidimonas thermarum,50.1,50.1,17%,7.00E-05,58.14,14803,NZ_VJOL01000058.1
+"Rhodoferax fermentans strain JCM 7819 contig02, whole genome shotgun sequence",Rhodoferax fermentans,50.1,50.1,17%,7.00E-05,55.81,4447702,NZ_MTJN01000002.1
+"Roseateles depolymerans strain KCTC 42856 chromosome, complete genome",Roseateles depolymerans,50.1,50.1,17%,7.00E-05,60.47,5681722,NZ_CP013729.1
+"Paraburkholderia aspalathi strain LMG 27731, whole genome shotgun sequence",Paraburkholderia aspalathi,50.1,50.1,17%,7.00E-05,58.14,311796,NZ_FPBH01000006.1
+"Acidovorax radicis N35 contig00021, whole genome shotgun sequence",Acidovorax radicis N35,50.1,50.1,17%,7.00E-05,58.14,689800,NZ_AFBG01000021.1
+"Aquabacterium parvum strain B6 contig000109, whole genome shotgun sequence",Aquabacterium parvum,50.1,50.1,17%,7.00E-05,55.81,42424,NZ_LFRI01000109.1
+"Castellaniella caeni NBRC 101664, whole genome shotgun sequence",Castellaniella caeni NBRC 101664,49.7,49.7,17%,7.00E-05,60.47,5040,NZ_BCWN01000041.1
+"Paraburkholderia caffeinilytica strain CF1 chromosome 2, complete sequence",Paraburkholderia caffeinilytica,50.1,50.1,17%,8.00E-05,58.14,4531000,NZ_CP031467.1
+"Paraburkholderia agricolaris strain BaQS159, whole genome shotgun sequence",Paraburkholderia agricolaris,49.7,49.7,17%,8.00E-05,58.14,4816966,NZ_QPER01000001.1
+"Aquaspirillum serpens DSM 68 G465DRAFT_scaffold00024.24_C, whole genome shotgun sequence",Aquaspirillum serpens DSM 68,49.7,49.7,17%,8.00E-05,64.29,34525,NZ_ATVC01000024.1
+"Noviherbaspirillum malthae strain CC-AFH3 Scaffold5_1, whole genome shotgun sequence",Noviherbaspirillum malthae,49.7,49.7,17%,8.00E-05,58.14,285052,NZ_JACYXF010000005.1
+"Mesosutterella multiformis strain 4NBBH2 sequence1, whole genome shotgun sequence",Mesosutterella multiformis,49.7,49.7,17%,8.00E-05,55.81,1920098,NZ_BGZJ01000001.1
+"Chromobacterium subtsugae strain PRAA4-1 Contig.31, whole genome shotgun sequence",Chromobacterium subtsugae,49.7,49.7,17%,8.00E-05,55.81,19255,NZ_JYKA01000031.1
+"Azonexus fungiphilus strain DSM 23841 Ga0244549_105, whole genome shotgun sequence",Azonexus fungiphilus,49.7,49.7,17%,8.00E-05,58.14,323777,NZ_RBXP01000016.1
+"Zhizhongheella caldifontis strain BCRC 80649 scaffold3.1_size402065, whole genome shotgun sequence",Zhizhongheella caldifontis,49.7,49.7,17%,8.00E-05,60.47,402065,NZ_PSNX01000003.1
+"Ideonella sakaiensis strain 201-F6, whole genome shotgun sequence",Ideonella sakaiensis,49.7,49.7,17%,8.00E-05,60.47,116380,NZ_BBYR01000013.1
+"Variovorax boronicumulans strain HAB30 Contig04, whole genome shotgun sequence",Variovorax boronicumulans,49.7,49.7,17%,8.00E-05,53.49,493455,NZ_BKDH01000004.1
+"Paraburkholderia caledonica strain 376MFSha3.1 H281DRAFT_scaffold00003.3, whole genome shotgun sequence",Paraburkholderia caledonica,49.7,49.7,17%,8.00E-05,58.14,611619,NZ_KB911036.1
+"Polynucleobacter paneuropaeus strain MWH-Creno-4B4 chromosome, complete genome",Polynucleobacter paneuropaeus,49.7,49.7,17%,8.00E-05,58.14,1613813,NZ_CP030086.1
+"Vogesella oryzae isolate Q2602, whole genome shotgun sequence",Vogesella oryzae,49.7,49.7,20%,8.00E-05,55.1,58989,NZ_CADEPL010000058.1
+"Deefgea rivuli DSM 18356 Q320DRAFT_scaffold00008.8_C, whole genome shotgun sequence",Deefgea rivuli DSM 18356,49.7,49.7,17%,8.00E-05,60.47,162145,NZ_JHVM01000012.1
+"Noviherbaspirillum humi strain U15, whole genome shotgun sequence",Noviherbaspirillum humi,49.7,49.7,17%,8.00E-05,60.47,701024,NZ_FZOT01000001.1
+"Polynucleobacter meluiroseus strain AP-Melu-1000-B4, whole genome shotgun sequence",Polynucleobacter meluiroseus,49.7,49.7,17%,8.00E-05,58.14,359721,NZ_OANS01000003.1
+"Dechloromonas denitrificans strain ATCC BAA-841 contig035, whole genome shotgun sequence",Dechloromonas denitrificans,49.7,49.7,17%,8.00E-05,58.14,732418,NZ_LODL01000035.1
+"Variovorax ginsengisoli strain S09.D scaffold2.1, whole genome shotgun sequence",Variovorax ginsengisoli,49.7,49.7,17%,8.00E-05,53.49,1287085,NZ_RCZJ01000002.1
+"Neisseria brasiliensis strain N.177.16 chromosome, complete genome",Neisseria brasiliensis,49.7,49.7,17%,8.00E-05,55.81,2617510,NZ_CP046027.1
+"Kinneretia asaccharophila strain DSM 25082 Ga0244555_101, whole genome shotgun sequence",Kinneretia asaccharophila,49.7,49.7,17%,9.00E-05,60.47,1073780,NZ_SNXE01000001.1
+"Chromobacterium haemolyticum strain CH06-BL chromosome, complete genome",Chromobacterium haemolyticum,49.7,49.7,17%,9.00E-05,65.12,5307994,NZ_AP019312.1
+"Chitinimonas koreensis DSM 17726 F559DRAFT_scaffold00003.3, whole genome shotgun sequence",Chitinimonas koreensis DSM 17726,49.7,49.7,17%,9.00E-05,60.87,613971,NZ_KE386748.1
+"Paraburkholderia sprentiae WSM5005 chromosome 1, complete sequence",Paraburkholderia sprentiae WSM5005,49.7,49.7,17%,9.00E-05,58.14,3645501,NZ_CP017561.1
+"Chromobacterium amazonense strain DSM 26508 Camzn_DSM26508.4, whole genome shotgun sequence",Chromobacterium amazonense,49.7,49.7,17%,9.00E-05,55.81,29557,NZ_MKCR01000030.1
+"Thiobacillus thioparus DSM 505 B058DRAFT_scaffold_8.9, whole genome shotgun sequence",Thiobacillus thioparus DSM 505,49.7,49.7,17%,9.00E-05,58.14,173205,NZ_KB891332.1
+"Paraburkholderia xenovorans LB400 chromosome 1, complete sequence",Paraburkholderia xenovorans LB400,49.7,49.7,17%,9.00E-05,58.14,4895836,NC_007951.1
+"Dakarella massiliensis strain ND3, whole genome shotgun sequence",Dakarella massiliensis,49.7,49.7,17%,9.00E-05,55.81,502990,NZ_CVTY01000005.1
+"Polaromonas jejuensis NBRC 106434, whole genome shotgun sequence",Polaromonas jejuensis NBRC 106434,49.7,49.7,17%,9.00E-05,53.49,121376,NZ_BCYO01000012.1
+"Zoogloea ramigera strain NBRC 15342 sequence042, whole genome shotgun sequence",Zoogloea ramigera,49.7,49.7,17%,9.00E-05,55.81,44969,NZ_BJNV01000042.1
+"Acidovorax monticola strain KACC 19171 chromosome, complete genome",Acidovorax monticola,49.7,49.7,17%,9.00E-05,55.81,4679990,NZ_CP060790.1
+"Herbaspirillum autotrophicum strain IAM 14942 contig25, whole genome shotgun sequence",Herbaspirillum autotrophicum,49.7,49.7,17%,9.00E-05,58.14,87071,NZ_LFLS01000025.1
+"Polynucleobacter difficilis strain AM-8B5 chromosome, complete genome",Polynucleobacter difficilis,49.7,49.7,17%,9.00E-05,58.14,1995529,NZ_CP023276.1
+"Lautropia mirabilis strain NCTC12852 chromosome 1, complete sequence",Lautropia mirabilis,49.7,49.7,17%,9.00E-05,55.81,3172010,NZ_LR134378.1
+"Tepidimonas fonticaldi strain AT-A2 Tepi_fontAT-A2_21, whole genome shotgun sequence",Tepidimonas fonticaldi,49.7,49.7,17%,9.00E-05,58.14,55704,NZ_VJOO01000021.1
+"Xenophilus azovorans DSM 13620 Q392DRAFT_scaffold00005.5_C, whole genome shotgun sequence",Xenophilus azovorans DSM 13620,49.7,49.7,17%,9.00E-05,53.49,288724,NZ_JQKD01000006.1
+"Neisseria chenwenguii strain 10023 chromosome, complete genome",Neisseria chenwenguii,49.7,49.7,17%,9.00E-05,60.47,2496444,NZ_CP022278.1
+"Paralcaligenes ureilyticus strain DSM 24591 Ga0244690_119, whole genome shotgun sequence",Paralcaligenes ureilyticus,49.7,49.7,17%,9.00E-05,55.81,84208,NZ_SMAJ01000019.1
+"Thiobacillus denitrificans DSM 12475 B059DRAFT_scaffold_12.13_C, whole genome shotgun sequence",Thiobacillus denitrificans DSM 12475,49.7,49.7,17%,9.00E-05,58.14,89446,NZ_AQWL01000013.1
+"Morococcus cerebrosus strain CIP 81.93 MCC93_28, whole genome shotgun sequence",Morococcus cerebrosus,49.7,49.7,17%,9.00E-05,58.14,34057,NZ_JUFZ01000028.1
+"Polynucleobacter sphagniphilus strain MWH-Weng1-1 2574185743, whole genome shotgun sequence",Polynucleobacter sphagniphilus,49.7,49.7,17%,9.00E-05,58.14,353781,NZ_MPIY01000017.1
+"Polynucleobacter sinensis strain MWH-HuW1 Ga0081198_101, whole genome shotgun sequence",Polynucleobacter sinensis,49.7,49.7,17%,9.00E-05,58.14,376817,NZ_LOJJ01000001.1
+"Inhella crocodyli strain CCP-18 NODE_4_length_400227_cov_102, whole genome shotgun sequence",Inhella crocodyli,49.7,49.7,17%,9.00E-05,58.14,400227,NZ_SACM01000004.1
+"Neisseria sicca strain C2007003584 C2007003584_S11_ctg_1438, whole genome shotgun sequence",Neisseria sicca,49.7,49.7,17%,9.00E-05,58.14,89124,NZ_POWW01000008.1
+"Neisseria macacae ATCC 33926 SCAFFOLD7, whole genome shotgun sequence",Neisseria macacae ATCC 33926,49.7,49.7,17%,1.00E-04,58.14,153011,NZ_GL985624.1
+"Neisseria mucosa strain NCTC 10774, whole genome shotgun sequence",Neisseria mucosa,49.7,49.7,17%,1.00E-04,58.14,1883910,NZ_UGRT01000001.1
+"Neisseria wadsworthii strain DSM 22245 chromosome, complete genome",Neisseria wadsworthii,49.7,49.7,17%,1.00E-04,62.79,2501534,NZ_CP059565.1
+"Paludibacterium yongneupense DSM 18731 G520DRAFT_scaffold00030.30_C, whole genome shotgun sequence",Paludibacterium yongneupense DSM 18731,49.7,49.7,17%,1.00E-04,53.49,30865,NZ_AUGZ01000039.1
+"Pseudacidovorax intermedius strain DSM 21352 Ga0244541_101, whole genome shotgun sequence",Pseudacidovorax intermedius,49.7,49.7,17%,1.00E-04,53.49,1505251,NZ_QQAV01000001.1
+"Ottowia thiooxydans DSM 14619 G518DRAFT_scaffold00025.25_C, whole genome shotgun sequence",Ottowia thiooxydans DSM 14619,49.7,49.7,17%,1.00E-04,55.81,71959,NZ_AUGX01000032.1
+"Sulfuriferula thiophila strain mst6 mst6_1, whole genome shotgun sequence",Sulfuriferula thiophila,49.7,49.7,17%,1.00E-04,58.14,149065,NZ_BHGL01000001.1
+"Dechloromonas hortensis strain MA-1 DSM15637_NODE_1_length_663404_cov_428.952, whole genome shotgun sequence",Dechloromonas hortensis,49.7,49.7,17%,1.00E-04,58.14,663404,NZ_SSSQ01000001.1
+"Polynucleobacter aenigmaticus strain MWH-K35W1 Ga0129263_102, whole genome shotgun sequence",Polynucleobacter aenigmaticus,49.7,49.7,17%,1.00E-04,58.14,369074,NZ_NGUO01000002.1
+"Geomonas soli strain S-16 S-16_3, whole genome shotgun sequence",Geomonas soli,49.7,49.7,17%,1.00E-04,55.81,712815,NZ_QUSW01000003.1
+"Extensimonas perlucida strain HX2-24 Scaffold6, whole genome shotgun sequence",Extensimonas perlucida,49.7,49.7,17%,1.00E-04,58.14,173961,NZ_VMYE01000006.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,

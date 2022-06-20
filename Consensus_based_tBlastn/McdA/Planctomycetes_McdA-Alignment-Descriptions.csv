@@ -1,0 +1,85 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Fuerstia marisgermanicae strain NH11 chromosome, complete genome",Fuerstia marisgermanicae,100,238,72%,6.00E-23,35.96,8920478,NZ_CP017641.1
+"Rubripirellula reticaptiva strain Poly59 Poly59_contig00004, whole genome shotgun sequence",Rubripirellula reticaptiva,98.6,98.6,75%,5.00E-22,33.7,1124872,NZ_SJPX01000004.1
+"Rhodopirellula europaea SH398 cSH3980113, whole genome shotgun sequence",Rhodopirellula europaea SH398,98.2,98.2,75%,6.00E-22,34.24,21191,NZ_ANOF01000110.1
+"Rhodopirellula bahusiensis strain SWK21 Rhodopirellula_bahusiensis_SWK21_contig_19, whole genome shotgun sequence",Rhodopirellula bahusiensis,97.1,97.1,75%,2.00E-21,33.7,164989,NZ_NIZW01000019.1
+"Fimbriiglobus ruber strain SP5 contig01, whole genome shotgun sequence",Fimbriiglobus ruber,96.3,147,81%,3.00E-21,34.85,1571462,NZ_NIDE01000001.1
+"Rhodopirellula islandica strain K833 K8330045, whole genome shotgun sequence",Rhodopirellula islandica,95.9,95.9,75%,4.00E-21,33.15,588433,NZ_LECT01000044.1
+"Symmachiella dynata strain Mal52 chromosome, complete genome",Symmachiella dynata,92.8,140,81%,5.00E-20,32.32,7767809,NZ_CP036276.1
+"Frigoriglobus tundricola strain PL17 chromosome, complete genome",Frigoriglobus tundricola,91.3,91.3,83%,2.00E-19,32.51,9832702,NZ_CP053452.2
+Tuwongella immobilis isolate MBLW1 chromosome 1,Tuwongella immobilis,90.9,141,80%,2.00E-19,35.2,6690754,NZ_LR593887.1
+"Lignipirellula cremea strain Pla85_3_4 chromosome, complete genome",Lignipirellula cremea,90.5,90.5,72%,3.00E-19,32.95,9565229,NZ_CP036433.1
+"Blastopirellula marina DSM 3645 scf_1099463000750, whole genome shotgun sequence",Blastopirellula marina DSM 3645,85.5,85.5,71%,1.00E-17,33.14,2020175,NZ_CH672377.1
+"Novipirellula galeiformis strain Pla52o Pla52o_contig00005, whole genome shotgun sequence",Novipirellula galeiformis,85.5,85.5,75%,1.00E-17,31.52,680367,NZ_SJPT01000005.1
+Caulifigura coniformis strain Pan44 chromosome,Caulifigura coniformis,82.4,135,72%,1.00E-16,32.95,6761146,NZ_CP036271.1
+Crateriforma conspicua strain Mal65 chromosome,Crateriforma conspicua,81.6,130,72%,2.00E-16,32.02,7182433,NZ_CP036319.1
+Stieleria neptunia strain Enr13 chromosome,Stieleria neptunia,79,79,72%,2.00E-15,32.39,10975817,NZ_CP037423.1
+"Rhodopirellula islandica strain K833 K8330018, whole genome shotgun sequence",Rhodopirellula islandica,58.5,58.5,37%,2.00E-08,34.78,497880,NZ_LECT01000017.1
+"Alienimonas chondri strain LzC2 LzC2_90, whole genome shotgun sequence",Alienimonas chondri,55.8,55.8,17%,1.00E-07,65.12,20259,NZ_WTPX01000090.1
+"Planctopirus ephydatiae strain spb1 chromosome, complete genome",Planctopirus ephydatiae,55.8,55.8,17%,1.00E-07,66.67,5214061,NZ_CP036299.1
+"Planctopirus hydrillae strain JC280 Contig60, whole genome shotgun sequence",Planctopirus hydrillae,55.8,55.8,17%,1.00E-07,66.67,110291,NZ_LYDR01000137.1
+"Planctopirus limnophila DSM 3776, complete sequence",Planctopirus limnophila DSM 3776,55.8,55.8,17%,1.00E-07,66.67,5423075,NC_014148.1
+Rosistilla carotiformis strain Poly24 chromosome,Rosistilla carotiformis,55.1,55.1,17%,2.00E-07,65.12,7437004,NZ_CP036348.1
+"Rosistilla oblonga strain CA51 chromosome, complete genome",Rosistilla oblonga,55.1,55.1,17%,2.00E-07,65.12,7250512,NZ_CP036292.1
+Gimesia aquarii strain V144 chromosome,Gimesia aquarii,54.7,54.7,17%,4.00E-07,60.47,7397129,NZ_CP037920.1
+Calycomorphotria hydatis strain V22 chromosome,Calycomorphotria hydatis,54.7,54.7,17%,4.00E-07,62.79,5163473,NZ_CP036316.1
+Alienimonas californiensis strain CA12 chromosome,Alienimonas californiensis,53.9,103,21%,5.00E-07,62.79,5475215,NZ_CP036265.1
+"Gimesia benthica strain E7 chromosome, complete genome",Gimesia benthica,53.9,53.9,17%,6.00E-07,60.47,8027492,NZ_CP043930.1
+"Paludisphaera borealis strain PX4 chromosome, complete genome",Paludisphaera borealis,53.9,104,49%,6.00E-07,29.75,7497544,NZ_CP019082.1
+"Gimesia chilikensis strain JC646 NODE_6_length_680724_cov_29.832197, whole genome shotgun sequence",Gimesia chilikensis,53.9,53.9,17%,6.00E-07,60.47,680802,NZ_VTSR01000006.1
+Gimesia alba strain Pan241w chromosome,Gimesia alba,53.9,53.9,17%,6.00E-07,60.47,7769723,NZ_CP036269.1
+Gimesia fumaroli strain Enr17 chromosome,Gimesia fumaroli,53.9,53.9,17%,7.00E-07,60.47,7704373,NZ_CP037452.1
+Gimesia panareensis strain Enr10 chromosome,Gimesia panareensis,53.5,53.5,17%,8.00E-07,58.14,7828706,NZ_CP037421.1
+"Gimesia maris strain CA11 chromosome, complete genome",Gimesia maris,53.1,53.1,17%,9.00E-07,58.14,7626893,NZ_CP036353.1
+Gimesia algae strain Pan161 chromosome,Gimesia algae,53.1,53.1,17%,1.00E-06,58.14,7929454,NZ_CP036343.1
+"Thalassoglobus neptunius strain KOR42 KOR42_contig00066, whole genome shotgun sequence",Thalassoglobus neptunius,53.1,53.1,17%,1.00E-06,62.79,15320,NZ_SIHI01000066.1
+"Limihaloglobus sulfuriphilus strain SM-Chi-D1 chromosome, complete genome",Limihaloglobus sulfuriphilus,53.1,53.1,17%,1.00E-06,62.79,3868357,NZ_CP019646.1
+"Rhodopirellula europaea SH398 cSH3980143, whole genome shotgun sequence",Rhodopirellula europaea SH398,52.8,52.8,37%,1.00E-06,32.61,19875,NZ_ANOF01000140.1
+"Planctomicrobium piriforme strain DSM 26348, whole genome shotgun sequence",Planctomicrobium piriforme,52.8,52.8,17%,1.00E-06,62.79,228547,NZ_FOQD01000013.1
+"Blastopirellula marina DSM 3645 scf_1099463000751, whole genome shotgun sequence",Blastopirellula marina DSM 3645,52.8,52.8,17%,2.00E-06,66.67,4267655,NZ_CH672376.1
+"Thermogemmata fonticola strain 2918 6, whole genome shotgun sequence",Thermogemmata fonticola,52.8,52.8,17%,2.00E-06,66.67,251488,NZ_JACEFB010000006.1
+"Blastopirellula retiformator strain Enr8 Enr8_contig00001, whole genome shotgun sequence",Blastopirellula retiformator,52.8,52.8,17%,2.00E-06,66.67,1774383,NZ_SJPF01000001.1
+"Schlesneria paludicola DSM 18645 Scaffold1, whole genome shotgun sequence",Schlesneria paludicola DSM 18645,52.4,52.4,17%,2.00E-06,61.9,3502577,NZ_JH636434.1
+"Botrimarina colliarenosi strain Pla108 Pla108_contig00003, whole genome shotgun sequence",Botrimarina colliarenosi,52.4,52.4,17%,2.00E-06,66.67,587107,NZ_SJPR01000003.1
+"Zavarzinella formosa DSM 19928 Scaffold7, whole genome shotgun sequence",Zavarzinella formosa DSM 19928,52.4,52.4,17%,2.00E-06,64.29,526290,NZ_JH636445.1
+"Maioricimonas rarisocia strain Mal4 chromosome, complete genome",Maioricimonas rarisocia,52,52,17%,2.00E-06,60.47,7744989,NZ_CP036275.1
+Thalassoglobus polymorphus strain Mal48 chromosome,Thalassoglobus polymorphus,52,52,17%,3.00E-06,58.14,6357355,NZ_CP036267.1
+Gemmata obscuriglobus UQM 2246 chromosome 1,Gemmata obscuriglobus UQM 2246,52,52,50%,3.00E-06,29.84,9032617,NZ_LR593888.1
+"Aeoliella mucimassa strain Pan181 chromosome, complete genome",Aeoliella mucimassa,51.6,100,17%,3.00E-06,64.29,6608792,NZ_CP036278.1
+"Tautonia plasticadhaerens strain ElP chromosome, complete genome",Tautonia plasticadhaerens,51.6,102,20%,3.00E-06,61.9,8668938,NZ_CP036426.1
+"Posidoniimonas corsicana strain KOR34 KOR34_contig00003, whole genome shotgun sequence",Posidoniimonas corsicana,51.6,51.6,17%,4.00E-06,62.79,476071,NZ_SIHJ01000003.1
+"Pirellulimonas nuda strain Pla175 chromosome, complete genome",Pirellulimonas nuda,51.6,51.6,17%,4.00E-06,60.47,6618662,NZ_CP036291.1
+"Rhodopirellula baltica SH 1, complete sequence",Rhodopirellula baltica SH 1,51.2,51.2,17%,4.00E-06,64.29,7145576,NC_005027.1
+"Rhodopirellula islandica strain K833 K8330048, whole genome shotgun sequence",Rhodopirellula islandica,51.2,51.2,17%,4.00E-06,64.29,26200,NZ_LECT01000047.1
+"Rhodopirellula bahusiensis strain SWK21 Rhodopirellula_bahusiensis_SWK21_contig_6, whole genome shotgun sequence",Rhodopirellula bahusiensis,51.2,51.2,17%,4.00E-06,64.29,444749,NZ_NIZW01000006.1
+"Polystyrenella longa strain Pla110 chromosome, complete genome",Polystyrenella longa,51.2,51.2,17%,4.00E-06,61.9,6125480,NZ_CP036281.1
+"Aureliella helgolandensis strain Q31a chromosome, complete genome",Aureliella helgolandensis,51.2,51.2,17%,4.00E-06,66.67,8439957,NZ_CP036298.1
+"Rhodopirellula europaea SH398 cSH3980060, whole genome shotgun sequence",Rhodopirellula europaea SH398,51.2,51.2,17%,5.00E-06,64.29,87822,NZ_ANOF01000058.1
+"Thermogutta terrifontis strain R1, complete genome",Thermogutta terrifontis,50.8,100,17%,6.00E-06,59.52,4810751,NZ_CP018477.1
+"Paludisphaera soli strain JC670 9, whole genome shotgun sequence",Paludisphaera soli,50.8,50.8,17%,6.00E-06,58.14,248174,NZ_JAALJI010000009.1
+"Rubinisphaera italica strain Pan54 Pan54_contig00001, whole genome shotgun sequence",Rubinisphaera italica,50.8,50.8,17%,7.00E-06,55.81,6680363,NZ_SJPG01000001.1
+"Singulisphaera acidiphila DSM 18658, complete sequence",Singulisphaera acidiphila DSM 18658,50.8,99,17%,7.00E-06,60.47,9629675,NC_019892.1
+"Tautonia sociabilis strain GM2012 NODE_5_length_171729_cov_6.09349_ID_931, whole genome shotgun sequence",Tautonia sociabilis,50.4,50.4,17%,8.00E-06,60.47,171729,NZ_RYZH01000005.1
+Botrimarina mediterranea strain Spa11 chromosome,Botrimarina mediterranea,50.4,50.4,20%,9.00E-06,54.9,5871207,NZ_CP036349.1
+"Phycisphaera mikurensis strain DSM 103959 Ga0415308_11, whole genome shotgun sequence",Phycisphaera mikurensis,50.1,50.1,16%,1.00E-05,62.5,131949,NZ_JACHEL010000011.1
+"Pirellula staleyi DSM 6068, complete sequence",Pirellula staleyi DSM 6068,50.1,98.6,17%,1.00E-05,55.81,6196199,NC_013720.1
+"Novipirellula aureliae strain Q31b Q31b_contig00003, whole genome shotgun sequence",Novipirellula aureliae,49.7,49.7,17%,1.00E-05,61.9,807746,NZ_SJPY01000003.1
+"Rubinisphaera brasiliensis DSM 5305, complete sequence",Rubinisphaera brasiliensis DSM 5305,49.7,49.7,17%,2.00E-05,53.49,6006602,NC_015174.1
+"Posidoniimonas corsicana strain KOR34 KOR34_contig00001, whole genome shotgun sequence",Posidoniimonas corsicana,49.3,49.3,17%,2.00E-05,60.47,4163359,NZ_SIHJ01000001.1
+"Bremerella volcania strain Pan97 chromosome, complete genome",Bremerella volcania,49.3,49.3,17%,2.00E-05,58.14,6496182,NZ_CP036289.1
+"Posidoniimonas polymericola strain Pla123a Pla123a_contig00001, whole genome shotgun sequence",Posidoniimonas polymericola,49.3,49.3,17%,2.00E-05,59.52,1039300,NZ_SJPO01000001.1
+"Blastopirellula cremea strain HEX-1 MGV Assembly_1_4_len:653654, whole genome shotgun sequence",Blastopirellula cremea,48.9,48.9,17%,2.00E-05,58.14,653654,NZ_QPEV01000004.1
+Bythopirellula goksoyri strain Pr1d chromosome,Bythopirellula goksoyri,48.9,48.9,18%,3.00E-05,52.17,6473141,NZ_CP042913.1
+"Rubripirellula amarantea strain Pla22 Pla22_contig00003, whole genome shotgun sequence",Rubripirellula amarantea,48.9,48.9,17%,3.00E-05,61.9,983405,NZ_SJPI01000003.1
+"Aquisphaera giovannonii strain OJF2 chromosome, complete genome",Aquisphaera giovannonii,48.9,48.9,17%,3.00E-05,59.52,10370956,NZ_CP042997.1
+"Rubripirellula tenax strain Poly51 Poly51_contig00007, whole genome shotgun sequence",Rubripirellula tenax,48.5,48.5,17%,3.00E-05,61.9,685749,NZ_SJPW01000007.1
+"Lacipirellula parvula strain PX69 chromosome, complete genome",Lacipirellula parvula,48.5,48.5,17%,4.00E-05,58.14,6922258,NZ_AP021861.1
+"Tautonia sociabilis strain GM2012 NODE_21_length_106340_cov_5.66251_ID_1681, whole genome shotgun sequence",Tautonia sociabilis,48.5,48.5,17%,4.00E-05,59.52,106340,NZ_RYZH01000021.1
+"Posidoniimonas polymericola strain Pla123a Pla123a_contig00008, whole genome shotgun sequence",Posidoniimonas polymericola,48.1,48.1,17%,4.00E-05,60.47,336927,NZ_SJPO01000008.1
+"Symmachiella macrocystis strain CA54 CA54_contig00001, whole genome shotgun sequence",Symmachiella macrocystis,48.1,48.1,17%,5.00E-05,58.14,4679077,NZ_SJPP01000001.1
+"Botrimarina hoheduenensis strain Pla111 Pla111_contig00002, whole genome shotgun sequence",Botrimarina hoheduenensis,48.1,48.1,17%,5.00E-05,58.14,865482,NZ_SJPH01000002.1
+"Singulisphaera acidiphila DSM 18658 plasmid pSINAC01, complete sequence",Singulisphaera acidiphila DSM 18658,47.4,47.4,18%,8.00E-05,55.56,54731,NC_019893.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,

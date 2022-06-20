@@ -1,0 +1,37 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Thermovibrio guaymasensis strain DSM 15521 Ga0215661_11, whole genome shotgun sequence",Thermovibrio guaymasensis,133,242,69%,5.00E-34,35.86,982355,NZ_RBIE01000001.1
+"Hydrogenothermus marinus strain VM1 Ga0180987_101, whole genome shotgun sequence",Hydrogenothermus marinus,132,132,59%,1.00E-33,37.14,505272,NZ_REFO01000010.1
+"Thermovibrio ammonificans HB-1, complete sequence",Thermovibrio ammonificans HB-1,130,184,64%,5.00E-33,36.79,1682965,NC_014926.1
+"Persephonella marina EX-H1, complete sequence",Persephonella marina EX-H1,127,303,65%,4.00E-32,30.17,1930284,NC_012440.1
+"Phorcysia thermohydrogeniphila strain DSM 24425 Ga0181007_14, whole genome shotgun sequence",Phorcysia thermohydrogeniphila,127,127,66%,5.00E-32,32.07,211445,NZ_SMFV01000004.1
+"Balnearium lithotrophicum strain DSM 16304, whole genome shotgun sequence",Balnearium lithotrophicum,125,125,59%,2.00E-31,34.43,59475,NZ_FXTM01000011.1
+"Thermosulfidibacter takaii ABI70S6 chromosome, complete genome",Thermosulfidibacter takaii ABI70S6,124,124,64%,7.00E-31,33.92,1816670,NZ_AP013035.1
+"Persephonella hydrogeniphila strain DSM 15103, whole genome shotgun sequence",Persephonella hydrogeniphila,122,122,62%,4.00E-30,30.18,123606,NZ_OBEI01000004.1
+"Hydrogenothermus marinus strain VM1 Ga0180987_103, whole genome shotgun sequence",Hydrogenothermus marinus,119,169,64%,3.00E-29,33,199910,NZ_REFO01000012.1
+"Desulfurobacterium thermolithotrophum strain HR11 Seq4, whole genome shotgun sequence",Desulfurobacterium thermolithotrophum,116,116,59%,2.00E-28,34.43,95593,NZ_WSXR01000004.1
+"Sulfurihydrogenibium yellowstonense SS-5 gcontig_169, whole genome shotgun sequence",Sulfurihydrogenibium yellowstonense SS-5,115,115,58%,8.00E-28,34.45,17506,NZ_ABZS01000005.1
+"Persephonella hydrogeniphila strain DSM 15103, whole genome shotgun sequence",Persephonella hydrogeniphila,114,169,68%,2.00E-27,27.76,114428,NZ_OBEI01000005.1
+"Desulfurobacterium indicum strain K6013 contig19_length_28582_cov_330.328, whole genome shotgun sequence",Desulfurobacterium indicum,113,113,60%,3.00E-27,31.46,28582,NZ_MOEN01000019.1
+"Sulfurihydrogenibium azorense Az-Fu1, complete sequence",Sulfurihydrogenibium azorense Az-Fu1,112,166,64%,5.00E-27,31.7,1640877,NC_012438.1
+"Hydrogenivirga caldilitoris strain DSM 16510 Ga0104484_11, whole genome shotgun sequence",Hydrogenivirga caldilitoris,112,165,66%,5.00E-27,30.5,1753429,NZ_RCCJ01000001.1
+"Sulfurihydrogenibium subterraneum DSM 15120 Q385DRAFT_scaffold00003.3_C, whole genome shotgun sequence",Sulfurihydrogenibium subterraneum DSM 15120,110,110,62%,4.00E-26,31.7,248578,NZ_JHUV01000010.1
+"Thermocrinis albus DSM 14484, complete sequence",Thermocrinis albus DSM 14484,108,206,63%,2.00E-25,32.16,1500577,NC_013894.1
+"Desulfurobacterium atlanticum strain DSM 15668, whole genome shotgun sequence",Desulfurobacterium atlanticum,107,107,64%,2.00E-25,31.44,136120,NZ_FZOB01000005.1
+Thermocrinis minervae strain DSM 19557 chromosome I,Thermocrinis minervae,107,153,66%,3.00E-25,31.16,1367921,NZ_LT670846.1
+"Aquifex aeolicus VF5, complete sequence",Aquifex aeolicus VF5,98.2,149,60%,3.00E-22,30.35,1551335,NC_000918.1
+"Thermocrinis ruber strain DSM 23557 chromosome, complete genome",Thermocrinis ruber,98.2,159,68%,4.00E-22,28.64,1521037,NZ_CP007028.1
+"Balnearium lithotrophicum strain DSM 16304, whole genome shotgun sequence",Balnearium lithotrophicum,61.6,61.6,68%,4.00E-10,26.88,47972,NZ_FXTM01000015.1
+"Desulfurobacterium thermolithotrophum strain HR11 Seq9, whole genome shotgun sequence",Desulfurobacterium thermolithotrophum,60.5,60.5,68%,9.00E-10,27.6,65782,NZ_WSXR01000009.1
+"Phorcysia thermohydrogeniphila strain DSM 24425 Ga0181007_12, whole genome shotgun sequence",Phorcysia thermohydrogeniphila,59.3,59.3,68%,2.00E-09,26.38,327746,NZ_SMFV01000002.1
+"Desulfurobacterium atlanticum strain DSM 15668, whole genome shotgun sequence",Desulfurobacterium atlanticum,58.2,58.2,64%,5.00E-09,28.69,53685,NZ_FZOB01000010.1
+"Desulfurobacterium indicum strain K6013 contig22_length_24619_cov_1216.68, whole genome shotgun sequence",Desulfurobacterium indicum,56.6,56.6,64%,1.00E-08,27.12,24619,NZ_MOEN01000022.1
+"Sulfurihydrogenibium subterraneum DSM 15120 Q385DRAFT_scaffold00004.4_C, whole genome shotgun sequence",Sulfurihydrogenibium subterraneum DSM 15120,53.5,53.5,64%,1.00E-07,26.18,214416,NZ_JHUV01000011.1
+"Hydrogenobacter hydrogenophilus strain DSM 2913, whole genome shotgun sequence",Hydrogenobacter hydrogenophilus,51.6,51.6,66%,6.00E-07,26.56,96051,NZ_OBEN01000005.1
+"Hydrogenobacter thermophilus TK-6, complete sequence",Hydrogenobacter thermophilus TK-6,46.6,46.6,60%,2.00E-05,27.35,1742932,NC_017161.1
+"Sulfurihydrogenibium yellowstonense SS-5 gcontig_192, whole genome shotgun sequence",Sulfurihydrogenibium yellowstonense SS-5,45.4,45.4,64%,5.00E-05,24.89,5163,NZ_ABZS01000121.1
+"Desulfurobacterium atlanticum strain DSM 15668, whole genome shotgun sequence",Desulfurobacterium atlanticum,45.4,45.4,63%,5.00E-05,24.89,219075,NZ_FZOB01000002.1
+"Balnearium lithotrophicum strain DSM 16304, whole genome shotgun sequence",Balnearium lithotrophicum,44.7,44.7,40%,8.00E-05,30.52,78971,NZ_FXTM01000006.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,

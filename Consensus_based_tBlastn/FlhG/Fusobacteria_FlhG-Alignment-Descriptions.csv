@@ -1,0 +1,23 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Hypnocyclicus thermotrophus strain DSM 100055 Ga0310544_107, whole genome shotgun sequence",Hypnocyclicus thermotrophus,109,109,63%,1.00E-25,31.25,130538,NZ_SOBG01000007.1
+"Fusobacterium russii ATCC 25533 strain 593A G326DRAFT_scaffold00022.22, whole genome shotgun sequence",Fusobacterium russii ATCC 25533,70.5,70.5,64%,1.00E-12,28.33,31823,NZ_KB906927.1
+"Fusobacterium massiliense strain Marseille-P2749T, whole genome shotgun sequence",Fusobacterium massiliense,65.5,65.5,64%,5.00E-11,27.04,238105,NZ_LT608324.1
+"Ilyobacter polytropus DSM 2926, complete sequence",Ilyobacter polytropus DSM 2926,64.7,64.7,63%,1.00E-10,26.87,2046464,NC_014632.1
+"Cetobacterium ceti strain ATCC 700028, whole genome shotgun sequence",Cetobacterium ceti,61.6,61.6,68%,9.00E-10,25,160250,NZ_FUWX01000009.1
+"Fusobacterium necrogenes strain NCTC10723, whole genome shotgun sequence",Fusobacterium necrogenes,59.7,59.7,64%,4.00E-09,25.32,1927475,NZ_UGGU01000003.1
+"Fusobacterium hwasookii ChDC F206 chromosome, complete genome",Fusobacterium hwasookii ChDC F206,59.7,59.7,64%,4.00E-09,27.47,2424685,NZ_CP013336.1
+"Fusobacterium mortiferum ATCC 9817 chromosome, complete genome",Fusobacterium mortiferum ATCC 9817,58.5,58.5,64%,9.00E-09,24.89,2716766,NZ_CP028102.1
+"Fusobacterium pseudoperiodonticum strain KCOM 1261 chromosome, complete genome",Fusobacterium pseudoperiodonticum,57.8,57.8,64%,2.00E-08,27.04,2372880,NZ_CP024699.1
+"Fusobacterium periodonticum ATCC 33693 Scfld20, whole genome shotgun sequence",Fusobacterium periodonticum ATCC 33693,57.4,57.4,64%,2.00E-08,26.18,801742,NZ_GG665893.1
+"Fusobacterium necrophorum subsp. funduliforme strain 1_1_36S chromosome, complete genome",Fusobacterium necrophorum subsp. funduliforme,57.4,57.4,63%,2.00E-08,25.99,2286018,NZ_CP028107.1
+"Fusobacterium canifelinum strain OH4460_COT-188 scaffold_35, whole genome shotgun sequence",Fusobacterium canifelinum,57,57,64%,3.00E-08,27.04,9399,NZ_RQYY01000036.1
+"Fusobacterium gonidiaformans ATCC 25563 chromosome, complete genome",Fusobacterium gonidiaformans ATCC 25563,56.6,56.6,63%,4.00E-08,25.99,1678881,NZ_CP028106.1
+"Fusobacterium nucleatum subsp. polymorphum strain NCTC10562 chromosome 1, complete sequence",Fusobacterium nucleatum subsp. polymorphum,55.8,55.8,64%,7.00E-08,26.18,2443126,NZ_LN831027.1
+"Fusobacterium varium ATCC 27725 chromosome, complete genome",Fusobacterium varium ATCC 27725,55.1,55.1,64%,1.00E-07,26.18,3303644,NZ_CP028103.1
+"Fusobacterium ulcerans strain ATCC 49185 chromosome, complete genome",Fusobacterium ulcerans,54.7,54.7,64%,2.00E-07,26.18,3537675,NZ_CP028105.1
+"Fusobacterium perfoetens ATCC 29250 T364DRAFT_scaffold00008.8_C, whole genome shotgun sequence",Fusobacterium perfoetens ATCC 29250,52.8,52.8,64%,6.00E-07,25.22,91976,NZ_JHXW01000010.1
+"Hypnocyclicus thermotrophus strain DSM 100055 Ga0310544_106, whole genome shotgun sequence",Hypnocyclicus thermotrophus,52,52,62%,1.00E-06,22.77,157840,NZ_SOBG01000006.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,

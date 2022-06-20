@@ -1,0 +1,22 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Chloroflexus aurantiacus Y-400-fl, complete sequence",Chloroflexus aurantiacus Y-400-fl,55.1,55.1,17%,1.00E-07,65.12,5268950,NC_012032.1
+"Roseiflexus castenholzii DSM 13941, complete sequence",Roseiflexus castenholzii DSM 13941,53.5,53.5,17%,2.00E-07,62.79,5723298,NC_009767.1
+"Chloroflexus islandicus strain isl-2 NODE_1_length_331829_cov_30.0518_ID_6002, whole genome shotgun sequence",Chloroflexus islandicus,53.1,53.1,17%,4.00E-07,62.79,331829,NZ_LWQS01000038.1
+"Chloroflexus aggregans DSM 9485, complete sequence",Chloroflexus aggregans DSM 9485,52.8,98.6,17%,4.00E-07,60.47,4684931,NC_011831.1
+"Sphaerobacter thermophilus DSM 20745 chromosome 2, complete sequence",Sphaerobacter thermophilus DSM 20745,52.8,52.8,17%,6.00E-07,60.47,1252731,NC_013524.1
+"Ornatilinea apprima strain P3M-1 contig_2, whole genome shotgun sequence",Ornatilinea apprima,51.6,99.4,17%,1.00E-06,64.29,357091,NZ_LGCL01000016.1
+"Leptolinea tardivitalis strain YMTK-2, whole genome shotgun sequence",Leptolinea tardivitalis,50.4,50.4,17%,3.00E-06,64.29,42875,NZ_BBYA01000013.1
+"Bellilinea caldifistulae strain GOMI-1, whole genome shotgun sequence",Bellilinea caldifistulae,49.7,97.4,19%,5.00E-06,59.52,3698317,NZ_DF967971.1
+"Anaerolinea thermophila UNI-1, complete sequence",Anaerolinea thermophila UNI-1,49.7,147,18%,6.00E-06,54.35,3532378,NC_014960.1
+"Thermobaculum terrenum ATCC BAA-798 chromosome 1, complete sequence",Thermobaculum terrenum ATCC BAA-798,49.3,49.3,17%,6.00E-06,59.52,2026947,NC_013525.1
+"Tepidiforma bonchosmolovskayae strain 3753O chromosome, complete genome",Tepidiforma bonchosmolovskayae,49.3,49.3,17%,7.00E-06,55.81,2746948,NZ_CP042829.1
+"Thermanaerothrix daxensis strain GNS-1 contig_1, whole genome shotgun sequence",Thermanaerothrix daxensis,48.9,48.9,18%,1.00E-05,52.17,1385049,NZ_LGKO01000002.1
+"Nitrolancea hollandica Lb, whole genome shotgun sequence",Nitrolancea hollandica Lb,48.1,48.1,17%,2.00E-05,57.14,5132,NZ_CAGS01000341.1
+"Thermoflexus hugenholtzii JAD2, whole genome shotgun sequence",Thermoflexus hugenholtzii JAD2,48.1,48.1,17%,2.00E-05,62.79,37467,NZ_FYEK01000061.1
+"Tengunoibacter tsumagoiensis strain Uno3 sequence1, whole genome shotgun sequence",Tengunoibacter tsumagoiensis,47.4,47.4,17%,3.00E-05,48.84,5303167,NZ_BIFR01000001.1
+"Chloroflexus islandicus strain isl-2 NODE_22_length_83932_cov_26.8933_ID_5546, whole genome shotgun sequence",Chloroflexus islandicus,45.8,45.8,17%,9.00E-05,54.76,83932,NZ_LWQS01000041.1
+"Thermosporothrix hazakensis strain SK20-1 sequence1, whole genome shotgun sequence",Thermosporothrix hazakensis,45.8,45.8,17%,1.00E-04,58.14,5600616,NZ_BIFX01000001.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,

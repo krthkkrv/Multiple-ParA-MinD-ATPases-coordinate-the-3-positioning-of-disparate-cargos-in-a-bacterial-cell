@@ -1,0 +1,13 @@
+# tblastn
+# Iteration: 0
+# Query: FlhG
+# RID: 7KMJ6UVN013
+# Database: ref_prok_rep_genomes
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, % positives, query/sbjct frames
+# 4 hits found
+FlhG	NZ_KI912268.1	43.511	262	143	3	63	324	3285471	3286241	1.39e-39	151	60.69	0/3
+FlhG	NZ_AUAU01000006.1	43.578	218	117	3	85	301	155000	154362	2.22e-38	148	63.76	0/-1
+FlhG	NZ_CBXV010000005.1	37.500	224	136	2	85	308	263865	264524	1.36e-31	128	58.48	0/3
+FlhG	NZ_CBXV010000002.1	29.614	233	143	8	85	308	175781	176443	3.14e-07	54.7	43.35	0/2
+
+

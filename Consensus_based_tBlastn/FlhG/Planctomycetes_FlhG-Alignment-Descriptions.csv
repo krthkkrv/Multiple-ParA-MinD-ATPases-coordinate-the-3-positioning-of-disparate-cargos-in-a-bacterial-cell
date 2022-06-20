@@ -1,0 +1,30 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Algisphaera agarilytica strain DSM 103725 Ga0415229_01, whole genome shotgun sequence",Algisphaera agarilytica,135,135,63%,2.00E-33,37.95,4101647,NZ_JACHGY010000001.1
+"Anaerohalosphaera lusitana strain ST-NAGAB-D1, complete genome",Anaerohalosphaera lusitana,134,134,67%,5.00E-33,35,4250973,NZ_CP019791.1
+Gimesia panareensis strain Enr10 chromosome,Gimesia panareensis,118,118,69%,1.00E-27,33.74,7828706,NZ_CP037421.1
+"Singulisphaera acidiphila DSM 18658, complete sequence",Singulisphaera acidiphila DSM 18658,117,117,62%,3.00E-27,34.39,9629675,NC_019892.1
+"Gimesia benthica strain E7 chromosome, complete genome",Gimesia benthica,116,116,63%,5.00E-27,34.82,8027492,NZ_CP043930.1
+"Gimesia chilikensis strain JC646 NODE_17_length_240063_cov_27.779837, whole genome shotgun sequence",Gimesia chilikensis,115,115,63%,1.00E-26,34.38,240141,NZ_VTSR01000017.1
+Gimesia fumaroli strain Enr17 chromosome,Gimesia fumaroli,114,114,62%,3.00E-26,33.48,7704373,NZ_CP037452.1
+Gimesia aquarii strain V144 chromosome,Gimesia aquarii,114,114,62%,4.00E-26,33.48,7397129,NZ_CP037920.1
+"Rubinisphaera italica strain Pan54 Pan54_contig00001, whole genome shotgun sequence",Rubinisphaera italica,111,111,62%,3.00E-25,32.58,6680363,NZ_SJPG01000001.1
+Gimesia alba strain Pan241w chromosome,Gimesia alba,109,109,62%,9.00E-25,33.94,7769723,NZ_CP036269.1
+"Gimesia maris strain CA11 chromosome, complete genome",Gimesia maris,105,105,60%,2.00E-23,33.02,7626893,NZ_CP036353.1
+"Phycisphaera mikurensis strain DSM 103959 Ga0415308_17, whole genome shotgun sequence",Phycisphaera mikurensis,105,105,62%,2.00E-23,35.14,56842,NZ_JACHEL010000017.1
+Gimesia algae strain Pan161 chromosome,Gimesia algae,104,104,67%,5.00E-23,30.42,7929454,NZ_CP036343.1
+"Symmachiella macrocystis strain CA54 CA54_contig00003, whole genome shotgun sequence",Symmachiella macrocystis,99,99,67%,4.00E-21,30,1039425,NZ_SJPP01000003.1
+"Symmachiella dynata strain Mal52 chromosome, complete genome",Symmachiella dynata,98.2,98.2,63%,8.00E-21,31.25,7767809,NZ_CP036276.1
+"Polystyrenella longa strain Pla110 chromosome, complete genome",Polystyrenella longa,91.7,91.7,63%,1.00E-18,28.57,6125480,NZ_CP036281.1
+Calycomorphotria hydatis strain V22 chromosome,Calycomorphotria hydatis,82,82,63%,1.00E-15,27.23,5163473,NZ_CP036316.1
+"Rubinisphaera brasiliensis DSM 5305, complete sequence",Rubinisphaera brasiliensis DSM 5305,81.3,81.3,57%,3.00E-15,28.22,6006602,NC_015174.1
+"Planctopirus hydrillae strain JC280 Contig20, whole genome shotgun sequence",Planctopirus hydrillae,71.6,71.6,54%,4.00E-12,30.65,40430,NZ_LYDR01000099.1
+"Planctopirus ephydatiae strain spb1 chromosome, complete genome",Planctopirus ephydatiae,70.9,70.9,62%,8.00E-12,28.95,5214061,NZ_CP036299.1
+"Planctopirus limnophila DSM 3776, complete sequence",Planctopirus limnophila DSM 3776,70.1,70.1,62%,1.00E-11,28.51,5423075,NC_014148.1
+"Schlesneria paludicola DSM 18645 Scaffold2, whole genome shotgun sequence",Schlesneria paludicola DSM 18645,68.2,68.2,68%,5.00E-11,28.05,3425960,NZ_JH636435.1
+"Tautonia plasticadhaerens strain ElP chromosome, complete genome",Tautonia plasticadhaerens,63.9,63.9,63%,1.00E-09,29.26,8668938,NZ_CP036426.1
+"Tautonia sociabilis strain GM2012 NODE_67_length_29692_cov_4.57666_ID_4913, whole genome shotgun sequence",Tautonia sociabilis,55.8,55.8,62%,4.00E-07,29.07,29692,NZ_RYZH01000067.1
+"Pirellula staleyi DSM 6068, complete sequence",Pirellula staleyi DSM 6068,50.4,50.4,49%,2.00E-05,23.73,6196199,NC_013720.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,
