@@ -1,3 +1,22 @@
+# Load following packages
+library("tidyverse")
+library("genoPlotR")
+library("reshape2") 
+library("readxl")
+library("taxonomizr") 
+library("XML")
+library("xml2")
+library("xlsx")
+library("extraoperators")
+
+## Requires following functions
+# hit_count()
+# esummary_fetch_taxid()
+# read_blast_description()
+# filter_overlapping_ranges()
+# merge_overlapping_ranges_dataset()
+# condensed_phylum()
+
 ## Running the blast inputs
 #  list of phylum names
 phylum_list <- c( "Acidobacteria","Actinobacteria","Alphaproteobacteria", "Aquificae", "Bacteroidetes", "Betaproteobacteria", "Chlamydiae", "Chlorobi",'Chloroflexi','Cyanobacteria','Deinococcales', 'Deltaproteobacteria', 'Epsilonproteobacteria', 'Fibrobacteres','Firmicutes', 'Fusobacteria', 'Gammaproteobacteria', 'Planctomycetes', "Spirochaetes", 'Thermotogae', 'Zetaproteobacteria')
@@ -6,7 +25,7 @@ phylum_list <- c( "Acidobacteria","Actinobacteria","Alphaproteobacteria", "Aquif
 protein_list <- c("ParA", "ParC", "McdA", "FlhG", "MinD")
 
 #  the main path to the subfolders holding the blast output downloads
-path <- "Consensus_based_tBLASTn/"
+path <- "../Consensus_based_tBLASTn/"
 
 #  Creating a empty list
 Consensus_tBLASTn <- NULL
@@ -18,8 +37,6 @@ for(i in 13:length(phylum_list)){
   names(Consensus_tBLASTn)[[i]] <- phulym
   Consensus_tBLASTn[[i]] <- as.data.frame(condensed_phylum(phylum = phylum, path = "Consensus_based_tBLASTn/", protien = protein_list))
 }
-
-
 
 ## Generating the hits_ratio_table
 #  creating an empty list
@@ -48,7 +65,7 @@ for(i in 1:length(Consensus_tBLASTn)){
     sp.Name <- append(sp.Name, name2_list[i])
     sub <- subset(df, df[,"Scientific.Name"] == name2_list[i])
     
-    #cheomosome.accession
+    #chromosome.accession
     g.acc <- append(g.acc, ifelse(length(unique(sub[sub$genome_type=="chromosome", 4]))>0,unique(sub[sub$genome_type=="chromosome", 4]),"NA"))
     
     # total.ParA.hits
@@ -109,7 +126,6 @@ for(i in 1:length(Consensus_tBLASTn)){
 #  calculating the hits/genetic_element ratio
 binary_table$ratio <- binary_table$total.ParA.hits/binary_table$nmbr.genetic.elements
 
-
 # cleaning the scientifc.Name column so that they match the naming format in the AssemeblyAccession.csv file
 tmp <- binary_table %>% 
     separate(Scientific.Name, c("name1", "name2"), extra = "drop", fill = "right", remove = T)
@@ -118,50 +134,31 @@ tmp1 <- na.omit(tmp)
 tmp1$Scientific.Name <- paste(tmp1$name1, tmp1$name2, sep = " ")
 binary_table <- tmp1[,c(17,3,4,5,6,7,9,8,16,10:15)]
 
-# calculating the single.cargo.hits
-binary_table$single.cargo.hits <- binary_table$ParA+binary_table$ParC+binary_table$McdA+binary_table$MinD+binary_table$FlhG
+# Geting unique ParA hits for each species
+binar_table$unique.ParAs -> binary_table$total.ParA.hits - binary_table$nmbr.genetic.elements + 1
 
 # reading in Assembly accession file 
-AssemblyAccession <- read.csv("../Input_files/AssemblyAccession.csv")
+AssemblyAccession <- read.csv("../AssemblyAccession.csv")
 
 # merging in the Assembly accession numbers
 binary_table_meta <- merge(AssemblyAccession, binary_table, by = "Scientific.Name", all.y = T)
 
+## Adding Taxonomy information to the data
 # getting taxid
 query <- sort(binary_table$chromosome.accession)[9:11905]
 quer_op <- esummary_fetch_taxid(query)
 colnames(quer_op)[1] <- "chromosome.accession"
 
-# adding the taxID information to the data
+# adding the taxID information to the data (needed for taxonomy information)
 binary_table_meta <- merge(quer_op, binary_table, by = "chromosome.accession", all.y = T)
 
 # reading in the taxonomy file (has info for phylum,class....)
-taxonomy <- read_xlsx("Taxonomy_info.xlsx") %>% 
+taxonomy <- read_xlsx("../Taxonomy_info.xlsx") %>% 
   as.data.frame()
 
-# merging the taxonomy info 
+# final metadata output
 binary_table_meta <- merge(taxonomy[,c(1,3,4)], binary_table_meta, by = "taxId", all.y = T)
 
-#  Wrting out the final output
-write.csv(binary_table_meta, "Consensus_based_tBLASTn/ratio_and_binary_info_for_parA_hits_4.csv", row.names = F)
-
 --complete--
-
-## Statistics
-#  number/percent of species having atleast 1 ParA hits
-hits_ratio_file <- read.xlsx("Consensus_based_tBLASTn/ratio_and_binary_info_for_parA_hits.xlsx", sheetIndex = 1)
-total_sum <- dim(hits_ratio_file[hits_ratio_file$total.ParA.hits>=1,])[1] # change the >=1 to any number to filter out the data and count; for example to get number of species with atleast 2 ParA hits, change the number to >=2
-
-#  the total number  of reference genome as on feb 4 2021 is 12607
-(total_sum/12607)*100
-total_sum
-
-#  number/percent of species having the hits/genomic_element ratio of atleast 1 
-hits_ratio_file <- read.xlsx("Consensus_based_tBLASTn/ratio_and_binary_info_for_parA_hits.xlsx", sheetIndex = 1)
-total_sum <- dim(hits_ratio_file[hits_ratio_file$ratio>=1,])[1] # change the >=1 to any number to filter out the data and count; for example to get number of species with a hits/genomic_element ratio of atleast 2, change the number to >=2
-
-#  the total number  of reference genome as on feb 4 2021 is 12607
-(total_sum/12607)*100
-total_sum
 
 
