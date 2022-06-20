@@ -1,0 +1,42 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Fusobacterium naviforme strain ATCC 25832 EI53DRAFT_scaffold00001.1, whole genome shotgun sequence",Fusobacterium naviforme,125,125,81%,1.00E-31,32.94,789482,NZ_PYGH01000001.1
+"Psychrilyobacter atlanticus DSM 19335 K337DRAFT_scaffold00002.2, whole genome shotgun sequence",Psychrilyobacter atlanticus DSM 19335,125,125,81%,2.00E-31,32.03,1146430,NZ_KE384548.1
+"Fusobacterium naviforme strain ATCC 25832 EI53DRAFT_scaffold00013.13, whole genome shotgun sequence",Fusobacterium naviforme,112,112,83%,8.00E-27,32.71,64580,NZ_PYGH01000013.1
+"Hypnocyclicus thermotrophus strain DSM 100055 Ga0310544_101, whole genome shotgun sequence",Hypnocyclicus thermotrophus,109,109,81%,4.00E-26,26.19,448681,NZ_SOBG01000001.1
+"Ilyobacter polytropus DSM 2926 plasmid pILYOP01, complete sequence",Ilyobacter polytropus DSM 2926,108,108,80%,8.00E-26,31.85,961624,NC_014633.1
+"Cetobacterium ceti strain ATCC 700028, whole genome shotgun sequence",Cetobacterium ceti,101,101,81%,3.00E-23,28.79,22955,NZ_FUWX01000022.1
+"Cetobacterium ceti strain ATCC 700028, whole genome shotgun sequence",Cetobacterium ceti,100,100,68%,4.00E-23,31.58,11070,NZ_FUWX01000031.1
+"Sebaldella termitidis strain NCTC11300, whole genome shotgun sequence",Sebaldella termitidis,98.2,98.2,83%,3.00E-22,27.76,54162,NZ_UGYG01000002.1
+"Cetobacterium ceti strain ATCC 700028, whole genome shotgun sequence",Cetobacterium ceti,92.4,92.4,81%,3.00E-20,25.68,126542,NZ_FUWX01000010.1
+"Pseudoleptotrichia goodfellowii strain JCM16774 chromosome, complete genome",Pseudoleptotrichia goodfellowii,92.4,92.4,81%,3.00E-20,25.6,2290729,NZ_AP019822.1
+"Cetobacterium ceti strain ATCC 700028, whole genome shotgun sequence",Cetobacterium ceti,89,89,83%,5.00E-19,23.74,160250,NZ_FUWX01000009.1
+"Cetobacterium ceti strain ATCC 700028, whole genome shotgun sequence",Cetobacterium ceti,88.6,88.6,68%,6.00E-19,31.53,6528,NZ_FUWX01000041.1
+"Cetobacterium ceti strain ATCC 700028, whole genome shotgun sequence",Cetobacterium ceti,85.1,85.1,81%,9.00E-18,25.5,94542,NZ_FUWX01000013.1
+"Cetobacterium somerae ATCC BAA-474 Scaffold520, whole genome shotgun sequence",Cetobacterium somerae ATCC BAA-474,81.3,81.3,69%,2.00E-16,30.37,4870,NZ_KI518189.1
+"Ilyobacter polytropus DSM 2926 plasmid pILYOP02, complete sequence",Ilyobacter polytropus DSM 2926,62.4,116,59%,4.00E-10,24.64,124226,NC_014634.1
+"Fusobacterium naviforme strain ATCC 25832 EI53DRAFT_scaffold00017.17, whole genome shotgun sequence",Fusobacterium naviforme,61.6,61.6,56%,6.00E-10,27.33,23509,NZ_PYGH01000017.1
+"Leptotrichia hongkongensis strain JMUB5056 chromosome, complete genome",Leptotrichia hongkongensis,55.5,55.5,68%,6.00E-08,21.76,2261073,NZ_AP019846.1
+"Leptotrichia hofstadii DSM 21651 G402DRAFT_scaffold00005.5_C, whole genome shotgun sequence",Leptotrichia hofstadii DSM 21651,55.5,55.5,68%,7.00E-08,21.76,182026,NZ_AUAY01000019.1
+"Leptotrichia hongkongensis strain JMUB5056 plasmid pJMUB5056, complete sequence",Leptotrichia hongkongensis,54.7,54.7,18%,1.00E-07,45.61,23107,NZ_AP019847.1
+"Fusobacterium necrophorum subsp. funduliforme strain 1_1_36S chromosome, complete genome",Fusobacterium necrophorum subsp. funduliforme,54.7,54.7,81%,1.00E-07,24.6,2286018,NZ_CP028107.1
+"Leptotrichia massiliensis strain Marseille-P3007T, whole genome shotgun sequence",Leptotrichia massiliensis,54.3,54.3,68%,1.00E-07,20.83,1669484,NZ_FNVZ01000005.1
+"Fusobacterium gonidiaformans ATCC 25563 chromosome, complete genome",Fusobacterium gonidiaformans ATCC 25563,54.3,54.3,55%,1.00E-07,27.91,1678881,NZ_CP028106.1
+"Leptotrichia wadei strain JCM16777 plasmid pJCM16777-1, complete sequence",Leptotrichia wadei,53.9,53.9,68%,2.00E-07,20.57,32202,NZ_AP019830.1
+"Sebaldella termitidis strain NCTC11300, whole genome shotgun sequence",Sebaldella termitidis,53.9,104,58%,2.00E-07,22.47,4418796,NZ_UGYG01000001.1
+"Leptotrichia hofstadii DSM 21651 G402DRAFT_scaffold00014.14_C, whole genome shotgun sequence",Leptotrichia hofstadii DSM 21651,53.1,53.1,68%,3.00E-07,20.1,7817,NZ_AUAY01000008.1
+"Leptotrichia hofstadii DSM 21651 G402DRAFT_scaffold00017.17_C, whole genome shotgun sequence",Leptotrichia hofstadii DSM 21651,52.8,52.8,18%,3.00E-07,42.11,2910,NZ_AUAY01000011.1
+"Fusobacterium massiliense strain Marseille-P2749T, whole genome shotgun sequence",Fusobacterium massiliense,52.4,52.4,55%,5.00E-07,27.91,238105,NZ_LT608324.1
+"Fusobacterium necrogenes strain NCTC10723, whole genome shotgun sequence",Fusobacterium necrogenes,51.2,51.2,55%,1.00E-06,27.33,1927475,NZ_UGGU01000003.1
+"Fusobacterium pseudoperiodonticum strain KCOM 1261 chromosome, complete genome",Fusobacterium pseudoperiodonticum,50.8,50.8,55%,2.00E-06,25.97,2372880,NZ_CP024699.1
+"Fusobacterium nucleatum subsp. polymorphum strain NCTC10562 chromosome 1, complete sequence",Fusobacterium nucleatum subsp. polymorphum,50.4,50.4,55%,2.00E-06,26.74,2443126,NZ_LN831027.1
+"Fusobacterium mortiferum ATCC 9817 chromosome, complete genome",Fusobacterium mortiferum ATCC 9817,50.4,50.4,55%,3.00E-06,26.74,2716766,NZ_CP028102.1
+"Cetobacterium ceti strain ATCC 700028, whole genome shotgun sequence",Cetobacterium ceti,50.1,50.1,32%,3.00E-06,26.73,179083,NZ_FUWX01000006.1
+"Fusobacterium hwasookii ChDC F206 chromosome, complete genome",Fusobacterium hwasookii ChDC F206,48.9,48.9,55%,7.00E-06,25,2424685,NZ_CP013336.1
+"Streptobacillus notomytis strain AHL 370-1 B-10-16_S9CLC_contig_618, whole genome shotgun sequence",Streptobacillus notomytis,45.8,45.8,19%,3.00E-05,36.36,682,NZ_LJRV01000524.1
+"Cetobacterium somerae ATCC BAA-474 Scaffold3, whole genome shotgun sequence",Cetobacterium somerae ATCC BAA-474,47,47,31%,3.00E-05,24.74,22462,NZ_KI518151.1
+"Fusobacterium ulcerans strain ATCC 49185 chromosome, complete genome",Fusobacterium ulcerans,45.8,45.8,13%,6.00E-05,48.78,3537675,NZ_CP028105.1
+"Hypnocyclicus thermotrophus strain DSM 100055 Ga0310544_107, whole genome shotgun sequence",Hypnocyclicus thermotrophus,45.8,45.8,11%,8.00E-05,60,130538,NZ_SOBG01000007.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,

@@ -1,0 +1,13 @@
+# tblastn
+# Iteration: 0
+# Query: ParC
+# RID: 7KFZBN3F013
+# Database: ref_prok_rep_genomes
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, % positives, query/sbjct frames
+# 4 hits found
+ParC	NZ_ASJR01000019.1	28.175	252	168	3	7	256	27275	27997	5.52e-27	109	47.62	0/2
+ParC	NZ_QGDP01000002.1	28.685	251	174	4	7	256	789689	788949	4.96e-26	106	49.80	0/-2
+ParC	NZ_FRAW01000018.1	30.952	252	167	4	7	256	2270	3010	4.29e-23	98.2	48.41	0/2
+ParC	NZ_FRAW01000021.1	50.000	48	20	1	10	53	57197	57054	4.21e-06	46.6	60.42	0/-3
+
+

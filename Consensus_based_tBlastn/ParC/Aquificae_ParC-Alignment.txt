@@ -1,0 +1,14 @@
+# tblastn
+# Iteration: 0
+# Query: ParC
+# RID: 7KESWS4C013
+# Database: ref_prok_rep_genomes
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, % positives, query/sbjct frames
+# 5 hits found
+ParC	NZ_AP013035.1	36.614	254	150	3	4	256	890372	889641	2.86e-37	141	51.97	0/-1
+ParC	NZ_REFO01000004.1	28.571	217	128	6	7	213	6438	7037	7.42e-16	78.2	46.54	0/3
+ParC	NZ_CP007028.1	32.212	208	121	5	7	212	913859	914428	6.09e-14	72.4	50.96	0/2
+ParC	NZ_OBEI01000001.1	25.592	211	141	5	7	212	212374	212973	1.57e-11	65.1	41.71	0/1
+ParC	NC_012440.1	26.389	216	133	5	7	212	767726	768325	7.01e-11	63.2	40.28	0/2
+
+

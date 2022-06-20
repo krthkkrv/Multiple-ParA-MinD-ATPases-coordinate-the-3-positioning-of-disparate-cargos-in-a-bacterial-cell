@@ -1,0 +1,31 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Chlamydia gallinacea 08-1274/3 chromosome, complete genome",Chlamydia gallinacea 08-1274/3,73.6,73.6,81%,2.00E-14,26.98,1059583,NZ_CP015840.1
+"Chlamydia muridarum str. Nigg, complete sequence",Chlamydia muridarum str. Nigg,73.6,73.6,80%,3.00E-14,26.8,1072950,NC_002620.2
+"Chlamydia pneumoniae TW-183, complete sequence",Chlamydia pneumoniae TW-183,73.2,73.2,81%,3.00E-14,27.67,1225935,NC_005043.1
+"Simkania negevensis Z chromosome gsn.131, complete sequence",Simkania negevensis Z,73.2,73.2,81%,3.00E-14,26.95,2496337,NC_015713.1
+Chlamydia suis isolate 5-27b chromosome I,Chlamydia suis,72.4,72.4,81%,6.00E-14,26.88,1101914,NZ_LS398098.1
+"Waddlia chondrophila WSU 86-1044, complete sequence",Waddlia chondrophila WSU 86-1044,72,72,83%,7.00E-14,26.34,2116312,NC_014225.1
+"Chlamydia trachomatis D/UW-3/CX chromosome, complete genome",Chlamydia trachomatis D/UW-3/CX,72,72,81%,8.00E-14,27.67,1042519,NC_000117.1
+"Chlamydia pecorum PV3056/3, complete sequence",Chlamydia pecorum PV3056/3,71.6,71.6,80%,9.00E-14,26,1104552,NC_022439.1
+"Parachlamydia acanthamoebae UV-7, complete sequence",Parachlamydia acanthamoebae UV-7,71.6,71.6,80%,1.00E-13,26.29,3072383,NC_015702.1
+Chlamydia abortus LLG chromosome,Chlamydia abortus LLG,70.9,70.9,81%,2.00E-13,26.88,1143694,NZ_CP018296.1
+"Chlamydia psittaci 6BC, complete sequence",Chlamydia psittaci 6BC,70.5,70.5,81%,2.00E-13,26.88,1171667,NC_017287.1
+"Chlamydia caviae GPIC, complete sequence",Chlamydia caviae GPIC,70.5,70.5,81%,2.00E-13,26.48,1173390,NC_003361.3
+"Chlamydia buteonis isolate RSHA, whole genome shotgun sequence",Chlamydia buteonis,70.5,70.5,81%,3.00E-13,26.88,770995,NZ_CAAAFM010000001.1
+"Chlamydia felis Fe/C-56, complete sequence",Chlamydia felis Fe/C-56,70.5,70.5,81%,3.00E-13,26.48,1166239,NC_007899.1
+"Chlamydia avium strain 10_881_SC42 CP_10_881_SC42.contig.0, whole genome shotgun sequence",Chlamydia avium,69.3,69.3,81%,5.00E-13,26.19,1041101,NZ_KE360587.1
+"Criblamydia sequanensis CRIB-18, whole genome shotgun sequence",Criblamydia sequanensis CRIB-18,63.5,63.5,81%,5.00E-11,24.41,291207,NZ_CCEJ010000008.1
+"Simkania negevensis Z plasmid pSn, complete sequence",Simkania negevensis Z,62.8,62.8,79%,7.00E-11,23.69,132038,NC_015710.1
+"Estrella lausannensis strain CRIB 30, whole genome shotgun sequence",Estrella lausannensis,59.7,59.7,54%,8.00E-10,29.41,256762,NZ_CWGJ01000001.1
+"Chlamydia felis Fe/C-56 plasmid pCfe1, complete sequence",Chlamydia felis Fe/C-56,54.3,54.3,54%,5.00E-08,26.19,7552,NC_007900.1
+"Chlamydia psittaci 6BC plasmid pCps6BC, complete sequence",Chlamydia psittaci 6BC,52.8,52.8,54%,1.00E-07,26.19,7553,NC_017288.1
+"Chlamydia muridarum str. Nigg plasmid pMoPn, complete sequence",Chlamydia muridarum str. Nigg,52.4,52.4,69%,2.00E-07,23.36,7501,NC_002182.1
+"Chlamydia ibidis 10-1398/6 ibis.contig.0, whole genome shotgun sequence",Chlamydia ibidis 10-1398/6,50.4,50.4,44%,7.00E-07,25.74,478589,NZ_APJW01000001.1
+"Chlamydia caviae GPIC plasmid pCpGP1, complete sequence",Chlamydia caviae GPIC,48.9,48.9,54%,2.00E-06,27.06,7966,NC_004720.1
+"Chlamydia avium strain 10_881_SC42 CP_10_881_SC42.contig.6, whole genome shotgun sequence",Chlamydia avium,46.6,46.6,77%,1.00E-05,22.82,7521,NZ_KE360591.1
+"Chlamydia gallinacea 08-1274/3 plasmid p1274, complete sequence",Chlamydia gallinacea 08-1274/3,46.6,46.6,70%,1.00E-05,23.71,7619,NZ_CP015841.1
+"Chlamydia ibidis 10-1398/6 ibis.contig.3, whole genome shotgun sequence",Chlamydia ibidis 10-1398/6,44.3,44.3,16%,6.00E-05,47.17,80480,NZ_APJW01000004.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,
