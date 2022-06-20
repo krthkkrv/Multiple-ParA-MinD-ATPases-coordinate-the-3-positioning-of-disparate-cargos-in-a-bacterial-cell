@@ -1,0 +1,787 @@
+1(1)	WP_092376185.1	WP_092376185.1 chemotaxis protein CheW 
+1(1)	WP_011705295.1	WP_011705295.1 chemotaxis protein CheW 
+1(1)	WP_090207531.1	WP_090207531.1 chemotaxis protein CheW 
+1(1)	WP_090262549.1	WP_090262549.1 chemotaxis protein CheW 
+1(1)	WP_090262548.1	WP_090262548.1 chemotaxis protein CheW 
+1(1)	WP_090537472.1	WP_090537472.1 chemotaxis protein CheW 
+1(1)	WP_042034085.1	WP_042034085.1 chemotaxis protein CheW 
+1(1)	WP_115593423.1	WP_115593423.1 chemotaxis protein CheW 
+1(1)	WP_033114441.1	WP_033114441.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_201752546.1	WP_201752546.1 CheW domain-containing protein 
+1(1)	WP_019340623.1	WP_019340623.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_093471584.1	WP_093471584.1 chemotaxis protein CheW 
+1(1)	WP_098984601.1	WP_098984601.1 chemotaxis protein CheW 
+1(1)	WP_012637915.1	WP_012637915.1 chemotaxis protein CheW 
+1(1)	WP_127477493.1	WP_127477493.1 chemotaxis protein CheW 
+1(1)	WP_019613237.1	WP_019613237.1 chemotaxis protein CheW 
+1(1)	WP_091640012.1	WP_091640012.1 chemotaxis protein CheW 
+1(1)	WP_193003779.1	WP_193003779.1 chemotaxis protein CheW 
+1(1)	WP_003460781.1	WP_003460781.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_145142151.1	WP_145142151.1 chemotaxis protein CheW 
+1(1)	WP_096410120.1	WP_096410120.1 chemotaxis protein CheW 
+1(1)	WP_093471582.1	WP_093471582.1 chemotaxis protein CheW 
+1(1)	WP_023446674.1	WP_023446674.1 CheW domain-containing protein 
+1(1)	WP_071870636.1	WP_071870636.1 chemotaxis protein CheW 
+1(1)	WP_156227936.1	WP_156227936.1 chemotaxis protein CheW 
+1(1)	WP_037050483.1	WP_037050483.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_042011668.1	WP_042011668.1 chemotaxis protein CheW 
+1(1)	WP_084311315.1	WP_084311315.1 chemotaxis protein CheW 
+1(2)	WP_014820842.1	WP_014820842.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_011813282.1	WP_011813282.1 chemotaxis protein CheW 
+1(2)	WP_005357667.1	WP_005357667.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_101319334.1	WP_101319334.1 chemotaxis protein CheW 
+1(1)	WP_042642225.1	WP_042642225.1 chemotaxis protein CheW 
+1(1)	WP_188407300.1	WP_188407300.1 chemotaxis protein CheW 
+1(1)	WP_042031556.1	WP_042031556.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_101274882.1	WP_101274882.1 MULTISPECIES: CheW domain-containing protein 
+1(5)	WP_005333026.1	WP_005333026.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_018717388.1	WP_018717388.1 chemotaxis protein CheW 
+1(1)	WP_077278088.1	WP_077278088.1 chemotaxis protein CheW 
+1(1)	WP_074866313.1	WP_074866313.1 chemotaxis protein CheW 
+1(1)	WP_153006723.1	WP_153006723.1 chemotaxis protein CheW 
+1(1)	WP_115521172.1	WP_115521172.1 chemotaxis protein CheW 
+1(1)	WP_090207528.1	WP_090207528.1 chemotaxis protein CheW 
+1(1)	WP_058773034.1	WP_058773034.1 MULTISPECIES: CheW domain-containing protein 
+1(1)	WP_042020306.1	WP_042020306.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_027597963.1	WP_027597963.1 MULTISPECIES: CheW domain-containing protein 
+1(1)	WP_122164265.1	WP_122164265.1 chemotaxis protein CheW 
+1(1)	WP_124240503.1	WP_124240503.1 chemotaxis protein CheW 
+1(1)	WP_011628739.1	WP_011628739.1 chemotaxis protein CheW 
+1(1)	WP_091712580.1	WP_091712580.1 chemotaxis protein CheW 
+1(1)	WP_050719408.1	WP_050719408.1 chemotaxis protein CheW 
+1(1)	WP_014852078.1	WP_014852078.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_125180105.1	WP_125180105.1 chemotaxis protein CheW 
+1(1)	WP_127477492.1	WP_127477492.1 chemotaxis protein CheW 
+1(1)	WP_084311316.1	WP_084311316.1 chemotaxis protein CheW 
+1(1)	WP_017444717.1	WP_017444717.1 chemotaxis protein CheW 
+1(1)	WP_169939917.1	WP_169939917.1 chemotaxis protein CheW 
+1(1)	WP_100860342.1	WP_100860342.1 chemotaxis protein CheW 
+1(1)	WP_121442388.1	WP_121442388.1 chemotaxis protein CheW 
+1(1)	WP_132702160.1	WP_132702160.1 chemotaxis protein CheW 
+1(1)	WP_018717387.1	WP_018717387.1 chemotaxis protein CheW 
+1(1)	WP_074681212.1	WP_074681212.1 chemotaxis protein CheW 
+1(1)	WP_012637914.1	WP_012637914.1 chemotaxis protein CheW 
+1(1)	WP_019613238.1	WP_019613238.1 chemotaxis protein CheW 
+1(1)	WP_010673941.1	WP_010673941.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_091712578.1	WP_091712578.1 chemotaxis protein CheW 
+1(1)	WP_041205320.1	WP_041205320.1 chemotaxis protein CheW 
+1(1)	WP_111640559.1	WP_111640559.1 chemotaxis protein CheW 
+1(1)	WP_007160357.1	WP_007160357.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_167782683.1	WP_167782683.1 chemotaxis protein CheW 
+1(1)	WP_093427381.1	WP_093427381.1 chemotaxis protein CheW 
+1(1)	WP_077278089.1	WP_077278089.1 chemotaxis protein CheW 
+1(1)	WP_123637231.1	WP_123637231.1 chemotaxis protein CheW 
+1(1)	WP_038092294.1	WP_038092294.1 chemotaxis protein CheW 
+1(1)	WP_021702582.1	WP_021702582.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_132972951.1	WP_132972951.1 chemotaxis protein CheW 
+1(1)	WP_170910073.1	WP_170910073.1 chemotaxis protein CheW 
+1(1)	WP_011813281.1	WP_011813281.1 chemotaxis protein CheW 
+1(1)	WP_003296576.1	WP_003296576.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_042872026.1	WP_042872026.1 chemotaxis protein CheW 
+1(1)	WP_108234523.1	WP_108234523.1 chemotaxis protein CheW 
+1(1)	WP_100292450.1	WP_100292450.1 chemotaxis protein CheW 
+1(1)	WP_029135176.1	WP_029135176.1 chemotaxis protein CheW 
+1(1)	WP_041993956.1	WP_041993956.1 chemotaxis protein CheW 
+1(1)	WP_026456542.1	WP_026456542.1 chemotaxis protein CheW 
+1(2)	WP_033130834.1	WP_033130834.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_084307807.1	WP_084307807.1 chemotaxis protein CheW 
+1(1)	WP_093427380.1	WP_093427380.1 chemotaxis protein CheW 
+1(1)	WP_179576862.1	WP_179576862.1 chemotaxis protein CheW 
+1(1)	WP_132702159.1	WP_132702159.1 chemotaxis protein CheW 
+1(1)	WP_148926329.1	WP_148926329.1 chemotaxis protein CheW 
+1(1)	WP_188865266.1	WP_188865266.1 chemotaxis protein CheW 
+1(1)	WP_015276597.1	WP_015276597.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_037002843.1	WP_037002843.1 MULTISPECIES: CheW domain-containing protein 
+1(1)	WP_007146657.1	WP_007146657.1 chemotaxis protein CheW 
+1(1)	WP_006786139.1	WP_006786139.1 chemotaxis protein CheW 
+1(1)	WP_070072240.1	WP_070072240.1 chemotaxis protein CheW 
+1(1)	WP_012823608.1	WP_012823608.1 hypothetical protein 
+1(1)	WP_093308476.1	WP_093308476.1 CheW domain-containing protein 
+1(1)	WP_024765936.1	WP_024765936.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_043761964.1	WP_043761964.1 chemotaxis protein CheW 
+1(1)	WP_126453829.1	WP_126453829.1 chemotaxis protein CheW 
+1(1)	WP_093308477.1	WP_093308477.1 chemotaxis protein CheW 
+1(1)	WP_014708092.1	WP_014708092.1 chemotaxis protein CheW 
+1(1)	WP_007146656.1	WP_007146656.1 chemotaxis protein CheW 
+1(1)	WP_033130833.1	WP_033130833.1 chemotaxis protein CheW 
+1(1)	WP_084307806.1	WP_084307806.1 chemotaxis protein CheW 
+1(1)	WP_028626572.1	WP_028626572.1 CheW domain-containing protein 
+1(1)	WP_011628740.1	WP_011628740.1 purine-binding chemotaxis protein CheW 
+1(1)	WP_052761119.1	WP_052761119.1 chemotaxis protein CheW 
+1(1)	WP_042011669.1	WP_042011669.1 chemotaxis protein CheW 
+1(1)	WP_090432541.1	WP_090432541.1 chemotaxis protein CheW 
+1(1)	WP_095460405.1	WP_095460405.1 CheW domain-containing protein 
+1(2)	WP_015476565.1	WP_015476565.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_145142150.1	WP_145142150.1 chemotaxis protein CheW 
+1(1)	WP_021489626.1	WP_021489626.1 MULTISPECIES: CheW domain-containing protein 
+1(1)	WP_150347624.1	WP_150347624.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_111872855.1	WP_111872855.1 chemotaxis protein CheW 
+1(1)	WP_016493839.1	WP_016493839.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_175253830.1	WP_175253830.1 chemotaxis protein CheW 
+1(1)	WP_078743939.1	WP_078743939.1 CheW domain-containing protein 
+1(1)	WP_055732186.1	WP_055732186.1 chemotaxis protein CheW 
+1(1)	WP_042076857.1	WP_042076857.1 chemotaxis protein CheW 
+1(1)	WP_024942915.1	WP_024942915.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_167782684.1	WP_167782684.1 chemotaxis protein CheW 
+1(1)	WP_042043842.1	WP_042043842.1 chemotaxis protein CheW, partial 
+1(1)	WP_096410119.1	WP_096410119.1 purine-binding chemotaxis protein CheW 
+1(1)	WP_059112928.1	WP_059112928.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_136867587.1	WP_136867587.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_005357664.1	WP_005357664.1 chemotaxis protein CheW 
+1(1)	WP_099523113.1	WP_099523113.1 chemotaxis protein CheW 
+1(1)	WP_051302789.1	WP_051302789.1 chemotaxis protein CheW 
+1(1)	WP_084002825.1	WP_084002825.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_078743940.1	WP_078743940.1 chemotaxis protein CheW 
+1(1)	WP_193003778.1	WP_193003778.1 chemotaxis protein CheW 
+1(1)	WP_100292451.1	WP_100292451.1 chemotaxis protein CheW 
+1(1)	WP_014708091.1	WP_014708091.1 chemotaxis protein CheW 
+1(9)	WP_005298836.1	WP_005298836.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_122098530.1	WP_122098530.1 CheW domain-containing protein 
+1(1)	WP_090537474.1	WP_090537474.1 chemotaxis protein CheW 
+1(1)	WP_028862496.1	WP_028862496.1 chemotaxis protein CheW 
+1(1)	WP_159388279.1	WP_159388279.1 chemotaxis protein CheW 
+1(9)	WP_003243242.1	WP_003243242.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_075111987.1	WP_075111987.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_145930691.1	WP_145930691.1 chemotaxis protein CheW 
+1(1)	WP_010225041.1	WP_010225041.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_046859115.1	WP_046859115.1 chemotaxis protein CheW 
+1(3)	WP_010797947.1	WP_010797947.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_058761264.1	WP_058761264.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_069294989.1	WP_069294989.1 chemotaxis protein CheW 
+1(1)	WP_132972949.1	WP_132972949.1 purine-binding chemotaxis protein CheW 
+1(1)	WP_028862497.1	WP_028862497.1 chemotaxis protein CheW 
+1(1)	WP_040065322.1	WP_040065322.1 chemotaxis protein CheW 
+1(1)	WP_061904281.1	WP_061904281.1 chemotaxis protein CheW 
+1(1)	WP_121442389.1	WP_121442389.1 chemotaxis protein CheW 
+1(1)	WP_125180106.1	WP_125180106.1 chemotaxis protein CheW 
+1(1)	WP_156782041.1	WP_156782041.1 chemotaxis protein CheW 
+1(1)	WP_074825276.1	WP_074825276.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_122164264.1	WP_122164264.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_115593424.1	WP_115593424.1 chemotaxis protein CheW 
+1(1)	WP_042652587.1	WP_042652587.1 chemotaxis protein CheW 
+1(1)	WP_091640010.1	WP_091640010.1 chemotaxis protein CheW 
+1(1)	WP_123638831.1	WP_123638831.1 chemotaxis protein CheW 
+1(1)	WP_041600674.1	WP_041600674.1 chemotaxis protein CheW 
+1(1)	WP_126453827.1	WP_126453827.1 chemotaxis protein CheW 
+1(1)	WP_111640560.1	WP_111640560.1 chemotaxis protein CheW 
+1(2)	WP_010673942.1	WP_010673942.1 MULTISPECIES: chemotaxis protein CheW 
+1(1)	WP_043250714.1	WP_043250714.1 chemotaxis protein CheW 
+1(1)	WP_006786137.1	WP_006786137.1 purine-binding chemotaxis protein CheW 
+1(1)	WP_017444718.1	WP_017444718.1 chemotaxis protein CheW 
+
+
+
+2(1)	WP_012823603.1	WP_012823603.1 chemotaxis response regulator CheY 
+2(1)	WP_043761968.1	WP_043761968.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_042076849.1	WP_042076849.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_124240501.1	WP_124240501.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_091712587.1	WP_091712587.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_121442386.1	WP_121442386.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_115593421.1	WP_115593421.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_011628734.1	WP_011628734.1 chemotaxis response regulator CheY 
+2(1)	WP_074825269.1	WP_074825269.1 MULTISPECIES: chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_014597057.1	WP_014597057.1 MULTISPECIES: chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_132702163.1	WP_132702163.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_150347626.1	WP_150347626.1 MULTISPECIES: chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_188865270.1	WP_188865270.1 chemotaxis-specific protein-glutamate methyltransferase CheB 
+2(1)	WP_075111984.1	WP_075111984.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_042872020.1	WP_042872020.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_026320972.1	WP_026320972.1 MULTISPECIES: chemotaxis protein CheY 
+2(1)	WP_014708087.1	WP_014708087.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_169939921.1	WP_169939921.1 chemotaxis-specific protein-glutamate methyltransferase CheB 
+2(1)	WP_193003775.1	WP_193003775.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_206609482.1	WP_206609482.1 chemotaxis response regulator CheY 
+2(1)	WP_007146652.1	WP_007146652.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_042034089.1	WP_042034089.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_050667134.1	WP_050667134.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_042642233.1	WP_042642233.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_011813287.1	WP_011813287.1 chemotaxis response regulator CheY 
+2(1)	WP_042082482.1	WP_042082482.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_106443046.1	WP_106443046.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_100292447.1	WP_100292447.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_091640405.1	WP_091640405.1 chemotaxis protein CheY 
+2(1)	WP_121442524.1	WP_121442524.1 chemotaxis protein CheY 
+2(1)	WP_127477497.1	WP_127477497.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_148926330.1	WP_148926330.1 chemotaxis-specific protein-glutamate methyltransferase CheB 
+2(1)	WP_068976685.1	WP_068976685.1 MULTISPECIES: chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_077278084.1	WP_077278084.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_167782686.1	WP_167782686.1 chemotaxis-specific protein-glutamate methyltransferase CheB 
+2(1)	WP_090432549.1	WP_090432549.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_028862492.1	WP_028862492.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_014852073.1	WP_014852073.1 MULTISPECIES: chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_043250704.1	WP_043250704.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_028626568.1	WP_028626568.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_033130829.1	WP_033130829.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_090207541.1	WP_090207541.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_011628737.1	WP_011628737.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_167784221.1	WP_167784221.1 chemotaxis response regulator CheY 
+2(1)	WP_136867559.1	WP_136867559.1 MULTISPECIES: chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_093427385.1	WP_093427385.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_099523117.1	WP_099523117.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_078743934.1	WP_078743934.1 chemotaxis protein CheY 
+2(1)	WP_078743937.1	WP_078743937.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_125607533.1	WP_125607533.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_113979055.1	WP_113979055.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_084311320.1	WP_084311320.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_091640016.1	WP_091640016.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_126453819.1	WP_126453819.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_037050471.1	WP_037050471.1 MULTISPECIES: chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_111640555.1	WP_111640555.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_019613242.1	WP_019613242.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_012637910.1	WP_012637910.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_043555984.1	WP_043555984.1 MULTISPECIES: chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_136867556.1	WP_136867556.1 MULTISPECIES: chemotaxis response regulator CheY 
+2(1)	WP_179576864.1	WP_179576864.1 chemotaxis-specific protein-glutamate methyltransferase CheB 
+2(1)	WP_090262553.1	WP_090262553.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_070072237.1	WP_070072237.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_145142158.1	WP_145142158.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_074866303.1	WP_074866303.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_026052585.1	WP_026052585.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_024765932.1	WP_024765932.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_027597966.1	WP_027597966.1 MULTISPECIES: chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_191121791.1	WP_191121791.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_055732191.1	WP_055732191.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_061904279.1	WP_061904279.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_181898414.1	WP_181898414.1 chemotaxis response regulator CheY 
+2(1)	WP_050719412.1	WP_050719412.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_037002848.1	WP_037002848.1 MULTISPECIES: chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_100860339.1	WP_100860339.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_096410415.1	WP_096410415.1 chemotaxis response regulator CheY 
+2(1)	WP_017679180.1	WP_017679180.1 MULTISPECIES: chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_042652591.1	WP_042652591.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_058765975.1	WP_058765975.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_023446677.1	WP_023446677.1 MULTISPECIES: chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_016350060.1	WP_016350060.1 MULTISPECIES: chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_071910775.1	WP_071910775.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_096410122.1	WP_096410122.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_084307802.1	WP_084307802.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_093471574.1	WP_093471574.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_005357658.1	WP_005357658.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_122164269.1	WP_122164269.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_125180108.1	WP_125180108.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_006786143.1	WP_006786143.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_046859119.1	WP_046859119.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_019444725.1	WP_019444725.1 MULTISPECIES: chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_029135173.1	WP_029135173.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_011813284.1	WP_011813284.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_041205318.1	WP_041205318.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_069294985.1	WP_069294985.1 MULTISPECIES: chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_038092298.1	WP_038092298.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_132972959.1	WP_132972959.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_090537482.1	WP_090537482.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_041993970.1	WP_041993970.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_036994331.1	WP_036994331.1 MULTISPECIES: chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_017766599.1	WP_017766599.1 MULTISPECIES: chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_018717385.1	WP_018717385.1 MULTISPECIES: chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_012823606.1	WP_012823606.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_026052583.1	WP_026052583.1 chemotaxis response regulator CheY 
+2(1)	WP_042011663.1	WP_042011663.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_074681220.1	WP_074681220.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_123637227.1	WP_123637227.1 chemotaxis response regulator protein-glutamate methylesterase 
+2(1)	WP_108234519.1	WP_108234519.1 chemotaxis response regulator protein-glutamate methylesterase 
+
+
+
+3(1)	WP_091640017.1	WP_091640017.1 chemotaxis protein CheA 
+3(1)	WP_042652592.1	WP_042652592.1 chemotaxis protein CheA 
+3(1)	WP_042034090.1	WP_042034090.1 chemotaxis protein CheA 
+3(1)	WP_179527345.1	WP_179527345.1 chemotaxis protein CheA 
+3(1)	WP_090207544.1	WP_090207544.1 chemotaxis protein CheA 
+3(1)	WP_127477498.1	WP_127477498.1 chemotaxis protein CheA 
+3(1)	WP_077278083.1	WP_077278083.1 chemotaxis protein CheA 
+3(1)	WP_005357657.1	WP_005357657.1 chemotaxis protein CheA 
+3(1)	WP_021489630.1	WP_021489630.1 chemotaxis protein CheA 
+3(1)	WP_132702164.1	WP_132702164.1 chemotaxis protein CheA 
+3(1)	WP_042872018.1	WP_042872018.1 chemotaxis protein CheA 
+3(1)	WP_099523118.1	WP_099523118.1 chemotaxis protein CheA 
+3(1)	WP_075111983.1	WP_075111983.1 chemotaxis protein CheA 
+3(1)	WP_078743936.1	WP_078743936.1 chemotaxis protein CheA 
+3(1)	WP_058765974.1	WP_058765974.1 MULTISPECIES: chemotaxis protein CheA 
+3(1)	WP_150347627.1	WP_150347627.1 MULTISPECIES: chemotaxis protein CheA 
+3(1)	WP_159388278.1	WP_159388278.1 chemotaxis protein CheW 
+3(1)	WP_007146651.1	WP_007146651.1 chemotaxis protein CheA 
+3(1)	WP_084311321.1	WP_084311321.1 chemotaxis protein CheA 
+3(1)	WP_041205316.1	WP_041205316.1 chemotaxis protein CheA 
+3(1)	WP_090262554.1	WP_090262554.1 chemotaxis protein CheA 
+3(1)	WP_074866300.1	WP_074866300.1 chemotaxis protein CheA 
+3(1)	WP_179576865.1	WP_179576865.1 chemotaxis protein CheW 
+3(1)	WP_014852072.1	WP_014852072.1 chemotaxis protein CheA 
+3(1)	WP_108234518.1	WP_108234518.1 chemotaxis protein CheA 
+3(1)	WP_044340906.1	WP_044340906.1 chemotaxis protein CheA 
+3(1)	WP_033130828.1	WP_033130828.1 chemotaxis protein CheA 
+3(1)	WP_042011662.1	WP_042011662.1 chemotaxis protein CheA 
+3(1)	WP_090432551.1	WP_090432551.1 chemotaxis protein CheA 
+3(1)	WP_111872851.1	WP_111872851.1 chemotaxis protein CheA 
+3(1)	WP_038803629.1	WP_038803629.1 MULTISPECIES: chemotaxis protein CheA 
+3(1)	WP_042082484.1	WP_042082484.1 chemotaxis protein CheA 
+3(1)	WP_065089275.1	WP_065089275.1 chemotaxis protein CheA 
+3(1)	WP_145142160.1	WP_145142160.1 chemotaxis protein CheA 
+3(1)	WP_023446678.1	WP_023446678.1 chemotaxis protein CheA 
+3(1)	WP_006786144.1	WP_006786144.1 chemotaxis protein CheA 
+3(1)	WP_017444714.1	WP_017444714.1 chemotaxis protein CheA 
+3(1)	WP_115593420.1	WP_115593420.1 chemotaxis protein CheA 
+3(1)	WP_028626567.1	WP_028626567.1 chemotaxis protein CheA 
+3(1)	WP_029135172.1	WP_029135172.1 chemotaxis protein CheA 
+3(1)	WP_042076847.1	WP_042076847.1 chemotaxis protein CheA 
+3(1)	WP_128271633.1	WP_128271633.1 chemotaxis protein CheA 
+3(1)	WP_093308474.1	WP_093308474.1 chemotaxis protein CheA 
+3(1)	WP_011628736.1	WP_011628736.1 chemotaxis protein CheA 
+3(1)	WP_050667133.1	WP_050667133.1 chemotaxis protein CheA 
+3(1)	WP_024942917.1	WP_024942917.1 chemotaxis protein CheA 
+3(1)	WP_100292446.1	WP_100292446.1 chemotaxis protein CheA 
+3(1)	WP_126453816.1	WP_126453816.1 chemotaxis protein CheA 
+3(1)	WP_090537484.1	WP_090537484.1 chemotaxis protein CheA 
+3(1)	WP_101319332.1	WP_101319332.1 chemotaxis protein CheA 
+3(1)	WP_042043839.1	WP_042043839.1 chemotaxis protein CheW, partial 
+3(1)	WP_091712589.1	WP_091712589.1 chemotaxis protein CheA 
+3(1)	WP_084307801.1	WP_084307801.1 chemotaxis protein CheA 
+3(1)	WP_193003774.1	WP_193003774.1 chemotaxis protein CheA 
+3(1)	WP_019613243.1	WP_019613243.1 chemotaxis protein CheA 
+3(1)	WP_111640554.1	WP_111640554.1 chemotaxis protein CheA 
+3(1)	WP_061904278.1	WP_061904278.1 chemotaxis protein CheA 
+3(1)	WP_148926331.1	WP_148926331.1 chemotaxis protein CheW 
+3(1)	WP_074681222.1	WP_074681222.1 chemotaxis protein CheA 
+3(1)	WP_100860338.1	WP_100860338.1 chemotaxis protein CheA 
+3(1)	WP_175253831.1	WP_175253831.1 chemotaxis protein CheW 
+3(1)	WP_191121790.1	WP_191121790.1 chemotaxis protein CheA 
+3(1)	WP_160286254.1	WP_160286254.1 chemotaxis protein CheW 
+3(1)	WP_123637226.1	WP_123637226.1 chemotaxis protein CheA 
+3(1)	WP_011813285.1	WP_011813285.1 chemotaxis protein CheA 
+3(1)	WP_043761970.1	WP_043761970.1 chemotaxis protein CheA 
+3(1)	WP_042642236.1	WP_042642236.1 chemotaxis protein CheA 
+3(1)	WP_169939923.1	WP_169939923.1 chemotaxis protein CheW 
+3(1)	WP_124240500.1	WP_124240500.1 chemotaxis protein CheA 
+3(1)	WP_012823605.1	WP_012823605.1 chemotaxis protein CheA 
+3(1)	WP_167782687.1	WP_167782687.1 chemotaxis protein CheW 
+3(1)	WP_132972960.1	WP_132972960.1 chemotaxis protein CheA 
+3(1)	WP_121442385.1	WP_121442385.1 chemotaxis protein CheA 
+3(1)	WP_011913677.1	WP_011913677.1 chemotaxis protein CheA 
+3(1)	WP_012637909.1	WP_012637909.1 chemotaxis protein CheA 
+3(1)	WP_122164270.1	WP_122164270.1 chemotaxis protein CheA 
+3(1)	WP_070072236.1	WP_070072236.1 chemotaxis protein CheA 
+3(1)	WP_014708086.1	WP_014708086.1 chemotaxis protein CheA 
+3(1)	WP_093427386.1	WP_093427386.1 chemotaxis protein CheA 
+3(1)	WP_122098529.1	WP_122098529.1 chemotaxis protein CheA 
+3(1)	WP_188865271.1	WP_188865271.1 chemotaxis protein CheW 
+3(1)	WP_083593355.1	WP_083593355.1 chemotaxis protein CheA 
+3(1)	WP_115544260.1	WP_115544260.1 chemotaxis protein CheA 
+3(1)	WP_018717384.1	WP_018717384.1 chemotaxis protein CheA 
+3(1)	WP_096410123.1	WP_096410123.1 chemotaxis protein CheA 
+3(1)	WP_055732192.1	WP_055732192.1 chemotaxis protein CheA 
+3(1)	WP_028862491.1	WP_028862491.1 chemotaxis protein CheA 
+3(1)	WP_125607535.1	WP_125607535.1 chemotaxis protein CheA 
+3(1)	WP_093471572.1	WP_093471572.1 chemotaxis protein CheA 
+3(1)	WP_016350059.1	WP_016350059.1 chemotaxis protein CheA 
+3(1)	WP_098984603.1	WP_098984603.1 chemotaxis protein CheA 
+3(1)	WP_046859120.1	WP_046859120.1 chemotaxis protein CheA 
+3(1)	WP_074825267.1	WP_074825267.1 MULTISPECIES: chemotaxis protein CheA 
+3(1)	WP_156227932.1	WP_156227932.1 chemotaxis protein CheA 
+3(1)	WP_125180109.1	WP_125180109.1 chemotaxis protein CheA 
+3(1)	WP_050719413.1	WP_050719413.1 chemotaxis protein CheA 
+
+
+
+4(1)	WP_124240523.1	WP_124240523.1 DUF2802 domain-containing protein 
+4(1)	WP_090262547.1	WP_090262547.1 DUF2802 domain-containing protein 
+4(1)	WP_043134707.1	WP_043134707.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(1)	WP_125180103.1	WP_125180103.1 DUF2802 domain-containing protein 
+4(1)	WP_012637917.1	WP_012637917.1 DUF2802 domain-containing protein 
+4(1)	WP_136867562.1	WP_136867562.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(1)	WP_069294991.1	WP_069294991.1 DUF2802 domain-containing protein 
+4(1)	WP_123637232.1	WP_123637232.1 DUF2802 domain-containing protein 
+4(1)	WP_111640561.1	WP_111640561.1 DUF2802 domain-containing protein 
+4(1)	WP_122164263.1	WP_122164263.1 DUF2802 domain-containing protein 
+4(1)	WP_077278091.1	WP_077278091.1 DUF2802 domain-containing protein 
+4(1)	WP_188865265.1	WP_188865265.1 DUF2802 domain-containing protein 
+4(1)	WP_042034084.1	WP_042034084.1 DUF2802 domain-containing protein 
+4(1)	WP_108234524.1	WP_108234524.1 DUF2802 domain-containing protein 
+4(1)	WP_166740560.1	WP_166740560.1 DUF2802 domain-containing protein 
+4(1)	WP_052064576.1	WP_052064576.1 DUF2802 domain-containing protein 
+4(1)	WP_042872028.1	WP_042872028.1 DUF2802 domain-containing protein 
+4(1)	WP_012823610.1	WP_012823610.1 DUF2802 domain-containing protein 
+4(2)	WP_010673943.1	WP_010673943.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(1)	WP_024765937.1	WP_024765937.1 DUF2802 domain-containing protein 
+4(1)	WP_041014448.1	WP_041014448.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(1)	WP_055732185.1	WP_055732185.1 DUF2802 domain-containing protein 
+4(1)	WP_074681210.1	WP_074681210.1 DUF2802 domain-containing protein 
+4(1)	WP_042652586.1	WP_042652586.1 DUF2802 domain-containing protein 
+4(1)	WP_024942914.1	WP_024942914.1 DUF2802 domain-containing protein 
+4(1)	WP_043250716.1	WP_043250716.1 DUF2802 domain-containing protein 
+4(1)	WP_153006724.1	WP_153006724.1 DUF2802 domain-containing protein 
+4(1)	WP_090432539.1	WP_090432539.1 DUF2802 domain-containing protein 
+4(1)	WP_007146659.1	WP_007146659.1 DUF2802 domain-containing protein 
+4(1)	WP_091640009.1	WP_091640009.1 DUF2802 domain-containing protein 
+4(1)	WP_078743941.1	WP_078743941.1 DUF2802 domain-containing protein 
+4(1)	WP_058773035.1	WP_058773035.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(1)	WP_041205322.1	WP_041205322.1 DUF2802 domain-containing protein 
+4(1)	WP_106158320.1	WP_106158320.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(1)	WP_075111999.1	WP_075111999.1 DUF2802 domain-containing protein 
+4(1)	WP_084610327.1	WP_084610327.1 DUF2802 domain-containing protein 
+4(1)	WP_042011720.1	WP_042011720.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(1)	WP_050719407.1	WP_050719407.1 DUF2802 domain-containing protein 
+4(1)	WP_058073531.1	WP_058073531.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(1)	WP_177166761.1	WP_177166761.1 DUF2802 domain-containing protein 
+4(1)	WP_104014990.1	WP_104014990.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(1)	WP_145142148.1	WP_145142148.1 DUF2802 domain-containing protein 
+4(1)	WP_156831143.1	WP_156831143.1 DUF2802 domain-containing protein 
+4(1)	WP_169939915.1	WP_169939915.1 DUF2802 domain-containing protein 
+4(1)	WP_093427379.1	WP_093427379.1 DUF2802 domain-containing protein 
+4(1)	WP_070072241.1	WP_070072241.1 DUF2802 domain-containing protein 
+4(1)	WP_017444719.1	WP_017444719.1 DUF2802 domain-containing protein 
+4(1)	WP_007160356.1	WP_007160356.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(1)	WP_115593425.1	WP_115593425.1 DUF2802 domain-containing protein 
+4(1)	WP_043761963.1	WP_043761963.1 DUF2802 domain-containing protein 
+4(1)	WP_098984600.1	WP_098984600.1 DUF2802 domain-containing protein 
+4(1)	WP_126453831.1	WP_126453831.1 DUF2802 domain-containing protein 
+4(1)	WP_011913671.1	WP_011913671.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(1)	WP_167782682.1	WP_167782682.1 DUF2802 domain-containing protein 
+4(1)	WP_084311314.1	WP_084311314.1 DUF2802 domain-containing protein 
+4(1)	WP_028862498.1	WP_028862498.1 DUF2802 domain-containing protein 
+4(1)	WP_014708094.1	WP_014708094.1 DUF2802 domain-containing protein 
+4(1)	WP_037050486.1	WP_037050486.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(2)	WP_099523112.1	WP_099523112.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(1)	WP_061904282.1	WP_061904282.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(1)	WP_010225042.1	WP_010225042.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(2)	WP_055986378.1	WP_055986378.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(1)	WP_023446673.1	WP_023446673.1 DUF2802 domain-containing protein 
+4(1)	WP_074866318.1	WP_074866318.1 DUF2802 domain-containing protein 
+4(1)	WP_006786135.1	WP_006786135.1 DUF2802 domain-containing protein 
+4(1)	WP_005353661.1	WP_005353661.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(1)	WP_021489625.1	WP_021489625.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(1)	WP_193003780.1	WP_193003780.1 DUF2802 domain-containing protein 
+4(1)	WP_084205269.1	WP_084205269.1 DUF2802 domain-containing protein 
+4(2)	WP_033130835.1	WP_033130835.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(1)	WP_011705296.1	WP_011705296.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(1)	WP_143069543.1	WP_143069543.1 DUF2802 domain-containing protein 
+4(1)	WP_090537470.1	WP_090537470.1 DUF2802 domain-containing protein 
+4(1)	WP_082117070.1	WP_082117070.1 DUF2802 domain-containing protein 
+4(1)	WP_090207525.1	WP_090207525.1 DUF2802 domain-containing protein 
+4(1)	WP_100292514.1	WP_100292514.1 DUF2802 domain-containing protein 
+4(1)	WP_084307808.1	WP_084307808.1 DUF2802 domain-containing protein 
+4(1)	WP_098972595.1	WP_098972595.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(2)	WP_010797948.1	WP_010797948.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(1)	WP_100860343.1	WP_100860343.1 DUF2802 domain-containing protein 
+4(1)	WP_037002840.1	WP_037002840.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(1)	WP_028626573.1	WP_028626573.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(1)	WP_148926328.1	WP_148926328.1 MULTISPECIES: DUF2802 domain-containing protein 
+4(1)	WP_127477490.1	WP_127477490.1 DUF2802 domain-containing protein 
+4(1)	WP_132972946.1	WP_132972946.1 DUF2802 domain-containing protein 
+4(1)	WP_091712573.1	WP_091712573.1 DUF2802 domain-containing protein 
+4(1)	WP_019613236.1	WP_019613236.1 DUF2802 domain-containing protein 
+4(1)	WP_043157946.1	WP_043157946.1 DUF2802 domain-containing protein 
+
+
+
+5(2)	WP_003460778.1	WP_003460778.1 MULTISPECIES: flagellar motor protein MotD 
+5(1)	WP_007146654.1	WP_007146654.1 flagellar motor protein MotD 
+5(1)	WP_160286256.1	WP_160286256.1 flagellar motor protein MotD 
+5(1)	WP_074866310.1	WP_074866310.1 flagellar motor protein MotD 
+5(1)	WP_042642229.1	WP_042642229.1 OmpA family protein 
+5(1)	WP_028626570.1	WP_028626570.1 MULTISPECIES: flagellar motor protein MotD 
+5(1)	WP_043761966.1	WP_043761966.1 OmpA family protein 
+5(1)	WP_191121792.1	WP_191121792.1 flagellar motor protein MotD 
+5(1)	WP_091712583.1	WP_091712583.1 flagellar motor protein MotD 
+5(1)	WP_005357660.1	WP_005357660.1 OmpA family protein 
+5(1)	WP_124240502.1	WP_124240502.1 OmpA family protein 
+5(1)	WP_006786141.1	WP_006786141.1 flagellar motor protein MotD 
+5(1)	WP_188865268.1	WP_188865268.1 flagellar motor protein MotD 
+5(1)	WP_042043831.1	WP_042043831.1 OmpA family protein 
+5(1)	WP_069294987.1	WP_069294987.1 flagellar motor protein MotD 
+5(1)	WP_050667135.1	WP_050667135.1 OmpA family protein 
+5(1)	WP_016350061.1	WP_016350061.1 OmpA family protein 
+5(1)	WP_084311318.1	WP_084311318.1 flagellar motor protein MotD 
+5(1)	WP_033130831.1	WP_033130831.1 OmpA family protein 
+5(1)	WP_115521173.1	WP_115521173.1 OmpA family protein 
+5(1)	WP_037050475.1	WP_037050475.1 MULTISPECIES: flagellar motor protein MotD 
+5(1)	WP_050719410.1	WP_050719410.1 OmpA family protein 
+5(1)	WP_074681216.1	WP_074681216.1 flagellar motor protein MotD 
+5(1)	WP_042133012.1	WP_042133012.1 MULTISPECIES: flagellar motor protein MotD 
+5(1)	WP_108234521.1	WP_108234521.1 flagellar motor protein MotD 
+5(1)	WP_084307804.1	WP_084307804.1 flagellar motor protein MotD 
+5(1)	WP_099523115.1	WP_099523115.1 flagellar motor protein MotD 
+5(1)	WP_090262551.1	WP_090262551.1 flagellar motor protein MotD 
+5(1)	WP_042652589.1	WP_042652589.1 OmpA family protein 
+5(2)	WP_024765934.1	WP_024765934.1 MULTISPECIES: flagellar motor protein MotD 
+5(1)	WP_125607529.1	WP_125607529.1 OmpA family protein 
+5(1)	WP_098984602.1	WP_098984602.1 OmpA family protein 
+5(1)	WP_042034087.1	WP_042034087.1 OmpA family protein 
+5(1)	WP_193003776.1	WP_193003776.1 OmpA family protein 
+5(1)	WP_093471578.1	WP_093471578.1 flagellar motor protein MotD 
+5(1)	WP_126453824.1	WP_126453824.1 flagellar motor protein MotD 
+5(1)	WP_042872023.1	WP_042872023.1 OmpA family protein 
+5(1)	WP_028862494.1	WP_028862494.1 OmpA family protein 
+5(1)	WP_065089274.1	WP_065089274.1 flagellar motor protein MotD 
+5(1)	WP_051302787.1	WP_051302787.1 flagellar motor protein MotD 
+5(1)	WP_005912723.1	WP_005912723.1 OmpA family protein 
+5(1)	WP_070073992.1	WP_070073992.1 flagellar motor protein MotD 
+5(1)	WP_090207536.1	WP_090207536.1 flagellar motor protein MotD 
+5(1)	WP_075111986.1	WP_075111986.1 OmpA family protein 
+5(1)	WP_017785780.1	WP_017785780.1 MULTISPECIES: OmpA family protein 
+5(1)	WP_093427383.1	WP_093427383.1 flagellar motor protein MotD 
+5(1)	WP_074825271.1	WP_074825271.1 MULTISPECIES: flagellar motor protein MotD 
+5(1)	WP_132972955.1	WP_132972955.1 flagellar motor protein MotD 
+5(1)	WP_128271631.1	WP_128271631.1 OmpA family protein 
+5(1)	WP_037002845.1	WP_037002845.1 MULTISPECIES: flagellar motor protein MotD 
+5(1)	WP_100292448.1	WP_100292448.1 OmpA family protein 
+5(1)	WP_012637912.1	WP_012637912.1 flagellar motor protein MotD 
+5(1)	WP_023446676.1	WP_023446676.1 MULTISPECIES: flagellar motor protein MotD 
+5(1)	WP_042020301.1	WP_042020301.1 OmpA family protein 
+5(1)	WP_042082480.1	WP_042082480.1 OmpA family protein 
+5(1)	WP_106158318.1	WP_106158318.1 MULTISPECIES: flagellar motor protein MotD 
+5(1)	WP_046859117.1	WP_046859117.1 flagellar motor protein MotD 
+5(1)	WP_111640557.1	WP_111640557.1 flagellar motor protein MotD 
+5(1)	WP_123637229.1	WP_123637229.1 flagellar motor protein MotD 
+5(1)	WP_019613240.1	WP_019613240.1 OmpA family protein 
+5(1)	WP_127477495.1	WP_127477495.1 flagellar motor protein MotD 
+5(1)	WP_111872853.1	WP_111872853.1 OmpA family protein 
+5(1)	WP_143506653.1	WP_143506653.1 MULTISPECIES: flagellar motor protein MotD 
+5(1)	WP_042076853.1	WP_042076853.1 OmpA family protein 
+5(1)	WP_132702162.1	WP_132702162.1 OmpA family protein 
+5(1)	WP_100860340.1	WP_100860340.1 OmpA family protein 
+5(1)	WP_010797944.1	WP_010797944.1 MULTISPECIES: flagellar motor protein MotD 
+5(1)	WP_055732189.1	WP_055732189.1 OmpA family protein 
+5(1)	WP_005333023.1	WP_005333023.1 OmpA family protein 
+5(1)	WP_102836404.1	WP_102836404.1 flagellar motor protein MotD 
+5(1)	WP_021489628.1	WP_021489628.1 MULTISPECIES: flagellar motor protein MotD 
+5(1)	WP_058765976.1	WP_058765976.1 MULTISPECIES: flagellar motor protein MotD 
+5(1)	WP_090537476.1	WP_090537476.1 flagellar motor protein MotD 
+5(1)	WP_071910779.1	WP_071910779.1 MULTISPECIES: OmpA family protein 
+5(1)	WP_042011665.1	WP_042011665.1 OmpA family protein 
+5(1)	WP_077278086.1	WP_077278086.1 flagellar motor protein MotD 
+5(1)	WP_014708089.1	WP_014708089.1 flagellar motor protein MotD 
+5(1)	WP_090432545.1	WP_090432545.1 flagellar motor protein MotD 
+5(1)	WP_122164267.1	WP_122164267.1 flagellar motor protein MotD 
+5(1)	WP_061904280.1	WP_061904280.1 flagellar motor protein MotD 
+5(1)	WP_013983214.1	WP_013983214.1 flagellar motor protein MotD 
+5(1)	WP_145142154.1	WP_145142154.1 flagellar motor protein MotD 
+5(1)	WP_010225033.1	WP_010225033.1 MULTISPECIES: flagellar motor protein MotD 
+5(1)	WP_014852075.1	WP_014852075.1 MULTISPECIES: flagellar motor protein MotD 
+
+
+
+6(1)	WP_024765933.1	WP_024765933.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_077278085.1	WP_077278085.1 flagellar motor protein 
+6(1)	WP_093471576.1	WP_093471576.1 flagellar motor protein 
+6(1)	WP_179576863.1	WP_179576863.1 flagellar motor protein 
+6(1)	WP_127477496.1	WP_127477496.1 flagellar motor protein 
+6(1)	WP_167386645.1	WP_167386645.1 flagellar motor protein 
+6(1)	WP_193004465.1	WP_193004465.1 flagellar motor protein 
+6(1)	WP_111872852.1	WP_111872852.1 flagellar motor protein 
+6(1)	WP_090537479.1	WP_090537479.1 flagellar motor protein 
+6(1)	WP_084311319.1	WP_084311319.1 flagellar motor protein 
+6(1)	WP_074866307.1	WP_074866307.1 flagellar motor protein 
+6(1)	WP_042872021.1	WP_042872021.1 flagellar motor protein 
+6(1)	WP_084307803.1	WP_084307803.1 flagellar motor protein 
+6(1)	WP_037002846.1	WP_037002846.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_021489629.1	WP_021489629.1 flagellar motor protein 
+6(2)	WP_014820846.1	WP_014820846.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_042652590.1	WP_042652590.1 flagellar motor protein 
+6(2)	WP_010797943.1	WP_010797943.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_108234520.1	WP_108234520.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_046859118.1	WP_046859118.1 flagellar motor protein 
+6(1)	WP_122164268.1	WP_122164268.1 flagellar motor protein 
+6(1)	WP_038092296.1	WP_038092296.1 flagellar motor protein 
+6(1)	WP_091712585.1	WP_091712585.1 flagellar motor protein 
+6(1)	WP_207902730.1	WP_207902730.1 flagellar motor protein 
+6(1)	WP_014597056.1	WP_014597056.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_005333022.1	WP_005333022.1 flagellar motor protein 
+6(1)	WP_050719411.1	WP_050719411.1 flagellar motor protein 
+6(1)	WP_042076851.1	WP_042076851.1 flagellar motor protein 
+6(1)	WP_055732190.1	WP_055732190.1 flagellar motor protein 
+6(1)	WP_028626569.1	WP_028626569.1 flagellar motor protein 
+6(1)	WP_145142156.1	WP_145142156.1 flagellar motor protein 
+6(1)	WP_070073991.1	WP_070073991.1 flagellar motor protein 
+6(1)	WP_099523116.1	WP_099523116.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_167388896.1	WP_167388896.1 flagellar motor protein 
+6(1)	WP_192896034.1	WP_192896034.1 flagellar motor protein 
+6(1)	WP_160286255.1	WP_160286255.1 flagellar motor protein 
+6(1)	WP_126453821.1	WP_126453821.1 flagellar motor protein 
+6(1)	WP_090432547.1	WP_090432547.1 flagellar motor protein 
+6(1)	WP_044340993.1	WP_044340993.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_075748382.1	WP_075748382.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_164882629.1	WP_164882629.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_093427384.1	WP_093427384.1 flagellar motor protein 
+6(1)	WP_058773033.1	WP_058773033.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_042011664.1	WP_042011664.1 flagellar motor protein 
+6(1)	WP_069294986.1	WP_069294986.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_029135174.1	WP_029135174.1 flagellar motor protein 
+6(1)	WP_028862493.1	WP_028862493.1 flagellar motor protein 
+6(1)	WP_014852074.1	WP_014852074.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_019613241.1	WP_019613241.1 flagellar motor protein 
+6(1)	WP_033130830.1	WP_033130830.1 flagellar motor protein 
+6(1)	WP_102836073.1	WP_102836073.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_013983215.1	WP_013983215.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_185378275.1	WP_185378275.1 flagellar motor protein, partial 
+6(1)	WP_043761967.1	WP_043761967.1 flagellar motor protein 
+6(1)	WP_021702586.1	WP_021702586.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_071910777.1	WP_071910777.1 flagellar motor protein 
+6(1)	WP_074681218.1	WP_074681218.1 flagellar motor protein 
+6(1)	WP_037050473.1	WP_037050473.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_042642231.1	WP_042642231.1 flagellar motor protein 
+6(1)	WP_024942916.1	WP_024942916.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_024943899.1	WP_024943899.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_090262552.1	WP_090262552.1 flagellar motor protein 
+6(1)	WP_012637911.1	WP_012637911.1 flagellar motor protein 
+6(1)	WP_006786142.1	WP_006786142.1 flagellar motor protein 
+6(1)	WP_007146653.1	WP_007146653.1 flagellar motor protein 
+6(1)	WP_090207539.1	WP_090207539.1 flagellar motor protein 
+6(1)	WP_123637228.1	WP_123637228.1 flagellar motor protein 
+6(1)	WP_050667165.1	WP_050667165.1 flagellar motor protein 
+6(1)	WP_188865269.1	WP_188865269.1 flagellar motor protein 
+6(1)	WP_042043835.1	WP_042043835.1 MotA/TolQ/ExbB proton channel family protein, partial 
+6(1)	WP_010225031.1	WP_010225031.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_075111985.1	WP_075111985.1 flagellar motor protein 
+6(1)	WP_005334700.1	WP_005334700.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_014708088.1	WP_014708088.1 flagellar motor protein 
+6(1)	WP_054907293.1	WP_054907293.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_055986384.1	WP_055986384.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_005357659.1	WP_005357659.1 flagellar motor protein 
+6(1)	WP_019444726.1	WP_019444726.1 MULTISPECIES: flagellar motor protein 
+6(1)	WP_042034088.1	WP_042034088.1 flagellar motor protein 
+6(1)	WP_172954800.1	WP_172954800.1 flagellar motor protein 
+6(1)	WP_132972957.1	WP_132972957.1 flagellar motor protein 
+6(1)	WP_111640556.1	WP_111640556.1 flagellar motor protein 
+
+
+
+7(1)	WP_111872856.1	WP_111872856.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_042060507.1	WP_042060507.1 MULTISPECIES: cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_042076859.1	WP_042076859.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_011705297.1	WP_011705297.1 MULTISPECIES: cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_028862499.1	WP_028862499.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_115521171.1	WP_115521171.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_100860344.1	WP_100860344.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_193003781.1	WP_193003781.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_124240504.1	WP_124240504.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_050719406.1	WP_050719406.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_033130836.1	WP_033130836.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_042034082.1	WP_042034082.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_152424721.1	WP_152424721.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_039039903.1	WP_039039903.1 MULTISPECIES: cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_055732184.1	WP_055732184.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_019613235.1	WP_019613235.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_042642223.1	WP_042642223.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_098984599.1	WP_098984599.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_041205324.1	WP_041205324.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_153006725.1	WP_153006725.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_042872030.1	WP_042872030.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_042082479.1	WP_042082479.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_043761960.1	WP_043761960.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_024942913.1	WP_024942913.1 MULTISPECIES: cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_042652585.1	WP_042652585.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_071910781.1	WP_071910781.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_100292452.1	WP_100292452.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+7(1)	WP_042011670.1	WP_042011670.1 cytochrome c biogenesis heme-transporting ATPase CcmA 
+
+
+
+8(1)	WP_078743942.1	WP_078743942.1 EscU/YscU/HrcU family type III secretion system export apparatus switch protein 
+8(1)	WP_091640007.1	WP_091640007.1 EscU/YscU/HrcU family type III secretion system export apparatus switch protein 
+8(1)	WP_128578125.1	WP_128578125.1 EscU/YscU/HrcU family type III secretion system export apparatus switch protein 
+8(1)	WP_150347623.1	WP_150347623.1 MULTISPECIES: EscU/YscU/HrcU family type III secretion system export apparatus switch protein 
+8(1)	WP_167782681.1	WP_167782681.1 EscU/YscU/HrcU family type III secretion system export apparatus switch protein 
+8(1)	WP_090207522.1	WP_090207522.1 EscU/YscU/HrcU family type III secretion system export apparatus switch protein 
+8(1)	WP_092376180.1	WP_092376180.1 EscU/YscU/HrcU family type III secretion system export apparatus switch protein 
+8(1)	WP_010225044.1	WP_010225044.1 MULTISPECIES: EscU/YscU/HrcU family type III secretion system export apparatus switch protein 
+8(1)	WP_145142146.1	WP_145142146.1 EscU/YscU/HrcU family type III secretion system export apparatus switch protein 
+8(1)	WP_179576861.1	WP_179576861.1 EscU/YscU/HrcU family type III secretion system export apparatus switch protein 
+8(1)	WP_099523111.1	WP_099523111.1 EscU/YscU/HrcU family type III secretion system export apparatus switch protein 
+8(1)	WP_074825278.1	WP_074825278.1 MULTISPECIES: EscU/YscU/HrcU family type III secretion system export apparatus switch protein 
+8(1)	WP_070072242.1	WP_070072242.1 EscU/YscU/HrcU family type III secretion system export apparatus switch protein 
+8(1)	WP_018717390.1	WP_018717390.1 EscU/YscU/HrcU family type III secretion system export apparatus switch protein 
+8(1)	WP_084307809.1	WP_084307809.1 EscU/YscU/HrcU family type III secretion system export apparatus switch protein 
+8(1)	WP_093308479.1	WP_093308479.1 EscU/YscU/HrcU family type III secretion system export apparatus switch protein 
+8(1)	WP_093427378.1	WP_093427378.1 EscU/YscU/HrcU family type III secretion system export apparatus switch protein 
+8(1)	WP_179527347.1	WP_179527347.1 MULTISPECIES: EscU/YscU/HrcU family type III secretion system export apparatus switch protein 
+8(1)	WP_188865264.1	WP_188865264.1 EscU/YscU/HrcU family type III secretion system export apparatus switch protein 
+8(1)	WP_093471589.1	WP_093471589.1 EscU/YscU/HrcU family type III secretion system export apparatus switch protein 
+8(1)	WP_038092290.1	WP_038092290.1 EscU/YscU/HrcU family type III secretion system export apparatus switch protein 
+
+
+
+9(1)	WP_125180110.1	WP_125180110.1 protein phosphatase CheZ 
+9(1)	WP_096410124.1	WP_096410124.1 protein phosphatase CheZ 
+9(1)	WP_011628735.1	WP_011628735.1 protein phosphatase CheZ 
+9(1)	WP_167782688.1	WP_167782688.1 protein phosphatase CheZ 
+9(1)	WP_018717383.1	WP_018717383.1 MULTISPECIES: protein phosphatase CheZ 
+9(1)	WP_078743935.1	WP_078743935.1 protein phosphatase CheZ 
+9(1)	WP_121442384.1	WP_121442384.1 protein phosphatase CheZ 
+9(1)	WP_017444713.1	WP_017444713.1 protein phosphatase CheZ 
+9(1)	WP_093308473.1	WP_093308473.1 protein phosphatase CheZ 
+9(1)	WP_136867557.1	WP_136867557.1 MULTISPECIES: protein phosphatase CheZ 
+9(1)	WP_011813286.1	WP_011813286.1 protein phosphatase CheZ 
+9(1)	WP_012823604.1	WP_012823604.1 protein phosphatase CheZ 
+9(1)	WP_091640019.1	WP_091640019.1 protein phosphatase CheZ 
+9(1)	WP_115593419.1	WP_115593419.1 protein phosphatase CheZ 
+
+
+
+10(1)	WP_023446672.1	WP_023446672.1 rhodanese-like domain-containing protein 
+10(1)	WP_175253829.1	WP_175253829.1 rhodanese-like domain-containing protein 
+10(1)	WP_148926327.1	WP_148926327.1 rhodanese-like domain-containing protein 
+10(1)	WP_014820840.1	WP_014820840.1 MULTISPECIES: rhodanese-like domain-containing protein 
+10(1)	WP_170910072.1	WP_170910072.1 rhodanese-like domain-containing protein 
+10(1)	WP_122164262.1	WP_122164262.1 rhodanese-like domain-containing protein 
+10(1)	WP_074866322.1	WP_074866322.1 rhodanese-like domain-containing protein 
+10(1)	WP_021489624.1	WP_021489624.1 MULTISPECIES: rhodanese-like domain-containing protein 
+10(1)	WP_020307199.1	WP_020307199.1 rhodanese-like domain-containing protein 
+10(1)	WP_090432537.1	WP_090432537.1 rhodanese-like domain-containing protein 
+10(1)	WP_122098531.1	WP_122098531.1 rhodanese-like domain-containing protein 
+10(1)	WP_028626574.1	WP_028626574.1 MULTISPECIES: rhodanese-like domain-containing protein 
+10(1)	WP_061904283.1	WP_061904283.1 rhodanese-like domain-containing protein 
+10(1)	WP_074681208.1	WP_074681208.1 rhodanese-like domain-containing protein 
+
+
+
+11(1)	WP_123637233.1	WP_123637233.1 YciK family oxidoreductase 
+11(1)	WP_111640562.1	WP_111640562.1 YciK family oxidoreductase 
+11(1)	WP_011628742.1	WP_011628742.1 3-oxoacyl-
+11(1)	WP_121442391.1	WP_121442391.1 3-oxoacyl-
+
+
+
+12(1)	WP_052355209.1	WP_052355209.1 hypothetical protein 
+12(1)	WP_090262546.1	WP_090262546.1 hypothetical protein 
+12(1)	WP_169942744.1	WP_169942744.1 hypothetical protein 
+
+
+
+13(1)	WP_058761262.1	WP_058761262.1 MULTISPECIES: aspartyl/asparaginyl beta-hydroxylase domain-containing protein 
+13(1)	WP_027597962.1	WP_027597962.1 MULTISPECIES: aspartyl/asparaginyl beta-hydroxylase domain-containing protein 
+
+
+
+14(1)	WP_077278090.1	WP_077278090.1 hypothetical protein 
+14(1)	WP_012637916.1	WP_012637916.1 hypothetical protein 
+
+
+
+15(1)	WP_007146658.1	WP_007146658.1 hypothetical protein 
+15(1)	WP_091712575.1	WP_091712575.1 hypothetical protein 
+
+
+
+16(1)	WP_011813280.1	WP_011813280.1 HlyC/CorC family transporter 
+16(1)	WP_096410118.1	WP_096410118.1 HlyC/CorC family transporter 
+
+
+
+17(1)	WP_011628741.1	WP_011628741.1 ComEA family DNA-binding protein 
+17(1)	WP_121442390.1	WP_121442390.1 helix-hairpin-helix domain-containing protein 
+
+
+
+18(1)	WP_170113006.1	WP_170113006.1 cupin domain-containing protein 
+18(1)	WP_011813279.1	WP_011813279.1 cupin domain-containing protein 
+
+
+
+19(1)	WP_014708093.1	WP_014708093.1 hypothetical protein 
+19(1)	WP_176718894.1	WP_176718894.1 hypothetical protein 
+
+
+
+20(1)	WP_199930521.1	WP_199930521.1 hypothetical protein 
+20(1)	WP_157606900.1	WP_157606900.1 hypothetical protein 
+
+
