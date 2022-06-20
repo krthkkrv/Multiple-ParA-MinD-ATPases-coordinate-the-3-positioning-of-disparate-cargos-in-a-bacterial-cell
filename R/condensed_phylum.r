@@ -1,12 +1,12 @@
 # For a given phulym this function merges the hits result form all the 5 ParA-like proteins tBLAStn and filters out the redundant hits.
 # Input - phylum name; main path that leads to the folder containing the subfolders (i.e. the query proteins) holding the downloaded tBlastn output files; finally a list of names of the query proteins(in this case it would be a c("ParA", "ParC", "McdA", "FlhG", "MinD"))
-# uses following functions
+# Uses following functions
     # read_blast_description()
     # merge_overlapping_ranges_dataset()
     # filter_overlapping_ranges()
     # hit_count()
-# Ouput is one dataframe showing the ocurrance of hits of ParA-like proteins in the given phylum
-condensed_phylum <- function(phylum, path, protien){
+# Output is one dataframe showing the ocurrance of hits of ParA-like proteins in the given phylum
+condensed_phylum <- function(phylum, path, protein){
     ParA_df <- NULL
     ParC_df <- NULL
     McdA_df <- NULL
