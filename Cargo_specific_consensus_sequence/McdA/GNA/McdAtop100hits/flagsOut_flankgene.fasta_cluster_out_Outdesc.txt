@@ -1,0 +1,823 @@
+1(1)	WP_124948355.1	WP_124948355.1 BMC domain-containing protein, partial 
+1(1)	WP_179947974.1	WP_179947974.1 BMC domain-containing protein 
+1(1)	WP_070073604.1	WP_070073604.1 BMC domain-containing protein 
+1(1)	WP_202943793.1	WP_202943793.1 BMC domain-containing protein 
+1(1)	WP_045476069.1	WP_045476069.1 BMC domain-containing protein 
+1(1)	WP_012823793.1	WP_012823793.1 BMC domain-containing protein 
+1(1)	WP_011504808.1	WP_011504808.1 BMC domain-containing protein 
+1(1)	WP_144327803.1	WP_144327803.1 BMC domain-containing protein 
+1(1)	WP_015797600.1	WP_015797600.1 BMC domain-containing protein 
+1(1)	WP_182120511.1	WP_182120511.1 BMC domain-containing protein 
+1(1)	WP_162085960.1	WP_162085960.1 BMC domain-containing protein 
+1(1)	WP_077278564.1	WP_077278564.1 BMC domain-containing protein 
+1(1)	WP_076837141.1	WP_076837141.1 BMC domain-containing protein 
+1(1)	WP_110137227.1	WP_110137227.1 MULTISPECIES: BMC domain-containing protein 
+1(1)	WP_124950202.1	WP_124950202.1 BMC domain-containing protein 
+1(1)	WP_162085959.1	WP_162085959.1 BMC domain-containing protein 
+1(1)	WP_163097303.1	WP_163097303.1 BMC domain-containing protein 
+1(1)	WP_029462001.1	WP_029462001.1 BMC domain-containing protein 
+1(1)	WP_038471671.1	WP_038471671.1 BMC domain-containing protein 
+1(1)	WP_110137226.1	WP_110137226.1 MULTISPECIES: BMC domain-containing protein 
+1(1)	WP_144326519.1	WP_144326519.1 BMC domain-containing protein 
+1(1)	WP_077278563.1	WP_077278563.1 BMC domain-containing protein 
+1(1)	WP_125180867.1	WP_125180867.1 BMC domain-containing protein 
+1(1)	WP_045537166.1	WP_045537166.1 BMC domain-containing protein 
+1(1)	WP_011633903.1	WP_011633903.1 MULTISPECIES: BMC domain-containing protein 
+1(1)	WP_079418017.1	WP_079418017.1 BMC domain-containing protein 
+1(1)	WP_143890613.1	WP_143890613.1 BMC domain-containing protein 
+1(1)	WP_012639726.1	WP_012639726.1 BMC domain-containing protein 
+1(1)	WP_070073603.1	WP_070073603.1 BMC domain-containing protein 
+1(1)	WP_124948354.1	WP_124948354.1 BMC domain-containing protein 
+1(1)	WP_012536698.1	WP_012536698.1 MULTISPECIES: BMC domain-containing protein 
+1(1)	WP_076755524.1	WP_076755524.1 BMC domain-containing protein 
+1(1)	WP_014030441.1	WP_014030441.1 MULTISPECIES: BMC domain-containing protein 
+1(1)	WP_185975021.1	WP_185975021.1 BMC domain-containing protein 
+1(1)	WP_076837142.1	WP_076837142.1 BMC domain-containing protein 
+1(1)	WP_014030440.1	WP_014030440.1 BMC domain-containing protein 
+1(1)	WP_176973876.1	WP_176973876.1 BMC domain-containing protein 
+1(1)	WP_079446740.1	WP_079446740.1 BMC domain-containing protein 
+1(1)	WP_004871256.1	WP_004871256.1 BMC domain-containing protein 
+1(1)	WP_012823794.1	WP_012823794.1 MULTISPECIES: BMC domain-containing protein 
+1(1)	WP_134080585.1	WP_134080585.1 BMC domain-containing protein 
+1(1)	WP_072791399.1	WP_072791399.1 BMC domain-containing protein 
+1(1)	WP_136865891.1	WP_136865891.1 MULTISPECIES: BMC domain-containing protein 
+1(1)	WP_126453027.1	WP_126453027.1 BMC domain-containing protein 
+1(1)	WP_028990359.1	WP_028990359.1 BMC domain-containing protein 
+1(2)	WP_012536699.1	WP_012536699.1 MULTISPECIES: BMC domain-containing protein 
+1(1)	WP_124706351.1	WP_124706351.1 BMC domain-containing protein, partial 
+1(1)	WP_206383150.1	WP_206383150.1 BMC domain-containing protein 
+1(1)	WP_143901971.1	WP_143901971.1 BMC domain-containing protein 
+1(1)	WP_040723489.1	WP_040723489.1 BMC domain-containing protein 
+1(1)	WP_141655708.1	WP_141655708.1 BMC domain-containing protein, partial 
+1(1)	WP_126453024.1	WP_126453024.1 BMC domain-containing protein 
+1(1)	WP_011315226.1	WP_011315226.1 BMC domain-containing protein 
+1(1)	WP_177182334.1	WP_177182334.1 BMC domain-containing protein 
+1(1)	WP_013121931.1	WP_013121931.1 MULTISPECIES: BMC domain-containing protein 
+1(1)	WP_065089678.1	WP_065089678.1 BMC domain-containing protein 
+1(1)	WP_125180866.1	WP_125180866.1 BMC domain-containing protein 
+1(1)	WP_126463433.1	WP_126463433.1 BMC domain-containing protein 
+1(1)	WP_012823795.1	WP_012823795.1 BMC domain-containing protein 
+1(1)	WP_012982277.1	WP_012982277.1 MULTISPECIES: BMC domain-containing protein 
+1(1)	WP_177182333.1	WP_177182333.1 BMC domain-containing protein 
+1(2)	WP_010637882.1	WP_010637882.1 MULTISPECIES: BMC domain-containing protein 
+1(1)	WP_200799826.1	WP_200799826.1 BMC domain-containing protein 
+1(1)	WP_018507375.1	WP_018507375.1 BMC domain-containing protein 
+1(1)	WP_169376798.1	WP_169376798.1 BMC domain-containing protein 
+1(1)	WP_011633902.1	WP_011633902.1 MULTISPECIES: BMC domain-containing protein 
+1(2)	WP_012982276.1	WP_012982276.1 MULTISPECIES: BMC domain-containing protein 
+1(1)	WP_182120510.1	WP_182120510.1 BMC domain-containing protein 
+1(1)	WP_012639727.1	WP_012639727.1 BMC domain-containing protein 
+1(1)	WP_144327802.1	WP_144327802.1 BMC domain-containing protein 
+1(1)	WP_172959767.1	WP_172959767.1 BMC domain-containing protein 
+1(1)	WP_015797599.1	WP_015797599.1 BMC domain-containing protein 
+1(1)	WP_082027382.1	WP_082027382.1 BMC domain-containing protein 
+1(2)	WP_010637881.1	WP_010637881.1 MULTISPECIES: BMC domain-containing protein 
+1(2)	WP_132961276.1	WP_132961276.1 MULTISPECIES: BMC domain-containing protein 
+1(1)	WP_127471557.1	WP_127471557.1 BMC domain-containing protein 
+1(1)	WP_134080584.1	WP_134080584.1 BMC domain-containing protein 
+1(1)	WP_198137068.1	WP_198137068.1 BMC domain-containing protein 
+1(1)	WP_026182021.1	WP_026182021.1 MULTISPECIES: BMC domain-containing protein 
+1(1)	WP_176973875.1	WP_176973875.1 BMC domain-containing protein 
+1(1)	WP_126463431.1	WP_126463431.1 BMC domain-containing protein 
+1(1)	WP_132961277.1	WP_132961277.1 BMC domain-containing protein 
+1(1)	WP_179946731.1	WP_179946731.1 MULTISPECIES: BMC domain-containing protein 
+1(1)	WP_201789014.1	WP_201789014.1 BMC domain-containing protein 
+1(1)	WP_136866068.1	WP_136866068.1 MULTISPECIES: BMC domain-containing protein 
+
+
+
+2(1)	WP_127471549.1	WP_127471549.1 hypothetical protein 
+2(1)	WP_024330045.1	WP_024330045.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_082040057.1	WP_082040057.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_082027381.1	WP_082027381.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_011504807.1	WP_011504807.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_052231380.1	WP_052231380.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_156573338.1	WP_156573338.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_143901978.1	WP_143901978.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_144327805.1	WP_144327805.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_004871264.1	WP_004871264.1 hypothetical protein 
+2(1)	WP_011315225.1	WP_011315225.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_065971491.1	WP_065971491.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_018507378.1	WP_018507378.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(2)	WP_012536697.1	WP_012536697.1 MULTISPECIES: hypothetical protein 
+2(1)	WP_144326521.1	WP_144326521.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_012982279.1	WP_012982279.1 MULTISPECIES: 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_185971199.1	WP_185971199.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_090670005.1	WP_090670005.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_012639724.1	WP_012639724.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_076837139.1	WP_076837139.1 hypothetical protein 
+2(1)	WP_076755523.1	WP_076755523.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_124948353.1	WP_124948353.1 hypothetical protein 
+2(1)	WP_052064721.1	WP_052064721.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_143890615.1	WP_143890615.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_147075177.1	WP_147075177.1 hypothetical protein 
+2(1)	WP_124950200.1	WP_124950200.1 hypothetical protein 
+2(1)	WP_077278566.1	WP_077278566.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_014030438.1	WP_014030438.1 hypothetical protein 
+2(1)	WP_162085957.1	WP_162085957.1 hypothetical protein 
+2(2)	WP_139110794.1	WP_139110794.1 MULTISPECIES: hypothetical protein 
+2(1)	WP_018168599.1	WP_018168599.1 MULTISPECIES: 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_126463427.1	WP_126463427.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_079446739.1	WP_079446739.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_126453032.1	WP_126453032.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_070074173.1	WP_070074173.1 hypothetical protein 
+2(1)	WP_012823792.1	WP_012823792.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_038019785.1	WP_038019785.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_134080592.1	WP_134080592.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_163097298.1	WP_163097298.1 hypothetical protein 
+2(1)	WP_182120508.1	WP_182120508.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_123101770.1	WP_123101770.1 hypothetical protein 
+2(1)	WP_013104288.1	WP_013104288.1 MULTISPECIES: 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_124706353.1	WP_124706353.1 hypothetical protein 
+2(1)	WP_072791394.1	WP_072791394.1 hypothetical protein 
+2(1)	WP_055449344.1	WP_055449344.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_074455566.1	WP_074455566.1 MULTISPECIES: 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_015797602.1	WP_015797602.1 hypothetical protein 
+2(1)	WP_090411007.1	WP_090411007.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_125180865.1	WP_125180865.1 4a-hydroxytetrahydrobiopterin dehydratase 
+2(1)	WP_079418019.1	WP_079418019.1 4a-hydroxytetrahydrobiopterin dehydratase 
+
+
+
+3(1)	WP_147431225.1	WP_147431225.1 hypothetical protein 
+3(1)	WP_124948351.1	WP_124948351.1 hypothetical protein 
+3(1)	WP_125180863.1	WP_125180863.1 hypothetical protein 
+3(1)	WP_130537454.1	WP_130537454.1 hypothetical protein 
+3(1)	WP_065971489.1	WP_065971489.1 hypothetical protein 
+3(1)	WP_132961281.1	WP_132961281.1 hypothetical protein 
+3(1)	WP_007194464.1	WP_007194464.1 hypothetical protein 
+3(1)	WP_124706355.1	WP_124706355.1 hypothetical protein 
+3(1)	WP_074455541.1	WP_074455541.1 MULTISPECIES: hypothetical protein 
+3(1)	WP_126453038.1	WP_126453038.1 hypothetical protein 
+3(1)	WP_024851235.1	WP_024851235.1 hypothetical protein 
+3(1)	WP_043698799.1	WP_043698799.1 hypothetical protein 
+3(1)	WP_076837138.1	WP_076837138.1 hypothetical protein 
+3(1)	WP_045532863.1	WP_045532863.1 hypothetical protein 
+3(1)	WP_123101774.1	WP_123101774.1 hypothetical protein 
+3(1)	WP_144326523.1	WP_144326523.1 hypothetical protein 
+3(1)	WP_124950198.1	WP_124950198.1 histone H1 protein 
+3(1)	WP_029909246.1	WP_029909246.1 hypothetical protein 
+3(1)	WP_077278568.1	WP_077278568.1 histone H1 protein 
+3(1)	WP_045537159.1	WP_045537159.1 hypothetical protein 
+3(1)	WP_028486678.1	WP_028486678.1 hypothetical protein 
+3(1)	WP_014030436.1	WP_014030436.1 hypothetical protein 
+3(1)	WP_012639722.1	WP_012639722.1 hypothetical protein 
+3(1)	WP_072791389.1	WP_072791389.1 hypothetical protein 
+3(1)	WP_038093846.1	WP_038093846.1 hypothetical protein 
+3(1)	WP_011315223.1	WP_011315223.1 hypothetical protein 
+3(1)	WP_128384830.1	WP_128384830.1 hypothetical protein 
+3(1)	WP_004871270.1	WP_004871270.1 hypothetical protein 
+3(1)	WP_182120506.1	WP_182120506.1 hypothetical protein 
+3(1)	WP_013104290.1	WP_013104290.1 MULTISPECIES: hypothetical protein 
+3(1)	WP_079446737.1	WP_079446737.1 hypothetical protein 
+3(1)	WP_079418022.1	WP_079418022.1 hypothetical protein 
+3(1)	WP_134080596.1	WP_134080596.1 hypothetical protein 
+3(1)	WP_147075175.1	WP_147075175.1 hypothetical protein 
+3(1)	WP_093428122.1	WP_093428122.1 hypothetical protein 
+3(1)	WP_090411012.1	WP_090411012.1 hypothetical protein 
+3(1)	WP_070073600.1	WP_070073600.1 hypothetical protein 
+3(1)	WP_011504805.1	WP_011504805.1 hypothetical protein 
+3(2)	WP_010637887.1	WP_010637887.1 hypothetical protein 
+3(1)	WP_143890617.1	WP_143890617.1 hypothetical protein 
+3(1)	WP_143901982.1	WP_143901982.1 hypothetical protein 
+3(1)	WP_173271832.1	WP_173271832.1 hypothetical protein 
+3(1)	WP_076755521.1	WP_076755521.1 hypothetical protein 
+3(1)	WP_011370441.1	WP_011370441.1 hypothetical protein 
+3(1)	WP_162085955.1	WP_162085955.1 hypothetical protein 
+3(1)	WP_055449342.1	WP_055449342.1 hypothetical protein 
+
+
+
+4(1)	WP_012536693.1	WP_012536693.1 MULTISPECIES: VWA domain-containing protein 
+4(1)	WP_014030434.1	WP_014030434.1 VWA domain-containing protein 
+4(1)	WP_074455540.1	WP_074455540.1 nitric oxide reductase activation protein NorD 
+4(1)	WP_072791384.1	WP_072791384.1 VWA domain-containing protein 
+4(1)	WP_013104292.1	WP_013104292.1 MULTISPECIES: nitric oxide reductase activation protein NorD 
+4(1)	WP_045532862.1	WP_045532862.1 VWA domain-containing protein 
+4(1)	WP_041359494.1	WP_041359494.1 nitric oxide reductase activation protein NorD 
+4(1)	WP_065089677.1	WP_065089677.1 VWA domain-containing protein 
+4(1)	WP_012823789.1	WP_012823789.1 VWA domain-containing protein 
+4(1)	WP_132961283.1	WP_132961283.1 VWA domain-containing protein 
+4(1)	WP_043698797.1	WP_043698797.1 VWA domain-containing protein 
+4(1)	WP_114282951.1	WP_114282951.1 VWA domain-containing protein 
+4(1)	WP_081577362.1	WP_081577362.1 VWA domain-containing protein 
+4(1)	WP_024893632.1	WP_024893632.1 VWA domain-containing protein 
+4(1)	WP_079418026.1	WP_079418026.1 hypothetical protein 
+4(1)	WP_144326525.1	WP_144326525.1 VWA domain-containing protein 
+4(1)	WP_127471554.1	WP_127471554.1 VWA domain-containing protein 
+4(1)	WP_162085953.1	WP_162085953.1 VWA domain-containing protein 
+4(1)	WP_019594307.1	WP_019594307.1 nitric oxide reductase activation protein NorD 
+4(1)	WP_126605319.1	WP_126605319.1 VWA domain-containing protein 
+4(1)	WP_156573334.1	WP_156573334.1 VWA domain-containing protein 
+4(1)	WP_079446736.1	WP_079446736.1 nitric oxide reductase activation protein NorD 
+4(1)	WP_070073599.1	WP_070073599.1 VWA domain-containing protein 
+4(1)	WP_143901984.1	WP_143901984.1 VWA domain-containing protein 
+4(1)	WP_018864188.1	WP_018864188.1 MULTISPECIES: nitric oxide reductase activation protein NorD 
+4(1)	WP_014002550.1	WP_014002550.1 VWA domain-containing protein 
+4(1)	WP_144327808.1	WP_144327808.1 nitric oxide reductase activation protein NorD 
+4(1)	WP_090411016.1	WP_090411016.1 nitric oxide reductase activation protein NorD 
+4(1)	WP_077278570.1	WP_077278570.1 VWA domain-containing protein 
+4(1)	WP_055449483.1	WP_055449483.1 nitric oxide reductase activation protein NorD 
+4(1)	WP_143890619.1	WP_143890619.1 VWA domain-containing protein 
+4(1)	WP_045537157.1	WP_045537157.1 VWA domain-containing protein 
+4(1)	WP_123101778.1	WP_123101778.1 VWA domain-containing protein 
+4(1)	WP_012639720.1	WP_012639720.1 VWA domain-containing protein 
+4(1)	WP_015797606.1	WP_015797606.1 VWA domain-containing protein 
+4(1)	WP_182120504.1	WP_182120504.1 nitric oxide reductase activation protein NorD 
+4(1)	WP_124948349.1	WP_124948349.1 nitric oxide reductase activation protein NorD 
+4(1)	WP_076755520.1	WP_076755520.1 nitric oxide reductase activation protein NorD 
+4(1)	WP_024330042.1	WP_024330042.1 nitric oxide reductase activation protein NorD 
+4(1)	WP_124950196.1	WP_124950196.1 nitric oxide reductase activation protein NorD 
+4(1)	WP_124706399.1	WP_124706399.1 VWA domain-containing protein 
+4(1)	WP_163097292.1	WP_163097292.1 VWA domain-containing protein 
+4(1)	WP_028990353.1	WP_028990353.1 VWA domain-containing protein 
+4(1)	WP_090670020.1	WP_090670020.1 nitric oxide reductase activation protein NorD 
+4(1)	WP_011315221.1	WP_011315221.1 nitric oxide reductase activation protein NorD 
+4(1)	WP_076837137.1	WP_076837137.1 VWA domain-containing protein 
+
+
+
+5(2)	WP_012607171.1	WP_012607171.1 MULTISPECIES: bacterioferritin 
+5(1)	WP_136865890.1	WP_136865890.1 MULTISPECIES: bacterioferritin 
+5(1)	WP_144326520.1	WP_144326520.1 ferritin 
+5(1)	WP_055449345.1	WP_055449345.1 ferritin 
+5(1)	WP_070073602.1	WP_070073602.1 ferritin 
+5(1)	WP_124706352.1	WP_124706352.1 bacterioferritin 
+5(1)	WP_081577361.1	WP_081577361.1 bacterioferritin 
+5(1)	WP_162085958.1	WP_162085958.1 bacterioferritin 
+5(1)	WP_018144348.1	WP_018144348.1 MULTISPECIES: bacterioferritin 
+5(1)	WP_074455565.1	WP_074455565.1 MULTISPECIES: ferritin 
+5(1)	WP_076837140.1	WP_076837140.1 ferritin-like domain-containing protein 
+5(1)	WP_013104287.1	WP_013104287.1 MULTISPECIES: bacterioferritin (cytochrome b1) 
+5(1)	WP_043698803.1	WP_043698803.1 hypothetical protein 
+5(1)	WP_124950201.1	WP_124950201.1 bacterioferritin 
+5(1)	WP_004871261.1	WP_004871261.1 bacterioferritin 
+5(1)	WP_132961278.1	WP_132961278.1 ferritin 
+5(1)	WP_144327804.1	WP_144327804.1 ferritin 
+5(1)	WP_015797601.1	WP_015797601.1 Ferritin Dps family protein 
+5(1)	WP_124948360.1	WP_124948360.1 bacterioferritin 
+5(1)	WP_182120509.1	WP_182120509.1 ferritin 
+5(1)	WP_065971492.1	WP_065971492.1 hypothetical protein 
+5(1)	WP_077278565.1	WP_077278565.1 bacterioferritin 
+5(1)	WP_090411005.1	WP_090411005.1 ferritin 
+5(1)	WP_163097301.1	WP_163097301.1 bacterioferritin 
+5(1)	WP_018864192.1	WP_018864192.1 MULTISPECIES: bacterioferritin 
+5(1)	WP_143901976.1	WP_143901976.1 ferritin 
+5(1)	WP_126463429.1	WP_126463429.1 bacterioferritin 
+5(1)	WP_147075178.1	WP_147075178.1 bacterioferritin 
+5(1)	WP_143890614.1	WP_143890614.1 ferritin 
+5(1)	WP_010637883.1	WP_010637883.1 MULTISPECIES: bacterioferritin 
+5(1)	WP_079418018.1	WP_079418018.1 ferritin 
+5(1)	WP_125182386.1	WP_125182386.1 bacterioferritin 
+5(1)	WP_134080590.1	WP_134080590.1 bacterioferritin 
+5(1)	WP_014030439.1	WP_014030439.1 bacterioferritin 
+5(1)	WP_024330046.1	WP_024330046.1 MULTISPECIES: bacterioferritin 
+5(1)	WP_169376796.1	WP_169376796.1 bacterioferritin 
+5(1)	WP_012639725.1	WP_012639725.1 bacterioferritin 
+5(1)	WP_038093839.1	WP_038093839.1 ferritin 
+5(1)	WP_084660358.1	WP_084660358.1 hypothetical protein 
+5(1)	WP_126453030.1	WP_126453030.1 bacterioferritin 
+5(1)	WP_090670000.1	WP_090670000.1 ferritin 
+5(1)	WP_123101768.1	WP_123101768.1 bacterioferritin 
+5(1)	WP_018507377.1	WP_018507377.1 bacterioferritin 
+
+
+
+6(1)	WP_076755933.1	WP_076755933.1 CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_045538132.1	WP_045538132.1 CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_012536694.1	WP_012536694.1 MULTISPECIES: CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_132961282.1	WP_132961282.1 CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_126605320.1	WP_126605320.1 CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_082007447.1	WP_082007447.1 CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_123101776.1	WP_123101776.1 CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_201789012.1	WP_201789012.1 CbbQ/NirQ/NorQ C-terminal domain-containing protein 
+6(1)	WP_082954624.1	WP_082954624.1 CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_090670016.1	WP_090670016.1 CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_090411014.1	WP_090411014.1 CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_144326524.1	WP_144326524.1 CbbQ/NirQ/NorQ C-terminal domain-containing protein 
+6(1)	WP_082040115.1	WP_082040115.1 AAA family ATPase 
+6(1)	WP_196794209.1	WP_196794209.1 MULTISPECIES: CbbQ/NirQ/NorQ C-terminal domain-containing protein 
+6(1)	WP_072791386.1	WP_072791386.1 CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_124948350.1	WP_124948350.1 CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_124950197.1	WP_124950197.1 CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_182120505.1	WP_182120505.1 CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_012639721.1	WP_012639721.1 CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_143890618.1	WP_143890618.1 CbbQ/NirQ/NorQ C-terminal domain-containing protein 
+6(1)	WP_162085954.1	WP_162085954.1 AAA family ATPase 
+6(1)	WP_198034292.1	WP_198034292.1 CbbQ/NirQ/NorQ C-terminal domain-containing protein 
+6(1)	WP_018864189.1	WP_018864189.1 MULTISPECIES: CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_167344832.1	WP_167344832.1 AAA family ATPase 
+6(1)	WP_049750633.1	WP_049750633.1 CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_015797605.1	WP_015797605.1 CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_179947975.1	WP_179947975.1 CbbQ/NirQ/NorQ C-terminal domain-containing protein 
+6(1)	WP_086008384.1	WP_086008384.1 CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_197513412.1	WP_197513412.1 CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_145962403.1	WP_145962403.1 AAA family ATPase, partial 
+6(1)	WP_077278569.1	WP_077278569.1 CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_144327807.1	WP_144327807.1 CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_018947961.1	WP_018947961.1 MULTISPECIES: CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_014030435.1	WP_014030435.1 CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_189836453.1	WP_189836453.1 CbbQ/NirQ/NorQ C-terminal domain-containing protein, partial 
+6(1)	WP_018144344.1	WP_018144344.1 MULTISPECIES: CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_082211242.1	WP_082211242.1 MULTISPECIES: CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_143902021.1	WP_143902021.1 CbbQ/NirQ/NorQ C-terminal domain-containing protein 
+6(1)	WP_028990352.1	WP_028990352.1 CbbQ/NirQ/NorQ/GpvN family protein 
+6(1)	WP_163097294.1	WP_163097294.1 CbbQ/NirQ/NorQ C-terminal domain-containing protein 
+
+
+
+7(1)	WP_014972651.1	WP_014972651.1 ParB/RepB/Spo0J family partition protein 
+7(1)	WP_085229386.1	WP_085229386.1 ParB/RepB/Spo0J family partition protein 
+7(1)	WP_045452508.1	WP_045452508.1 MULTISPECIES: ParB/RepB/Spo0J family partition protein 
+7(1)	WP_057925459.1	WP_057925459.1 MULTISPECIES: ParB/RepB/Spo0J family partition protein 
+7(1)	WP_028366802.1	WP_028366802.1 MULTISPECIES: ParB/RepB/Spo0J family partition protein 
+7(1)	WP_118184247.1	WP_118184247.1 ParB/RepB/Spo0J family partition protein 
+7(1)	WP_126875519.1	WP_126875519.1 ParB/RepB/Spo0J family partition protein 
+7(1)	WP_090863740.1	WP_090863740.1 ParB/RepB/Spo0J family partition protein 
+7(1)	WP_194794024.1	WP_194794024.1 ParB/RepB/Spo0J family partition protein 
+7(1)	WP_083081871.1	WP_083081871.1 MULTISPECIES: ParB/RepB/Spo0J family partition protein 
+7(1)	WP_006766722.1	WP_006766722.1 MULTISPECIES: ParB/RepB/Spo0J family partition protein 
+7(1)	WP_012428794.1	WP_012428794.1 ParB/RepB/Spo0J family partition protein 
+7(1)	WP_065061660.1	WP_065061660.1 MULTISPECIES: ParB/RepB/Spo0J family partition protein 
+7(1)	WP_031364422.1	WP_031364422.1 ParB/RepB/Spo0J family partition protein 
+7(1)	WP_028218254.1	WP_028218254.1 ParB/RepB/Spo0J family partition protein 
+7(1)	WP_027820385.1	WP_027820385.1 ParB/RepB/Spo0J family partition protein 
+7(1)	WP_060817877.1	WP_060817877.1 ParB/RepB/Spo0J family partition protein 
+7(1)	WP_102632481.1	WP_102632481.1 ParB/RepB/Spo0J family partition protein 
+7(1)	WP_152754876.1	WP_152754876.1 ParB/RepB/Spo0J family partition protein 
+7(1)	WP_064271173.1	WP_064271173.1 ParB/RepB/Spo0J family partition protein 
+7(1)	WP_091011973.1	WP_091011973.1 ParB/RepB/Spo0J family partition protein 
+7(1)	WP_028226941.1	WP_028226941.1 ParB/RepB/Spo0J family partition protein 
+7(1)	WP_134189883.1	WP_134189883.1 ParB/RepB/Spo0J family partition protein 
+7(1)	WP_047839730.1	WP_047839730.1 ParB/RepB/Spo0J family partition protein 
+7(1)	WP_014724257.1	WP_014724257.1 MULTISPECIES: ParB/RepB/Spo0J family partition protein 
+7(1)	WP_103707644.1	WP_103707644.1 ParB/RepB/Spo0J family partition protein 
+7(1)	WP_084910911.1	WP_084910911.1 ParB/RepB/Spo0J family partition protein 
+7(1)	WP_104077401.1	WP_104077401.1 ParB/RepB/Spo0J family partition protein 
+7(1)	WP_205969258.1	WP_205969258.1 ParB/RepB/Spo0J family partition protein 
+7(1)	WP_090681575.1	WP_090681575.1 ParB/RepB/Spo0J family partition protein 
+
+
+
+8(1)	WP_126875521.1	WP_126875521.1 DNA-binding protein 
+8(1)	WP_031364420.1	WP_031364420.1 DNA-binding protein 
+8(1)	WP_042337992.1	WP_042337992.1 DNA-binding protein 
+8(1)	WP_186043915.1	WP_186043915.1 DNA-binding protein 
+8(1)	WP_103707642.1	WP_103707642.1 DNA-binding protein 
+8(1)	WP_028218256.1	WP_028218256.1 DNA-binding protein 
+8(1)	WP_060300840.1	WP_060300840.1 DNA-binding protein 
+8(1)	WP_028366805.1	WP_028366805.1 DNA-binding protein 
+8(1)	WP_060817879.1	WP_060817879.1 DNA-binding protein 
+8(1)	WP_104077399.1	WP_104077399.1 DNA-binding protein 
+8(1)	WP_152754874.1	WP_152754874.1 DNA-binding protein 
+8(1)	WP_083081870.1	WP_083081870.1 MULTISPECIES: DNA-binding protein 
+8(1)	WP_059462439.1	WP_059462439.1 DNA-binding protein 
+8(1)	WP_091011982.1	WP_091011982.1 DNA-binding protein 
+8(1)	WP_012428792.1	WP_012428792.1 DNA-binding protein 
+8(1)	WP_035974830.1	WP_035974830.1 MULTISPECIES: DNA-binding protein 
+8(1)	WP_090863736.1	WP_090863736.1 DNA-binding protein 
+8(1)	WP_064271171.1	WP_064271171.1 DNA-binding protein 
+8(1)	WP_014972652.1	WP_014972652.1 DNA-binding protein 
+8(1)	WP_057925457.1	WP_057925457.1 MULTISPECIES: DNA-binding protein 
+8(1)	WP_085229448.1	WP_085229448.1 DNA-binding protein 
+8(1)	WP_027820382.1	WP_027820382.1 DNA-binding protein 
+8(1)	WP_090681581.1	WP_090681581.1 DNA-binding protein 
+8(1)	WP_118184249.1	WP_118184249.1 DNA-binding protein 
+8(1)	WP_074981150.1	WP_074981150.1 DNA-binding protein 
+8(1)	WP_053569705.1	WP_053569705.1 DNA-binding protein 
+8(1)	WP_205969256.1	WP_205969256.1 DNA-binding protein 
+8(1)	WP_134189885.1	WP_134189885.1 DNA-binding protein 
+8(1)	WP_102632484.1	WP_102632484.1 DNA-binding protein 
+
+
+
+9(1)	WP_118184248.1	WP_118184248.1 replication initiation protein 
+9(1)	WP_027820384.1	WP_027820384.1 replication initiation protein 
+9(1)	WP_126875520.1	WP_126875520.1 replication initiation protein 
+9(1)	WP_085229387.1	WP_085229387.1 replication initiation protein 
+9(1)	WP_090863738.1	WP_090863738.1 replication initiation protein 
+9(1)	WP_104077400.1	WP_104077400.1 replication initiation protein 
+9(1)	WP_060817878.1	WP_060817878.1 replication initiation protein 
+9(1)	WP_091011976.1	WP_091011976.1 replication initiation protein 
+9(1)	WP_047839729.1	WP_047839729.1 replication initiation protein 
+9(1)	WP_090681577.1	WP_090681577.1 replication initiation protein 
+9(1)	WP_057925458.1	WP_057925458.1 MULTISPECIES: replication initiation protein 
+9(1)	WP_134189884.1	WP_134189884.1 replication initiation protein 
+9(1)	WP_194794023.1	WP_194794023.1 replication initiation protein 
+9(1)	WP_205969257.1	WP_205969257.1 replication initiation protein 
+9(1)	WP_006766723.1	WP_006766723.1 MULTISPECIES: replication initiation protein 
+9(1)	WP_103707643.1	WP_103707643.1 MULTISPECIES: replication initiation protein 
+9(1)	WP_102632482.1	WP_102632482.1 replication initiation protein 
+9(1)	WP_028366803.1	WP_028366803.1 MULTISPECIES: replication initiation protein 
+9(1)	WP_065061661.1	WP_065061661.1 MULTISPECIES: replication initiation protein 
+9(1)	WP_053569704.1	WP_053569704.1 replication initiation protein 
+9(1)	WP_012428793.1	WP_012428793.1 replication initiation protein 
+9(1)	WP_028218255.1	WP_028218255.1 replication initiation protein 
+9(1)	WP_073429640.1	WP_073429640.1 MULTISPECIES: replication initiation protein 
+9(1)	WP_028226942.1	WP_028226942.1 replication initiation protein 
+9(1)	WP_152754875.1	WP_152754875.1 replication initiation protein 
+9(1)	WP_031364421.1	WP_031364421.1 replication initiation protein 
+9(1)	WP_011881135.1	WP_011881135.1 MULTISPECIES: replication initiation protein 
+9(1)	WP_064271172.1	WP_064271172.1 replication initiation protein 
+9(1)	WP_013591265.1	WP_013591265.1 MULTISPECIES: replication initiation protein 
+
+
+
+10(1)	WP_028218252.1	WP_028218252.1 arsenate reductase (glutaredoxin) 
+10(1)	WP_027820387.1	WP_027820387.1 arsenate reductase (glutaredoxin) 
+10(1)	WP_194794025.1	WP_194794025.1 arsenate reductase (glutaredoxin) 
+10(1)	WP_134189881.1	WP_134189881.1 arsenate reductase (glutaredoxin) 
+10(1)	WP_103707646.1	WP_103707646.1 arsenate reductase (glutaredoxin) 
+10(1)	WP_064271174.1	WP_064271174.1 arsenate reductase (glutaredoxin) 
+10(1)	WP_074981157.1	WP_074981157.1 MULTISPECIES: arsenate reductase (glutaredoxin) 
+10(1)	WP_006766720.1	WP_006766720.1 MULTISPECIES: arsenate reductase (glutaredoxin) 
+10(1)	WP_014724258.1	WP_014724258.1 MULTISPECIES: arsenate reductase (glutaredoxin) 
+10(1)	WP_090863743.1	WP_090863743.1 arsenate reductase (glutaredoxin) 
+10(1)	WP_152754878.1	WP_152754878.1 arsenate reductase (glutaredoxin) 
+10(1)	WP_028366800.1	WP_028366800.1 MULTISPECIES: arsenate reductase (glutaredoxin) 
+10(1)	WP_047839731.1	WP_047839731.1 arsenate reductase (glutaredoxin) 
+10(1)	WP_205969259.1	WP_205969259.1 arsenate reductase (glutaredoxin) 
+10(1)	WP_118184245.1	WP_118184245.1 arsenate reductase (glutaredoxin) 
+10(1)	WP_057925709.1	WP_057925709.1 MULTISPECIES: arsenate reductase (glutaredoxin) 
+10(1)	WP_085229447.1	WP_085229447.1 arsenate reductase (glutaredoxin) 
+10(1)	WP_091011967.1	WP_091011967.1 arsenate reductase (glutaredoxin) 
+10(1)	WP_126875518.1	WP_126875518.1 arsenate reductase (glutaredoxin) 
+10(1)	WP_104077402.1	WP_104077402.1 arsenate reductase (glutaredoxin) 
+10(1)	WP_028226939.1	WP_028226939.1 arsenate reductase (glutaredoxin) 
+10(1)	WP_090681571.1	WP_090681571.1 arsenate reductase (glutaredoxin) 
+10(1)	WP_102632479.1	WP_102632479.1 arsenate reductase (glutaredoxin) 
+10(1)	WP_012428796.1	WP_012428796.1 arsenate reductase (glutaredoxin) 
+
+
+
+11(1)	WP_091011986.1	WP_091011986.1 tyrosine-type recombinase/integrase 
+11(1)	WP_006766725.1	WP_006766725.1 MULTISPECIES: tyrosine-type recombinase/integrase 
+11(1)	WP_014972653.1	WP_014972653.1 tyrosine-type recombinase/integrase 
+11(1)	WP_043284943.1	WP_043284943.1 tyrosine-type recombinase/integrase 
+11(1)	WP_031364419.1	WP_031364419.1 tyrosine-type recombinase/integrase 
+11(1)	WP_194794022.1	WP_194794022.1 tyrosine-type recombinase/integrase 
+11(1)	WP_053569706.1	WP_053569706.1 tyrosine-type recombinase/integrase 
+11(1)	WP_064271170.1	WP_064271170.1 tyrosine-type recombinase/integrase 
+11(1)	WP_126875522.1	WP_126875522.1 tyrosine-type recombinase/integrase 
+11(1)	WP_083081868.1	WP_083081868.1 tyrosine-type recombinase/integrase 
+11(1)	WP_028366806.1	WP_028366806.1 tyrosine-type recombinase/integrase 
+11(1)	WP_090863734.1	WP_090863734.1 tyrosine-type recombinase/integrase 
+11(1)	WP_205969255.1	WP_205969255.1 tyrosine-type recombinase/integrase 
+11(1)	WP_090681582.1	WP_090681582.1 tyrosine-type recombinase/integrase 
+11(1)	WP_012428791.1	WP_012428791.1 tyrosine-type recombinase/integrase 
+11(1)	WP_102632485.1	WP_102632485.1 tyrosine-type recombinase/integrase 
+11(1)	WP_057925456.1	WP_057925456.1 MULTISPECIES: tyrosine-type recombinase/integrase 
+11(1)	WP_103707641.1	WP_103707641.1 tyrosine-type recombinase/integrase 
+11(1)	WP_152754873.1	WP_152754873.1 tyrosine-type recombinase/integrase 
+11(1)	WP_046425777.1	WP_046425777.1 MULTISPECIES: tyrosine-type recombinase/integrase 
+11(1)	WP_134189886.1	WP_134189886.1 tyrosine-type recombinase/integrase 
+11(1)	WP_060817880.1	WP_060817880.1 tyrosine-type recombinase/integrase 
+11(1)	WP_042337993.1	WP_042337993.1 site-specific integrase 
+
+
+
+12(1)	WP_182120503.1	WP_182120503.1 BMC domain-containing protein 
+12(1)	WP_090670023.1	WP_090670023.1 hypothetical protein 
+12(1)	WP_143902023.1	WP_143902023.1 hypothetical protein 
+12(1)	WP_201786984.1	WP_201786984.1 BMC domain-containing protein 
+12(1)	WP_011504802.1	WP_011504802.1 hypothetical protein 
+12(1)	WP_045532860.1	WP_045532860.1 BMC domain-containing protein 
+12(1)	WP_013104293.1	WP_013104293.1 MULTISPECIES: microcompartment protein 
+12(2)	WP_132961284.1	WP_132961284.1 MULTISPECIES: hypothetical protein 
+12(1)	WP_144327809.1	WP_144327809.1 hypothetical protein 
+12(1)	WP_090411018.1	WP_090411018.1 hypothetical protein 
+12(1)	WP_055449340.1	WP_055449340.1 hypothetical protein 
+12(1)	WP_143890620.1	WP_143890620.1 hypothetical protein 
+12(1)	WP_011633909.1	WP_011633909.1 BMC domain-containing protein 
+12(1)	WP_198034080.1	WP_198034080.1 BMC domain-containing protein 
+12(1)	WP_197513139.1	WP_197513139.1 BMC domain-containing protein 
+12(1)	WP_011315220.1	WP_011315220.1 hypothetical protein 
+12(1)	WP_079446735.1	WP_079446735.1 hypothetical protein 
+12(1)	WP_043698795.1	WP_043698795.1 BMC domain-containing protein 
+
+
+
+13(1)	WP_090863745.1	WP_090863745.1 DUF1272 domain-containing protein 
+13(1)	WP_205969261.1	WP_205969261.1 DUF1272 domain-containing protein 
+13(1)	WP_083081873.1	WP_083081873.1 DUF1272 domain-containing protein 
+13(1)	WP_012428799.1	WP_012428799.1 DUF1272 domain-containing protein 
+13(1)	WP_031364425.1	WP_031364425.1 DUF1272 domain-containing protein 
+13(1)	WP_152754879.1	WP_152754879.1 DUF1272 domain-containing protein 
+13(1)	WP_060817874.1	WP_060817874.1 DUF1272 domain-containing protein 
+13(1)	WP_091011961.1	WP_091011961.1 DUF1272 domain-containing protein 
+13(1)	WP_118184243.1	WP_118184243.1 DUF1272 domain-containing protein 
+13(1)	WP_028366798.1	WP_028366798.1 MULTISPECIES: DUF1272 domain-containing protein 
+13(1)	WP_064271177.1	WP_064271177.1 DUF1272 domain-containing protein 
+13(1)	WP_102632477.1	WP_102632477.1 DUF1272 domain-containing protein 
+13(1)	WP_126875517.1	WP_126875517.1 DUF1272 domain-containing protein 
+
+
+
+14(1)	WP_090863747.1	WP_090863747.1 NAD(P)H-dependent oxidoreductase 
+14(1)	WP_028218251.1	WP_028218251.1 NAD(P)H-dependent oxidoreductase 
+14(1)	WP_060300843.1	WP_060300843.1 NAD(P)H-dependent oxidoreductase 
+14(1)	WP_027820389.1	WP_027820389.1 NAD(P)H-dependent oxidoreductase 
+14(1)	WP_025100229.1	WP_025100229.1 MULTISPECIES: NAD(P)H-dependent oxidoreductase 
+14(1)	WP_085229384.1	WP_085229384.1 NAD(P)H-dependent oxidoreductase 
+14(1)	WP_028226937.1	WP_028226937.1 NAD(P)H-dependent oxidoreductase 
+14(1)	WP_006766717.1	WP_006766717.1 MULTISPECIES: NAD(P)H-dependent oxidoreductase 
+14(1)	WP_074981159.1	WP_074981159.1 MULTISPECIES: NAD(P)H-dependent oxidoreductase 
+14(1)	WP_011881141.1	WP_011881141.1 MULTISPECIES: NAD(P)H-dependent oxidoreductase 
+14(1)	WP_152754881.1	WP_152754881.1 NAD(P)H-dependent oxidoreductase 
+14(1)	WP_103707648.1	WP_103707648.1 MULTISPECIES: NAD(P)H-dependent oxidoreductase 
+
+
+
+15(1)	WP_065061656.1	WP_065061656.1 MULTISPECIES: hypothetical protein 
+15(1)	WP_090681570.1	WP_090681570.1 gluconate transporter 
+15(1)	WP_042298378.1	WP_042298378.1 gluconate transporter 
+15(1)	WP_028226938.1	WP_028226938.1 gluconate transporter 
+15(1)	WP_012428798.1	WP_012428798.1 gluconate transporter 
+15(1)	WP_118184244.1	WP_118184244.1 gluconate transporter 
+15(1)	WP_060817875.1	WP_060817875.1 hypothetical protein 
+15(1)	WP_091011964.1	WP_091011964.1 gluconate transporter 
+15(1)	WP_103707647.1	WP_103707647.1 gluconate transporter 
+15(1)	WP_031364424.1	WP_031364424.1 gluconate transporter 
+15(1)	WP_064271176.1	WP_064271176.1 gluconate transporter 
+
+
+
+16(1)	WP_194794026.1	WP_194794026.1 zf-HC2 domain-containing protein 
+16(1)	WP_011881139.1	WP_011881139.1 MULTISPECIES: zf-HC2 domain-containing protein 
+16(1)	WP_134189879.1	WP_134189879.1 zf-HC2 domain-containing protein 
+16(1)	WP_176035781.1	WP_176035781.1 MULTISPECIES: zf-HC2 domain-containing protein 
+16(1)	WP_175130686.1	WP_175130686.1 zf-HC2 domain-containing protein 
+16(1)	WP_175772166.1	WP_175772166.1 zf-HC2 domain-containing protein 
+16(1)	WP_118184242.1	WP_118184242.1 zf-HC2 domain-containing protein 
+16(1)	WP_006766719.1	WP_006766719.1 MULTISPECIES: zf-HC2 domain-containing protein 
+16(1)	WP_126875516.1	WP_126875516.1 zf-HC2 domain-containing protein 
+16(1)	WP_082664634.1	WP_082664634.1 MULTISPECIES: zf-HC2 domain-containing protein 
+16(1)	WP_177228279.1	WP_177228279.1 zf-HC2 domain-containing protein 
+
+
+
+17(1)	WP_065971487.1	WP_065971487.1 oxidoreductase 
+17(1)	WP_015797607.1	WP_015797607.1 DUF2309 family protein 
+17(1)	WP_014002551.1	WP_014002551.1 NADH-quinone oxidoreductase subunit L 
+17(1)	WP_124950195.1	WP_124950195.1 NADH-quinone oxidoreductase subunit L 
+17(1)	WP_012823788.1	WP_012823788.1 oxidoreductase 
+17(2)	WP_010637891.1	WP_010637891.1 MULTISPECIES: oxidoreductase 
+17(1)	WP_156573332.1	WP_156573332.1 NADH-quinone oxidoreductase subunit L 
+17(1)	WP_162085952.1	WP_162085952.1 NADH-quinone oxidoreductase subunit L 
+
+
+
+18(1)	WP_163097305.1	WP_163097305.1 carboxysome peptide B 
+18(1)	WP_038093519.1	WP_038093519.1 carboxysome peptide B 
+18(1)	WP_076755526.1	WP_076755526.1 carboxysome peptide B 
+18(1)	WP_045532866.1	WP_045532866.1 carboxysome peptide B 
+18(1)	WP_082027383.1	WP_082027383.1 carboxysome peptide B 
+18(1)	WP_079446742.1	WP_079446742.1 carboxysome peptide B 
+18(1)	WP_041344994.1	WP_041344994.1 carboxysome peptide B 
+18(1)	WP_011504810.1	WP_011504810.1 carboxysome peptide B 
+18(1)	WP_127471558.1	WP_127471558.1 carboxysome peptide B 
+
+
+
+19(1)	WP_009695027.1	WP_009695027.1 MULTISPECIES: RNA polymerase factor sigma-70 
+19(1)	WP_057925462.1	WP_057925462.1 MULTISPECIES: RNA polymerase factor sigma-70 
+19(1)	WP_083081874.1	WP_083081874.1 MULTISPECIES: RNA polymerase factor sigma-70 
+19(1)	WP_090681566.1	WP_090681566.1 RNA polymerase factor sigma-70 
+19(1)	WP_035975403.1	WP_035975403.1 MULTISPECIES: RNA polymerase factor sigma-70 
+19(1)	WP_011881140.1	WP_011881140.1 MULTISPECIES: RNA polymerase factor sigma-70 
+19(1)	WP_126875515.1	WP_126875515.1 RNA polymerase factor sigma-70 
+19(1)	WP_134189878.1	WP_134189878.1 RNA polymerase factor sigma-70 
+
+
+
+20(1)	WP_006748403.1	WP_006748403.1 PAS domain-containing protein 
+20(1)	WP_085229382.1	WP_085229382.1 hybrid sensor histidine kinase/response regulator 
+20(1)	WP_007194467.1	WP_007194467.1 PAS domain S-box protein 
+20(1)	WP_093035111.1	WP_093035111.1 PAS domain S-box protein 
+20(1)	WP_028218249.1	WP_028218249.1 response regulator 
+20(1)	WP_047839732.1	WP_047839732.1 hybrid sensor histidine kinase/response regulator 
+20(1)	WP_120799522.1	WP_120799522.1 PAS domain S-box protein 
+
+
+
+21(1)	WP_081577363.1	WP_081577363.1 hypothetical protein 
+21(1)	WP_004871278.1	WP_004871278.1 hypothetical protein 
+21(1)	WP_065971486.1	WP_065971486.1 hypothetical protein 
+21(1)	WP_024893631.1	WP_024893631.1 hypothetical protein 
+21(1)	WP_012823787.1	WP_012823787.1 hypothetical protein 
+21(1)	WP_156573330.1	WP_156573330.1 hypothetical protein 
+
+
+
+22(1)	WP_085229383.1	WP_085229383.1 hypothetical protein 
+22(1)	WP_028218250.1	WP_028218250.1 hypothetical protein 
+22(1)	WP_146055380.1	WP_146055380.1 hypothetical protein 
+22(1)	WP_074981161.1	WP_074981161.1 MULTISPECIES: hypothetical protein 
+22(1)	WP_027820390.1	WP_027820390.1 hypothetical protein 
+22(1)	WP_156967079.1	WP_156967079.1 hypothetical protein 
+
+
+
+23(1)	WP_064271175.1	WP_064271175.1 sulfonate ABC transporter substrate-binding protein 
+23(1)	WP_102632478.1	WP_102632478.1 sulfonate ABC transporter substrate-binding protein 
+23(1)	WP_205969260.1	WP_205969260.1 sulfonate ABC transporter substrate-binding protein 
+23(1)	WP_028366799.1	WP_028366799.1 sulfonate ABC transporter substrate-binding protein 
+23(1)	WP_134189880.1	WP_134189880.1 sulfonate ABC transporter substrate-binding protein 
+23(1)	WP_012428797.1	WP_012428797.1 sulfonate ABC transporter substrate-binding protein 
+
+
+
+24(1)	WP_208321259.1	WP_208321259.1 LysR family transcriptional regulator 
+24(1)	WP_194073934.1	WP_194073934.1 LysR family transcriptional regulator 
+24(1)	WP_197722193.1	WP_197722193.1 LysR family transcriptional regulator 
+24(1)	WP_024330041.1	WP_024330041.1 MULTISPECIES: LysR family transcriptional regulator 
+24(1)	WP_018168603.1	WP_018168603.1 MULTISPECIES: LysR family transcriptional regulator 
+24(1)	WP_018864187.1	WP_018864187.1 MULTISPECIES: LysR family transcriptional regulator 
+
+
+
+25(1)	WP_163097290.1	WP_163097290.1 class II fructose-bisphosphate aldolase 
+25(1)	WP_009561318.1	WP_009561318.1 MULTISPECIES: class II fructose-bisphosphate aldolase 
+25(1)	WP_012536692.1	WP_012536692.1 MULTISPECIES: class II fructose-bisphosphate aldolase 
+25(1)	WP_014030433.1	WP_014030433.1 class II fructose-bisphosphate aldolase 
+
+
+
+26(1)	WP_130537459.1	WP_130537459.1 ABC-F family ATPase 
+26(1)	WP_173271822.1	WP_173271822.1 ABC-F family ATPase 
+26(1)	WP_029909250.1	WP_029909250.1 ABC-F family ATPase 
+26(1)	WP_024851237.1	WP_024851237.1 ABC-F family ATPase 
+
+
+
+27(1)	WP_024851240.1	WP_024851240.1 FKBP-type peptidyl-prolyl cis-trans isomerase 
+27(1)	WP_173271836.1	WP_173271836.1 FKBP-type peptidyl-prolyl cis-trans isomerase 
+27(1)	WP_029909252.1	WP_029909252.1 FKBP-type peptidyl-prolyl cis-trans isomerase 
+27(1)	WP_130537452.1	WP_130537452.1 FKBP-type peptidyl-prolyl cis-trans isomerase 
+
+
+
+28(1)	WP_130538556.1	WP_130538556.1 sensor domain-containing diguanylate cyclase 
+28(1)	WP_150094322.1	WP_150094322.1 EAL domain-containing protein 
+28(1)	WP_011370443.1	WP_011370443.1 GGDEF domain-containing protein 
+28(1)	WP_173271845.1	WP_173271845.1 diguanylate cyclase 
+
+
+
+29(1)	WP_028366797.1	WP_028366797.1 hypothetical protein 
+29(1)	WP_205969262.1	WP_205969262.1 hypothetical protein 
+29(1)	WP_087736585.1	WP_087736585.1 MULTISPECIES: hypothetical protein 
+29(1)	WP_152754880.1	WP_152754880.1 hypothetical protein 
+
+
+
+30(1)	WP_019594306.1	WP_019594306.1 hypothetical protein 
+30(1)	WP_018864190.1	WP_018864190.1 MULTISPECIES: hypothetical protein 
+30(1)	WP_024330043.1	WP_024330043.1 MULTISPECIES: hypothetical protein 
+
+
+
+31(1)	WP_011370439.1	WP_011370439.1 hypothetical protein 
+31(1)	WP_068648666.1	WP_068648666.1 MULTISPECIES: hypothetical protein 
+31(1)	WP_019895905.1	WP_019895905.1 hypothetical protein 
+
+
+
+32(1)	WP_093035114.1	WP_093035114.1 HupU protein 
+32(1)	WP_120799523.1	WP_120799523.1 HupU protein 
+32(1)	WP_007194466.1	WP_007194466.1 NADH ubiquinone dehydrogenase 
+
+
+
+33(1)	WP_040732144.1	WP_040732144.1 nickel-dependent hydrogenase large subunit 
+33(1)	WP_093035117.1	WP_093035117.1 nickel-dependent hydrogenase large subunit 
+33(1)	WP_120799524.1	WP_120799524.1 nickel-dependent hydrogenase large subunit 
+
+
+
+34(1)	WP_007194461.1	WP_007194461.1 hypothetical protein 
+34(1)	WP_120799527.1	WP_120799527.1 hypothetical protein 
+34(1)	WP_093035123.1	WP_093035123.1 hypothetical protein 
+
+
+
+35(1)	WP_125180862.1	WP_125180862.1 STAS domain-containing protein 
+35(1)	WP_124948348.1	WP_124948348.1 STAS domain-containing protein 
+35(1)	WP_134080600.1	WP_134080600.1 STAS domain-containing protein 
+
+
+
+36(1)	WP_076755519.1	WP_076755519.1 trypsin-like peptidase domain-containing protein 
+36(1)	WP_144327810.1	WP_144327810.1 trypsin-like peptidase domain-containing protein 
+36(1)	WP_127471553.1	WP_127471553.1 trypsin-like peptidase domain-containing protein 
+
+
+
+37(1)	WP_170164904.1	WP_170164904.1 hypothetical protein 
+37(1)	WP_007194460.1	WP_007194460.1 hypothetical protein 
+37(1)	WP_093035126.1	WP_093035126.1 hypothetical protein 
+
+
+
+38(1)	WP_024851234.1	WP_024851234.1 YaiI/YqxD family protein 
+38(1)	WP_130537458.1	WP_130537458.1 YaiI/YqxD family protein 
+38(1)	WP_173271824.1	WP_173271824.1 YaiI/YqxD family protein 
+
+
+
+39(1)	WP_173271826.1	WP_173271826.1 oxygen-insensitive NAD(P)H nitroreductase 
+39(1)	WP_019895914.1	WP_019895914.1 oxygen-insensitive NAD(P)H-dependent nitroreductase NfsB 
+39(1)	WP_130537457.1	WP_130537457.1 oxygen-insensitive NAD(P)H nitroreductase 
+
+
+
+40(1)	WP_120799526.1	WP_120799526.1 DUF29 domain-containing protein 
+40(1)	WP_007194462.1	WP_007194462.1 DUF29 family protein 
+40(1)	WP_175534677.1	WP_175534677.1 DUF29 family protein 
+
+
+
+41(1)	WP_077278571.1	WP_077278571.1 SgcJ/EcaC family oxidoreductase 
+41(1)	WP_187148404.1	WP_187148404.1 SgcJ/EcaC family oxidoreductase 
+41(1)	WP_028486681.1	WP_028486681.1 SgcJ/EcaC family oxidoreductase 
+
+
+
+42(2)	WP_009561320.1	WP_009561320.1 MULTISPECIES: dethiobiotin synthase 
+
+
+
+43(1)	WP_015259776.1	WP_015259776.1 PrkA family serine protein kinase 
+43(1)	WP_006748406.1	WP_006748406.1 PrkA family serine protein kinase 
+
+
+
+44(1)	WP_006748407.1	WP_006748407.1 YeaH/YhbH family protein 
+44(1)	WP_015259777.1	WP_015259777.1 YeaH/YhbH family protein 
+
+
+
+45(1)	WP_006748408.1	WP_006748408.1 SpoVR family protein 
+45(1)	WP_015259778.1	WP_015259778.1 SpoVR family protein 
+
+
+
+46(1)	WP_024851239.1	WP_024851239.1 DUF938 domain-containing protein 
+46(1)	WP_029909242.1	WP_029909242.1 DUF938 domain-containing protein 
+
+
+
+47(1)	WP_035628821.1	WP_035628821.1 hypothetical protein 
+47(1)	WP_028486675.1	WP_028486675.1 hypothetical protein 
+
+
+
+48(1)	WP_015259779.1	WP_015259779.1 ion transporter 
+48(1)	WP_041483828.1	WP_041483828.1 potassium channel family protein 
+
+
+
+49(1)	WP_060817872.1	WP_060817872.1 aldo/keto reductase 
+49(1)	WP_031364427.1	WP_031364427.1 aldo/keto reductase 
+
+
+
+50(1)	WP_031364426.1	WP_031364426.1 formaldehyde-activating enzyme 
+50(1)	WP_060817873.1	WP_060817873.1 formaldehyde-activating enzyme 
+
+
+
+51(1)	WP_007194459.1	WP_007194459.1 ClcB-like voltage-gated chloride channel protein 
+51(1)	WP_120799529.1	WP_120799529.1 ClcB-like voltage-gated chloride channel protein 
+
+
+
+52(1)	WP_051181539.1	WP_051181539.1 phosphate-starvation-inducible PsiE family protein 
+52(1)	WP_123101786.1	WP_123101786.1 phosphate-starvation-inducible PsiE family protein 
+
+
+
+53(1)	WP_084205788.1	WP_084205788.1 PQQ-dependent sugar dehydrogenase 
+53(1)	WP_130537453.1	WP_130537453.1 PQQ-dependent sugar dehydrogenase 
+
+
+
+54(1)	WP_133118015.1	WP_133118015.1 tyrosine-type recombinase/integrase 
+54(1)	WP_084910916.1	WP_084910916.1 tyrosine-type recombinase/integrase 
+
+
+
+55(1)	WP_150094324.1	WP_150094324.1 FAD-dependent oxidoreductase 
+55(1)	WP_019895904.1	WP_019895904.1 dihydrolipoyl dehydrogenase 
+
+
+
+56(1)	WP_150094330.1	WP_150094330.1 ribosome-associated ATPase/putative transporter RbbA 
+56(1)	WP_150094329.1	WP_150094329.1 ABC transporter permease 
+
+
+
+57(1)	WP_155837651.1	WP_155837651.1 hypothetical protein 
+57(1)	WP_028486676.1	WP_028486676.1 LysE family translocator 
+
+
