@@ -1,0 +1,105 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+ParA family protein [Halothiobacillus neapolitanus],Halothiobacillus neapolitanus,576,576,100%,0,100,284,WP_012823607.1
+ParA family protein [Guyparkeria halophila],Guyparkeria halophila,397,397,88%,2.00E-137,73.02,278,WP_156227934.1
+ParA family protein [Acidihalobacter aeolianus],Acidihalobacter aeolianus,324,324,90%,5.00E-109,61.87,270,WP_070072238.1
+ParA family protein [Thioalkalivibrio sulfidiphilus],Thioalkalivibrio sulfidiphilus,323,323,92%,1.00E-108,58.94,262,WP_012637913.1
+ParA family protein [Sulfurivermis fontis],Sulfurivermis fontis,322,322,90%,1.00E-108,60.92,260,WP_127477494.1
+ParA family protein [Thiohalobacter thiocyanaticus],Thiohalobacter thiocyanaticus,318,318,93%,1.00E-106,61.8,276,WP_125180107.1
+ParA family protein [Acidihalobacter prosperus],Acidihalobacter prosperus,311,311,92%,4.00E-104,58.17,271,WP_065089273.1
+ParA family protein [Methylophaga nitratireducenticrescens],Methylophaga nitratireducenticrescens,309,309,89%,4.00E-103,58.66,265,WP_014708090.1
+ParA family protein [Thioalkalivibrio denitrificans],Thioalkalivibrio denitrificans,308,308,92%,6.00E-103,56.06,263,WP_077278087.1
+ParA family protein [Sedimenticola selenatireducens],Sedimenticola selenatireducens,308,308,88%,1.00E-102,59.52,266,WP_029135175.1
+ParA family protein [Sedimenticola thiotaurini],Sedimenticola thiotaurini,307,307,93%,2.00E-102,56.39,266,WP_046859116.1
+ParA family protein [Thiogranum longum],Thiogranum longum,305,305,93%,1.00E-101,57.14,266,WP_132972953.1
+ParA family protein [Methylophaga muralis],Methylophaga muralis,303,303,91%,6.00E-101,57.69,264,WP_069294988.1
+AAA family ATPase [Aquisalimonas sp. 2447],Aquisalimonas sp. 2447,302,302,92%,2.00E-100,57.2,264,WP_167782685.1
+ParA family protein [Halorhodospira halochloris],Halorhodospira halochloris,301,301,94%,3.00E-100,55.51,264,WP_096410121.1
+ParA family protein [Aeromonas media],Aeromonas media,301,301,87%,6.00E-100,59.6,264,WP_005333024.1
+ParA family protein [Thiohalospira halophila],Thiohalospira halophila,301,301,90%,6.00E-100,55.86,264,WP_093427382.1
+ParA family protein [Aquisalimonas asiatica],Aquisalimonas asiatica,301,301,92%,7.00E-100,58.02,264,WP_091640014.1
+ParA family protein [Halorhodospira halophila],Halorhodospira halophila,300,300,90%,1.00E-99,57.03,265,WP_011813283.1
+ParA family protein [Sulfuriflexus mobilis],Sulfuriflexus mobilis,299,299,92%,3.00E-99,53.82,266,WP_126453826.1
+ParA family protein [Aeromonas tecta],Aeromonas tecta,299,299,88%,4.00E-99,59.13,264,WP_050719409.1
+ParA family protein [Aeromonas taiwanensis],Aeromonas taiwanensis,299,299,87%,4.00E-99,59.6,264,WP_043761965.1
+ParA family protein [Aeromonas lusitana],Aeromonas lusitana,298,298,88%,6.00E-99,59.13,264,WP_100860341.1
+ParA family protein [Aeromonas encheleia],Aeromonas encheleia,298,298,87%,8.00E-99,59.44,264,WP_042652588.1
+MULTISPECIES: ParA family protein [Aeromonas],Aeromonas,298,298,87%,9.00E-99,59.6,264,WP_010673940.1
+ParA family protein [Aeromonas sanarellii],Aeromonas sanarellii,297,297,87%,2.00E-98,59.2,264,WP_042076855.1
+ParA family protein [Aeromonas aquatica],Aeromonas aquatica,297,297,87%,2.00E-98,59.04,264,WP_033130832.1
+MULTISPECIES: ParA family protein [Aeromonas],Aeromonas,296,296,87%,3.00E-98,58.8,264,WP_005334696.1
+ParA family protein [Thiorhodospira sibirica],Thiorhodospira sibirica,296,296,92%,3.00E-98,53.61,265,WP_006786140.1
+ParA family protein [Aeromonas piscicola],Aeromonas piscicola,296,296,88%,7.00E-98,58.1,264,WP_042872024.1
+MULTISPECIES: ParA family protein [Aeromonas],Aeromonas,295,295,88%,7.00E-98,58.5,264,WP_042020303.1
+ParA family protein [Aeromonas rivuli],Aeromonas rivuli,295,295,88%,9.00E-98,58.33,264,WP_042043829.1
+ParA family protein [Aeromonas eucrenophila],Aeromonas eucrenophila,295,295,87%,1.00E-97,58.63,264,WP_042642227.1
+ParA family protein [Aeromonas fluvialis],Aeromonas fluvialis,295,295,87%,1.00E-97,58.4,264,WP_042011666.1
+MULTISPECIES: ParA family protein [Aeromonas],Aeromonas,295,295,88%,1.00E-97,57.71,264,WP_005298826.1
+MULTISPECIES: ParA family protein [Aeromonas],Aeromonas,295,295,87%,1.00E-97,58.8,264,WP_042060512.1
+MULTISPECIES: ParA family protein [Aeromonas],Aeromonas,295,295,87%,1.00E-97,58.4,264,WP_005353663.1
+ParA family protein [Arhodomonas aquaeolei],Arhodomonas aquaeolei,294,294,92%,2.00E-97,54.96,267,WP_018717386.1
+MULTISPECIES: ParA family protein [Aeromonas],Aeromonas,294,294,88%,2.00E-97,57.71,264,WP_043555988.1
+ParA family protein [Pseudomonas duriflava],Pseudomonas duriflava,293,293,92%,5.00E-97,56.82,262,WP_145142152.1
+MULTISPECIES: ParA family protein [Aeromonas],Aeromonas,293,293,88%,5.00E-97,57.31,264,WP_011705294.1
+ParA family protein [Aeromonas salmonicida],Aeromonas salmonicida,293,293,88%,6.00E-97,57.71,264,WP_011898511.1
+ParA family protein [Psychromonas aquimarina],Psychromonas aquimarina,292,292,90%,1.00E-96,57.59,257,WP_028862495.1
+ParA family protein [Aeromonas enteropelogenes],Aeromonas enteropelogenes,292,292,88%,1.00E-96,57.31,264,WP_026456541.1
+MULTISPECIES: ParA family protein [Aeromonas],Aeromonas,292,292,88%,2.00E-96,57.31,264,WP_033114443.1
+ParA family protein [Alkalispirillum mobile],Alkalispirillum mobile,292,292,88%,2.00E-96,57.31,265,WP_121442387.1
+MULTISPECIES: ParA family protein [Pseudomonas],Pseudomonas,291,291,92%,2.00E-96,56.06,262,WP_099523114.1
+MULTISPECIES: ParA family protein [Pseudomonas],Pseudomonas,291,291,92%,2.00E-96,55.68,262,WP_003460780.1
+ParA family protein [Alkalilimnicola ehrlichii],Alkalilimnicola ehrlichii,291,291,88%,3.00E-96,56.92,265,WP_011628738.1
+ParA family protein [Aeromonas popoffii],Aeromonas popoffii,291,291,88%,3.00E-96,56.92,264,WP_042034086.1
+ParA family protein [Pseudomonas alcaliphila],Pseudomonas alcaliphila,291,291,92%,3.00E-96,55.68,262,WP_074681214.1
+MULTISPECIES: ParA family protein [Pseudomonas],Pseudomonas,291,291,92%,3.00E-96,56.87,262,WP_024765935.1
+MULTISPECIES: ParA family protein [Pseudomonas],Pseudomonas,291,291,92%,3.00E-96,55.68,262,WP_021489627.1
+ParA family protein [Aeromonas molluscorum],Aeromonas molluscorum,291,291,88%,3.00E-96,57.14,264,WP_005912726.1
+AAA family ATPase [Pseudomonas multiresinivorans],Pseudomonas multiresinivorans,291,291,92%,4.00E-96,56.87,262,WP_169939919.1
+ParA family protein [Methylophaga aminisulfidivorans],Methylophaga aminisulfidivorans,291,291,88%,6.00E-96,55.56,262,WP_007146655.1
+MULTISPECIES: ParA family protein [Pseudomonas],Pseudomonas,291,291,92%,6.00E-96,55.68,262,WP_084340998.1
+MULTISPECIES: ParA family protein [Pseudomonas],Pseudomonas,291,291,92%,6.00E-96,55.68,262,WP_013715005.1
+ParA family protein [Pseudomonas guguanensis],Pseudomonas guguanensis,290,290,92%,7.00E-96,55.3,262,WP_090432543.1
+ParA family protein [Methylophaga sulfidovorans],Methylophaga sulfidovorans,290,290,88%,9.00E-96,55.16,262,WP_091712582.1
+ParA family protein [Aeromonas cavernicola],Aeromonas cavernicola,290,290,88%,1.00E-95,55.95,264,WP_100292449.1
+ParA family protein [Aeromonas bivalvium],Aeromonas bivalvium,290,290,88%,1.00E-95,56.92,264,WP_111872854.1
+ParA family protein [Psychromonas ossibalaenae],Psychromonas ossibalaenae,290,290,89%,1.00E-95,57.25,257,WP_019613239.1
+ParA family protein [Ectothiorhodospira magna],Ectothiorhodospira magna,290,290,91%,1.00E-95,53.26,265,WP_090207533.1
+AAA family ATPase [Pseudomonas composti],Pseudomonas composti,290,290,92%,2.00E-95,55.34,262,WP_179527346.1
+MULTISPECIES: ParA family protein [Pseudomonas],Pseudomonas,289,289,92%,2.00E-95,55.34,262,WP_037050478.1
+ParA family protein [Aeromonas diversa],Aeromonas diversa,289,289,88%,3.00E-95,57.54,264,WP_005357662.1
+MULTISPECIES: ParA family protein [Pseudomonas],Pseudomonas,289,289,92%,3.00E-95,56.27,263,WP_074825274.1
+MULTISPECIES: ParA family protein [Pseudomonas],Pseudomonas,288,288,89%,4.00E-95,57.65,262,WP_073301535.1
+MULTISPECIES: ParA family protein [Pseudomonas],Pseudomonas,288,288,92%,4.00E-95,55.34,262,WP_027597964.1
+ParA family protein [Aeromonas schubertii],Aeromonas schubertii,288,288,88%,5.00E-95,57.14,264,WP_050667136.1
+ParA family protein [Aeromonas simiae],Aeromonas simiae,288,288,88%,5.00E-95,57.14,264,WP_193003777.1
+MULTISPECIES: ParA family protein [Pseudomonas],Pseudomonas,288,288,92%,8.00E-95,56.27,263,WP_150347625.1
+ParA family protein [Pseudomonas formosensis],Pseudomonas formosensis,288,288,92%,1.00E-94,55.26,264,WP_090537742.1
+ParA family protein [Oceanospirillum multiglobuliferum],Oceanospirillum multiglobuliferum,288,288,94%,1.00E-94,52.61,269,WP_078743938.1
+ParA family protein [Pseudomonas indoloxydans],Pseudomonas indoloxydans,287,287,92%,2.00E-94,55.3,262,WP_108234522.1
+AAA family ATPase [Pseudomonas asuensis],Pseudomonas asuensis,286,286,92%,2.00E-94,55.51,263,WP_188865267.1
+ParA family protein [Pseudomonas hussainii],Pseudomonas hussainii,286,286,92%,2.00E-94,56.27,262,WP_071870638.1
+ParA family protein [Pseudomonas flavescens],Pseudomonas flavescens,286,286,92%,3.00E-94,55.3,262,WP_084307805.1
+ParA family protein [Alteromonas aestuariivivens],Alteromonas aestuariivivens,286,286,87%,3.00E-94,54.22,258,WP_115593422.1
+ParA family protein [Pseudomonas yangmingensis],Pseudomonas yangmingensis,286,286,89%,4.00E-94,57.25,271,WP_093471580.1
+ParA family protein [Pseudomonas jinjuensis],Pseudomonas jinjuensis,286,286,92%,5.00E-94,54.96,262,WP_084311317.1
+MULTISPECIES: ParA family protein [Pseudomonas],Pseudomonas,286,286,90%,5.00E-94,57.31,262,WP_015276595.1
+ParA family protein [Reinekea marinisedimentorum],Reinekea marinisedimentorum,285,285,89%,5.00E-94,53.75,254,WP_132702161.1
+ParA family protein [Pseudomonas zhaodongensis],Pseudomonas zhaodongensis,286,286,89%,5.00E-94,56.86,262,WP_122164266.1
+MULTISPECIES: ParA family protein [Pseudomonas],Pseudomonas,286,286,92%,5.00E-94,54.58,262,WP_058761266.1
+ParA family protein [Gayadomonas joobiniege],Gayadomonas joobiniege,285,285,89%,6.00E-94,54.33,254,WP_017444716.1
+ParA family protein [Marinimicrobium koreense],Marinimicrobium koreense,286,286,92%,6.00E-94,52.81,268,WP_123637230.1
+ParA family protein [Pseudomonas chloritidismutans],Pseudomonas chloritidismutans,285,285,90%,9.00E-94,56.98,262,WP_031298305.1
+ParA family protein [Agarivorans gilvus],Agarivorans gilvus,285,285,89%,1.00E-93,54.51,261,WP_055732188.1
+MULTISPECIES: ParA family protein [Pseudomonas],Pseudomonas,285,285,90%,1.00E-93,56.98,262,WP_014820844.1
+ParA family protein [Pseudomonas panipatensis],Pseudomonas panipatensis,285,285,92%,1.00E-93,56.06,262,WP_090262550.1
+MULTISPECIES: ParA family protein [Pseudomonas],Pseudomonas,285,285,92%,1.00E-93,55.68,262,WP_028626571.1
+ParA family protein [Pseudomonas alcaligenes],Pseudomonas alcaligenes,285,285,92%,1.00E-93,55.73,262,WP_021702584.1
+AAA family ATPase [Pseudomonas knackmussii],Pseudomonas knackmussii,285,285,92%,1.00E-93,55.3,262,WP_160286257.1
+AAA family ATPase [Pseudomonas stutzeri],Pseudomonas stutzeri,285,285,90%,1.00E-93,56.98,262,WP_196112191.1
+ParA family protein [Marinimicrobium alkaliphilum],Marinimicrobium alkaliphilum,285,285,92%,2.00E-93,53.38,267,WP_111640558.1
+MULTISPECIES: ParA family protein [Pseudomonas],Pseudomonas,284,284,89%,2.00E-93,56.64,262,WP_014852076.1
+MULTISPECIES: ParA family protein [Pseudomonas],Pseudomonas,284,284,90%,2.00E-93,56.92,262,WP_010225035.1
+ParA family protein [Pseudospirillum japonicum],Pseudospirillum japonicum,284,284,90%,2.00E-93,56.64,265,WP_093308475.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,
