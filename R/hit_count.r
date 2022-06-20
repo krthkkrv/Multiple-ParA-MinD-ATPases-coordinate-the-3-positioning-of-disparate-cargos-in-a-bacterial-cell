@@ -1,6 +1,6 @@
 # To count through a column in a data frame and generate a counts list. (for example coutning the number of ParA hits per species)
 # Requires a data frame, and mention the column you want to count
-# output is a data frame with two columns; the name of the element counted and the count
+# Output is a data frame with two columns; the name of the element counted and the count
 hit_count <- function(df, count_clmn){
   name2_list <- unique(df[,count_clmn])
   final_output <- data.frame()
