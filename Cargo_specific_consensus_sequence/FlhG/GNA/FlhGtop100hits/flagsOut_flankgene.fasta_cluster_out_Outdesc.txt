@@ -1,0 +1,772 @@
+1(1)	WP_019556699.1	WP_019556699.1 RNA polymerase sigma factor FliA 
+1(1)	WP_018717381.1	WP_018717381.1 MULTISPECIES: RNA polymerase sigma factor FliA 
+1(1)	WP_062537344.1	WP_062537344.1 RNA polymerase sigma factor FliA 
+1(1)	WP_123768449.1	WP_123768449.1 RNA polymerase sigma factor FliA 
+1(1)	WP_189376813.1	WP_189376813.1 RNA polymerase sigma factor FliA 
+1(1)	WP_189446492.1	WP_189446492.1 RNA polymerase sigma factor FliA 
+1(1)	WP_025011073.1	WP_025011073.1 MULTISPECIES: RNA polymerase sigma factor FliA 
+1(1)	WP_029889995.1	WP_029889995.1 RNA polymerase sigma factor FliA 
+1(1)	WP_127470489.1	WP_127470489.1 RNA polymerase sigma factor FliA 
+1(1)	WP_133479874.1	WP_133479874.1 RNA polymerase sigma factor FliA 
+1(1)	WP_203324272.1	WP_203324272.1 RNA polymerase sigma factor FliA 
+1(1)	WP_083699971.1	WP_083699971.1 RNA polymerase sigma factor FliA 
+1(1)	WP_029921485.1	WP_029921485.1 RNA polymerase sigma factor FliA 
+1(1)	WP_205623281.1	WP_205623281.1 RNA polymerase sigma factor FliA 
+1(1)	WP_078759047.1	WP_078759047.1 RNA polymerase sigma factor FliA 
+1(1)	WP_194932222.1	WP_194932222.1 RNA polymerase sigma factor FliA 
+1(1)	WP_133883398.1	WP_133883398.1 RNA polymerase sigma factor FliA 
+1(1)	WP_143563279.1	WP_143563279.1 RNA polymerase sigma factor FliA 
+1(1)	WP_011919600.1	WP_011919600.1 RNA polymerase sigma factor FliA 
+1(1)	WP_013034481.1	WP_013034481.1 RNA polymerase sigma factor FliA 
+1(1)	WP_125180111.1	WP_125180111.1 RNA polymerase sigma factor FliA 
+1(1)	WP_055025013.1	WP_055025013.1 MULTISPECIES: RNA polymerase sigma factor FliA 
+1(1)	WP_022975054.1	WP_022975054.1 RNA polymerase sigma factor FliA 
+1(1)	WP_004999329.1	WP_004999329.1 RNA polymerase sigma factor FliA 
+1(1)	WP_012143383.1	WP_012143383.1 RNA polymerase sigma factor FliA 
+1(1)	WP_077753857.1	WP_077753857.1 RNA polymerase sigma factor FliA 
+1(1)	WP_028486272.1	WP_028486272.1 RNA polymerase sigma factor FliA 
+1(1)	WP_041354711.1	WP_041354711.1 RNA polymerase sigma factor FliA 
+1(1)	WP_123400545.1	WP_123400545.1 RNA polymerase sigma factor FliA 
+1(1)	WP_006082388.1	WP_006082388.1 RNA polymerase sigma factor FliA 
+1(1)	WP_043888170.1	WP_043888170.1 RNA polymerase sigma factor FliA 
+1(1)	WP_156227930.1	WP_156227930.1 RNA polymerase sigma factor FliA 
+1(1)	WP_090207548.1	WP_090207548.1 RNA polymerase sigma factor FliA 
+1(1)	WP_202719853.1	WP_202719853.1 RNA polymerase sigma factor FliA 
+1(1)	WP_011327502.1	WP_011327502.1 MULTISPECIES: RNA polymerase sigma factor FliA 
+1(1)	WP_104230257.1	WP_104230257.1 RNA polymerase sigma factor FliA 
+1(1)	WP_057657370.1	WP_057657370.1 RNA polymerase sigma factor FliA 
+1(1)	WP_074201379.1	WP_074201379.1 RNA polymerase sigma factor FliA 
+1(1)	WP_130537763.1	WP_130537763.1 RNA polymerase sigma factor FliA 
+1(1)	WP_110265846.1	WP_110265846.1 RNA polymerase sigma factor FliA 
+1(1)	WP_017220962.1	WP_017220962.1 RNA polymerase sigma factor FliA 
+1(1)	WP_100142277.1	WP_100142277.1 RNA polymerase sigma factor FliA 
+1(1)	WP_070072235.1	WP_070072235.1 RNA polymerase sigma factor FliA 
+1(1)	WP_039035652.1	WP_039035652.1 MULTISPECIES: RNA polymerase sigma factor FliA 
+1(1)	WP_009837395.1	WP_009837395.1 RNA polymerase sigma factor FliA 
+1(1)	WP_085760559.1	WP_085760559.1 RNA polymerase sigma factor FliA 
+1(1)	WP_133589659.1	WP_133589659.1 RNA polymerase sigma factor FliA 
+1(1)	WP_121442383.1	WP_121442383.1 RNA polymerase sigma factor FliA 
+1(1)	WP_184426408.1	WP_184426408.1 RNA polymerase sigma factor FliA 
+1(1)	WP_012823602.1	WP_012823602.1 RNA polymerase sigma factor FliA 
+1(1)	WP_170949026.1	WP_170949026.1 RNA polymerase sigma factor FliA 
+1(1)	WP_065089276.1	WP_065089276.1 RNA polymerase sigma factor FliA 
+1(1)	WP_144899400.1	WP_144899400.1 RNA polymerase sigma factor FliA 
+1(1)	WP_086744010.1	WP_086744010.1 RNA polymerase sigma factor FliA 
+1(1)	WP_006786147.1	WP_006786147.1 RNA polymerase sigma factor FliA 
+1(1)	WP_136552596.1	WP_136552596.1 RNA polymerase sigma factor FliA 
+1(1)	WP_091532701.1	WP_091532701.1 RNA polymerase sigma factor FliA 
+1(1)	WP_011628733.1	WP_011628733.1 RNA polymerase sigma factor FliA 
+1(1)	WP_144209922.1	WP_144209922.1 RNA polymerase sigma factor FliA 
+1(1)	WP_177207278.1	WP_177207278.1 RNA polymerase sigma factor FliA 
+1(1)	WP_025821631.1	WP_025821631.1 RNA polymerase sigma factor FliA 
+1(1)	WP_206109539.1	WP_206109539.1 RNA polymerase sigma factor FliA 
+1(1)	WP_132544571.1	WP_132544571.1 RNA polymerase sigma factor FliA 
+1(1)	WP_134356516.1	WP_134356516.1 RNA polymerase sigma factor FliA 
+1(1)	WP_177169925.1	WP_177169925.1 RNA polymerase sigma factor FliA 
+1(1)	WP_088905028.1	WP_088905028.1 RNA polymerase sigma factor FliA 
+1(1)	WP_139349814.1	WP_139349814.1 RNA polymerase sigma factor FliA 
+1(1)	WP_037424757.1	WP_037424757.1 MULTISPECIES: RNA polymerase sigma factor FliA 
+1(3)	WP_008112209.1	WP_008112209.1 MULTISPECIES: RNA polymerase sigma factor FliA 
+1(1)	WP_011865184.1	WP_011865184.1 MULTISPECIES: RNA polymerase sigma factor FliA 
+1(1)	WP_181006264.1	WP_181006264.1 RNA polymerase sigma factor FliA 
+1(1)	WP_142903402.1	WP_142903402.1 RNA polymerase sigma factor FliA 
+1(1)	WP_012276571.1	WP_012276571.1 RNA polymerase sigma factor FliA 
+1(1)	WP_007186588.1	WP_007186588.1 RNA polymerase sigma factor FliA 
+1(1)	WP_126520221.1	WP_126520221.1 RNA polymerase sigma factor FliA 
+1(1)	WP_009727486.1	WP_009727486.1 RNA polymerase sigma factor FliA 
+1(1)	WP_167782689.1	WP_167782689.1 RNA polymerase sigma factor FliA 
+1(1)	WP_070985575.1	WP_070985575.1 MULTISPECIES: RNA polymerase sigma factor FliA 
+1(1)	WP_202946520.1	WP_202946520.1 RNA polymerase sigma factor FliA 
+1(1)	WP_011495787.1	WP_011495787.1 RNA polymerase sigma factor FliA 
+1(1)	WP_185896342.1	WP_185896342.1 RNA polymerase sigma factor FliA 
+1(1)	WP_162338460.1	WP_162338460.1 RNA polymerase sigma factor FliA 
+1(1)	WP_011330875.1	WP_011330875.1 RNA polymerase sigma factor FliA 
+1(1)	WP_189617498.1	WP_189617498.1 RNA polymerase sigma factor FliA 
+1(1)	WP_012637906.1	WP_012637906.1 RNA polymerase sigma factor FliA 
+1(1)	WP_040576680.1	WP_040576680.1 RNA polymerase sigma factor FliA 
+1(1)	WP_144816370.1	WP_144816370.1 RNA polymerase sigma factor FliA 
+1(1)	WP_019441909.1	WP_019441909.1 RNA polymerase sigma factor FliA 
+1(1)	WP_127477501.1	WP_127477501.1 RNA polymerase sigma factor FliA 
+1(1)	WP_026623758.1	WP_026623758.1 RNA polymerase sigma factor FliA 
+1(1)	WP_097120705.1	WP_097120705.1 RNA polymerase sigma factor FliA 
+1(1)	WP_126453810.1	WP_126453810.1 RNA polymerase sigma factor FliA 
+1(1)	WP_043765781.1	WP_043765781.1 RNA polymerase sigma factor FliA 
+1(1)	WP_020911700.1	WP_020911700.1 RNA polymerase sigma factor FliA 
+1(1)	WP_045111347.1	WP_045111347.1 RNA polymerase sigma factor FliA 
+1(1)	WP_115134900.1	WP_115134900.1 RNA polymerase sigma factor FliA 
+
+
+
+2(1)	WP_057657372.1	WP_057657372.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_189446494.1	WP_189446494.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_104229969.1	WP_104229969.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_090253836.1	WP_090253836.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_123768451.1	WP_123768451.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_052378625.1	WP_052378625.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_011865182.1	WP_011865182.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_144209925.1	WP_144209925.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_025821633.1	WP_025821633.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_006786149.1	WP_006786149.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_012823600.1	WP_012823600.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_040661597.1	WP_040661597.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_028833989.1	WP_028833989.1 MULTISPECIES: flagellar biosynthesis protein FlhF 
+2(1)	WP_012143385.1	WP_012143385.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_052367516.1	WP_052367516.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_162338462.1	WP_162338462.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_115134903.1	WP_115134903.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_126453806.1	WP_126453806.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_077278081.1	WP_077278081.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_028486270.1	WP_028486270.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_002811219.1	WP_002811219.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_133589663.1	WP_133589663.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_134053810.1	WP_134053810.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_144816373.1	WP_144816373.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_126520220.1	WP_126520220.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_202719852.1	WP_202719852.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_037420382.1	WP_037420382.1 MULTISPECIES: flagellar biosynthesis protein FlhF 
+2(1)	WP_052064578.1	WP_052064578.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_008291481.1	WP_008291481.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_085759605.1	WP_085759605.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_086743853.1	WP_086743853.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_014703832.1	WP_014703832.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_009727488.1	WP_009727488.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_091532697.1	WP_091532697.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_133479865.1	WP_133479865.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_009837397.1	WP_009837397.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_039035651.1	WP_039035651.1 MULTISPECIES: flagellar biosynthesis protein FlhF 
+2(1)	WP_144899402.1	WP_144899402.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_069294980.1	WP_069294980.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_100142276.1	WP_100142276.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_011495785.1	WP_011495785.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_044555739.1	WP_044555739.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_077753858.1	WP_077753858.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_007186586.1	WP_007186586.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_007146646.1	WP_007146646.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_127477503.1	WP_127477503.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_070072233.1	WP_070072233.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_018717379.1	WP_018717379.1 MULTISPECIES: flagellar biosynthesis protein FlhF 
+2(1)	WP_011628731.1	WP_011628731.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_045111349.1	WP_045111349.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_070984545.1	WP_070984545.1 MULTISPECIES: flagellar biosynthesis protein FlhF 
+2(1)	WP_189617499.1	WP_189617499.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_013034483.1	WP_013034483.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_025281234.1	WP_025281234.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_014610973.1	WP_014610973.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_133883396.1	WP_133883396.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_019441907.1	WP_019441907.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_132544567.1	WP_132544567.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_130537765.1	WP_130537765.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_012637904.1	WP_012637904.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_123400543.1	WP_123400543.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_074201381.1	WP_074201381.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_121442382.1	WP_121442382.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_110265844.1	WP_110265844.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_091712597.1	WP_091712597.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_185896340.1	WP_185896340.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_184426364.1	WP_184426364.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_078759045.1	WP_078759045.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_033540678.1	WP_033540678.1 MULTISPECIES: flagellar biosynthesis protein FlhF 
+2(1)	WP_022975052.1	WP_022975052.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_006082390.1	WP_006082390.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_156227926.1	WP_156227926.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_019556701.1	WP_019556701.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_090207553.1	WP_090207553.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_062537343.1	WP_062537343.1 flagellar biosynthesis protein FlhF, partial 
+2(1)	WP_097120703.1	WP_097120703.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_013465549.1	WP_013465549.1 MULTISPECIES: flagellar biosynthesis protein FlhF 
+2(1)	WP_189376618.1	WP_189376618.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_181006271.1	WP_181006271.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_012276569.1	WP_012276569.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_125180113.1	WP_125180113.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_076836672.1	WP_076836672.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_097112258.1	WP_097112258.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_027672709.1	WP_027672709.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_127470487.1	WP_127470487.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_115388934.1	WP_115388934.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_017220964.1	WP_017220964.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_029921487.1	WP_029921487.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_193038479.1	WP_193038479.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_055025015.1	WP_055025015.1 MULTISPECIES: flagellar biosynthesis protein FlhF 
+2(1)	WP_143563278.1	WP_143563278.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_014708081.1	WP_014708081.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_194932220.1	WP_194932220.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_203324273.1	WP_203324273.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_167782690.1	WP_167782690.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_142903401.1	WP_142903401.1 flagellar biosynthesis protein FlhF 
+2(1)	WP_134356517.1	WP_134356517.1 flagellar biosynthesis protein FlhF 
+
+
+
+3(1)	WP_197181916.1	WP_197181916.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_133589665.1	WP_133589665.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_002811511.1	WP_002811511.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_045111350.1	WP_045111350.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_070072232.1	WP_070072232.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_012143386.1	WP_012143386.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_110265843.1	WP_110265843.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_100142275.1	WP_100142275.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_078759044.1	WP_078759044.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_126520219.1	WP_126520219.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_009727489.1	WP_009727489.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_039035650.1	WP_039035650.1 MULTISPECIES: flagellar biosynthesis protein FlhA 
+3(1)	WP_115134904.1	WP_115134904.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_091532695.1	WP_091532695.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_007146645.1	WP_007146645.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_057657373.1	WP_057657373.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_011495784.1	WP_011495784.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_133479864.1	WP_133479864.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_074201382.1	WP_074201382.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_134053808.1	WP_134053808.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_025281233.1	WP_025281233.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_121442381.1	WP_121442381.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_189376619.1	WP_189376619.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_028486269.1	WP_028486269.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_077753859.1	WP_077753859.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_009837398.1	WP_009837398.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_207766043.1	WP_207766043.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_014708080.1	WP_014708080.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_189448701.1	WP_189448701.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_019441906.1	WP_019441906.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_090207556.1	WP_090207556.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_013034484.1	WP_013034484.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_070984543.1	WP_070984543.1 MULTISPECIES: flagellar biosynthesis protein FlhA 
+3(1)	WP_040662871.1	WP_040662871.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_144209928.1	WP_144209928.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_132544565.1	WP_132544565.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_133883395.1	WP_133883395.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_123400541.1	WP_123400541.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_169560538.1	WP_169560538.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_144899661.1	WP_144899661.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_019556702.1	WP_019556702.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_194932306.1	WP_194932306.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_088905030.1	WP_088905030.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_127470486.1	WP_127470486.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_126453805.1	WP_126453805.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_029921488.1	WP_029921488.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_144816413.1	WP_144816413.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_134356518.1	WP_134356518.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_011788786.1	WP_011788786.1 MULTISPECIES: flagellar biosynthesis protein FlhA 
+3(1)	WP_133038541.1	WP_133038541.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_018717378.1	WP_018717378.1 MULTISPECIES: flagellar biosynthesis protein FlhA 
+3(1)	WP_156227924.1	WP_156227924.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_020911697.1	WP_020911697.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_084191356.1	WP_084191356.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_017220965.1	WP_017220965.1 flagellar biosynthesis protein FlhA 
+3(3)	WP_008112204.1	WP_008112204.1 MULTISPECIES: flagellar biosynthesis protein FlhA 
+3(1)	WP_025821634.1	WP_025821634.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_203324274.1	WP_203324274.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_012276568.1	WP_012276568.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_076836671.1	WP_076836671.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_202719851.1	WP_202719851.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_198003268.1	WP_198003268.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_012637903.1	WP_012637903.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_055025016.1	WP_055025016.1 MULTISPECIES: flagellar biosynthesis protein FlhA 
+3(1)	WP_127477504.1	WP_127477504.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_011865181.1	WP_011865181.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_162125697.1	WP_162125697.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_130537766.1	WP_130537766.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_077278080.1	WP_077278080.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_028779136.1	WP_028779136.1 MULTISPECIES: flagellar biosynthesis protein FlhA 
+3(1)	WP_167782691.1	WP_167782691.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_065089277.1	WP_065089277.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_184426367.1	WP_184426367.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_091712599.1	WP_091712599.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_027672708.1	WP_027672708.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_086743854.1	WP_086743854.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_006786150.1	WP_006786150.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_090253838.1	WP_090253838.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_029889992.1	WP_029889992.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_151194724.1	WP_151194724.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_037420379.1	WP_037420379.1 MULTISPECIES: flagellar biosynthesis protein FlhA 
+3(1)	WP_097112257.1	WP_097112257.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_085759604.1	WP_085759604.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_142903268.1	WP_142903268.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_008291226.1	WP_008291226.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_162338463.1	WP_162338463.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_143563277.1	WP_143563277.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_185896339.1	WP_185896339.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_006082391.1	WP_006082391.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_160796592.1	WP_160796592.1 flagellar biosynthesis protein FlhA 
+3(1)	WP_123769573.1	WP_123769573.1 flagellar biosynthesis protein FlhA 
+
+
+
+4(1)	WP_205623276.1	WP_205623276.1 chemotaxis response regulator CheY 
+4(1)	WP_133479867.1	WP_133479867.1 chemotaxis response regulator CheY 
+4(1)	WP_006786146.1	WP_006786146.1 chemotaxis protein CheY 
+4(1)	WP_029889996.1	WP_029889996.1 chemotaxis response regulator CheY 
+4(1)	WP_007186589.1	WP_007186589.1 chemotaxis protein CheY 
+4(1)	WP_040576613.1	WP_040576613.1 MULTISPECIES: chemotaxis response regulator CheY 
+4(1)	WP_006082387.1	WP_006082387.1 MULTISPECIES: chemotaxis response regulator CheY 
+4(1)	WP_082306620.1	WP_082306620.1 chemotaxis response regulator CheY 
+4(1)	WP_123400547.1	WP_123400547.1 response regulator 
+4(1)	WP_115134899.1	WP_115134899.1 chemotaxis response regulator CheY 
+4(1)	WP_078759048.1	WP_078759048.1 chemotaxis response regulator CheY 
+4(1)	WP_123768448.1	WP_123768448.1 chemotaxis protein CheY 
+4(1)	WP_133883399.1	WP_133883399.1 chemotaxis protein CheY 
+4(1)	WP_025281237.1	WP_025281237.1 chemotaxis response regulator CheY 
+4(2)	WP_017220961.1	WP_017220961.1 MULTISPECIES: chemotaxis response regulator CheY 
+4(1)	WP_040643650.1	WP_040643650.1 chemotaxis response regulator CheY 
+4(2)	WP_012276572.1	WP_012276572.1 MULTISPECIES: chemotaxis response regulator CheY 
+4(1)	WP_126453812.1	WP_126453812.1 chemotaxis response regulator CheY 
+4(1)	WP_189446491.1	WP_189446491.1 chemotaxis response regulator CheY 
+4(1)	WP_007146649.1	WP_007146649.1 chemotaxis response regulator CheY 
+4(1)	WP_057657539.1	WP_057657539.1 chemotaxis protein CheY 
+4(1)	WP_090207683.1	WP_090207683.1 chemotaxis protein CheY 
+4(1)	WP_195742672.1	WP_195742672.1 chemotaxis response regulator CheY 
+4(1)	WP_019556698.1	WP_019556698.1 chemotaxis protein CheY 
+4(1)	WP_197723410.1	WP_197723410.1 response regulator 
+4(1)	WP_038092303.1	WP_038092303.1 chemotaxis protein CheY 
+4(1)	WP_083250979.1	WP_083250979.1 chemotaxis protein CheY 
+4(1)	WP_019441910.1	WP_019441910.1 chemotaxis response regulator CheY 
+4(1)	WP_206109480.1	WP_206109480.1 chemotaxis response regulator CheY 
+4(1)	WP_011760392.1	WP_011760392.1 chemotaxis response regulator CheY 
+4(1)	WP_121442524.1	WP_121442524.1 chemotaxis protein CheY 
+4(1)	WP_074201444.1	WP_074201444.1 chemotaxis protein CheY 
+4(1)	WP_097120806.1	WP_097120806.1 chemotaxis response regulator CheY 
+4(1)	WP_022975055.1	WP_022975055.1 chemotaxis protein CheY 
+4(1)	WP_133038538.1	WP_133038538.1 chemotaxis response regulator CheY 
+4(1)	WP_011628734.1	WP_011628734.1 chemotaxis response regulator CheY 
+4(1)	WP_200858815.1	WP_200858815.1 chemotaxis response regulator CheY 
+4(1)	WP_012324268.1	WP_012324268.1 MULTISPECIES: chemotaxis response regulator CheY 
+4(1)	WP_014708084.1	WP_014708084.1 chemotaxis response regulator CheY 
+4(1)	WP_176718893.1	WP_176718893.1 chemotaxis response regulator CheY 
+4(1)	WP_104229967.1	WP_104229967.1 chemotaxis protein CheY 
+4(4)	WP_020911701.1	WP_020911701.1 MULTISPECIES: chemotaxis response regulator CheY 
+4(1)	WP_011327503.1	WP_011327503.1 MULTISPECIES: chemotaxis response regulator CheY 
+4(1)	WP_097112261.1	WP_097112261.1 chemotaxis protein CheY 
+4(1)	WP_162338496.1	WP_162338496.1 MULTISPECIES: response regulator 
+4(1)	WP_144899660.1	WP_144899660.1 chemotaxis response regulator CheY 
+4(1)	WP_012637907.1	WP_012637907.1 chemotaxis response regulator CheY 
+4(1)	WP_206609482.1	WP_206609482.1 chemotaxis response regulator CheY 
+4(1)	WP_110265847.1	WP_110265847.1 chemotaxis protein CheY 
+4(1)	WP_133589973.1	WP_133589973.1 chemotaxis protein CheY 
+4(1)	WP_206199158.1	WP_206199158.1 chemotaxis response regulator CheY 
+4(1)	WP_077278096.1	WP_077278096.1 chemotaxis response regulator CheY 
+4(1)	WP_091532703.1	WP_091532703.1 chemotaxis protein CheY 
+4(1)	WP_157117985.1	WP_157117985.1 response regulator 
+4(3)	WP_008112210.1	WP_008112210.1 MULTISPECIES: chemotaxis response regulator CheY 
+4(1)	WP_162111282.1	WP_162111282.1 chemotaxis response regulator CheY 
+4(1)	WP_080916243.1	WP_080916243.1 MULTISPECIES: chemotaxis response regulator CheY 
+4(2)	WP_011865185.1	WP_011865185.1 MULTISPECIES: chemotaxis response regulator CheY 
+4(1)	WP_029921484.1	WP_029921484.1 chemotaxis protein CheY 
+4(1)	WP_127477500.1	WP_127477500.1 chemotaxis response regulator CheY 
+4(3)	WP_025011074.1	WP_025011074.1 MULTISPECIES: chemotaxis response regulator CheY 
+4(1)	WP_136867556.1	WP_136867556.1 MULTISPECIES: chemotaxis response regulator CheY 
+4(1)	WP_007649667.1	WP_007649667.1 MULTISPECIES: chemotaxis response regulator CheY 
+4(1)	WP_144816368.1	WP_144816368.1 chemotaxis response regulator CheY 
+4(1)	WP_202811615.1	WP_202811615.1 chemotaxis response regulator CheY 
+4(1)	WP_011495788.1	WP_011495788.1 chemotaxis response regulator CheY 
+4(1)	WP_014703835.1	WP_014703835.1 chemotaxis response regulator CheY 
+4(1)	WP_026320972.1	WP_026320972.1 MULTISPECIES: chemotaxis protein CheY 
+4(1)	WP_028486273.1	WP_028486273.1 chemotaxis protein CheY 
+4(1)	WP_063465161.1	WP_063465161.1 MULTISPECIES: chemotaxis response regulator CheY 
+4(1)	WP_070984550.1	WP_070984550.1 MULTISPECIES: chemotaxis response regulator CheY 
+4(2)	WP_184426359.1	WP_184426359.1 MULTISPECIES: chemotaxis response regulator CheY 
+4(1)	WP_086743851.1	WP_086743851.1 chemotaxis response regulator CheY 
+4(1)	WP_167784221.1	WP_167784221.1 chemotaxis response regulator CheY 
+4(1)	WP_081953870.1	WP_081953870.1 MULTISPECIES: chemotaxis response regulator CheY 
+4(1)	WP_193559182.1	WP_193559182.1 chemotaxis response regulator CheY 
+4(1)	WP_012823603.1	WP_012823603.1 chemotaxis response regulator CheY 
+4(1)	WP_194932223.1	WP_194932223.1 chemotaxis response regulator CheY 
+4(1)	WP_142903270.1	WP_142903270.1 chemotaxis response regulator CheY 
+4(1)	WP_043765783.1	WP_043765783.1 chemotaxis protein CheY 
+
+
+
+5(1)	WP_078759043.1	WP_078759043.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_189376620.1	WP_189376620.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_133589667.1	WP_133589667.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_009727490.1	WP_009727490.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_115134905.1	WP_115134905.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_130537767.1	WP_130537767.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_028486268.1	WP_028486268.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_011788785.1	WP_011788785.1 MULTISPECIES: flagellar biosynthesis protein FlhB 
+5(1)	WP_012637902.1	WP_012637902.1 flagellar type III secretion system protein FlhB 
+5(1)	WP_077278079.1	WP_077278079.1 flagellar type III secretion system protein FlhB 
+5(1)	WP_011865180.1	WP_011865180.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_070984540.1	WP_070984540.1 MULTISPECIES: flagellar biosynthesis protein FlhB 
+5(1)	WP_127477505.1	WP_127477505.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_144209931.1	WP_144209931.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_097120701.1	WP_097120701.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_203324275.1	WP_203324275.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_045111351.1	WP_045111351.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_160796594.1	WP_160796594.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_017220966.1	WP_017220966.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_006786151.1	WP_006786151.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_091712601.1	WP_091712601.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_100142274.1	WP_100142274.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_091532693.1	WP_091532693.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_133479863.1	WP_133479863.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_011495783.1	WP_011495783.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_013034485.1	WP_013034485.1 flagellar type III secretion system protein FlhB 
+5(1)	WP_014703830.1	WP_014703830.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_044734083.1	WP_044734083.1 MULTISPECIES: flagellar biosynthesis protein FlhB 
+5(1)	WP_162338464.1	WP_162338464.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_012143387.1	WP_012143387.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_123400539.1	WP_123400539.1 flagellar type III secretion system protein FlhB 
+5(1)	WP_143563276.1	WP_143563276.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_185896338.1	WP_185896338.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_202719850.1	WP_202719850.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_134356519.1	WP_134356519.1 flagellar type III secretion system protein FlhB 
+5(1)	WP_039035649.1	WP_039035649.1 MULTISPECIES: flagellar biosynthesis protein FlhB 
+5(1)	WP_194932219.1	WP_194932219.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_088905031.1	WP_088905031.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_070072231.1	WP_070072231.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_184426369.1	WP_184426369.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_127470485.1	WP_127470485.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_004999325.1	WP_004999325.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_104229971.1	WP_104229971.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_125180114.1	WP_125180114.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_189446496.1	WP_189446496.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_076836670.1	WP_076836670.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_014708079.1	WP_014708079.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_025821635.1	WP_025821635.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_008291270.1	WP_008291270.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_057657374.1	WP_057657374.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_126453803.1	WP_126453803.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_074201383.1	WP_074201383.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_097112256.1	WP_097112256.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_019556703.1	WP_019556703.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_018717377.1	WP_018717377.1 MULTISPECIES: flagellar biosynthesis protein FlhB 
+5(1)	WP_086743855.1	WP_086743855.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_090207558.1	WP_090207558.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_144344711.1	WP_144344711.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_012276567.1	WP_012276567.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_144899403.1	WP_144899403.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_002809906.1	WP_002809906.1 flagellar biosynthesis protein FlhB 
+5(3)	WP_013465550.1	WP_013465550.1 MULTISPECIES: flagellar biosynthesis protein FlhB 
+5(1)	WP_009837399.1	WP_009837399.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_065089278.1	WP_065089278.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_029921489.1	WP_029921489.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_012823599.1	WP_012823599.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_133883393.1	WP_133883393.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_156227922.1	WP_156227922.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_077753860.1	WP_077753860.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_011628729.1	WP_011628729.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_043765777.1	WP_043765777.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_144816375.1	WP_144816375.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_055025017.1	WP_055025017.1 MULTISPECIES: flagellar biosynthesis protein FlhB 
+5(1)	WP_025281232.1	WP_025281232.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_133038542.1	WP_133038542.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_123768452.1	WP_123768452.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_019441905.1	WP_019441905.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_134053806.1	WP_134053806.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_020911696.1	WP_020911696.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_167782692.1	WP_167782692.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_090253840.1	WP_090253840.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_027672707.1	WP_027672707.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_085759603.1	WP_085759603.1 flagellar type III secretion system protein FlhB 
+5(1)	WP_006082392.1	WP_006082392.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_121442380.1	WP_121442380.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_165904172.1	WP_165904172.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_126520218.1	WP_126520218.1 flagellar biosynthesis protein FlhB 
+5(1)	WP_197181917.1	WP_197181917.1 flagellar biosynthesis protein FlhB 
+
+
+
+6(1)	WP_077753856.1	WP_077753856.1 protein phosphatase CheZ 
+6(1)	WP_167782688.1	WP_167782688.1 protein phosphatase CheZ 
+6(1)	WP_012637908.1	WP_012637908.1 protein phosphatase CheZ 
+6(1)	WP_142903271.1	WP_142903271.1 protein phosphatase CheZ 
+6(1)	WP_134053816.1	WP_134053816.1 protein phosphatase CheZ 
+6(1)	WP_206045354.1	WP_206045354.1 protein phosphatase CheZ 
+6(1)	WP_019441911.1	WP_019441911.1 protein phosphatase CheZ 
+6(1)	WP_014703836.1	WP_014703836.1 protein phosphatase CheZ 
+6(1)	WP_012143381.1	WP_012143381.1 protein phosphatase CheZ 
+6(1)	WP_133883400.1	WP_133883400.1 protein phosphatase CheZ 
+6(1)	WP_160796584.1	WP_160796584.1 protein phosphatase CheZ 
+6(1)	WP_025281238.1	WP_025281238.1 protein phosphatase CheZ 
+6(1)	WP_057657369.1	WP_057657369.1 protein phosphatase CheZ 
+6(1)	WP_090253829.1	WP_090253829.1 protein phosphatase CheZ 
+6(1)	WP_126520222.1	WP_126520222.1 protein phosphatase CheZ 
+6(1)	WP_184426356.1	WP_184426356.1 protein phosphatase CheZ 
+6(1)	WP_091532705.1	WP_091532705.1 protein phosphatase CheZ 
+6(1)	WP_194932224.1	WP_194932224.1 protein phosphatase CheZ 
+6(1)	WP_011495789.1	WP_011495789.1 protein phosphatase CheZ 
+6(1)	WP_133589657.1	WP_133589657.1 protein phosphatase CheZ 
+6(1)	WP_185896343.1	WP_185896343.1 protein phosphatase CheZ 
+6(1)	WP_100142278.1	WP_100142278.1 protein phosphatase CheZ 
+6(1)	WP_038092300.1	WP_038092300.1 protein phosphatase CheZ 
+6(1)	WP_070984552.1	WP_070984552.1 MULTISPECIES: protein phosphatase CheZ 
+6(1)	WP_078759069.1	WP_078759069.1 protein phosphatase CheZ 
+6(1)	WP_014708085.1	WP_014708085.1 protein phosphatase CheZ 
+6(1)	WP_011788790.1	WP_011788790.1 MULTISPECIES: protein phosphatase CheZ 
+6(1)	WP_017220960.1	WP_017220960.1 protein phosphatase CheZ 
+6(1)	WP_052378626.1	WP_052378626.1 protein phosphatase CheZ 
+6(1)	WP_104229966.1	WP_104229966.1 protein phosphatase CheZ 
+6(1)	WP_012823604.1	WP_012823604.1 protein phosphatase CheZ 
+6(1)	WP_062537346.1	WP_062537346.1 protein phosphatase CheZ 
+6(1)	WP_027672713.1	WP_027672713.1 protein phosphatase CheZ 
+6(1)	WP_007186590.1	WP_007186590.1 protein phosphatase CheZ 
+6(1)	WP_156782202.1	WP_156782202.1 protein phosphatase CheZ 
+6(1)	WP_189376616.1	WP_189376616.1 protein phosphatase CheZ 
+6(1)	WP_121442384.1	WP_121442384.1 protein phosphatase CheZ 
+6(1)	WP_090207546.1	WP_090207546.1 protein phosphatase CheZ 
+6(1)	WP_011628735.1	WP_011628735.1 protein phosphatase CheZ 
+6(1)	WP_055025011.1	WP_055025011.1 MULTISPECIES: protein phosphatase CheZ 
+6(1)	WP_028486274.1	WP_028486274.1 protein phosphatase CheZ 
+6(1)	WP_051749026.1	WP_051749026.1 protein phosphatase CheZ 
+6(1)	WP_074201378.1	WP_074201378.1 protein phosphatase CheZ 
+6(1)	WP_110265848.1	WP_110265848.1 protein phosphatase CheZ 
+6(1)	WP_045111346.1	WP_045111346.1 protein phosphatase CheZ 
+6(1)	WP_019556697.1	WP_019556697.1 protein phosphatase CheZ 
+6(1)	WP_097112262.1	WP_097112262.1 protein phosphatase CheZ 
+6(1)	WP_033540674.1	WP_033540674.1 MULTISPECIES: protein phosphatase CheZ 
+6(1)	WP_144209916.1	WP_144209916.1 protein phosphatase CheZ 
+6(1)	WP_025011075.1	WP_025011075.1 MULTISPECIES: protein phosphatase CheZ 
+6(1)	WP_009837393.1	WP_009837393.1 protein phosphatase CheZ 
+6(1)	WP_006786145.1	WP_006786145.1 protein phosphatase CheZ 
+6(1)	WP_127477499.1	WP_127477499.1 protein phosphatase CheZ 
+6(1)	WP_006082386.1	WP_006082386.1 protein phosphatase CheZ 
+6(1)	WP_162338459.1	WP_162338459.1 protein phosphatase CheZ 
+6(1)	WP_144816366.1	WP_144816366.1 protein phosphatase CheZ 
+6(1)	WP_069294984.1	WP_069294984.1 MULTISPECIES: protein phosphatase CheZ 
+6(1)	WP_189446490.1	WP_189446490.1 protein phosphatase CheZ 
+6(1)	WP_086743850.1	WP_086743850.1 protein phosphatase CheZ 
+6(1)	WP_143563280.1	WP_143563280.1 protein phosphatase CheZ 
+6(1)	WP_020911702.1	WP_020911702.1 protein phosphatase CheZ 
+6(1)	WP_011865186.1	WP_011865186.1 MULTISPECIES: protein phosphatase CheZ 
+6(1)	WP_144899399.1	WP_144899399.1 protein phosphatase CheZ 
+6(1)	WP_126453814.1	WP_126453814.1 protein phosphatase CheZ 
+6(1)	WP_037420388.1	WP_037420388.1 MULTISPECIES: protein phosphatase CheZ 
+6(1)	WP_018717383.1	WP_018717383.1 MULTISPECIES: protein phosphatase CheZ 
+6(1)	WP_009727484.1	WP_009727484.1 protein phosphatase CheZ, partial 
+6(1)	WP_008291505.1	WP_008291505.1 protein phosphatase CheZ 
+6(1)	WP_052367517.1	WP_052367517.1 protein phosphatase CheZ 
+6(1)	WP_007146650.1	WP_007146650.1 protein phosphatase CheZ 
+6(1)	WP_136867557.1	WP_136867557.1 MULTISPECIES: protein phosphatase CheZ 
+6(1)	WP_203324271.1	WP_203324271.1 protein phosphatase CheZ 
+6(1)	WP_128583046.1	WP_128583046.1 protein phosphatase CheZ 
+6(1)	WP_097120706.1	WP_097120706.1 protein phosphatase CheZ 
+6(1)	WP_133479868.1	WP_133479868.1 protein phosphatase CheZ 
+6(1)	WP_011327504.1	WP_011327504.1 MULTISPECIES: protein phosphatase CheZ 
+6(1)	WP_028833990.1	WP_028833990.1 MULTISPECIES: protein phosphatase CheZ 
+6(1)	WP_022975056.1	WP_022975056.1 protein phosphatase CheZ 
+6(1)	WP_202719854.1	WP_202719854.1 protein phosphatase CheZ 
+6(1)	WP_115134897.1	WP_115134897.1 protein phosphatase CheZ 
+6(1)	WP_123768447.1	WP_123768447.1 protein phosphatase CheZ 
+6(1)	WP_039035653.1	WP_039035653.1 MULTISPECIES: protein phosphatase CheZ 
+6(1)	WP_130537762.1	WP_130537762.1 protein phosphatase CheZ 
+6(1)	WP_010387932.1	WP_010387932.1 MULTISPECIES: protein phosphatase CheZ 
+6(1)	WP_189617497.1	WP_189617497.1 protein phosphatase CheZ 
+6(1)	WP_012276573.1	WP_012276573.1 protein phosphatase CheZ 
+6(1)	WP_091712591.1	WP_091712591.1 protein phosphatase CheZ 
+6(1)	WP_125180110.1	WP_125180110.1 protein phosphatase CheZ 
+6(1)	WP_077278097.1	WP_077278097.1 protein phosphatase CheZ 
+
+
+
+7(1)	WP_078759049.1	WP_078759049.1 chemotaxis protein CheA 
+7(1)	WP_025281239.1	WP_025281239.1 chemotaxis protein CheA 
+7(1)	WP_097120707.1	WP_097120707.1 chemotaxis protein CheA 
+7(1)	WP_184426353.1	WP_184426353.1 chemotaxis protein CheA 
+7(1)	WP_070984553.1	WP_070984553.1 MULTISPECIES: chemotaxis protein CheA 
+7(1)	WP_085759608.1	WP_085759608.1 chemotaxis protein CheA 
+7(1)	WP_133883401.1	WP_133883401.1 chemotaxis protein CheA 
+7(1)	WP_125180109.1	WP_125180109.1 chemotaxis protein CheA 
+7(1)	WP_051080293.1	WP_051080293.1 chemotaxis protein CheA 
+7(1)	WP_144344710.1	WP_144344710.1 chemotaxis protein CheW 
+7(1)	WP_029921482.1	WP_029921482.1 chemotaxis protein CheA 
+7(1)	WP_123768446.1	WP_123768446.1 chemotaxis protein CheA 
+7(1)	WP_020911703.1	WP_020911703.1 chemotaxis protein CheA 
+7(1)	WP_202719855.1	WP_202719855.1 chemotaxis protein CheA 
+7(1)	WP_126520223.1	WP_126520223.1 chemotaxis protein CheA 
+7(1)	WP_091532707.1	WP_091532707.1 chemotaxis protein CheA 
+7(1)	WP_077278083.1	WP_077278083.1 chemotaxis protein CheA 
+7(1)	WP_189376615.1	WP_189376615.1 chemotaxis protein CheW 
+7(1)	WP_144816364.1	WP_144816364.1 chemotaxis protein CheA 
+7(1)	WP_128583047.1	WP_128583047.1 chemotaxis protein CheA 
+7(1)	WP_070072236.1	WP_070072236.1 chemotaxis protein CheA 
+7(1)	WP_011865187.1	WP_011865187.1 chemotaxis protein CheA 
+7(1)	WP_017220959.1	WP_017220959.1 chemotaxis protein CheA 
+7(1)	WP_062537347.1	WP_062537347.1 chemotaxis protein CheA 
+7(1)	WP_014708086.1	WP_014708086.1 chemotaxis protein CheA 
+7(1)	WP_133589655.1	WP_133589655.1 chemotaxis protein CheA 
+7(1)	WP_144899398.1	WP_144899398.1 chemotaxis protein CheA 
+7(1)	WP_096141435.1	WP_096141435.1 chemotaxis protein CheA 
+7(1)	WP_007146651.1	WP_007146651.1 chemotaxis protein CheA 
+7(1)	WP_029889998.1	WP_029889998.1 chemotaxis protein CheA 
+7(1)	WP_065089275.1	WP_065089275.1 chemotaxis protein CheA 
+7(1)	WP_014610971.1	WP_014610971.1 chemotaxis protein CheA 
+7(1)	WP_127477498.1	WP_127477498.1 chemotaxis protein CheA 
+7(1)	WP_011628736.1	WP_011628736.1 chemotaxis protein CheA 
+7(1)	WP_189617496.1	WP_189617496.1 chemotaxis protein CheW 
+7(1)	WP_013465548.1	WP_013465548.1 MULTISPECIES: chemotaxis protein CheA 
+7(1)	WP_160796582.1	WP_160796582.1 chemotaxis protein CheW 
+7(1)	WP_012637909.1	WP_012637909.1 chemotaxis protein CheA 
+7(1)	WP_057657368.1	WP_057657368.1 chemotaxis protein CheA 
+7(1)	WP_014703837.1	WP_014703837.1 chemotaxis protein CheA 
+7(1)	WP_189446489.1	WP_189446489.1 chemotaxis protein CheW 
+7(1)	WP_167782687.1	WP_167782687.1 chemotaxis protein CheW 
+7(1)	WP_028486275.1	WP_028486275.1 chemotaxis protein CheA 
+7(1)	WP_074201377.1	WP_074201377.1 chemotaxis protein CheA 
+7(1)	WP_022975057.1	WP_022975057.1 chemotaxis protein CheA 
+7(1)	WP_130537761.1	WP_130537761.1 chemotaxis protein CheA 
+7(1)	WP_008291642.1	WP_008291642.1 chemotaxis protein CheA 
+7(1)	WP_039035654.1	WP_039035654.1 chemotaxis protein CheA 
+7(1)	WP_018717384.1	WP_018717384.1 chemotaxis protein CheA 
+7(1)	WP_019441912.1	WP_019441912.1 chemotaxis protein CheA 
+7(1)	WP_097112263.1	WP_097112263.1 chemotaxis protein CheA 
+7(1)	WP_052367518.1	WP_052367518.1 chemotaxis protein CheA 
+7(1)	WP_110265849.1	WP_110265849.1 chemotaxis protein CheA 
+7(1)	WP_144209913.1	WP_144209913.1 chemotaxis protein CheA 
+7(1)	WP_011327505.1	WP_011327505.1 MULTISPECIES: chemotaxis protein CheA 
+7(1)	WP_127470491.1	WP_127470491.1 chemotaxis protein CheA 
+7(1)	WP_104229965.1	WP_104229965.1 chemotaxis protein CheA 
+7(1)	WP_090207544.1	WP_090207544.1 chemotaxis protein CheA 
+7(1)	WP_028833991.1	WP_028833991.1 MULTISPECIES: chemotaxis protein CheA 
+7(1)	WP_091712589.1	WP_091712589.1 chemotaxis protein CheA 
+7(1)	WP_100142279.1	WP_100142279.1 chemotaxis protein CheA 
+7(1)	WP_121442385.1	WP_121442385.1 chemotaxis protein CheA 
+7(1)	WP_007186591.1	WP_007186591.1 Hpt domain-containing protein 
+7(1)	WP_194932225.1	WP_194932225.1 chemotaxis protein CheA 
+7(1)	WP_009837392.1	WP_009837392.1 chemotaxis protein CheA 
+7(1)	WP_012143380.1	WP_012143380.1 chemotaxis protein CheA 
+7(1)	WP_012823605.1	WP_012823605.1 chemotaxis protein CheA 
+7(1)	WP_088905027.1	WP_088905027.1 chemotaxis protein CheA 
+7(1)	WP_134053818.1	WP_134053818.1 chemotaxis protein CheA 
+7(1)	WP_203324270.1	WP_203324270.1 chemotaxis protein CheA 
+7(1)	WP_045111345.1	WP_045111345.1 chemotaxis protein CheA 
+7(1)	WP_133479869.1	WP_133479869.1 chemotaxis protein CheA 
+7(1)	WP_011495790.1	WP_011495790.1 chemotaxis protein CheA 
+7(1)	WP_006082385.1	WP_006082385.1 chemotaxis protein CheA 
+7(1)	WP_115134895.1	WP_115134895.1 chemotaxis protein CheA 
+7(1)	WP_012276574.1	WP_012276574.1 chemotaxis protein CheA 
+7(1)	WP_077753855.1	WP_077753855.1 chemotaxis protein CheA 
+7(1)	WP_027672714.1	WP_027672714.1 chemotaxis protein CheA 
+7(1)	WP_126453816.1	WP_126453816.1 chemotaxis protein CheA 
+7(1)	WP_119968990.1	WP_119968990.1 chemotaxis protein CheA 
+7(1)	WP_086743849.1	WP_086743849.1 chemotaxis protein CheA 
+7(1)	WP_142903272.1	WP_142903272.1 chemotaxis protein CheW 
+7(1)	WP_156227932.1	WP_156227932.1 chemotaxis protein CheA 
+7(1)	WP_006786144.1	WP_006786144.1 chemotaxis protein CheA 
+7(1)	WP_143563281.1	WP_143563281.1 chemotaxis protein CheW 
+7(1)	WP_090253827.1	WP_090253827.1 chemotaxis protein CheA 
+
+
+
+8(1)	WP_027672706.1	WP_027672706.1 flagellar type III secretion system protein FliR 
+8(2)	WP_011865179.1	WP_011865179.1 MULTISPECIES: flagellar type III secretion system protein FliR 
+8(1)	WP_074201445.1	WP_074201445.1 flagellar biosynthetic protein FliR 
+8(1)	WP_127477506.1	WP_127477506.1 flagellar type III secretion system protein FliR 
+8(1)	WP_012823598.1	WP_012823598.1 flagellar biosynthetic protein FliR 
+8(1)	WP_132544561.1	WP_132544561.1 flagellar biosynthetic protein FliR 
+8(1)	WP_009727491.1	WP_009727491.1 flagellar biosynthetic protein FliR 
+8(1)	WP_203324276.1	WP_203324276.1 flagellar type III secretion system protein FliR 
+8(1)	WP_012276566.1	WP_012276566.1 flagellar type III secretion system protein FliR 
+8(1)	WP_077278078.1	WP_077278078.1 flagellar biosynthetic protein FliR 
+8(1)	WP_008291590.1	WP_008291590.1 flagellar biosynthetic protein FliR 
+8(1)	WP_020911695.1	WP_020911695.1 flagellar type III secretion system protein FliR 
+8(1)	WP_014708078.1	WP_014708078.1 flagellar biosynthetic protein FliR 
+8(1)	WP_041366599.1	WP_041366599.1 flagellar biosynthetic protein FliR 
+8(1)	WP_006786152.1	WP_006786152.1 flagellar biosynthetic protein FliR 
+8(1)	WP_070072230.1	WP_070072230.1 flagellar biosynthetic protein FliR 
+8(1)	WP_115134907.1	WP_115134907.1 flagellar type III secretion system protein FliR 
+8(1)	WP_078759042.1	WP_078759042.1 flagellar biosynthetic protein FliR 
+8(1)	WP_018717376.1	WP_018717376.1 flagellar biosynthetic protein FliR 
+8(1)	WP_104229972.1	WP_104229972.1 flagellar biosynthetic protein FliR 
+8(1)	WP_019441904.1	WP_019441904.1 flagellar type III secretion system protein FliR 
+8(1)	WP_029921490.1	WP_029921490.1 flagellar biosynthetic protein FliR 
+8(1)	WP_013034486.1	WP_013034486.1 flagellar biosynthetic protein FliR 
+8(1)	WP_025011070.1	WP_025011070.1 MULTISPECIES: flagellar type III secretion system protein FliR 
+8(1)	WP_038092386.1	WP_038092386.1 flagellar biosynthetic protein FliR 
+8(1)	WP_025281231.1	WP_025281231.1 flagellar biosynthetic protein FliR 
+8(1)	WP_017220967.1	WP_017220967.1 flagellar type III secretion system protein FliR 
+8(1)	WP_086743856.1	WP_086743856.1 flagellar type III secretion system protein FliR 
+8(1)	WP_007146642.1	WP_007146642.1 flagellar biosynthetic protein FliR 
+8(1)	WP_055025018.1	WP_055025018.1 MULTISPECIES: flagellar type III secretion system protein FliR 
+8(1)	WP_130537768.1	WP_130537768.1 flagellar biosynthetic protein FliR 
+8(1)	WP_144209934.1	WP_144209934.1 flagellar type III secretion system protein FliR 
+8(1)	WP_126453801.1	WP_126453801.1 flagellar biosynthetic protein FliR 
+8(1)	WP_088905032.1	WP_088905032.1 flagellar type III secretion system protein FliR 
+8(1)	WP_006082393.1	WP_006082393.1 flagellar type III secretion system protein FliR 
+8(1)	WP_011788784.1	WP_011788784.1 MULTISPECIES: flagellar type III secretion system protein FliR 
+8(1)	WP_125182323.1	WP_125182323.1 flagellar biosynthetic protein FliR 
+8(1)	WP_144816377.1	WP_144816377.1 flagellar biosynthetic protein FliR 
+8(1)	WP_126520217.1	WP_126520217.1 flagellar type III secretion system protein FliR 
+8(3)	WP_013465551.1	WP_013465551.1 MULTISPECIES: flagellar type III secretion system protein FliR 
+8(1)	WP_045111352.1	WP_045111352.1 flagellar type III secretion system protein FliR 
+8(1)	WP_069294979.1	WP_069294979.1 MULTISPECIES: flagellar biosynthetic protein FliR 
+8(1)	WP_028486267.1	WP_028486267.1 flagellar biosynthetic protein FliR 
+8(1)	WP_011495782.1	WP_011495782.1 flagellar type III secretion system protein FliR 
+8(1)	WP_167782693.1	WP_167782693.1 flagellar biosynthetic protein FliR 
+8(1)	WP_194932218.1	WP_194932218.1 flagellar biosynthetic protein FliR 
+8(1)	WP_202719849.1	WP_202719849.1 flagellar type III secretion system protein FliR 
+8(1)	WP_123400916.1	WP_123400916.1 flagellar biosynthetic protein FliR 
+8(1)	WP_133479862.1	WP_133479862.1 flagellar biosynthetic protein FliR 
+8(1)	WP_156885379.1	WP_156885379.1 flagellar biosynthetic protein FliR 
+8(1)	WP_037420371.1	WP_037420371.1 MULTISPECIES: flagellar type III secretion system protein FliR 
+8(1)	WP_012143388.1	WP_012143388.1 flagellar type III secretion system protein FliR 
+8(1)	WP_097112255.1	WP_097112255.1 flagellar type III secretion system protein FliR 
+8(1)	WP_133038543.1	WP_133038543.1 flagellar type III secretion system protein FliR 
+8(1)	WP_091532691.1	WP_091532691.1 flagellar biosynthetic protein FliR 
+8(1)	WP_134053803.1	WP_134053803.1 flagellar type III secretion system protein FliR 
+8(1)	WP_123769574.1	WP_123769574.1 flagellar biosynthetic protein FliR 
+8(1)	WP_011327497.1	WP_011327497.1 MULTISPECIES: flagellar type III secretion system protein FliR 
+8(1)	WP_070984538.1	WP_070984538.1 MULTISPECIES: flagellar type III secretion system protein FliR 
+8(1)	WP_019556704.1	WP_019556704.1 flagellar biosynthetic protein FliR 
+8(1)	WP_090207688.1	WP_090207688.1 flagellar biosynthetic protein FliR 
+8(1)	WP_133589669.1	WP_133589669.1 flagellar biosynthetic protein FliR 
+8(1)	WP_184426372.1	WP_184426372.1 flagellar type III secretion system protein FliR 
+8(1)	WP_011628728.1	WP_011628728.1 flagellar biosynthetic protein FliR 
+8(1)	WP_156227920.1	WP_156227920.1 flagellar biosynthetic protein FliR 
+8(1)	WP_100142273.1	WP_100142273.1 flagellar type III secretion system protein FliR 
+8(1)	WP_025821636.1	WP_025821636.1 flagellar type III secretion system protein FliR 
+8(1)	WP_121442379.1	WP_121442379.1 flagellar biosynthetic protein FliR 
+8(1)	WP_085759602.1	WP_085759602.1 flagellar biosynthetic protein FliR 
+8(1)	WP_134356520.1	WP_134356520.1 flagellar biosynthetic protein FliR 
+8(1)	WP_091712603.1	WP_091712603.1 flagellar biosynthetic protein FliR 
+8(1)	WP_077753861.1	WP_077753861.1 flagellar type III secretion system protein FliR 
+8(1)	WP_012637901.1	WP_012637901.1 flagellar biosynthetic protein FliR 
+8(1)	WP_004999323.1	WP_004999323.1 flagellar biosynthetic protein FliR 
+8(1)	WP_189376621.1	WP_189376621.1 flagellar type III secretion system protein FliR 
+8(1)	WP_039035648.1	WP_039035648.1 flagellar type III secretion system protein FliR 
+8(1)	WP_090253841.1	WP_090253841.1 flagellar biosynthetic protein FliR 
+8(1)	WP_002808635.1	WP_002808635.1 flagellar biosynthetic protein FliR 
+8(1)	WP_009837400.1	WP_009837400.1 flagellar type III secretion system protein FliR 
+
+
+
+9(1)	WP_002811558.1	WP_002811558.1 DUF2802 domain-containing protein 
+9(1)	WP_132544577.1	WP_132544577.1 DUF2802 domain-containing protein 
+9(1)	WP_025821629.1	WP_025821629.1 DUF2802 domain-containing protein 
+9(1)	WP_083761451.1	WP_083761451.1 DUF2802 domain-containing protein 
+9(1)	WP_004999334.1	WP_004999334.1 DUF2802 domain-containing protein 
+9(1)	WP_134356513.1	WP_134356513.1 DUF2802 domain-containing protein 
+
+
+
+10(1)	WP_134356514.1	WP_134356514.1 flagellar motor protein MotD 
+10(1)	WP_076836676.1	WP_076836676.1 flagellar motor protein MotD 
+10(1)	WP_123400552.1	WP_123400552.1 flagellar motor protein MotD 
+10(1)	WP_013034479.1	WP_013034479.1 flagellar motor protein MotD 
+10(1)	WP_002809049.1	WP_002809049.1 hypothetical protein 
+10(1)	WP_132544575.1	WP_132544575.1 flagellar motor protein MotD 
+
+
+
+11(1)	WP_123400550.1	WP_123400550.1 flagellar motor protein 
+11(1)	WP_013034480.1	WP_013034480.1 flagellar motor protein 
+11(1)	WP_134356515.1	WP_134356515.1 flagellar motor protein 
+11(1)	WP_076836675.1	WP_076836675.1 flagellar motor protein 
+11(1)	WP_132544573.1	WP_132544573.1 flagellar motor protein 
+
+
+
+12(1)	WP_057657375.1	WP_057657375.1 GGDEF domain-containing protein 
+12(1)	WP_022975049.1	WP_022975049.1 PAS domain S-box protein 
+12(1)	WP_133883394.1	WP_133883394.1 PAS domain S-box protein 
+
+
+
+13(1)	WP_162338465.1	WP_162338465.1 hypothetical protein 
+13(1)	WP_141400715.1	WP_141400715.1 hypothetical protein 
+13(1)	WP_185896337.1	WP_185896337.1 hypothetical protein 
+
+
+
+14(1)	WP_162338458.1	WP_162338458.1 hypothetical protein 
+14(1)	WP_185896344.1	WP_185896344.1 hypothetical protein 
+
+

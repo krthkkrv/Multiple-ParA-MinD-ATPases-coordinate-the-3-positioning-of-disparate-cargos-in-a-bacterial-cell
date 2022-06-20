@@ -1,0 +1,105 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+MinD/ParA family protein [Halothiobacillus neapolitanus],Halothiobacillus neapolitanus,556,556,100%,0,100,276,WP_012823601.1
+MinD/ParA family protein [Guyparkeria halophila],Guyparkeria halophila,412,412,99%,1.00E-143,73.82,296,WP_156227928.1
+P-loop NTPase [Thiohalobacter thiocyanaticus],Thiohalobacter thiocyanaticus,340,340,97%,2.00E-115,59.33,279,WP_194073931.1
+MinD/ParA family protein [Thioalkalivibrio sulfidiphilus],Thioalkalivibrio sulfidiphilus,339,339,98%,1.00E-114,61.68,299,WP_012637905.1
+MinD/ParA family protein [Ectothiorhodospira haloalkaliphila],Ectothiorhodospira haloalkaliphila,336,336,97%,2.00E-113,58.82,296,WP_025281235.1
+P-loop NTPase [Aquisalimonas sp. 2447],Aquisalimonas sp. 2447,333,333,97%,1.00E-112,59.48,279,WP_167784222.1
+P-loop NTPase [Sulfurivermis fontis],Sulfurivermis fontis,333,333,97%,2.00E-112,57.78,283,WP_197722911.1
+MinD/ParA family protein [Solimonas fluminis],Solimonas fluminis,332,332,96%,4.00E-112,59.77,291,WP_104229968.1
+MinD/ParA family protein [Ectothiorhodospira marina],Ectothiorhodospira marina,333,333,97%,4.00E-112,59.04,296,WP_090253834.1
+P-loop NTPase [Acidihalobacter prosperus],Acidihalobacter prosperus,331,331,97%,1.00E-111,59.33,283,WP_201786951.1
+MinD/ParA family protein [Methylophaga thiooxydans],Methylophaga thiooxydans,331,331,97%,1.00E-111,57.04,290,WP_008291273.1
+MinD/ParA family protein [Thiomicrorhabdus indica],Thiomicrorhabdus indica,332,332,96%,1.00E-111,54.31,302,WP_130537764.1
+P-loop NTPase [Thioalkalivibrio denitrificans],Thioalkalivibrio denitrificans,330,330,95%,2.00E-111,59.85,282,WP_175628238.1
+MinD/ParA family protein [Alkalispirillum mobile],Alkalispirillum mobile,330,330,96%,4.00E-111,58.87,292,WP_121442523.1
+MinD/ParA family protein [Acidihalobacter ferrooxydans],Acidihalobacter ferrooxydans,329,329,97%,6.00E-111,58.36,291,WP_076836673.1
+MinD/ParA family protein [Methylophaga sulfidovorans],Methylophaga sulfidovorans,329,329,97%,7.00E-111,55.93,290,WP_091712595.1
+MinD/ParA family protein [Thiomicrorhabdus aquaedulcis],Thiomicrorhabdus aquaedulcis,329,329,96%,7.00E-111,58.8,292,WP_127470488.1
+MinD/ParA family protein [Alkalilimnicola ehrlichii],Alkalilimnicola ehrlichii,328,328,96%,8.00E-111,58.49,277,WP_041717918.1
+MinD/ParA family protein [Methylophaga aminisulfidivorans],Methylophaga aminisulfidivorans,329,329,97%,8.00E-111,55.93,290,WP_007146647.1
+MinD/ParA family protein [Inmirania thermothiophila],Inmirania thermothiophila,328,328,96%,2.00E-110,60.3,277,WP_123400917.1
+MinD/ParA family protein [Thiogranum longum],,328,328,97%,3.00E-110,57.84,293,WP_132972968.1
+MinD/ParA family protein [Methylophaga lonarensis],Methylophaga lonarensis,327,327,97%,5.00E-110,56.51,290,WP_009727487.1
+MinD/ParA family protein [Thiomicrorhabdus chilensis],Thiomicrorhabdus chilensis,327,327,97%,5.00E-110,56.93,292,WP_028486271.1
+MinD/ParA family protein [Thiomicrorhabdus arctica],Thiomicrorhabdus arctica,327,327,96%,6.00E-110,57.89,292,WP_019556700.1
+P-loop NTPase [Acidihalobacter aeolianus],Acidihalobacter aeolianus,326,326,96%,1.00E-109,59.02,283,WP_197513381.1
+MinD/ParA family protein [Methylophaga nitratireducenticrescens],Methylophaga nitratireducenticrescens,326,326,97%,1.00E-109,56.51,290,WP_014708082.1
+MinD/ParA family protein [Methylophaga muralis],Methylophaga muralis,325,325,97%,4.00E-109,56.51,290,WP_069294981.1
+P-loop NTPase [Nitrococcus mobilis],Nitrococcus mobilis,323,323,95%,1.00E-108,57.2,279,WP_156776861.1
+P-loop NTPase [Sulfuriflexus mobilis],Sulfuriflexus mobilis,323,323,98%,1.00E-108,55.35,284,WP_197722202.1
+MinD/ParA family protein [Nevskia ramosa],Nevskia ramosa,323,323,97%,2.00E-108,56.34,308,WP_022975053.1
+MinD/ParA family protein [Methylophaga frappieri],Methylophaga frappieri,323,323,98%,2.00E-108,55.68,292,WP_014703833.1
+MinD/ParA family protein [Nevskia soli],Nevskia soli,320,320,96%,2.00E-107,56.6,291,WP_029921486.1
+MinD/ParA family protein [Ectothiorhodospira magna],Ectothiorhodospira magna,320,320,95%,3.00E-107,59.77,288,WP_090207550.1
+MinD/ParA family protein [Arhodomonas aquaeolei],Arhodomonas aquaeolei,319,319,96%,4.00E-107,59.18,279,WP_018717380.1
+MinD/ParA family protein [Thiorhodospira sibirica],Thiorhodospira sibirica,319,319,97%,7.00E-107,56.88,284,WP_006786148.1
+MinD/ParA family protein [Algiphilus aromaticivorans],Algiphilus aromaticivorans,319,319,96%,7.00E-107,56.39,287,WP_043765779.1
+MinD/ParA family protein [Lysobacter ruishenii],Lysobacter ruishenii,318,318,95%,2.00E-106,58.56,291,WP_144816372.1
+MinD/ParA family protein [Panacagrimonas perspica],Panacagrimonas perspica,318,318,96%,4.00E-106,58.11,303,WP_133883397.1
+P-loop NTPase [Pseudoxanthomonas mexicana],Pseudoxanthomonas mexicana,317,317,96%,4.00E-106,62.41,292,WP_185896341.1
+MinD/ParA family protein [Plasticicumulans lactativorans],Plasticicumulans lactativorans,317,317,96%,9.00E-106,58.8,294,WP_132544569.1
+MinD/ParA family protein [Sulfurivirga caldicuralii],Sulfurivirga caldicuralii,317,317,96%,1.00E-105,59.4,309,WP_074201380.1
+MULTISPECIES: P-loop NTPase [Pseudoxanthomonas],Pseudoxanthomonas,315,315,96%,2.00E-105,61.65,292,WP_162338461.1
+MinD/ParA family protein [Polycyclovorans algicola],Polycyclovorans algicola,314,314,96%,5.00E-105,59.25,292,WP_029889994.1
+P-loop NTPase [Shewanella marina],Shewanella marina,311,311,97%,5.00E-104,59.19,283,WP_199899813.1
+MinD/ParA family protein [Luteimonas cucumeris],Luteimonas cucumeris,311,311,95%,7.00E-104,60.75,291,WP_144899401.1
+P-loop NTPase [Lysobacter niastensis],Lysobacter niastensis,311,311,95%,2.00E-103,61.22,297,WP_194932221.1
+MinD/ParA family protein [Vulcaniibacterium tengchongense],Vulcaniibacterium tengchongense,310,310,95%,3.00E-103,60.84,296,WP_123768450.1
+MULTISPECIES: MinD/ParA family protein [Pseudoalteromonas],Pseudoalteromonas,310,310,97%,3.00E-103,57.84,286,WP_010387928.1
+MULTISPECIES: MinD/ParA family protein [Pseudoalteromonas],Pseudoalteromonas,310,310,97%,3.00E-103,57.84,286,WP_128583045.1
+MinD/ParA family protein [Sinimarinibacterium flocculans],Sinimarinibacterium flocculans,310,310,96%,3.00E-103,57.74,295,WP_110265845.1
+MinD/ParA family protein [Pseudoxanthomonas dokdonensis],Pseudoxanthomonas dokdonensis,310,310,96%,4.00E-103,61.42,293,WP_057657371.1
+MinD/ParA family protein [Oceanicoccus sagamiensis],Oceanicoccus sagamiensis,308,308,96%,6.00E-103,57.14,275,WP_085759606.1
+MinD/ParA family protein [Pseudoalteromonas issachenkonii],Pseudoalteromonas issachenkonii,309,309,97%,6.00E-103,57.84,286,WP_058155097.1
+P-loop NTPase [Shewanella denitrificans],Shewanella denitrificans,308,308,97%,9.00E-103,58.82,283,WP_198134644.1
+P-loop NTPase [Shewanella carassii],Shewanella carassii,308,308,97%,1.00E-102,57.72,283,WP_188726019.1
+MULTISPECIES: P-loop NTPase [Shewanella],Shewanella,308,308,97%,1.00E-102,57.72,283,WP_170946701.1
+MinD/ParA family protein [Pseudoxanthomonas wuyuanensis],Pseudoxanthomonas wuyuanensis,308,308,95%,2.00E-102,61.51,293,WP_097120704.1
+MinD/ParA family protein [Exilibacterium tricleocarpae],Exilibacterium tricleocarpae,307,307,97%,2.00E-102,57.62,275,WP_142903269.1
+MULTISPECIES: P-loop NTPase [Shewanella],Shewanella,308,308,97%,2.00E-102,57.72,283,WP_177192640.1
+P-loop NTPase [Mizugakiibacter sediminis],Mizugakiibacter sediminis,307,307,99%,3.00E-102,59.12,285,WP_201797487.1
+MULTISPECIES: MinD/ParA family protein [Shewanella],Shewanella,307,307,97%,3.00E-102,57.72,294,WP_039035673.1
+MULTISPECIES: MinD/ParA family protein [Shewanella],Shewanella,307,307,96%,4.00E-102,56.93,293,WP_133038539.1
+P-loop NTPase [Thalassotalea piscium],Thalassotalea piscium,306,306,97%,5.00E-102,54.1,290,WP_184426362.1
+P-loop NTPase [Hydrocarboniphaga effusa],Hydrocarboniphaga effusa,306,306,96%,6.00E-102,58.49,276,WP_192813002.1
+MinD/ParA family protein [Moritella viscosa],Moritella viscosa,306,306,98%,1.00E-101,55.68,291,WP_045111348.1
+MinD/ParA family protein [Lysobacter segetis],Lysobacter segetis,306,306,96%,1.00E-101,58.87,293,WP_133479866.1
+MinD/ParA family protein [Moritella dasanensis],Moritella dasanensis,305,305,98%,2.00E-101,54.95,291,WP_017220963.1
+P-loop NTPase [Shewanella halifaxensis],Shewanella halifaxensis,305,305,97%,2.00E-101,56.62,283,WP_190273640.1
+P-loop NTPase [Thalassotalea profundi],Thalassotalea profundi,305,305,96%,2.00E-101,55.43,291,WP_189376617.1
+P-loop NTPase [Rheinheimera baltica],Rheinheimera baltica,305,305,98%,2.00E-101,55.15,276,WP_205623280.1
+MULTISPECIES: P-loop NTPase [Shewanella],Shewanella,305,305,97%,2.00E-101,57.35,283,WP_186300675.1
+P-loop NTPase [Lysobacter xinjiangensis],Lysobacter xinjiangensis,305,305,96%,2.00E-101,58.11,289,WP_189446493.1
+P-loop NTPase [Shewanella marisflavi],Shewanella marisflavi,305,305,97%,3.00E-101,57.35,283,WP_198387161.1
+P-loop NTPase [Shewanella hanedai],Shewanella hanedai,305,305,97%,3.00E-101,56.78,283,WP_185972724.1
+MinD/ParA family protein [Permianibacter aggregans],Permianibacter aggregans,304,304,97%,3.00E-101,56.72,281,WP_133589661.1
+P-loop NTPase [Shewanella canadensis],Shewanella canadensis,304,304,97%,4.00E-101,56.99,283,WP_185826834.1
+P-loop NTPase [Rheinheimera aquimaris],Rheinheimera aquimaris,304,304,98%,4.00E-101,54.78,276,WP_206109537.1
+MULTISPECIES: P-loop NTPase [Shewanella],Shewanella,304,304,97%,4.00E-101,56.99,283,WP_174567622.1
+P-loop NTPase [Shewanella insulae],Shewanella insulae,304,304,97%,4.00E-101,56.99,283,WP_181006265.1
+MinD/ParA family protein [Nitrosococcus wardiae],Nitrosococcus wardiae,305,305,97%,4.00E-101,57.62,305,WP_134359638.1
+MULTISPECIES: MinD/ParA family protein [Pseudoalteromonas],Pseudoalteromonas,304,304,96%,4.00E-101,57.68,286,WP_011327501.1
+MinD/ParA family protein [Moritella marina],Moritella marina,304,304,98%,4.00E-101,55.31,291,WP_019441908.1
+MinD/ParA family protein [Lysobacter spongiicola],Lysobacter spongiicola,304,304,96%,5.00E-101,59.25,294,WP_078759046.1
+MULTISPECIES: P-loop NTPase [Shewanella],Shewanella,304,304,97%,5.00E-101,56.62,283,WP_190272107.1
+P-loop NTPase [Nitrosococcus halophilus],Nitrosococcus halophilus,305,305,97%,6.00E-101,57.62,307,WP_203434415.1
+MinD/ParA family protein [Rheinheimera tuosuensis],Rheinheimera tuosuensis,304,304,98%,6.00E-101,55.51,292,WP_097112259.1
+MinD/ParA family protein [Shewanella putrefaciens],Shewanella putrefaciens,304,304,97%,6.00E-101,57.35,293,WP_011919601.1
+P-loop NTPase [Shewanella donghaensis],Shewanella donghaensis,303,303,99%,7.00E-101,55.4,283,WP_193559195.1
+P-loop NTPase [Shewanella corallii],Shewanella corallii,303,303,96%,7.00E-101,57.89,282,WP_205407280.1
+P-loop NTPase [Shewanella sediminis],Shewanella sediminis,303,303,97%,7.00E-101,56.62,283,WP_190273223.1
+MULTISPECIES: P-loop NTPase [Shewanella],Shewanella,303,303,97%,7.00E-101,56.62,283,WP_198134318.1
+P-loop NTPase [Shewanella piezotolerans],Shewanella piezotolerans,303,303,97%,7.00E-101,56.62,283,WP_187148557.1
+MinD/ParA family protein [Pseudoalteromonas ulvae],Pseudoalteromonas ulvae,303,303,96%,8.00E-101,56.55,285,WP_086743852.1
+MULTISPECIES: P-loop NTPase [Shewanella],Shewanella,303,303,97%,9.00E-101,57.35,283,WP_172481239.1
+P-loop NTPase [Shewanella psychrophila],Shewanella psychrophila,303,303,97%,9.00E-101,56.62,283,WP_179948422.1
+MULTISPECIES: P-loop NTPase [Shewanella],Shewanella,303,303,97%,1.00E-100,56.99,283,WP_172588140.1
+MinD/ParA family protein [Pseudoalteromonas tunicata],Pseudoalteromonas tunicata,303,303,96%,1.00E-100,57.14,285,WP_009837396.1
+P-loop NTPase [Fontimonas thermophila],Fontimonas thermophila,303,303,98%,1.00E-100,54.78,279,WP_200769541.1
+MULTISPECIES: MinD/ParA family protein [Pseudoalteromonas],Pseudoalteromonas,303,303,96%,1.00E-100,58.27,286,WP_070984548.1
+MinD/ParA family protein [Nitrosococcus oceani],Nitrosococcus oceani,304,304,97%,1.00E-100,57.09,306,WP_002809099.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,
