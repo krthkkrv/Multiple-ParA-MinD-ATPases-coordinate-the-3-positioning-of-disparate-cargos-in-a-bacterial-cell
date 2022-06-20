@@ -1,1 +1,1 @@
-# Multiple-ParA-MinD-ATPases-coordinate-the-3-positioning-of-disparate-cargos-in-a-bacterial-cell
+# Multiple-ParA-MinD-ATPases-coordinate-the-positioning-of-disparate-cargos-in-a-bacterial-cell
