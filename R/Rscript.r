@@ -122,10 +122,10 @@ binary_table <- tmp1[,c(17,3,4,5,6,7,9,8,16,10:15)]
 binary_table$single.cargo.hits <- binary_table$ParA+binary_table$ParC+binary_table$McdA+binary_table$MinD+binary_table$FlhG
 
 # reading in Assembly accession file 
-AssemblyAccession <- read.csv("AssemblyAccession.csv")
+AssemblyAccession <- read.csv("../Input_files/AssemblyAccession.csv")
 
 # merging in the Assembly accession numbers
-binary_table_meta <- merge(AssemblyAccession[,c(3,4)], binary_table, by = "Scientific.Name", all.y = T)
+binary_table_meta <- merge(AssemblyAccession, binary_table, by = "Scientific.Name", all.y = T)
 
 # getting taxid
 query <- sort(binary_table$chromosome.accession)[9:11905]
