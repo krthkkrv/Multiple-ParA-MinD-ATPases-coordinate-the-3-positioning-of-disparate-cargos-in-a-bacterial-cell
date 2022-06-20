@@ -1,0 +1,802 @@
+1(1)	WP_018918334.1	WP_018918334.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_010630224.1	WP_010630224.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_015834567.1	WP_015834567.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(2)	WP_001185665.1	WP_001185665.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_013333628.1	WP_013333628.1 cell division topological specificity factor MinE 
+1(1)	WP_069588784.1	WP_069588784.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_034455225.1	WP_034455225.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_017456990.1	WP_017456990.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_155108765.1	WP_155108765.1 cell division topological specificity factor MinE 
+1(2)	WP_005284974.1	WP_005284974.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_097790490.1	WP_097790490.1 cell division topological specificity factor MinE 
+1(1)	WP_027349380.1	WP_027349380.1 cell division topological specificity factor MinE 
+1(1)	WP_127956741.1	WP_127956741.1 cell division topological specificity factor MinE 
+1(2)	WP_001185664.1	WP_001185664.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_115457073.1	WP_115457073.1 cell division topological specificity factor MinE 
+1(1)	WP_048898722.1	WP_048898722.1 cell division topological specificity factor MinE 
+1(1)	WP_188025617.1	WP_188025617.1 cell division topological specificity factor MinE 
+1(3)	WP_024554730.1	WP_024554730.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_014999405.1	WP_014999405.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_058504131.1	WP_058504131.1 cell division topological specificity factor MinE 
+1(2)	WP_012848314.1	WP_012848314.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_092993473.1	WP_092993473.1 cell division topological specificity factor MinE 
+1(1)	WP_043529199.1	WP_043529199.1 cell division topological specificity factor MinE 
+1(1)	WP_024873521.1	WP_024873521.1 cell division topological specificity factor MinE 
+1(1)	WP_024909868.1	WP_024909868.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_004384978.1	WP_004384978.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_159567537.1	WP_159567537.1 cell division topological specificity factor MinE 
+1(2)	WP_008500504.1	WP_008500504.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_183389100.1	WP_183389100.1 cell division topological specificity factor MinE 
+1(1)	WP_036795468.1	WP_036795468.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_027253478.1	WP_027253478.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_079552369.1	WP_079552369.1 cell division topological specificity factor MinE 
+1(1)	WP_044012229.1	WP_044012229.1 cell division topological specificity factor MinE 
+1(1)	WP_005359201.1	WP_005359201.1 cell division topological specificity factor MinE 
+1(1)	WP_015878645.1	WP_015878645.1 cell division topological specificity factor MinE 
+1(1)	WP_111570164.1	WP_111570164.1 cell division topological specificity factor MinE 
+1(1)	WP_039079511.1	WP_039079511.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(4)	WP_003252572.1	WP_003252572.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_012824233.1	WP_012824233.1 cell division topological specificity factor MinE 
+1(1)	WP_040096860.1	WP_040096860.1 cell division topological specificity factor MinE 
+1(2)	WP_042012553.1	WP_042012553.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_012519604.1	WP_012519604.1 cell division topological specificity factor MinE 
+1(1)	WP_132543885.1	WP_132543885.1 cell division topological specificity factor MinE 
+1(1)	WP_110018997.1	WP_110018997.1 cell division topological specificity factor MinE 
+1(1)	WP_007111776.1	WP_007111776.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_100294387.1	WP_100294387.1 cell division topological specificity factor MinE 
+1(1)	WP_106728317.1	WP_106728317.1 cell division topological specificity factor MinE 
+1(1)	WP_035564989.1	WP_035564989.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_105929466.1	WP_105929466.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_027337743.1	WP_027337743.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_108447396.1	WP_108447396.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_050667632.1	WP_050667632.1 cell division topological specificity factor MinE 
+1(1)	WP_042046301.1	WP_042046301.1 cell division topological specificity factor MinE 
+1(1)	WP_183333169.1	WP_183333169.1 cell division topological specificity factor MinE 
+1(1)	WP_121573948.1	WP_121573948.1 cell division topological specificity factor MinE 
+1(1)	WP_094038190.1	WP_094038190.1 cell division topological specificity factor MinE 
+1(1)	WP_038153586.1	WP_038153586.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(3)	WP_004090202.1	WP_004090202.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_028487754.1	WP_028487754.1 cell division topological specificity factor MinE 
+1(1)	WP_077460181.1	WP_077460181.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_025733487.1	WP_025733487.1 cell division topological specificity factor MinE 
+1(1)	WP_141321609.1	WP_141321609.1 cell division topological specificity factor MinE 
+1(1)	WP_183325986.1	WP_183325986.1 cell division topological specificity factor MinE 
+1(3)	WP_014950572.1	WP_014950572.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_102588074.1	WP_102588074.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_086900848.1	WP_086900848.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_066745527.1	WP_066745527.1 cell division topological specificity factor MinE 
+1(1)	WP_089684009.1	WP_089684009.1 cell division topological specificity factor MinE 
+1(2)	WP_071944062.1	WP_071944062.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_076837602.1	WP_076837602.1 cell division topological specificity factor MinE 
+1(1)	WP_003859937.1	WP_003859937.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_127556375.1	WP_127556375.1 cell division topological specificity factor MinE 
+1(1)	WP_028696899.1	WP_028696899.1 cell division topological specificity factor MinE 
+1(1)	WP_094278436.1	WP_094278436.1 cell division topological specificity factor MinE 
+1(1)	WP_021818028.1	WP_021818028.1 cell division topological specificity factor MinE 
+1(1)	WP_093067728.1	WP_093067728.1 cell division topological specificity factor MinE 
+1(1)	WP_058509002.1	WP_058509002.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(1)	WP_043083431.1	WP_043083431.1 cell division topological specificity factor MinE 
+1(1)	WP_156573569.1	WP_156573569.1 cell division topological specificity factor MinE 
+1(2)	WP_003833739.1	WP_003833739.1 MULTISPECIES: cell division topological specificity factor MinE 
+1(3)	WP_001185666.1	WP_001185666.1 MULTISPECIES: cell division topological specificity factor MinE 
+
+
+
+2(1)	WP_046457706.1	WP_046457706.1 MULTISPECIES: septum site-determining protein MinC 
+2(1)	WP_186654631.1	WP_186654631.1 MULTISPECIES: septum site-determining protein MinC 
+2(1)	WP_016715527.1	WP_016715527.1 MULTISPECIES: septum site-determining protein MinC 
+2(1)	WP_001516251.1	WP_001516251.1 MULTISPECIES: septum site-determining protein MinC 
+2(1)	WP_094278434.1	WP_094278434.1 septum site-determining protein MinC 
+2(1)	WP_161446324.1	WP_161446324.1 MULTISPECIES: septum site-determining protein MinC 
+2(1)	WP_193003883.1	WP_193003883.1 septum site-determining protein MinC 
+2(1)	WP_188723694.1	WP_188723694.1 septum site-determining protein MinC 
+2(1)	WP_061496564.1	WP_061496564.1 septum site-determining protein MinC 
+2(1)	WP_027957729.1	WP_027957729.1 MULTISPECIES: septum site-determining protein MinC 
+2(1)	WP_183333173.1	WP_183333173.1 septum site-determining protein MinC 
+2(1)	WP_094038192.1	WP_094038192.1 septum site-determining protein MinC 
+2(1)	WP_012519606.1	WP_012519606.1 septum site-determining protein MinC 
+2(1)	WP_000072529.1	WP_000072529.1 septum site-determining protein MinC 
+2(1)	WP_024523724.1	WP_024523724.1 septum site-determining protein MinC 
+2(1)	WP_200011062.1	WP_200011062.1 septum site-determining protein MinC 
+2(1)	WP_089684013.1	WP_089684013.1 septum site-determining protein MinC 
+2(1)	WP_111570162.1	WP_111570162.1 septum site-determining protein MinC 
+2(1)	WP_111412819.1	WP_111412819.1 septum site-determining protein MinC 
+2(1)	WP_047370849.1	WP_047370849.1 MULTISPECIES: septum site-determining protein MinC 
+2(1)	WP_077999128.1	WP_077999128.1 septum site-determining protein MinC 
+2(1)	WP_014950574.1	WP_014950574.1 septum site-determining protein MinC 
+2(1)	WP_092827723.1	WP_092827723.1 septum site-determining protein MinC 
+2(1)	WP_132543889.1	WP_132543889.1 septum site-determining protein MinC 
+2(1)	WP_025733485.1	WP_025733485.1 septum site-determining protein MinC 
+2(1)	WP_092993479.1	WP_092993479.1 septum site-determining protein MinC 
+2(1)	WP_108447398.1	WP_108447398.1 septum site-determining protein MinC 
+2(1)	WP_141321605.1	WP_141321605.1 septum site-determining protein MinC 
+2(1)	WP_106728315.1	WP_106728315.1 septum site-determining protein MinC 
+2(1)	WP_156573571.1	WP_156573571.1 septum site-determining protein MinC 
+2(1)	WP_015878643.1	WP_015878643.1 septum site-determining protein MinC 
+2(1)	WP_121529147.1	WP_121529147.1 MULTISPECIES: septum site-determining protein MinC 
+2(1)	WP_106375783.1	WP_106375783.1 septum site-determining protein MinC 
+2(1)	WP_028487752.1	WP_028487752.1 septum site-determining protein MinC 
+2(1)	WP_025801975.1	WP_025801975.1 MULTISPECIES: septum site-determining protein MinC 
+2(1)	WP_041602193.1	WP_041602193.1 septum site-determining protein MinC 
+2(1)	WP_020690845.1	WP_020690845.1 MULTISPECIES: septum site-determining protein MinC 
+2(1)	WP_069588789.1	WP_069588789.1 MULTISPECIES: septum site-determining protein MinC 
+2(1)	WP_159567535.1	WP_159567535.1 septum site-determining protein MinC 
+2(1)	WP_010699825.1	WP_010699825.1 septum site-determining protein MinC 
+2(1)	WP_093067734.1	WP_093067734.1 septum site-determining protein MinC 
+2(1)	WP_076837600.1	WP_076837600.1 septum site-determining protein MinC 
+2(1)	WP_015870963.1	WP_015870963.1 septum site-determining protein MinC 
+2(1)	WP_079552372.1	WP_079552372.1 septum site-determining protein MinC 
+2(1)	WP_031207300.1	WP_031207300.1 septum site-determining protein MinC 
+2(1)	WP_113268454.1	WP_113268454.1 septum site-determining protein MinC 
+2(1)	WP_024873523.1	WP_024873523.1 septum site-determining protein MinC 
+2(1)	WP_032641208.1	WP_032641208.1 MULTISPECIES: septum site-determining protein MinC 
+2(1)	WP_065824547.1	WP_065824547.1 septum site-determining protein MinC 
+2(1)	WP_040096856.1	WP_040096856.1 septum site-determining protein MinC 
+2(1)	WP_005359207.1	WP_005359207.1 septum site-determining protein MinC 
+2(1)	WP_022645542.1	WP_022645542.1 MULTISPECIES: septum site-determining protein MinC 
+2(1)	WP_102626651.1	WP_102626651.1 septum site-determining protein MinC 
+2(1)	WP_023312186.1	WP_023312186.1 MULTISPECIES: septum site-determining protein MinC 
+2(1)	WP_090131036.1	WP_090131036.1 septum site-determining protein MinC 
+2(1)	WP_024562117.1	WP_024562117.1 septum site-determining protein MinC 
+2(1)	WP_075176834.1	WP_075176834.1 MULTISPECIES: septum site-determining protein MinC 
+2(1)	WP_039218971.1	WP_039218971.1 septum site-determining protein MinC 
+2(1)	WP_000072531.1	WP_000072531.1 septum site-determining protein MinC 
+2(1)	WP_085626309.1	WP_085626309.1 MULTISPECIES: septum site-determining protein MinC 
+2(1)	WP_050667634.1	WP_050667634.1 septum site-determining protein MinC 
+2(1)	WP_012848316.1	WP_012848316.1 MULTISPECIES: septum site-determining protein MinC 
+2(1)	WP_127556373.1	WP_127556373.1 septum site-determining protein MinC 
+2(1)	WP_028696901.1	WP_028696901.1 septum site-determining protein MinC 
+2(1)	WP_115457271.1	WP_115457271.1 septum site-determining protein MinC 
+2(1)	WP_121573950.1	WP_121573950.1 septum site-determining protein MinC 
+2(1)	WP_042026068.1	WP_042026068.1 septum site-determining protein MinC 
+2(1)	WP_043529195.1	WP_043529195.1 septum site-determining protein MinC 
+2(1)	WP_155108763.1	WP_155108763.1 septum site-determining protein MinC 
+2(1)	WP_045041666.1	WP_045041666.1 septum site-determining protein MinC 
+2(1)	WP_183325988.1	WP_183325988.1 septum site-determining protein MinC 
+2(1)	WP_110018995.1	WP_110018995.1 septum site-determining protein MinC 
+2(1)	WP_054180601.1	WP_054180601.1 septum site-determining protein MinC 
+2(1)	WP_086874109.1	WP_086874109.1 septum site-determining protein MinC 
+2(1)	WP_138181475.1	WP_138181475.1 septum site-determining protein MinC 
+2(1)	WP_183389098.1	WP_183389098.1 septum site-determining protein MinC 
+2(1)	WP_066745521.1	WP_066745521.1 septum site-determining protein MinC 
+2(1)	WP_076012022.1	WP_076012022.1 septum site-determining protein MinC, partial 
+2(1)	WP_064124112.1	WP_064124112.1 septum site-determining protein MinC 
+2(1)	WP_077460183.1	WP_077460183.1 MULTISPECIES: septum site-determining protein MinC 
+2(1)	WP_042287708.1	WP_042287708.1 MULTISPECIES: septum site-determining protein MinC 
+2(1)	WP_100294385.1	WP_100294385.1 septum site-determining protein MinC 
+2(1)	WP_188025615.1	WP_188025615.1 septum site-determining protein MinC 
+2(1)	WP_120066798.1	WP_120066798.1 septum site-determining protein MinC 
+2(1)	WP_005122236.1	WP_005122236.1 MULTISPECIES: septum site-determining protein MinC 
+2(1)	WP_120961956.1	WP_120961956.1 septum site-determining protein MinC 
+2(1)	WP_042012555.1	WP_042012555.1 septum site-determining protein MinC 
+2(1)	WP_043083434.1	WP_043083434.1 septum site-determining protein MinC 
+2(1)	WP_024555721.1	WP_024555721.1 septum site-determining protein MinC 
+2(1)	WP_048898724.1	WP_048898724.1 septum site-determining protein MinC 
+2(1)	WP_054888723.1	WP_054888723.1 MULTISPECIES: septum site-determining protein MinC 
+2(1)	WP_133637522.1	WP_133637522.1 septum site-determining protein MinC 
+2(1)	WP_127956738.1	WP_127956738.1 septum site-determining protein MinC 
+2(1)	WP_097790492.1	WP_097790492.1 septum site-determining protein MinC 
+2(1)	WP_008813324.1	WP_008813324.1 septum site-determining protein MinC 
+2(1)	WP_060816061.1	WP_060816061.1 septum site-determining protein MinC 
+
+
+
+3(1)	WP_005359210.1	WP_005359210.1 YcgL domain-containing protein 
+3(1)	WP_005122238.1	WP_005122238.1 MULTISPECIES: YcgL domain-containing protein 
+3(1)	WP_042287705.1	WP_042287705.1 MULTISPECIES: YcgL domain-containing protein 
+3(1)	WP_127956736.1	WP_127956736.1 YcgL domain-containing protein 
+3(1)	WP_120066799.1	WP_120066799.1 YcgL domain-containing protein 
+3(1)	WP_061496561.1	WP_061496561.1 hypothetical protein 
+3(1)	WP_042026070.1	WP_042026070.1 YcgL domain-containing protein 
+3(1)	WP_110877576.1	WP_110877576.1 YcgL domain-containing protein 
+3(1)	WP_054180600.1	WP_054180600.1 YcgL domain-containing protein 
+3(1)	WP_015878642.1	WP_015878642.1 YcgL domain-containing protein 
+3(1)	WP_161446323.1	WP_161446323.1 YcgL domain-containing protein 
+3(1)	WP_021022434.1	WP_021022434.1 MULTISPECIES: YcgL domain-containing protein 
+3(1)	WP_038641242.1	WP_038641242.1 MULTISPECIES: YcgL domain-containing protein 
+3(1)	WP_024130270.1	WP_024130270.1 MULTISPECIES: YcgL domain-containing protein 
+3(1)	WP_115457270.1	WP_115457270.1 YcgL domain-containing protein 
+3(2)	WP_024561563.1	WP_024561563.1 MULTISPECIES: YcgL domain-containing protein 
+3(1)	WP_008813325.1	WP_008813325.1 YcgL domain-containing protein 
+3(1)	WP_106728314.1	WP_106728314.1 hypothetical protein 
+3(1)	WP_032641206.1	WP_032641206.1 MULTISPECIES: YcgL domain-containing protein 
+3(1)	WP_077455194.1	WP_077455194.1 YcgL domain-containing protein 
+3(1)	WP_024164782.1	WP_024164782.1 MULTISPECIES: YcgL domain-containing protein 
+3(1)	WP_050667635.1	WP_050667635.1 YcgL domain-containing protein 
+3(1)	WP_024523725.1	WP_024523725.1 YcgL domain-containing protein 
+3(1)	WP_094278433.1	WP_094278433.1 YcgL domain-containing protein 
+3(1)	WP_066745646.1	WP_066745646.1 YcgL domain-containing protein 
+3(1)	WP_188025614.1	WP_188025614.1 YcgL domain-containing protein 
+3(1)	WP_045443883.1	WP_045443883.1 MULTISPECIES: YcgL domain-containing protein 
+3(1)	WP_065824548.1	WP_065824548.1 YcgL domain-containing protein 
+3(1)	WP_015461361.1	WP_015461361.1 MULTISPECIES: YcgL domain-containing protein 
+3(1)	WP_000882813.1	WP_000882813.1 YcgL domain-containing protein 
+3(1)	WP_005284983.1	WP_005284983.1 YcgL domain-containing protein 
+3(1)	WP_039079508.1	WP_039079508.1 MULTISPECIES: YcgL domain-containing protein 
+3(1)	WP_038391734.1	WP_038391734.1 YcgL domain-containing protein 
+3(1)	WP_121573951.1	WP_121573951.1 YcgL domain-containing protein 
+3(1)	WP_193003884.1	WP_193003884.1 YcgL domain-containing protein 
+3(1)	WP_155108762.1	WP_155108762.1 hypothetical protein 
+3(1)	WP_046457705.1	WP_046457705.1 YcgL domain-containing protein 
+3(1)	WP_159567534.1	WP_159567534.1 YcgL domain-containing protein 
+3(1)	WP_015870964.1	WP_015870964.1 YcgL domain-containing protein 
+3(1)	WP_013096146.1	WP_013096146.1 MULTISPECIES: YcgL domain-containing protein 
+3(1)	WP_048898725.1	WP_048898725.1 YcgL domain-containing protein 
+3(1)	WP_094038193.1	WP_094038193.1 YcgL domain-containing protein 
+3(1)	WP_036795464.1	WP_036795464.1 MULTISPECIES: YcgL domain-containing protein 
+3(1)	WP_024873524.1	WP_024873524.1 YcgL domain-containing protein 
+3(1)	WP_100294384.1	WP_100294384.1 YcgL domain-containing protein 
+3(1)	WP_023312185.1	WP_023312185.1 MULTISPECIES: YcgL domain-containing protein 
+3(1)	WP_040045102.1	WP_040045102.1 MULTISPECIES: YcgL domain-containing protein 
+3(1)	WP_042012556.1	WP_042012556.1 YcgL domain-containing protein 
+3(1)	WP_001516252.1	WP_001516252.1 MULTISPECIES: YcgL domain-containing protein 
+3(1)	WP_086874110.1	WP_086874110.1 MULTISPECIES: YcgL domain-containing protein 
+
+
+
+4(1)	WP_121573947.1	WP_121573947.1 ribonuclease D 
+4(1)	WP_106728318.1	WP_106728318.1 ribonuclease D 
+4(1)	WP_077575959.1	WP_077575959.1 ribonuclease D 
+4(1)	WP_071845890.1	WP_071845890.1 MULTISPECIES: ribonuclease D 
+4(1)	WP_127956743.1	WP_127956743.1 ribonuclease D 
+4(1)	WP_161804032.1	WP_161804032.1 ribonuclease D 
+4(1)	WP_024143299.1	WP_024143299.1 ribonuclease D 
+4(1)	WP_024554729.1	WP_024554729.1 ribonuclease D 
+4(1)	WP_167519557.1	WP_167519557.1 ribonuclease D 
+4(1)	WP_063587272.1	WP_063587272.1 ribonuclease D 
+4(1)	WP_015870961.1	WP_015870961.1 ribonuclease D 
+4(1)	WP_024555723.1	WP_024555723.1 ribonuclease D 
+4(1)	WP_015878646.1	WP_015878646.1 ribonuclease D 
+4(1)	WP_086874108.1	WP_086874108.1 ribonuclease D 
+4(1)	WP_024873520.1	WP_024873520.1 ribonuclease D 
+4(1)	WP_094038189.1	WP_094038189.1 ribonuclease D 
+4(1)	WP_100247361.1	WP_100247361.1 MULTISPECIES: ribonuclease D 
+4(1)	WP_188723745.1	WP_188723745.1 ribonuclease D 
+4(1)	WP_147291316.1	WP_147291316.1 ribonuclease D 
+4(1)	WP_107302351.1	WP_107302351.1 ribonuclease D 
+4(1)	WP_065824546.1	WP_065824546.1 ribonuclease D 
+4(1)	WP_130975717.1	WP_130975717.1 ribonuclease D 
+4(1)	WP_084589000.1	WP_084589000.1 ribonuclease D 
+4(1)	WP_094278437.1	WP_094278437.1 ribonuclease D 
+4(1)	WP_188025618.1	WP_188025618.1 ribonuclease D 
+4(1)	WP_176082237.1	WP_176082237.1 ribonuclease D 
+4(1)	WP_077455196.1	WP_077455196.1 ribonuclease D 
+4(1)	WP_139109662.1	WP_139109662.1 ribonuclease D 
+4(1)	WP_196364367.1	WP_196364367.1 ribonuclease D 
+4(1)	WP_066745529.1	WP_066745529.1 ribonuclease D 
+4(1)	WP_005122195.1	WP_005122195.1 MULTISPECIES: ribonuclease D 
+4(1)	WP_036795469.1	WP_036795469.1 MULTISPECIES: ribonuclease D 
+4(1)	WP_159567538.1	WP_159567538.1 ribonuclease D 
+4(1)	WP_208642708.1	WP_208642708.1 ribonuclease D 
+4(1)	WP_038641255.1	WP_038641255.1 MULTISPECIES: ribonuclease D 
+4(1)	WP_029882295.1	WP_029882295.1 MULTISPECIES: ribonuclease D 
+4(1)	WP_077956910.1	WP_077956910.1 MULTISPECIES: ribonuclease D 
+4(1)	WP_046457707.1	WP_046457707.1 ribonuclease D 
+4(1)	WP_012848313.1	WP_012848313.1 MULTISPECIES: ribonuclease D 
+4(1)	WP_024523722.1	WP_024523722.1 ribonuclease D 
+
+
+
+5(1)	WP_004090188.1	WP_004090188.1 MULTISPECIES: YcgN family cysteine cluster protein 
+5(1)	WP_094278431.1	WP_094278431.1 YcgN family cysteine cluster protein 
+5(1)	WP_005284988.1	WP_005284988.1 YcgN family cysteine cluster protein 
+5(1)	WP_024523727.1	WP_024523727.1 YcgN family cysteine cluster protein 
+5(1)	WP_036771092.1	WP_036771092.1 YcgN family cysteine cluster protein 
+5(1)	WP_188025613.1	WP_188025613.1 YcgN family cysteine cluster protein 
+5(1)	WP_015870966.1	WP_015870966.1 YcgN family cysteine cluster protein 
+5(1)	WP_024873525.1	WP_024873525.1 YcgN family cysteine cluster protein 
+5(1)	WP_137378373.1	WP_137378373.1 MULTISPECIES: YcgN family cysteine cluster protein 
+5(1)	WP_084588999.1	WP_084588999.1 YcgN family cysteine cluster protein 
+5(1)	WP_054180742.1	WP_054180742.1 YcgN family cysteine cluster protein 
+5(1)	WP_047464034.1	WP_047464034.1 YcgN family cysteine cluster protein 
+5(2)	WP_024555718.1	WP_024555718.1 MULTISPECIES: YcgN family cysteine cluster protein 
+5(1)	WP_001516253.1	WP_001516253.1 MULTISPECIES: YcgN family cysteine cluster protein 
+5(1)	WP_046457703.1	WP_046457703.1 YcgN family cysteine cluster protein 
+5(1)	WP_012848319.1	WP_012848319.1 MULTISPECIES: YcgN family cysteine cluster protein 
+5(1)	WP_032642632.1	WP_032642632.1 MULTISPECIES: YcgN family cysteine cluster protein 
+5(1)	WP_024909872.1	WP_024909872.1 MULTISPECIES: YcgN family cysteine cluster protein 
+5(1)	WP_193004476.1	WP_193004476.1 YcgN family cysteine cluster protein 
+5(1)	WP_003020944.1	WP_003020944.1 MULTISPECIES: YcgN family cysteine cluster protein 
+5(1)	WP_086874112.1	WP_086874112.1 YcgN family cysteine cluster protein 
+5(1)	WP_088237917.1	WP_088237917.1 YcgN family cysteine cluster protein 
+5(1)	WP_127956732.1	WP_127956732.1 YcgN family cysteine cluster protein 
+5(1)	WP_045443879.1	WP_045443879.1 YcgN family cysteine cluster protein 
+5(1)	WP_015878641.1	WP_015878641.1 YcgN family cysteine cluster protein 
+5(1)	WP_049293370.1	WP_049293370.1 YcgN family cysteine cluster protein 
+5(1)	WP_121573953.1	WP_121573953.1 YcgN family cysteine cluster protein 
+5(1)	WP_005359212.1	WP_005359212.1 YcgN family cysteine cluster protein 
+5(1)	WP_024164783.1	WP_024164783.1 YcgN family cysteine cluster protein 
+5(1)	WP_094038195.1	WP_094038195.1 YcgN family cysteine cluster protein 
+5(1)	WP_155108760.1	WP_155108760.1 YcgN family cysteine cluster protein 
+5(1)	WP_025801981.1	WP_025801981.1 MULTISPECIES: YcgN family cysteine cluster protein 
+5(1)	WP_136613268.1	WP_136613268.1 YcgN family cysteine cluster protein 
+5(1)	WP_038391731.1	WP_038391731.1 YcgN family cysteine cluster protein 
+5(1)	WP_039079506.1	WP_039079506.1 MULTISPECIES: YcgN family cysteine cluster protein 
+5(1)	WP_106728312.1	WP_106728312.1 YcgN family cysteine cluster protein 
+5(1)	WP_014832353.1	WP_014832353.1 MULTISPECIES: YcgN family cysteine cluster protein 
+5(1)	WP_046082952.1	WP_046082952.1 YcgN family cysteine cluster protein 
+
+
+
+6(1)	WP_032641204.1	WP_032641204.1 MULTISPECIES: fumarylacetoacetate hydrolase family protein 
+6(1)	WP_047370848.1	WP_047370848.1 MULTISPECIES: fumarylacetoacetate hydrolase family protein 
+6(1)	WP_038391733.1	WP_038391733.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_038641240.1	WP_038641240.1 MULTISPECIES: fumarylacetoacetate hydrolase family protein 
+6(1)	WP_066745515.1	WP_066745515.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_115457070.1	WP_115457070.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_042287702.1	WP_042287702.1 MULTISPECIES: fumarylacetoacetate hydrolase family protein 
+6(1)	WP_094278432.1	WP_094278432.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_015870965.1	WP_015870965.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_049293372.1	WP_049293372.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_094038194.1	WP_094038194.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_188231672.1	WP_188231672.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_054180599.1	WP_054180599.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_024523726.1	WP_024523726.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_061496559.1	WP_061496559.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_000284262.1	WP_000284262.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_120066801.1	WP_120066801.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_005284985.1	WP_005284985.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_025801979.1	WP_025801979.1 MULTISPECIES: fumarylacetoacetate hydrolase family protein 
+6(1)	WP_049008376.1	WP_049008376.1 fumarylacetoacetate hydrolase family protein 
+6(2)	WP_024555719.1	WP_024555719.1 MULTISPECIES: fumarylacetoacetate hydrolase family protein 
+6(1)	WP_065824549.1	WP_065824549.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_155108761.1	WP_155108761.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_121573952.1	WP_121573952.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_000284291.1	WP_000284291.1 MULTISPECIES: fumarylacetoacetate hydrolase family protein 
+6(1)	WP_029742142.1	WP_029742142.1 MULTISPECIES: fumarylacetoacetate hydrolase family protein 
+6(1)	WP_159567532.1	WP_159567532.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_038984664.1	WP_038984664.1 MULTISPECIES: fumarylacetoacetate hydrolase family protein 
+6(1)	WP_127956734.1	WP_127956734.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_046457704.1	WP_046457704.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_039187704.1	WP_039187704.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_106728313.1	WP_106728313.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_012848318.1	WP_012848318.1 MULTISPECIES: fumarylacetoacetate hydrolase family protein 
+6(1)	WP_086874111.1	WP_086874111.1 fumarylacetoacetate hydrolase family protein 
+6(1)	WP_045443881.1	WP_045443881.1 MULTISPECIES: fumarylacetoacetate hydrolase family protein 
+6(1)	WP_000284290.1	WP_000284290.1 fumarylacetoacetate hydrolase family protein 
+
+
+
+7(1)	WP_077460180.1	WP_077460180.1 MULTISPECIES: long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_038391737.1	WP_038391737.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_024562116.1	WP_024562116.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_141399327.1	WP_141399327.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_023312189.1	WP_023312189.1 MULTISPECIES: long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_005293178.1	WP_005293178.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_147365258.1	WP_147365258.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_139153743.1	WP_139153743.1 MULTISPECIES: long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_115457075.1	WP_115457075.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_094038188.1	WP_094038188.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_077455197.1	WP_077455197.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_072207961.1	WP_072207961.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_015870960.1	WP_015870960.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_127956745.1	WP_127956745.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_048898721.1	WP_048898721.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_121574042.1	WP_121574042.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_066745531.1	WP_066745531.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_063587639.1	WP_063587639.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_152958615.1	WP_152958615.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_167519558.1	WP_167519558.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_024523721.1	WP_024523721.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_008813321.1	WP_008813321.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_012848312.1	WP_012848312.1 MULTISPECIES: long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_134318039.1	WP_134318039.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_106728624.1	WP_106728624.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_065824545.1	WP_065824545.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_046458144.1	WP_046458144.1 long-chain-fatty-acid--CoA ligase FadD 
+7(1)	WP_159567539.1	WP_159567539.1 long-chain-fatty-acid--CoA ligase FadD 
+7(2)	WP_024555724.1	WP_024555724.1 MULTISPECIES: long-chain-fatty-acid--CoA ligase FadD 
+
+
+
+8(1)	WP_113268456.1	WP_113268456.1 exodeoxyribonuclease I 
+8(1)	WP_111412821.1	WP_111412821.1 exodeoxyribonuclease I 
+8(1)	WP_039860366.1	WP_039860366.1 exodeoxyribonuclease I 
+8(1)	WP_133637523.1	WP_133637523.1 exodeoxyribonuclease I 
+8(1)	WP_025733488.1	WP_025733488.1 exodeoxyribonuclease I 
+8(1)	WP_183325985.1	WP_183325985.1 exodeoxyribonuclease I 
+8(1)	WP_138181473.1	WP_138181473.1 exodeoxyribonuclease I 
+8(1)	WP_106375781.1	WP_106375781.1 exodeoxyribonuclease I 
+8(1)	WP_079552367.1	WP_079552367.1 exodeoxyribonuclease I 
+8(1)	WP_108447395.1	WP_108447395.1 exodeoxyribonuclease I 
+8(1)	WP_097790489.1	WP_097790489.1 exodeoxyribonuclease I 
+8(1)	WP_041602192.1	WP_041602192.1 exodeoxyribonuclease I 
+8(1)	WP_183333167.1	WP_183333167.1 exodeoxyribonuclease I 
+8(1)	WP_141321611.1	WP_141321611.1 exodeoxyribonuclease I 
+8(1)	WP_064124111.1	WP_064124111.1 exodeoxyribonuclease I 
+8(1)	WP_102626649.1	WP_102626649.1 exodeoxyribonuclease I 
+8(1)	WP_092827719.1	WP_092827719.1 exodeoxyribonuclease I 
+8(1)	WP_043529201.1	WP_043529201.1 exodeoxyribonuclease I 
+8(1)	WP_089684007.1	WP_089684007.1 exodeoxyribonuclease I 
+8(1)	WP_090131040.1	WP_090131040.1 exodeoxyribonuclease I 
+8(1)	WP_021818029.1	WP_021818029.1 exodeoxyribonuclease I 
+8(1)	WP_183389101.1	WP_183389101.1 exodeoxyribonuclease I 
+
+
+
+9(1)	WP_138181471.1	WP_138181471.1 SOS response-associated peptidase 
+9(1)	WP_141321615.1	WP_141321615.1 SOS response-associated peptidase family protein 
+9(1)	WP_097790487.1	WP_097790487.1 SOS response-associated peptidase 
+9(1)	WP_066319329.1	WP_066319329.1 MULTISPECIES: SOS response-associated peptidase 
+9(1)	WP_064124109.1	WP_064124109.1 SOS response-associated peptidase family protein 
+9(1)	WP_090131044.1	WP_090131044.1 SOS response-associated peptidase 
+9(1)	WP_022520239.1	WP_022520239.1 MULTISPECIES: SOS response-associated peptidase 
+9(1)	WP_111412823.1	WP_111412823.1 SOS response-associated peptidase 
+9(1)	WP_079552365.1	WP_079552365.1 SOS response-associated peptidase 
+9(1)	WP_089684003.1	WP_089684003.1 SOS response-associated peptidase 
+9(1)	WP_183389103.1	WP_183389103.1 SOS response-associated peptidase 
+9(1)	WP_133637525.1	WP_133637525.1 SOS response-associated peptidase 
+9(1)	WP_108447393.1	WP_108447393.1 SOS response-associated peptidase 
+9(1)	WP_013333625.1	WP_013333625.1 SOS response-associated peptidase 
+9(1)	WP_113268458.1	WP_113268458.1 SOS response-associated peptidase 
+9(1)	WP_183325983.1	WP_183325983.1 SOS response-associated peptidase 
+9(1)	WP_106375779.1	WP_106375779.1 SOS response-associated peptidase 
+9(1)	WP_043529206.1	WP_043529206.1 SOS response-associated peptidase 
+9(1)	WP_183333164.1	WP_183333164.1 SOS response-associated peptidase 
+9(1)	WP_102626647.1	WP_102626647.1 SOS response-associated peptidase 
+9(1)	WP_021818031.1	WP_021818031.1 SOS response-associated peptidase 
+
+
+
+10(1)	WP_183333165.1	WP_183333165.1 insulinase family protein 
+10(1)	WP_166462133.1	WP_166462133.1 insulinase family protein 
+10(1)	WP_133637524.1	WP_133637524.1 insulinase family protein 
+10(1)	WP_106375780.1	WP_106375780.1 insulinase family protein 
+10(1)	WP_079554942.1	WP_079554942.1 insulinase family protein 
+10(1)	WP_183389102.1	WP_183389102.1 insulinase family protein 
+10(1)	WP_043529204.1	WP_043529204.1 insulinase family protein 
+10(1)	WP_021818030.1	WP_021818030.1 insulinase family protein 
+10(1)	WP_013333626.1	WP_013333626.1 insulinase family protein 
+10(1)	WP_090131042.1	WP_090131042.1 insulinase family protein 
+10(1)	WP_170121162.1	WP_170121162.1 peptidase M16 
+10(1)	WP_064124110.1	WP_064124110.1 insulinase family protein 
+10(1)	WP_183325984.1	WP_183325984.1 insulinase family protein 
+10(1)	WP_141321613.1	WP_141321613.1 insulinase family protein 
+10(1)	WP_097790488.1	WP_097790488.1 insulinase family protein 
+10(1)	WP_089684005.1	WP_089684005.1 insulinase family protein 
+10(1)	WP_190374057.1	WP_190374057.1 insulinase family protein 
+10(1)	WP_092827813.1	WP_092827813.1 insulinase family protein 
+10(1)	WP_111412822.1	WP_111412822.1 insulinase family protein 
+10(1)	WP_102626648.1	WP_102626648.1 insulinase family protein 
+10(1)	WP_113268457.1	WP_113268457.1 insulinase family protein 
+
+
+
+11(1)	WP_020844464.1	WP_020844464.1 Slp family lipoprotein 
+11(1)	WP_047370853.1	WP_047370853.1 MULTISPECIES: Slp family lipoprotein 
+11(1)	WP_155108768.1	WP_155108768.1 Slp family lipoprotein 
+11(1)	WP_127956747.1	WP_127956747.1 Slp family lipoprotein 
+11(1)	WP_088237919.1	WP_088237919.1 Slp family lipoprotein 
+11(1)	WP_188723695.1	WP_188723695.1 Slp family lipoprotein 
+11(1)	WP_015870959.1	WP_015870959.1 Slp family lipoprotein 
+11(1)	WP_058661876.1	WP_058661876.1 Slp family lipoprotein 
+11(1)	WP_110877577.1	WP_110877577.1 Slp family lipoprotein 
+11(1)	WP_066745533.1	WP_066745533.1 Slp family lipoprotein 
+11(1)	WP_045355997.1	WP_045355997.1 MULTISPECIES: Slp family lipoprotein 
+11(1)	WP_035605002.1	WP_035605002.1 Slp family lipoprotein 
+11(1)	WP_165362059.1	WP_165362059.1 MULTISPECIES: Slp family lipoprotein 
+11(1)	WP_086874106.1	WP_086874106.1 Slp family lipoprotein 
+11(1)	WP_054180605.1	WP_054180605.1 Slp family lipoprotein 
+11(1)	WP_120066817.1	WP_120066817.1 Slp family lipoprotein 
+11(1)	WP_024523720.1	WP_024523720.1 Slp family lipoprotein 
+11(1)	WP_115457076.1	WP_115457076.1 Slp family lipoprotein 
+11(1)	WP_024555725.1	WP_024555725.1 Slp family lipoprotein 
+11(1)	WP_121574041.1	WP_121574041.1 Slp family lipoprotein 
+
+
+
+12(1)	WP_113268453.1	WP_113268453.1 DUF349 domain-containing protein 
+12(1)	WP_183333175.1	WP_183333175.1 DUF349 domain-containing protein 
+12(1)	WP_139215251.1	WP_139215251.1 DUF349 domain-containing protein 
+12(1)	WP_183325989.1	WP_183325989.1 DUF349 domain-containing protein 
+12(1)	WP_111412818.1	WP_111412818.1 DUF349 domain-containing protein 
+12(1)	WP_021818025.1	WP_021818025.1 DUF349 domain-containing protein 
+12(1)	WP_141321603.1	WP_141321603.1 DUF349 domain-containing protein 
+12(1)	WP_133637521.1	WP_133637521.1 DUF349 domain-containing protein 
+12(1)	WP_106375784.1	WP_106375784.1 DUF349 domain-containing protein 
+12(1)	WP_138181476.1	WP_138181476.1 DUF349 domain-containing protein 
+12(1)	WP_190374058.1	WP_190374058.1 DUF349 domain-containing protein 
+12(1)	WP_097790493.1	WP_097790493.1 DUF349 domain-containing protein 
+12(1)	WP_013333631.1	WP_013333631.1 DUF349 domain-containing protein 
+12(1)	WP_043529193.1	WP_043529193.1 DUF349 domain-containing protein 
+12(1)	WP_183389097.1	WP_183389097.1 DUF349 domain-containing protein 
+12(1)	WP_079552374.1	WP_079552374.1 DUF349 domain-containing protein 
+12(1)	WP_102626652.1	WP_102626652.1 DUF349 domain-containing protein 
+12(1)	WP_108447399.1	WP_108447399.1 DUF349 domain-containing protein 
+12(1)	WP_089684015.1	WP_089684015.1 DUF349 domain-containing protein 
+12(1)	WP_092827725.1	WP_092827725.1 DUF349 domain-containing protein 
+
+
+
+13(1)	WP_141321601.1	WP_141321601.1 acetoacetyl-CoA reductase 
+13(1)	WP_108447400.1	WP_108447400.1 acetoacetyl-CoA reductase 
+13(1)	WP_190374059.1	WP_190374059.1 acetoacetyl-CoA reductase 
+13(1)	WP_111412817.1	WP_111412817.1 acetoacetyl-CoA reductase 
+13(1)	WP_113268452.1	WP_113268452.1 acetoacetyl-CoA reductase 
+13(1)	WP_092827727.1	WP_092827727.1 acetoacetyl-CoA reductase 
+13(1)	WP_102626653.1	WP_102626653.1 acetoacetyl-CoA reductase 
+13(1)	WP_133637520.1	WP_133637520.1 acetoacetyl-CoA reductase 
+13(1)	WP_013333632.1	WP_013333632.1 acetoacetyl-CoA reductase 
+13(1)	WP_183333177.1	WP_183333177.1 acetoacetyl-CoA reductase 
+13(1)	WP_183389096.1	WP_183389096.1 acetoacetyl-CoA reductase 
+13(1)	WP_043529191.1	WP_043529191.1 acetoacetyl-CoA reductase 
+13(1)	WP_138181477.1	WP_138181477.1 acetoacetyl-CoA reductase 
+13(1)	WP_097790494.1	WP_097790494.1 acetoacetyl-CoA reductase 
+13(1)	WP_021818024.1	WP_021818024.1 acetoacetyl-CoA reductase 
+13(1)	WP_183325990.1	WP_183325990.1 acetoacetyl-CoA reductase 
+13(1)	WP_089684017.1	WP_089684017.1 acetoacetyl-CoA reductase 
+13(1)	WP_106375785.1	WP_106375785.1 acetoacetyl-CoA reductase 
+
+
+
+14(1)	WP_077575860.1	WP_077575860.1 lytic murein transglycosylase 
+14(1)	WP_115457071.1	WP_115457071.1 lytic murein transglycosylase 
+14(1)	WP_159567533.1	WP_159567533.1 lytic murein transglycosylase 
+14(1)	WP_161458659.1	WP_161458659.1 lytic murein transglycosylase 
+14(1)	WP_077455193.1	WP_077455193.1 lytic murein transglycosylase 
+14(1)	WP_107302352.1	WP_107302352.1 lytic murein transglycosylase 
+14(1)	WP_066745518.1	WP_066745518.1 lytic murein transglycosylase 
+14(1)	WP_045041665.1	WP_045041665.1 lytic murein transglycosylase 
+14(1)	WP_120066800.1	WP_120066800.1 lytic murein transglycosylase 
+
+
+
+15(1)	WP_040096863.1	WP_040096863.1 DUF440 family protein 
+15(1)	WP_042012550.1	WP_042012550.1 DUF440 family protein 
+15(1)	WP_026457797.1	WP_026457797.1 DUF440 family protein 
+15(1)	WP_167386748.1	WP_167386748.1 DUF440 family protein 
+15(1)	WP_042026064.1	WP_042026064.1 YciU family protein 
+15(1)	WP_005352317.1	WP_005352317.1 MULTISPECIES: YciU family protein 
+15(1)	WP_082032583.1	WP_082032583.1 YciU family protein 
+15(1)	WP_100294388.1	WP_100294388.1 DUF440 family protein 
+
+
+
+16(1)	WP_045041755.1	WP_045041755.1 alpha/beta hydrolase 
+16(1)	WP_077460244.1	WP_077460244.1 MULTISPECIES: alpha/beta hydrolase 
+16(1)	WP_048898720.1	WP_048898720.1 alpha/beta hydrolase 
+16(1)	WP_077455245.1	WP_077455245.1 MULTISPECIES: alpha/beta hydrolase 
+16(1)	WP_058504129.1	WP_058504129.1 alpha/beta hydrolase 
+16(1)	WP_044012226.1	WP_044012226.1 alpha/beta hydrolase 
+
+
+
+17(3)	WP_014950570.1	WP_014950570.1 MULTISPECIES: iron-sulfur cluster insertion protein ErpA 
+17(1)	WP_105929654.1	WP_105929654.1 MULTISPECIES: iron-sulfur cluster insertion protein ErpA 
+17(1)	WP_012519601.1	WP_012519601.1 iron-sulfur cluster insertion protein ErpA 
+17(1)	WP_014999403.1	WP_014999403.1 MULTISPECIES: iron-sulfur cluster insertion protein ErpA 
+
+
+
+18(2)	WP_014950571.1	WP_014950571.1 UDP-galactose-lipid carrier transferase MED92 
+18(1)	WP_014999404.1	WP_014999404.1 MULTISPECIES: UDP-galactose-lipid carrier transferase MED92 
+18(1)	WP_120961954.1	WP_120961954.1 polyphosphate kinase 
+18(1)	WP_039218967.1	WP_039218967.1 polyphosphate kinase 
+18(1)	WP_071969547.1	WP_071969547.1 polyphosphate kinase 
+
+
+
+19(1)	WP_069588796.1	WP_069588796.1 MULTISPECIES: H-NS histone family protein 
+19(1)	WP_027253473.1	WP_027253473.1 MULTISPECIES: H-NS histone family protein 
+19(1)	WP_048898726.1	WP_048898726.1 H-NS histone family protein 
+19(1)	WP_021022432.1	WP_021022432.1 MULTISPECIES: H-NS histone family protein 
+19(1)	WP_036795461.1	WP_036795461.1 MULTISPECIES: H-NS histone family protein 
+
+
+
+20(1)	WP_085626308.1	WP_085626308.1 MULTISPECIES: RluA family pseudouridine synthase 
+20(1)	WP_011532730.1	WP_011532730.1 MULTISPECIES: RluA family pseudouridine synthase 
+20(1)	WP_003252569.1	WP_003252569.1 MULTISPECIES: RluA family pseudouridine synthase 
+20(1)	WP_033700735.1	WP_033700735.1 MULTISPECIES: RluA family pseudouridine synthase 
+20(1)	WP_028696898.1	WP_028696898.1 RluA family pseudouridine synthase 
+
+
+
+21(1)	WP_120961958.1	WP_120961958.1 class II fumarate hydratase 
+21(1)	WP_075176833.1	WP_075176833.1 MULTISPECIES: class II fumarate hydratase 
+21(1)	WP_039218972.1	WP_039218972.1 class II fumarate hydratase 
+21(1)	WP_071969549.1	WP_071969549.1 class II fumarate hydratase 
+21(1)	WP_014950575.1	WP_014950575.1 class II fumarate hydratase 
+
+
+
+22(1)	WP_061095795.1	WP_061095795.1 azurin 
+22(1)	WP_120961960.1	WP_120961960.1 azurin 
+22(1)	WP_014950577.1	WP_014950577.1 MULTISPECIES: azurin 
+22(1)	WP_039218979.1	WP_039218979.1 azurin 
+22(1)	WP_024016846.1	WP_024016846.1 azurin 
+
+
+
+23(1)	WP_014950569.1	WP_014950569.1 MULTISPECIES: glutathione S-transferase family protein 
+23(1)	WP_039218964.1	WP_039218964.1 glutathione S-transferase family protein 
+23(1)	WP_014999402.1	WP_014999402.1 MULTISPECIES: glutathione S-transferase family protein 
+23(1)	WP_156086866.1	WP_156086866.1 glutathione S-transferase family protein 
+23(1)	WP_105929468.1	WP_105929468.1 MULTISPECIES: glutathione S-transferase family protein 
+
+
+
+24(1)	WP_167334464.1	WP_167334464.1 MULTISPECIES: hypothetical protein 
+24(1)	WP_003252566.1	WP_003252566.1 MULTISPECIES: hypothetical protein 
+24(1)	WP_016715524.1	WP_016715524.1 MULTISPECIES: hypothetical protein 
+24(1)	WP_178076400.1	WP_178076400.1 MULTISPECIES: hypothetical protein 
+24(1)	WP_169338842.1	WP_169338842.1 hypothetical protein 
+
+
+
+25(1)	WP_028698683.1	WP_028698683.1 MULTISPECIES: lipid A biosynthesis lauroyl acyltransferase 
+25(1)	WP_085626310.1	WP_085626310.1 MULTISPECIES: lipid A biosynthesis lauroyl acyltransferase 
+25(1)	WP_028696902.1	WP_028696902.1 lipid A biosynthesis lauroyl acyltransferase 
+25(1)	WP_003252578.1	WP_003252578.1 MULTISPECIES: lipid A biosynthesis lauroyl acyltransferase 
+25(1)	WP_186654633.1	WP_186654633.1 MULTISPECIES: lipid A biosynthesis lauroyl acyltransferase 
+
+
+
+26(1)	WP_038641248.1	WP_038641248.1 MULTISPECIES: LysR family transcriptional regulator 
+26(1)	WP_042287762.1	WP_042287762.1 MULTISPECIES: LysR family transcriptional regulator 
+26(1)	WP_012132072.1	WP_012132072.1 LysR family transcriptional regulator 
+26(1)	WP_045443897.1	WP_045443897.1 MULTISPECIES: LysR family transcriptional regulator 
+26(1)	WP_188231673.1	WP_188231673.1 LysR family transcriptional regulator 
+
+
+
+27(1)	WP_042287713.1	WP_042287713.1 tartrate dehydrogenase 
+27(1)	WP_121529148.1	WP_121529148.1 MULTISPECIES: tartrate dehydrogenase 
+27(1)	WP_045443899.1	WP_045443899.1 MULTISPECIES: tartrate dehydrogenase 
+27(1)	WP_012132071.1	WP_012132071.1 tartrate dehydrogenase 
+27(1)	WP_188231674.1	WP_188231674.1 tartrate dehydrogenase 
+
+
+
+28(1)	WP_016715530.1	WP_016715530.1 MULTISPECIES: VacJ family lipoprotein 
+28(1)	WP_003252582.1	WP_003252582.1 MULTISPECIES: VacJ family lipoprotein 
+28(1)	WP_085626312.1	WP_085626312.1 MULTISPECIES: VacJ family lipoprotein 
+28(1)	WP_028696903.1	WP_028696903.1 VacJ family lipoprotein 
+28(1)	WP_189673143.1	WP_189673143.1 MULTISPECIES: VacJ family lipoprotein 
+
+
+
+29(1)	WP_033700736.1	WP_033700736.1 MULTISPECIES: M18 family aminopeptidase 
+29(1)	WP_004575813.1	WP_004575813.1 MULTISPECIES: M18 family aminopeptidase 
+29(1)	WP_016715525.1	WP_016715525.1 MULTISPECIES: M18 family aminopeptidase 
+29(1)	WP_085626307.1	WP_085626307.1 MULTISPECIES: M18 family aminopeptidase 
+
+
+
+30(1)	WP_167386749.1	WP_167386749.1 monofunctional biosynthetic peptidoglycan transglycosylase 
+30(1)	WP_040096861.1	WP_040096861.1 monofunctional biosynthetic peptidoglycan transglycosylase 
+30(1)	WP_042012551.1	WP_042012551.1 monofunctional biosynthetic peptidoglycan transglycosylase 
+30(1)	WP_042026062.1	WP_042026062.1 monofunctional biosynthetic peptidoglycan transglycosylase 
+
+
+
+31(1)	WP_000950215.1	WP_000950215.1 ATP-binding cassette domain-containing protein 
+31(1)	WP_127556378.1	WP_127556378.1 ABC transporter ATP-binding protein 
+31(1)	WP_053517278.1	WP_053517278.1 ABC transporter ATP-binding protein 
+31(1)	WP_181672415.1	WP_181672415.1 ATP-binding cassette domain-containing protein 
+
+
+
+32(1)	WP_186654636.1	WP_186654636.1 MULTISPECIES: patatin-like phospholipase family protein 
+32(1)	WP_054888725.1	WP_054888725.1 MULTISPECIES: patatin-like phospholipase family protein 
+32(1)	WP_016715529.1	WP_016715529.1 MULTISPECIES: patatin-like phospholipase family protein 
+32(1)	WP_085626311.1	WP_085626311.1 MULTISPECIES: patatin-like phospholipase family protein 
+
+
+
+33(1)	WP_039218977.1	WP_039218977.1 hypothetical protein 
+33(1)	WP_014950576.1	WP_014950576.1 hypothetical protein 
+33(1)	WP_014980170.1	WP_014980170.1 MULTISPECIES: hypothetical protein 
+
+
+
+34(1)	WP_042026072.1	WP_042026072.1 L-serine ammonia-lyase 
+34(1)	WP_042026074.1	WP_042026074.1 L-serine ammonia-lyase 
+34(1)	WP_042012557.1	WP_042012557.1 L-serine ammonia-lyase 
+
+
+
+35(1)	WP_008813320.1	WP_008813320.1 23S rRNA pseudouridine(2604) synthase RluF 
+35(1)	WP_046457708.1	WP_046457708.1 23S rRNA pseudouridine(2604) synthase RluF 
+35(1)	WP_046450201.1	WP_046450201.1 MULTISPECIES: 23S rRNA pseudouridine(2604) synthase RluF 
+
+
+
+36(1)	WP_050667631.1	WP_050667631.1 YccF domain-containing protein 
+36(1)	WP_042046300.1	WP_042046300.1 YccF domain-containing protein 
+36(1)	WP_005359199.1	WP_005359199.1 YccF domain-containing protein 
+
+
+
+37(1)	WP_132543883.1	WP_132543883.1 RNA-binding protein 
+37(1)	WP_110018998.1	WP_110018998.1 RNA-binding protein 
+37(1)	WP_012824236.1	WP_012824236.1 RNA-binding S4 domain-containing protein 
+
+
+
+38(1)	WP_166670315.1	WP_166670315.1 tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB 
+38(1)	WP_159567540.1	WP_159567540.1 tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB 
+38(1)	WP_106728319.1	WP_106728319.1 tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB 
+
+
+
+39(1)	WP_015878640.1	WP_015878640.1 (d)CMP kinase 
+39(1)	WP_188025612.1	WP_188025612.1 (d)CMP kinase 
+39(1)	WP_024873526.1	WP_024873526.1 (d)CMP kinase 
+
+
+
+40(1)	WP_188025619.1	WP_188025619.1 Nif3-like dinuclear metal center hexameric protein 
+40(1)	WP_015878647.1	WP_015878647.1 Nif3-like dinuclear metal center hexameric protein 
+40(1)	WP_024873519.1	WP_024873519.1 Nif3-like dinuclear metal center hexameric protein 
+
+
+
+41(1)	WP_015878648.1	WP_015878648.1 SPOR domain-containing protein 
+41(1)	WP_188025620.1	WP_188025620.1 SPOR domain-containing protein 
+41(1)	WP_024873518.1	WP_024873518.1 SPOR domain-containing protein 
+
+
+
+42(1)	WP_050667629.1	WP_050667629.1 lipoprotein-releasing ABC transporter permease subunit LolE 
+42(1)	WP_193003881.1	WP_193003881.1 lipoprotein-releasing ABC transporter permease subunit LolE 
+42(1)	WP_005359191.1	WP_005359191.1 lipoprotein-releasing ABC transporter permease subunit LolE 
+
+
+
+43(1)	WP_050667630.1	WP_050667630.1 5'-deoxynucleotidase 
+43(1)	WP_193003882.1	WP_193003882.1 5'-deoxynucleotidase 
+43(1)	WP_005359194.1	WP_005359194.1 5'-deoxynucleotidase 
+
+
+
+44(1)	WP_193003885.1	WP_193003885.1 disulfide bond formation protein DsbB 
+44(1)	WP_050667636.1	WP_050667636.1 disulfide bond formation protein DsbB 
+44(1)	WP_005359215.1	WP_005359215.1 disulfide bond formation protein DsbB 
+
+
+
+45(1)	WP_044012227.1	WP_044012227.1 acyl-CoA dehydrogenase 
+45(1)	WP_058504130.1	WP_058504130.1 acyl-CoA dehydrogenase 
+
+
+
+46(1)	WP_058504133.1	WP_058504133.1 hypothetical protein 
+46(1)	WP_081935190.1	WP_081935190.1 hypothetical protein 
+
+
+
+47(1)	WP_093067737.1	WP_093067737.1 SEL1-like repeat protein 
+47(1)	WP_051542598.1	WP_051542598.1 sel1 repeat family protein 
+
+
+
+48(1)	WP_093067739.1	WP_093067739.1 transcription-repair coupling factor 
+48(1)	WP_028487751.1	WP_028487751.1 transcription-repair coupling factor 
+
+
+
+49(1)	WP_132543879.1	WP_132543879.1 NUDIX hydrolase 
+49(1)	WP_110018999.1	WP_110018999.1 NUDIX hydrolase 
+
+
+
+50(1)	WP_132543891.1	WP_132543891.1 M61 family metallopeptidase 
+50(1)	WP_110018994.1	WP_110018994.1 M61 family metallopeptidase 
+
+
+
+51(1)	WP_012824235.1	WP_012824235.1 YeeE/YedE family protein 
+51(1)	WP_136866039.1	WP_136866039.1 MULTISPECIES: YeeE/YedE family protein 
+
+
+
+52(1)	WP_012824234.1	WP_012824234.1 YeeE/YedE family protein 
+52(1)	WP_136866040.1	WP_136866040.1 MULTISPECIES: YeeE/YedE family protein 
+
+
+
+53(1)	WP_176695319.1	WP_176695319.1 hypothetical protein 
+53(1)	WP_165482917.1	WP_165482917.1 hypothetical protein 
+
+
